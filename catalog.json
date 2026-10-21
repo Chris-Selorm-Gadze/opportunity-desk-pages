@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
-  "updatedAt": "2026-10-21T21:54:55.880Z",
+  "revision": 4,
+  "updatedAt": "2026-10-21T21:59:52.534Z",
   "streams": [
+    {
+      "id": "internships",
+      "label": "Internships",
+      "checkedAt": "2026-10-21T21:54:55.880Z",
+      "outcome": "success",
+      "summary": "Verified 10 industry and research internships. Fixed cutoffs, live undated applications, location, support and eligibility restrictions are labeled."
+    },
     {
       "id": "trading",
       "label": "Trading & finance",
@@ -16,13 +23,6 @@
       "checkedAt": "2026-10-21T20:38:57Z",
       "outcome": "success",
       "summary": "Imported five travel and leadership leads from the scheduled search; rechecked organizer pages and flagged uncertain fees, airfare and cutoffs."
-    },
-    {
-      "id": "internships",
-      "label": "Internships",
-      "checkedAt": "2026-10-21T21:54:55.880Z",
-      "outcome": "success",
-      "summary": "Verified 10 industry and research internships. Fixed cutoffs, live undated applications, location, support and eligibility restrictions are labeled."
     }
   ],
   "opportunities": [
