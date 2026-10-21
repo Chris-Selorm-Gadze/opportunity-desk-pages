@@ -1,9 +1,11 @@
 # Opportunity Desk — GitHub Pages
 
-Published browser build of Opportunity Desk, with 28 public opportunity links reviewed October 21, 2026.
+Live dashboard: https://chris-selorm-gadze.github.io/opportunity-desk-pages/
 
-Application notes, checklists and preferences save in your browser on your device. Use the dashboard’s JSON backup export and restore to move data between browsers or devices. Calendar exports include reminders; enable notifications in your calendar application and export again after changes.
+The public catalog combines the original collection with daily sponsored-travel/leadership and trading/finance discovery tasks. It loads on opening, when the page becomes visible, every five minutes while visible, and with Refresh. Daily updates shows research freshness and recent changes. See [CATALOG.md](CATALOG.md) for the data-only publishing contract.
 
-The separate cloud workspace and its deadline watch do not read this browser’s saved application status.
+Application notes, checklists and preferences save only in your browser. Catalog merges preserve your progress, ratings and personal dates; source edits that conflict are held for review. Use JSON backup export/restore to move between devices.
 
-This repository contains published HTML, CSS, JavaScript and public opportunity data. It contains no private application records, credentials or server database.
+Calendar exports include reminders; enable alerts in your calendar application and export again after changes. The separate cloud deadline watch cannot read this browser’s saved status.
+
+This repository contains public website assets and public opportunity facts. Never commit application records, credentials, task prompts or personal profiles.

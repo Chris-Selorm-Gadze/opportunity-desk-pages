@@ -1,0 +1,2010 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-10-21T20:38:57Z",
+  "streams": [
+    {
+      "id": "travel",
+      "label": "Sponsored travel & leadership",
+      "checkedAt": "2026-10-21T20:38:57Z",
+      "outcome": "success",
+      "summary": "Imported five travel and leadership leads from the scheduled search; rechecked organizer pages and flagged uncertain fees, airfare and cutoffs."
+    },
+    {
+      "id": "trading",
+      "label": "Trading & finance",
+      "checkedAt": "2026-10-21T20:38:57Z",
+      "outcome": "success",
+      "summary": "Imported twenty-one trading, career, funding and conference leads. Rechecked sources; closed cycles and unconfirmed application windows stay labeled."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "regions",
+      "title": "Regions Riding Forward Scholarship",
+      "organization": "Regions Bank",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Undergraduate"
+      ],
+      "tags": [
+        "Writing",
+        "Community"
+      ],
+      "url": "https://doingmoretoday.com/riding-forward/scholarship-contest/",
+      "sourceUrl": "https://doingmoretoday.com/riding-forward/how-to-enter/",
+      "summary": "Submit an original essay or video about someone in your community who inspires you.",
+      "eligibility": "Legal residents of listed eligible U.S. states, age 16+, GPA 2.0+, with at least one undergraduate year remaining. Review all rules.",
+      "reward": "$8,000 scholarship",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2026-12-31",
+      "deadlineAt": "2027-01-01T05:59:59Z",
+      "sourceDeadline": "Dec 31, 2026 · 11:59:59 p.m. Central",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
+      "cycle": "2026 Q4",
+      "sourceState": "Application",
+      "sourceNote": "The organizer prohibits AI-created contest essays. A stale 2025 sentence appears on the how-to page; the 2026 contest schedule specifies Q4 ends December 31.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Read official rules and eligibility",
+        "Write your own essay (≤500 words) or record video (≤3 minutes)",
+        "Review and submit; retain confirmation"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "insight",
+      "title": "Insight Global Sales Invitational",
+      "organization": "Insight Global",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Sales",
+        "Business"
+      ],
+      "url": "https://insightglobal.com/sales-competition/#update",
+      "sourceUrl": "https://insightglobal.com/sales-competition/#update",
+      "summary": "Sales role-play competition and training in Atlanta, January 6–7, 2027.",
+      "eligibility": "College juniors and seniors in the U.S. and Canada; any major. Sales experience is not required.",
+      "reward": "$60,000 total prizes; travel covered",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "2026-11-09",
+      "deadlineAt": "",
+      "sourceDeadline": "Nov 9, 2026 · time and timezone not stated",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "The published close is a date only. Confirm the exact cutoff in the application rules.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check official rules",
+        "Complete application",
+        "Keep submission receipt"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "tulane",
+      "title": "Tulane Business Model Competition",
+      "organization": "Tulane University",
+      "category": "Startup competitions",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Founder"
+      ],
+      "tags": [
+        "Startup",
+        "Business"
+      ],
+      "url": "https://freeman.tulane.edu/lepage/tulane-business-model-competition",
+      "sourceUrl": "https://freeman.tulane.edu/lepage/tulane-business-model-competition",
+      "summary": "Funding competition for student ventures that test and refine their business models with customers.",
+      "eligibility": "Early-stage student-led ventures. Confirm team, enrollment and venture requirements in the application.",
+      "reward": "$125,000 shared by three finalists",
+      "value": 5,
+      "effort": 18,
+      "deadlineDate": "2027-01-10",
+      "deadlineAt": "",
+      "sourceDeadline": "Jan 10, 2027 · 11:59 p.m.; timezone not stated",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "The page publishes a time without a timezone. The 2027 deadline is current; some descriptive examples refer to 2025.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm student-venture eligibility",
+        "Prepare business model and customer validation evidence",
+        "Complete application and save receipt"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "efest",
+      "title": "e-Fest / Schulze Entrepreneurship Challenge",
+      "organization": "University of St. Thomas",
+      "category": "Startup competitions",
+      "levels": [
+        "Undergraduate",
+        "Founder"
+      ],
+      "tags": [
+        "Startup",
+        "Pitch"
+      ],
+      "url": "https://efest.biz/compete/submission",
+      "sourceUrl": "https://efest.biz/compete/submission",
+      "summary": "Undergraduate venture competition with video and pitch-deck submissions.",
+      "eligibility": "Undergraduate student teams; faculty advisor validation is required. Check complete team eligibility.",
+      "reward": "Startup prizes; confirm current amounts",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "2027-02-01T07:59:00Z",
+      "sourceDeadline": "Jan 31, 2027 · 11:59 p.m. PST",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-11",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "A separate Development Award window ends December 31, 2026. This record tracks the main competition submission.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm team and advisor eligibility",
+        "Prepare pitch video",
+        "Export pitch deck to PDF",
+        "Submit through the competition portal"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "nourish",
+      "title": "NOURISH Autoimmunity Digital Health Challenge",
+      "organization": "National Institutes of Health",
+      "category": "Innovation challenges",
+      "levels": [
+        "Founder",
+        "Organization",
+        "All levels"
+      ],
+      "tags": [
+        "Health",
+        "Technology"
+      ],
+      "url": "https://www.nih.gov/challenges/nourish-autoimmunity-digital-health-challenge",
+      "sourceUrl": "https://www.usa.gov/challenges/nourish-autoimmunity-challenge",
+      "summary": "Develop prototype digital tools that connect diet, symptoms and immune health for people with autoimmune disease.",
+      "eligibility": "Software developers, patients, dietitians and caregivers are invited; federal prize eligibility must be verified.",
+      "reward": "$650,000 total prize pool",
+      "value": 5,
+      "effort": 50,
+      "deadlineDate": "2027-01-08",
+      "deadlineAt": "2027-01-09T01:00:00Z",
+      "sourceDeadline": "Jan 8, 2027 · 8:00 p.m. Eastern",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-01",
+      "cycle": "2026–27",
+      "sourceState": "Application",
+      "sourceNote": "The NIH detail page blocked retrieval; deadline and pool were corroborated on the official USAGov challenge listing.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check federal prize rules and team eligibility",
+        "Define user needs and prototype",
+        "Prepare submission evidence",
+        "Submit via organizer"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "uncf",
+      "title": "UNCF opportunity — program identity to verify",
+      "organization": "UNCF",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Scholarship"
+      ],
+      "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000XPIzQAO",
+      "sourceUrl": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000XPIzQAO",
+      "summary": "The supplied UNCF portal link needs manual review to identify the specific program.",
+      "eligibility": "Program-specific eligibility has not been verified.",
+      "reward": "Not yet verified",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Deadline not verified",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Cycle unverified",
+      "sourceState": "Needs verification",
+      "sourceNote": "The supplied Salesforce program page could not be read. No program name, award or deadline has been inferred.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Identify the program from the source",
+        "Confirm deadline and timezone",
+        "Confirm award and eligibility"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "stock",
+      "title": "Bianca Caragliano Stock Pitch",
+      "organization": "William & Mary",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Finance",
+        "Pitch"
+      ],
+      "url": "https://mason.wm.edu/boehly-center/events-news/bianca-caragliano-stock-pitch/",
+      "sourceUrl": "https://mason.wm.edu/boehly-center/events-news/bianca-caragliano-stock-pitch/",
+      "summary": "Global stock-pitch event for undergraduate teams, April 9–10, 2027.",
+      "eligibility": "Teams of 3–4 undergraduates from the same university, with a staff or faculty advisor; all majors and years welcome.",
+      "reward": "$8,500 total cash awards",
+      "value": 4,
+      "effort": 16,
+      "deadlineDate": "2026-11-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Nov 20, 2026 · time and timezone not stated",
+      "confidence": "Date only",
+      "opensOn": "2026-10-05",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Rolling review. Selected teams must accept by January 15, 2027. Confirm exact registration cutoff.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Form 3–4 person team",
+        "Secure staff/faculty advisor",
+        "Collect resumes",
+        "Write one-page stock executive summary",
+        "Submit team registration"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "coinbase-impact",
+      "title": "Coinbase Insights to Impact Bounty",
+      "organization": "Coinbase / Gem",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Finance",
+        "Analytics"
+      ],
+      "url": "https://www.gem.com/lp/coinbase/insights-to-impact-bounty-2026",
+      "sourceUrl": "https://www.gem.com/lp/coinbase/insights-to-impact-bounty-2026",
+      "summary": "The supplied bounty page returned no readable program details.",
+      "eligibility": "Education, work authorization and project requirements need verification.",
+      "reward": "Not yet verified",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Deadline not verified",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026 — unverified",
+      "sourceState": "Needs verification",
+      "sourceNote": "The title comes from the supplied page; deadline and reward were not retrievable.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Verify official program and eligibility",
+        "Record deadline and timezone",
+        "Review deliverables and reward"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "coinbase-audit",
+      "title": "Coinbase ETR Internal Audit Bounty",
+      "organization": "Coinbase / Gem",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Finance",
+        "Audit"
+      ],
+      "url": "https://www.gem.com/lp/coinbase/2026-27-etr-internal-audit-bounty",
+      "sourceUrl": "https://www.gem.com/lp/coinbase/2026-27-etr-internal-audit-bounty",
+      "summary": "Internal audit bounty link awaiting source verification.",
+      "eligibility": "All eligibility and experience requirements are unverified.",
+      "reward": "Not yet verified",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Deadline not verified",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026–27 — unverified",
+      "sourceState": "Needs verification",
+      "sourceNote": "The supplied page could not be retrieved. The URL indicates a 2026–27 cycle; this is not proof applications are open.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Verify page content",
+        "Confirm cutoff and timezone",
+        "Identify deliverables and eligibility"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "byu",
+      "title": "BYU Summer Research: REU / FRI",
+      "organization": "Brigham Young University",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Physics",
+        "Research"
+      ],
+      "url": "https://reu.byu.edu/",
+      "sourceUrl": "https://reu.byu.edu/",
+      "summary": "Physics and astronomy research, May 31–August 6, 2027.",
+      "eligibility": "REU: U.S. citizen/permanent resident. FRI may accept international students at U.S. universities with eligible CPT.",
+      "reward": "$7,000 equivalent + housing/travel",
+      "value": 4,
+      "effort": 12,
+      "deadlineDate": "2027-02-06",
+      "deadlineAt": "2027-02-07T06:59:00Z",
+      "sourceDeadline": "Feb 6, 2027 · 11:59 p.m. MST",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-09",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "2027 NSF funding renewal may affect the program. Recommendation letters share the application deadline.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check REU vs FRI eligibility",
+        "Prepare resume and transcript",
+        "Write research and career statements",
+        "Request recommendation letters",
+        "Submit complete application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "aalto",
+      "title": "AScI International Summer Research",
+      "organization": "Aalto University",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Research",
+        "Technology"
+      ],
+      "url": "https://www.aalto.fi/en/aalto-university-science-institute-asci/aalto-university-science-institute-international-summer-research-programme",
+      "sourceUrl": "https://www.aalto.fi/en/aalto-university-science-institute-asci/aalto-university-science-institute-international-summer-research-programme",
+      "summary": "Paid 12-week research assistantships in Finland across science and engineering.",
+      "eligibility": "Bachelor’s and master’s students worldwide; exceptional doctoral applicants may be considered.",
+      "reward": "€2,000+/month + travel support",
+      "value": 4,
+      "effort": 14,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "2027-01-31T21:59:00Z",
+      "sourceDeadline": "Jan 31, 2027 · 23:59 UTC+2",
+      "confidence": "Exact time",
+      "opensOn": "2027-01-07",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "The main 2027 header states January 7–31, 2027; a lower timeline contains year typos. Reconfirm against the live application when it opens.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Review project list when published",
+        "Prepare academic CV and motivation letter",
+        "Collect transcript and reference",
+        "Submit by Finnish-time deadline"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "wake",
+      "title": "WFIRM Summer Scholars",
+      "organization": "Wake Forest Institute for Regenerative Medicine",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Health",
+        "Research"
+      ],
+      "url": "https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/education-and-training/summer-scholars-program",
+      "sourceUrl": "https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine/education-and-training/summer-scholars-program",
+      "summary": "Ten-week regenerative medicine research program, June 2–August 6, 2027.",
+      "eligibility": "U.S. college undergraduates, age 18+ by start, two semesters completed, GPA ≥2.85. Eligible F-1/J-1 students may apply.",
+      "reward": "$6,000 stipend + housing",
+      "value": 4,
+      "effort": 14,
+      "deadlineDate": "2026-12-15",
+      "deadlineAt": "2026-12-15T22:00:00Z",
+      "sourceDeadline": "Dec 15, 2026 · 5:00 p.m. EST",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-15",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "An official transcript and one recommendation are due with all materials by the cutoff.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check eligibility and work authorization",
+        "Request official transcript",
+        "Request one recommendation",
+        "Write application essays",
+        "Submit complete application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "yth",
+      "title": "YTH Live Innovation Challenge",
+      "organization": "ETR",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Health",
+        "Technology",
+        "Social impact"
+      ],
+      "url": "https://pages.etr.org/etr-yth-live-innovation-challenge-2026",
+      "sourceUrl": "https://pages.etr.org/etr-yth-live-innovation-challenge-2026",
+      "summary": "Youth-led technology ideas that improve peers’ health and well-being.",
+      "eligibility": "All team members must be 18–29 at submission. Applications in English; confirm complete rules.",
+      "reward": "$5,000 seed funding + mentorship",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "2026-11-01",
+      "deadlineAt": "2026-11-02T07:59:00Z",
+      "sourceDeadline": "Nov 1, 2026 · 11:59 p.m. Pacific",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-12",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Requires a short application and a 3–5 minute idea video. Chicago date rolls into November 2.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check team ages and rules",
+        "Define health problem and solution",
+        "Record 3–5 minute video",
+        "Complete online application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "climate",
+      "title": "MIT Solve Global Climate Challenge",
+      "organization": "MIT Solve",
+      "category": "Innovation challenges",
+      "levels": [
+        "Founder",
+        "Organization",
+        "All levels"
+      ],
+      "tags": [
+        "Climate",
+        "Technology",
+        "Social impact"
+      ],
+      "url": "https://solve.mit.edu/index.php/challenges/2027-global-climate-challenge",
+      "sourceUrl": "https://solve.mit.edu/index.php/challenges/2027-global-climate-challenge",
+      "summary": "Technology-based solutions to human-centered climate challenges.",
+      "eligibility": "Open to diverse geographies and stages. Verify challenge-specific criteria and eligible solution stages.",
+      "reward": "Funding and solver support; verify awards",
+      "value": 5,
+      "effort": 22,
+      "deadlineDate": "2026-11-06",
+      "deadlineAt": "2026-11-06T17:00:00Z",
+      "sourceDeadline": "Nov 6, 2026 · 12:00 p.m. EST",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-22",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "The challenge is titled 2027, but the submission deadline falls in November 2026.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Read challenge criteria",
+        "Prepare solution, impact and evidence",
+        "Review funding requirements",
+        "Submit application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "cshl",
+      "title": "CSHL Undergraduate Research Program",
+      "organization": "Cold Spring Harbor Laboratory",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Biology",
+        "Research"
+      ],
+      "url": "https://www.cshl.edu/education/undergraduate-research-program/",
+      "sourceUrl": "https://www.cshl.edu/education/undergraduate-research-program/",
+      "summary": "Summer laboratory research in molecular biology, genomics, neuroscience and related fields.",
+      "eligibility": "Current sophomores and juniors returning to an undergraduate program. International eligibility is restricted; check visa/institution conditions.",
+      "reward": "Research support; verify stipend",
+      "value": 4,
+      "effort": 15,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "2027-01-16T07:59:00Z",
+      "sourceDeadline": "Jan 15, 2027 · 11:59 p.m. PST",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Full page retrieval was blocked; official indexed program text confirms the completed-application cutoff and two recommendations.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm enrollment and international eligibility",
+        "Prepare one-page personal statement",
+        "Request two faculty recommendations",
+        "Submit completed application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "msk",
+      "title": "Engineering & Imaging Summer Program",
+      "organization": "Memorial Sloan Kettering Cancer Center",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Engineering",
+        "Health",
+        "Research"
+      ],
+      "url": "https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs/engineering-imaging-summer-program",
+      "sourceUrl": "https://www.mskcc.org/education-training/summer-scientific-undergraduate-programs/engineering-imaging-summer-program",
+      "summary": "Summer engineering and imaging research at MSK, June 1–August 6, 2027.",
+      "eligibility": "Check undergraduate year and STEM preparation requirements. Eligible F-1/J-1 students may apply with work authorization.",
+      "reward": "$6,500 stipend + housing",
+      "value": 4,
+      "effort": 14,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "2027-02-01T13:00:00Z",
+      "sourceDeadline": "Feb 1, 2027 · 8:00 a.m. Eastern",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-02",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "The 2027 timeline is current; an application paragraph still mentions November 2024. This cutoff is in the morning, not at midnight.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility",
+        "Prepare admission essay",
+        "Collect official transcripts",
+        "Request two recommendations",
+        "Submit before morning cutoff"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "nul",
+      "title": "National Urban League opportunity hub",
+      "organization": "National Urban League",
+      "category": "Opportunity hubs",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Organization"
+      ],
+      "tags": [
+        "Career",
+        "Community"
+      ],
+      "url": "https://nul.org/",
+      "sourceUrl": "https://nul.org/",
+      "summary": "Organization homepage for career, education and community programs.",
+      "eligibility": "Each specific program has its own eligibility requirements.",
+      "reward": "Varies by program",
+      "value": 2,
+      "effort": 3,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No single application deadline",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Ongoing directory",
+      "sourceState": "Directory",
+      "sourceNote": "This is an organization homepage, not a dated application. Add individual programs as separate opportunities.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Browse relevant programs",
+        "Identify a specific opportunity",
+        "Record its deadline and eligibility"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "solve-hub",
+      "title": "MIT Solve challenge hub",
+      "organization": "MIT Solve",
+      "category": "Opportunity hubs",
+      "levels": [
+        "Founder",
+        "Organization",
+        "All levels"
+      ],
+      "tags": [
+        "Technology",
+        "Social impact"
+      ],
+      "url": "https://solve.mit.edu/",
+      "sourceUrl": "https://solve.mit.edu/",
+      "summary": "Directory of social-impact innovation challenges and support.",
+      "eligibility": "Eligibility varies by challenge.",
+      "reward": "Varies by challenge",
+      "value": 2,
+      "effort": 3,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No single application deadline",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Ongoing directory",
+      "sourceState": "Directory",
+      "sourceNote": "The separate Global Climate Challenge record tracks the supplied dated challenge; this hub has no universal cutoff.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Browse open challenges",
+        "Select a suitable challenge",
+        "Add a dated application record"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "ubc",
+      "title": "Student Founder Stage",
+      "organization": "University Blockchain Conference",
+      "category": "Startup competitions",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Founder"
+      ],
+      "tags": [
+        "Blockchain",
+        "Startup"
+      ],
+      "url": "https://www.universityblockchain.org/programs/founder-stage",
+      "sourceUrl": "https://www.universityblockchain.org/programs/founder-stage",
+      "summary": "Student founders pitch investors and accelerators at UBC, November 20–21 in Austin.",
+      "eligibility": "UBC 2026 attendees only. Confirm student-founder, team and event registration conditions.",
+      "reward": "$10,000 grant for best team",
+      "value": 4,
+      "effort": 10,
+      "deadlineDate": "2026-10-25",
+      "deadlineAt": "",
+      "sourceDeadline": "Oct 25, 2026 · time and timezone not stated",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Applications are reviewed on a rolling basis. The page does not state a closing time.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm attendee and founder eligibility",
+        "Prepare venture pitch",
+        "Submit stage application",
+        "Arrange conference attendance"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "aspb",
+      "title": "ASPB Grants & Funding / SURF",
+      "organization": "American Society of Plant Biologists",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Organization"
+      ],
+      "tags": [
+        "Biology",
+        "Research"
+      ],
+      "url": "https://aspb.org/awards-funding/grants-funding/",
+      "sourceUrl": "https://aspb.org/awards-funding/grants-funding/",
+      "summary": "Funding directory that includes Summer Undergraduate Research Fellowships in plant biology.",
+      "eligibility": "SURF targets early undergraduate plant biology research; check the current fellowship rules and mentor requirements.",
+      "reward": "Varies by funding program",
+      "value": 3,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Program-specific deadline not verified",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Directory / cycle unverified",
+      "sourceState": "Directory",
+      "sourceNote": "The linked directory is not a current dated call; its indexed content is older. Do not assume a new-cycle deadline.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Find current funding call",
+        "Confirm mentor and membership rules",
+        "Record verified deadline"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "sumr",
+      "title": "Summer Undergraduate Mentored Research",
+      "organization": "Penn Leonard Davis Institute",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Health",
+        "Policy",
+        "Research"
+      ],
+      "url": "https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/",
+      "sourceUrl": "https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/",
+      "summary": "Twelve-week mentored health services research, June 1–August 20, 2027.",
+      "eligibility": "Check full undergraduate and program eligibility criteria on the organizer’s page.",
+      "reward": "Research experience; verify compensation",
+      "value": 4,
+      "effort": 15,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Feb 1, 2027 · 11:59 p.m.; timezone not stated",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-10-15",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Two references are required. Organizer advises requesting letters at least a month before the deadline. Timezone needs confirmation.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Review eligibility",
+        "Prepare application materials",
+        "Request two references a month early",
+        "Complete application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "msrp",
+      "title": "MIT Summer Research Program — General",
+      "organization": "MIT Office of Graduate Education",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Research",
+        "Engineering"
+      ],
+      "url": "https://oge.mit.edu/msrp/application/",
+      "sourceUrl": "https://oge.mit.edu/msrp/application/",
+      "summary": "MIT summer research, June 7–August 7, 2027; separate from the biology track.",
+      "eligibility": "Check program enrollment and academic criteria; some MIT departments use separate summer programs.",
+      "reward": "Summer research support; verify stipend",
+      "value": 4,
+      "effort": 16,
+      "deadlineDate": "2027-01-19",
+      "deadlineAt": "2027-01-20T04:59:00Z",
+      "sourceDeadline": "Jan 19, 2027 · 11:59 p.m. ET",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-29",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Exactly two recommendation letters and all materials must arrive by the same deadline; incomplete files are not reviewed.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Review eligible departments and enrollment rules",
+        "Prepare 1–2 page CV",
+        "Upload unlocked transcript",
+        "Request exactly two letters",
+        "Submit complete application"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "msrp-bio",
+      "title": "BSG-MSRP Biology / Brain & Cognitive Sciences",
+      "organization": "MIT Department of Biology",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Biology",
+        "Research"
+      ],
+      "url": "https://biology.mit.edu/program-details-bsg-msrp-bio/",
+      "sourceUrl": "https://biology.mit.edu/program-details-bsg-msrp-bio/",
+      "summary": "Ten-week MIT biology and neuroscience research internship.",
+      "eligibility": "Non-MIT U.S.-college sophomores, juniors or non-graduating seniors; STEM GPA ≥3.5 and prior research. Eligible F-1 students may apply.",
+      "reward": "Weekly stipend + housing/travel allowance",
+      "value": 4,
+      "effort": 18,
+      "deadlineDate": "2027-01-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Jan 30, 2027 · 11:59 p.m.; timezone not stated",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-11-20",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Three science-faculty references, including research mentorship, are required. This is a separate application from MSRP General.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check research and GPA eligibility",
+        "Prepare CV and cover letter",
+        "Write research and personal statements",
+        "Collect transcript",
+        "Request three science references"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "cprit",
+      "title": "CPRIT CURE Summer Undergraduate Program",
+      "organization": "UT MD Anderson Cancer Center",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Health",
+        "Research"
+      ],
+      "url": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/cprit-cure.html",
+      "sourceUrl": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/cprit-cure.html",
+      "summary": "Paid full-time cancer research and mentoring for undergraduates.",
+      "eligibility": "Returning undergraduates who complete freshman–junior year by June 2027; some returning fifth-year seniors. International students need valid visas.",
+      "reward": "Up to $7,200; includes expenses",
+      "value": 4,
+      "effort": 15,
+      "deadlineDate": "2027-01-13",
+      "deadlineAt": "2027-01-14T05:59:00Z",
+      "sourceDeadline": "Jan 13, 2027 · 11:59 p.m. CST",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-16",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "The stipend includes housing, living and travel allowances; no extra allowances. Two referee-uploaded letters required.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check eligibility and program-credit rules",
+        "Collect official transcripts",
+        "Write research statement",
+        "Request two recommendation letters",
+        "Submit via SLATE"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "rosetta",
+      "title": "Rosetta Commons REU",
+      "organization": "Rosetta Commons",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Biology",
+        "Technology",
+        "Research"
+      ],
+      "url": "https://rosettacommons.org/education/reu/",
+      "sourceUrl": "https://rosettacommons.org/education/reu/",
+      "summary": "AI and computational biomolecular modeling research, June 8–August 13, 2027.",
+      "eligibility": "Undergraduates in relevant STEM fields; sophomores/juniors preferred. International students pursuing a U.S. bachelor’s may apply; students graduating before start are ineligible.",
+      "reward": "$7,000 + housing/travel/allowance",
+      "value": 4,
+      "effort": 18,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Feb 1, 2027 · time and timezone not stated",
+      "confidence": "Date only",
+      "opensOn": "2026-11-01",
+      "cycle": "2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Both application and recommendation deadlines are February 1. Confirm the exact time.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm enrollment eligibility",
+        "Prepare resume and transcript",
+        "Write personal statement",
+        "Select five labs/projects",
+        "Request two references"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "noaa",
+      "title": "NOAA Marine Debris Funding",
+      "organization": "NOAA Marine Debris Program",
+      "category": "Grants & funding",
+      "levels": [
+        "Organization",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Climate",
+        "Environment"
+      ],
+      "url": "https://marinedebris.noaa.gov/resources/funding-opportunities",
+      "sourceUrl": "https://marinedebris.noaa.gov/resources/funding-opportunities",
+      "summary": "Marine debris funding directory; individual grant notices need separate tracking.",
+      "eligibility": "Eligible institutions and organizations depend on each funding notice; do not assume individual eligibility.",
+      "reward": "Varies by grant notice",
+      "value": 3,
+      "effort": 20,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Current funding notice not verified",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Directory / cycle unverified",
+      "sourceState": "Directory",
+      "sourceNote": "The source could not be retrieved in this review. No deadline or active grant call has been inferred.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Open current funding notices",
+        "Identify eligible lead organization",
+        "Record the official notice and cutoff"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "hult",
+      "title": "EF Hult Prize",
+      "organization": "Hult Prize",
+      "category": "Startup competitions",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Founder"
+      ],
+      "tags": [
+        "Startup",
+        "Social impact"
+      ],
+      "url": "https://www.hultprize.org/register",
+      "sourceUrl": "https://www.hultprize.org/register",
+      "summary": "Student startup competition for ventures aligned with a Sustainable Development Goal.",
+      "eligibility": "Teams of 2–4 degree-seeking university/college students; all members must be 18 by February 28, 2027.",
+      "reward": "Startup competition; verify current prize terms",
+      "value": 5,
+      "effort": 20,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Registration cutoff not stated on supplied page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 eligibility reference",
+      "sourceState": "Needs verification",
+      "sourceNote": "February 28 is an age-eligibility reference, not a verified application deadline. Confirm campus/open-application pathway dates.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Form 2–4 student team",
+        "Choose SDG and venture idea",
+        "Verify pathway and deadline",
+        "Register team"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "ilaunch",
+      "title": "iLaunch Pitch Competition",
+      "organization": "Texas Tech Innovation Hub",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder",
+        "All levels"
+      ],
+      "tags": [
+        "Startup",
+        "Pitch"
+      ],
+      "url": "https://www.depts.ttu.edu/research/research-park/Startup_Program_and_Events/Ideation/iLaunch/index.php",
+      "sourceUrl": "https://www.depts.ttu.edu/research/research-park/Startup_Program_and_Events/Ideation/iLaunch/index.php",
+      "summary": "Business Model Canvas pitch competition for entrepreneurs.",
+      "eligibility": "Age 18+; Texas Tech affiliation is not required.",
+      "reward": "Up to $10,000 first prize",
+      "value": 4,
+      "effort": 14,
+      "deadlineDate": "2026-10-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Oct 15, 2026 · 11:59 p.m.; timezone not stated",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Past cycle",
+      "sourceNote": "The published October 15, 2026 cutoff has passed as of the October 21 review. No next-cycle date has been assumed.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Review prior guidelines",
+        "Prepare budget and pitch materials for next cycle",
+        "Check organizer for a new call"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "ylc-usa-2027",
+      "title": "Youth Leadership Certification USA 2027",
+      "organization": "Global Business Symposium",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Sponsored travel"
+      ],
+      "url": "https://usa.globalbusinesssymposium.com/",
+      "sourceUrl": "https://usa.globalbusinesssymposium.com/",
+      "summary": "Leadership training in the United States, June 9–12, 2027. Competitive fully and partially funded places.",
+      "eligibility": "Age 18+; students, professionals, entrepreneurs and community leaders. English proficiency required.",
+      "reward": "25 selected fully funded places: return international airfare, stay, meals and program access; 75 partial places exclude airfare. Application fee requires confirmation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · verify current intake",
+      "sourceState": "Needs verification",
+      "sourceNote": "Organizer confirms funding categories and event dates but no fixed application cutoff in the readable page. Earlier search reported a $30 fee; reconfirm at checkout before paying. Funding is competitive, not guaranteed.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "fdf-geneva-2027",
+      "title": "Future Diplomats Forum 2027 — Geneva",
+      "organization": "Headway Institute of Strategic Alliance",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Sponsored travel"
+      ],
+      "url": "https://headwayinstitute.org/future-diplomats-forum-2027-geneva/",
+      "sourceUrl": "https://headwayinstitute.org/future-diplomats-forum-2027-geneva/",
+      "summary": "Diplomacy and leadership forum in Geneva, February 10–13, 2027.",
+      "eligibility": "All nationalities, ages 18–45. English working proficiency.",
+      "reward": "50 competitive fully funded seats cover return international airfare, shared lodging, meals, visa cost and forum access. $16.50 application fee; partial tracks have different coverage.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · verify current intake",
+      "sourceState": "Needs verification",
+      "sourceNote": "Current organizer page confirms benefits and fee. No fixed application cutoff was found. Visa decisions remain with the relevant government; confirm award and funding arrangements with the organizer.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "iyld-manchester-2027",
+      "title": "International Youth Leadership Dialogue 2027 — Manchester",
+      "organization": "GlobalFutureNetwork",
+      "category": "Travel & leadership",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Sponsored travel"
+      ],
+      "url": "https://globalfuturenetwork.com/",
+      "sourceUrl": "https://globalfuturenetwork.com/",
+      "summary": "Leadership and policy summit in Manchester, UK, April 15–18, 2027.",
+      "eligibility": "Any nationality, age 16–45; sessions in English.",
+      "reward": "30 fully funded places and 40 partial places. Earlier search reported return airfare and a £13.99 fee; current funding terms and fee need reconfirmation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "2027-01-15T23:59:00Z",
+      "sourceDeadline": "15 January 2027, 11:59 PM GMT",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · verify current intake",
+      "sourceState": "Application",
+      "sourceNote": "Organizer confirms event dates, age range and application cutoff at 11:59 PM GMT. Detailed flight, insurance and visa cost coverage must be verified before payment.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "harvard-lead-2027",
+      "title": "Harvard LEAD Fellowship 2027–28",
+      "organization": "Harvard Global Health Institute",
+      "category": "Travel & leadership",
+      "levels": [
+        "Professional"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Sponsored travel"
+      ],
+      "url": "https://globalhealth.harvard.edu/2027-2028-harvard-lead-fellowship-application-is-now-open/",
+      "sourceUrl": "https://globalhealth.harvard.edu/2027-2028-harvard-lead-fellowship-application-is-now-open/",
+      "summary": "A year of virtual global-health leadership development with six weeks in Cambridge, Massachusetts, in spring 2028.",
+      "eligibility": "Relevant master’s degree, at least ten years of professional global-health experience beyond education, substantial leadership experience, leave and J-1 eligibility. Program supports leaders from low- and middle-income countries; check full eligibility.",
+      "reward": "Flights, housing, visa fees and a living stipend for the U.S. residence.",
+      "value": 5,
+      "effort": 14,
+      "deadlineDate": "2026-11-15",
+      "deadlineAt": "2026-11-16T04:59:00Z",
+      "sourceDeadline": "Sunday, November 15, 2026, 11:59 PM EST",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027–2028",
+      "sourceState": "Application",
+      "sourceNote": "Organizer announcement states the exact deadline and covered expenses. This is an experienced-professional fellowship, not an undergraduate program.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "one-future-toronto-2027",
+      "title": "One Future Conference 2027 — funded seats",
+      "organization": "One Future Conference Inc.",
+      "category": "Travel & leadership",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Sponsored travel"
+      ],
+      "url": "https://one-future.org/canada2027/",
+      "sourceUrl": "https://one-future.org/canada2027/",
+      "summary": "Leadership and networking conference in Toronto, Canada, May 12–15, 2027.",
+      "eligibility": "Applicants worldwide aged 17–47; selection based on leadership, motivation and achievements.",
+      "reward": "CAD $24.99 funded-track application. 25 full places list round-trip airfare support, lodging, meals during the conference and access; 25 partial places exclude airfare.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-15",
+      "deadlineAt": "",
+      "sourceDeadline": "15 November 2026; cutoff time and timezone not published",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Organizer FAQ confirms the funded-track deadline. Airfare is described as support; confirm the cap, booking method and uncovered costs before paying. Paid guaranteed passes are separate.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "jane-insight-watch",
+      "title": "Jane Street INSIGHT — upcoming sessions",
+      "organization": "Jane Street",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/insight/",
+      "sourceUrl": "https://www.janestreet.com/join-jane-street/programs-and-events/insight/",
+      "summary": "Multi-day exposure to trading/research, software engineering, or strategy and product.",
+      "eligibility": "Women, transgender and/or gender-expansive participants; verify student-year and location-specific rules. Apply to the closest location.",
+      "reward": "Travel, housing, meals, social activities and a daily expense amount covered.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Upcoming intake · dates unconfirmed",
+      "sourceState": "Needs verification",
+      "sourceNote": "Current organizer page offers an upcoming-session notification form. An earlier search reported an October 25 NYC deadline; it is not confirmed on this page, so no deadline is assumed.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "jane-fttp-2027",
+      "title": "Jane Street First-year Trading & Technology Program",
+      "organization": "Jane Street",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
+      "sourceUrl": "https://careerservices.fas.harvard.edu/events/2027/01/31/jane-street-fttp-program-application-deadline/",
+      "summary": "Classes, team mock trading and activities introducing trading and technology in New York.",
+      "eligibility": "Current first-year undergraduates, particularly STEM interests; no prior finance knowledge required.",
+      "reward": "Organizer covers travel, housing, meals and social activities, plus a daily amount for related expenses.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "January 31, 2027 — career-office listing; organizer confirmation needed",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · verify current intake",
+      "sourceState": "Application",
+      "sourceNote": "Harvard career services lists January 31, 2027. The organizer currently has a notification form, so confirm the live intake and deadline with Jane Street. The career-office 11:55 PM event time is not treated as an organizer cutoff.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "jane-in-focus-2027",
+      "title": "Jane Street IN FOCUS — May 2027 watch",
+      "organization": "Jane Street",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/",
+      "sourceUrl": "https://www.janestreet.com/join-jane-street/programs-and-events/in-focus/",
+      "summary": "Trading, technology and product sessions for students who experienced barriers to advanced STEM education.",
+      "eligibility": "Undergraduate and graduate students meeting the program’s STEM-access criteria. No prior finance knowledge required.",
+      "reward": "Travel, housing, meals, social events and a daily expense amount.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · verify current intake",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer explicitly says the program is moving to May 2027 and applications will reopen later. No opening date or cutoff has been announced.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "ima-scms-2027",
+      "title": "IMA Stuart Cameron & Margaret McLeod Memorial Scholarship",
+      "organization": "Institute of Management Accountants / SCMS",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://scms.secure-platform.com/a/",
+      "sourceUrl": "https://scms.secure-platform.com/a/",
+      "summary": "Scholarship with support to attend two IMA conferences in 2027.",
+      "eligibility": "Active IMA student member, at least six credits per semester for the upcoming year, minimum 3.0 GPA, eligible institution, relevant accounting/finance/IT career plans. Check CMA completion and participation obligations.",
+      "reward": "$6,000 scholarship, complimentary registration for two conferences and up to $1,000 combined travel/lodging reimbursement.",
+      "value": 4,
+      "effort": 12,
+      "deadlineDate": "2027-03-15",
+      "deadlineAt": "",
+      "sourceDeadline": "March 15, 2027; cutoff time/timezone not specified",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026–2027 award / 2027 conferences",
+      "sourceState": "Application",
+      "sourceNote": "Official portal explicitly gives March 15, 2027. Reimbursement is capped and is not an all-expenses-paid trip. Requires résumé, transcripts, a recommendation and three essays.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "stevens-hftc-2027",
+      "title": "Stevens High Frequency Trading Competition 2027",
+      "organization": "Stevens Institute of Technology",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://fsc.stevens.edu/hftc/",
+      "sourceUrl": "https://fsc.stevens.edu/hftc/",
+      "summary": "Global algorithmic trading challenge on the simulated SHIFT platform, March–May 2027.",
+      "eligibility": "Teams of one to four undergraduates or graduate students at accredited universities; Python and GitHub skills required.",
+      "reward": "$5,000 total prize pool; current page lists a $250 per-team registration fee. Travel funding not confirmed.",
+      "value": 3,
+      "effort": 30,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "January 31, 2027; cutoff time/timezone not specified",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Organizer currently lists $250/team, correcting the earlier scheduled search’s $300 claim. Confirm fee in the registration form; application deadline has no time/timezone.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "yutc-2027",
+      "title": "Yale Undergraduate Trading Competition 2027",
+      "organization": "YUTC organizers",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://yutc.org/",
+      "sourceUrl": "https://yutc.org/",
+      "summary": "Trading games and recruiting/networking in New Haven, April 3–4, 2027.",
+      "eligibility": "Undergraduate and graduate students worldwide; no prior trading experience required.",
+      "reward": "Travel reimbursement to/from New Haven and organizer-arranged hotel for participants outside Yale.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2026-11-20",
+      "deadlineAt": "2026-11-21T04:59:00Z",
+      "sourceDeadline": "November 20, 2026, 11:59 PM ET",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 event / fall 2026 applications",
+      "sourceState": "Application",
+      "sourceNote": "Student-run organizer confirms November 20, 11:59 PM ET for the 2027 event; the intake opens October 2026. Reimbursement details and limits should be checked after acceptance.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "discover-citadel-2027",
+      "title": "Discover Citadel — U.S. undergraduate program",
+      "organization": "Citadel / Citadel Securities",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.citadel.com/careers/programs-and-events/discover-citadel/",
+      "sourceUrl": "https://www.citadel.com/careers/programs-and-events/discover-citadel/",
+      "summary": "Two-day exploration of quantitative research, software engineering and trading. U.S. event in New York.",
+      "eligibility": "First- or second-year undergraduates graduating December 2028–June 2030; U.S./Canada-based students considered for U.S. event. Résumé with GPA required.",
+      "reward": "Funded program reported by earlier search; confirm current U.S. travel, hotel and meal terms in the program terms.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · verify current intake",
+      "sourceState": "Needs verification",
+      "sourceNote": "Current organizer page confirms student-year and geographic eligibility but not the earlier March 5, 2027 deadline. The earlier application URL redirects to the homepage. No application deadline is assumed.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "citadel-gqs-watch",
+      "title": "Citadel GQS PhD Colloquium",
+      "organization": "Citadel",
+      "category": "Conferences & networking",
+      "levels": [
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.citadel.com/careers/programs-and-events/gqs-phd-colloquium/",
+      "sourceUrl": "https://www.citadel.com/careers/programs-and-events/gqs-phd-colloquium/",
+      "summary": "Three-day New York research gathering with quantitative researchers; published focus is machine learning and deep learning.",
+      "eligibility": "PhD students or postdocs specializing in machine learning/deep learning, with preference for more advanced academic progress.",
+      "reward": "Travel to/from New York, accommodation, dining and programming covered.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026 page · next intake unconfirmed",
+      "sourceState": "Needs verification",
+      "sourceNote": "Organizer confirms expenses and eligibility. The page is labeled 2026 and gives no current application cutoff or next event date; confirm the active intake.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "tradeify-ptl-open2-2026",
+      "title": "Tradeify Premier Trading League — Open 2",
+      "organization": "Tradeify",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://help.tradeify.co/en/articles/16829567-premier-trading-league-full-competition-guide",
+      "sourceUrl": "https://help.tradeify.co/en/articles/16829567-premier-trading-league-full-competition-guide",
+      "summary": "Online simulated futures tournament. Open 2 is followed by a live finale in Fort Lauderdale on December 11.",
+      "eligibility": "KYC verification; one entry per person and household; restricted-country rules apply. Finalists must be legally able to travel to the U.S.; no visa sponsorship.",
+      "reward": "Free entry, simulated accounts; cash prizes depend on placing. Finalists receive coach travel and hotel under organizer terms; optional paid resets are separate.",
+      "value": 3,
+      "effort": 20,
+      "deadlineDate": "2026-10-25",
+      "deadlineAt": "2026-10-26T03:59:00Z",
+      "sourceDeadline": "October 25, 2026, 11:59 PM ET",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2026 Open 2",
+      "sourceState": "Application",
+      "sourceNote": "Official guide specifies Open 2 registration closing Sunday October 25 at 11:59 PM ET. Read eligibility and prize/payment terms before entering.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "columbia-trading-2026",
+      "title": "Columbia Trading Tournament 2026",
+      "organization": "Columbia Quant Group",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.columbiaquantgroup.com/competition",
+      "sourceUrl": "https://www.columbiaquantgroup.com/competition",
+      "summary": "Live trading simulations in New York, December 5–6, 2026.",
+      "eligibility": "Undergraduates at accredited U.S. colleges/universities. First- and second-year students encouraged; no prior trading competition experience required.",
+      "reward": "$10,000 total prize pool. Travel/lodging stipends are intended to cover attendance; exact amounts follow acceptance.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-10-23",
+      "deadlineAt": "2026-10-24T03:59:00Z",
+      "sourceDeadline": "October 23, 2026, 11:59 PM ET",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Fall 2026",
+      "sourceState": "Application",
+      "sourceNote": "Organizer confirms October 23 at 11:59 PM ET and the December 2026 event. Stipends depend on travel origin; check the awarded amount before booking.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "berkeley-trading-watch",
+      "title": "Berkeley Trading Competition — next cycle",
+      "organization": "Traders at Berkeley",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://traders.studentorg.berkeley.edu/competition/",
+      "sourceUrl": "https://traders.studentorg.berkeley.edu/competition/",
+      "summary": "Individual trading/research competition held each spring at UC Berkeley.",
+      "eligibility": "U.S.-based undergraduate and graduate students; strong quantitative ability, no prior trading experience required.",
+      "reward": "$20,000 prize pool; transportation support, arranged accommodation, breakfast and lunch for selected participants.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Next spring intake · dates unannounced",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer says applications are not open yet. Typical late-November to mid-December timing is historical guidance, not a confirmed current window. Wait for acceptance and travel instructions before booking.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "imc-phd-watch",
+      "title": "IMC PhD Fellowship — next cycle watch",
+      "organization": "IMC Trading",
+      "category": "Research programs",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.imc.com/us/careers/students-graduates/programs/phd-fellowship",
+      "sourceUrl": "https://www.imc.com/us/careers/students-graduates/programs/phd-fellowship",
+      "summary": "STEM PhD research funding with quant research connections and a Chicago finalist event.",
+      "eligibility": "Full-time STEM PhD candidates with fewer than two years remaining; must not currently hold a fellowship at a trading/tech company. Confirm next-cycle eligibility.",
+      "reward": "$50,000 fellowship; $5,000 shortlisted-finalist awards, paid Chicago finalist visit and conference stipend under program terms.",
+      "value": 5,
+      "effort": 16,
+      "deadlineDate": "2026-03-15",
+      "deadlineAt": "",
+      "sourceDeadline": "March 15, 2026 — closed cycle",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026 closed / next cycle unannounced",
+      "sourceState": "Past cycle",
+      "sourceNote": "Organizer says applications are closed and lists the past March 15, 2026 cutoff. No new deadline is inferred; join the talent community and watch for a new cycle.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "citadel-conference-grant-watch",
+      "title": "Citadel Securities Conference Travel Grant",
+      "organization": "Citadel Securities",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.citadelsecurities.com/careers/programs-and-events/conference-travel-grant/",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/programs-and-events/conference-travel-grant/",
+      "summary": "Conference-specific support for students in quantitative/STEM fields.",
+      "eligibility": "Bachelor’s, master’s or PhD students; academic/publication and conference-participation criteria vary.",
+      "reward": "Airfare, lodging, airport transport and meal stipend. Full conference pass generally included except Grace Hopper; check each conference’s exclusions.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Conference-specific cycles",
+      "sourceState": "Directory",
+      "sourceNote": "The grant has separate conference-specific application windows. No single deadline is assumed; create a separate dated entry for each live conference grant.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "citadel-quant-invitational-watch",
+      "title": "Citadel Securities Quant Invitational — U.S. watch",
+      "organization": "Citadel Securities",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.citadelsecurities.com/careers/programs-and-events/",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/programs-and-events/",
+      "summary": "Organizer program directory describes a five-day, invitation-only research competition in Miami.",
+      "eligibility": "Sophomore STEM students; invitation and region-specific requirements apply.",
+      "reward": "Directory describes the U.S. Quant Invitational as all expenses paid; verify current travel and accommodation terms.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "U.S. intake unconfirmed",
+      "sourceState": "Upcoming",
+      "sourceNote": "The current directory is a program description, not confirmation of a live U.S. application window. Specific 2027 region and intake require verification.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "optiver-programs-watch",
+      "title": "Optiver student trading, tech & research programs",
+      "organization": "Optiver",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://prod-www.optiver.com/join-us/students/programs/",
+      "sourceUrl": "https://prod-www.optiver.com/join-us/students/programs/",
+      "summary": "Program directory across career stages and locations, including Chicago.",
+      "eligibility": "Rules differ for early-year, final-year/graduate and PhD programs; currently listed Amsterdam roles have regional and identity-specific conditions.",
+      "reward": "Selected programs include funded travel/accommodation; confirm the exact location-specific award and costs.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Program-specific cycles",
+      "sourceState": "Directory",
+      "sourceNote": "Current open listings shown are Amsterdam programs. Chicago appears among locations, but no live U.S. application deadline is confirmed. Track a specific intake separately.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "sig-predictions-2026",
+      "title": "SIG Predictions Cup 2026",
+      "organization": "Susquehanna International Group",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://predictionscup.com/",
+      "sourceUrl": "https://predictionscup.com/",
+      "summary": "Free university-student prediction-market simulation using contest-only currency. Competition ends November 4, 2026 at noon ET.",
+      "eligibility": "University students who have reached the age of majority in listed eligible jurisdictions, including the U.S.; detailed regional exclusions apply.",
+      "reward": "$30,000 first prize, $5,000 second and $2,500 third under the official rules. No entry fee.",
+      "value": 4,
+      "effort": 10,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "October–November 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Organizer confirms the competition end timestamp, not a separate registration cutoff. Verify whether late registration remains possible. The event end is not used as an application deadline.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "explaining-markets-q4-2026",
+      "title": "Explaining Markets — Q4 2026",
+      "organization": "University of Chicago researchers / Optiver",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://explainingmarkets.ai/",
+      "sourceUrl": "https://explainingmarkets.ai/",
+      "summary": "Build AI agents evaluated on live earnings-related market events. Q4 scoring runs October 12–December 15, 2026.",
+      "eligibility": "Global participation; cash prizes restricted to eligible U.S. legal residents age 18+, and every team member must meet prize rules.",
+      "reward": "$7,500 total prize pool for eligible participants; first prize $2,500.",
+      "value": 4,
+      "effort": 30,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Q4 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Organizer confirms scoring dates and prize eligibility. December 15 is the scoring end, not a confirmed registration cutoff. Verify entry and submission timing in the official rules.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "iaqf-industry-2026",
+      "title": "IAQF Industry Day 2026",
+      "organization": "International Association for Quantitative Finance",
+      "category": "Conferences & networking",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.iaqfindustryday.org/",
+      "sourceUrl": "https://www.iaqfindustryday.org/",
+      "summary": "Career talks and networking for quantitative finance / financial engineering master’s students.",
+      "eligibility": "First- and second-year quantitative finance and financial engineering master’s students.",
+      "reward": "Professional exposure; registration $50 for academic affiliates or $65 for non-affiliates. Travel funding not confirmed.",
+      "value": 3,
+      "effort": 3,
+      "deadlineDate": "2026-10-25",
+      "deadlineAt": "",
+      "sourceDeadline": "October 25, 2026, 11:59 PM “EST” — daylight-time ambiguity; confirm",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Organizer states registration until October 25 at 11:59 PM EST. New York observes daylight time in October, so the EST wording needs clarification; use a date-only planning marker.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "global-market-games-2026",
+      "title": "Global Market Making Games — 2026 qualifier",
+      "organization": "Amsterdam Investment Club / Flow Traders partner",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Organization"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://www.amsterdaminvestmentclub.com/globalmarketmakinggames",
+      "sourceUrl": "https://www.amsterdaminvestmentclub.com/globalmarketmakinggames",
+      "summary": "Campus/society-hosted market-making games with an October qualifier and December 12 world final.",
+      "eligibility": "University investment/trading societies and their participants; verify host and individual entry process.",
+      "reward": "Free qualifier described by earlier search. Top ten world-final finishers receive a Flow Traders Super Day invitation; travel funding not confirmed.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "2026-10-25",
+      "deadlineAt": "",
+      "sourceDeadline": "Qualifier ends October 25, 2026; local registration may close earlier",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Autumn 2026",
+      "sourceState": "Application",
+      "sourceNote": "Organizer lists the qualifier October 1–25 and the world final December 12. Confirm your local society’s earlier signup cutoff and any hosting requirements.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "cme-trading-nov-2026",
+      "title": "CME Group Trading Challenge — November 2026",
+      "organization": "CME Institute",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://institute.cmegroup.com/challenges/1658/landing",
+      "sourceUrl": "https://institute.cmegroup.com/challenges/1658/landing",
+      "summary": "Simulated futures competition from November 15 at 5 PM CT to November 20 at noon CT.",
+      "eligibility": "Eligible residents under the official contest rules; verify age, residency and account requirements.",
+      "reward": "Overall first prize $2,500, with further overall, daily and single-stock-futures prizes; simulated funds only.",
+      "value": 3,
+      "effort": 10,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "November 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Organizer confirms trading dates and prizes. A separate registration cutoff has not been established; do not treat the start date as a verified application deadline.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "cqf-insights-nov-2026",
+      "title": "CQF Institute Annual Quant Insights Conference 2026",
+      "organization": "CQF Institute",
+      "category": "Conferences & networking",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Daily discovery",
+        "Finance"
+      ],
+      "url": "https://cqfinstitute.org/events/conferences/annual-quant-insights-conference/",
+      "sourceUrl": "https://cqfinstitute.org/events/conferences/annual-quant-insights-conference/",
+      "summary": "Online quantitative-finance conference on November 4–5, 2026, covering trading, portfolios and AI.",
+      "eligibility": "Check organizer registration and membership requirements; relevant to learners and finance professionals.",
+      "reward": "Virtual talks and networking; booking fees or membership requirements must be checked. No travel needed.",
+      "value": 3,
+      "effort": 2,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "November 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Organizer lists November 4 and 5, noon–5:30 PM GMT. No separate booking deadline was established, so event dates are not used as application cutoffs.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm eligibility, funding conditions and deadline",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    }
+  ]
+}
