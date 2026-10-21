@@ -14,7 +14,7 @@ export function applyCatalogPatch(base,input,now=new Date()){
  if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(k=>!['stream','checkedAt','outcome','summary','opportunities'].includes(k)))throw Error('Use only public catalog patch fields.');
  if(!Array.isArray(input.opportunities))throw Error('opportunities must be an array of complete public entries.');
  const prior=feed.streams.find(s=>s.id===input.stream);
- const stream=catalogStreamSchema.parse({id:input.stream,label:prior?.label||(input.stream==='travel'?'Sponsored travel & leadership':'Trading & finance'),checkedAt:input.checkedAt,outcome:input.outcome,summary:input.summary});
+ const stream=catalogStreamSchema.parse({id:input.stream,label:prior?.label||(input.stream==='travel'?'Sponsored travel & leadership':input.stream==='internships'?'Internships':'Trading & finance'),checkedAt:input.checkedAt,outcome:input.outcome,summary:input.summary});
  if(Date.parse(stream.checkedAt)>now.getTime()+300000)throw Error('Research timestamp is in the future.');
  if(prior&&Date.parse(stream.checkedAt)<Date.parse(prior.checkedAt))throw Error('A newer research run is already published. Review it before retrying.');
  const entries=input.opportunities.map(o=>catalogEntrySchema.parse(o));

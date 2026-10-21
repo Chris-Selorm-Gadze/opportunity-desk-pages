@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
-  "updatedAt": "2026-10-21T20:48:33.235Z",
+  "revision": 3,
+  "updatedAt": "2026-10-21T21:54:55.880Z",
   "streams": [
     {
       "id": "trading",
@@ -16,6 +16,13 @@
       "checkedAt": "2026-10-21T20:38:57Z",
       "outcome": "success",
       "summary": "Imported five travel and leadership leads from the scheduled search; rechecked organizer pages and flagged uncertain fees, airfare and cutoffs."
+    },
+    {
+      "id": "internships",
+      "label": "Internships",
+      "checkedAt": "2026-10-21T21:54:55.880Z",
+      "outcome": "success",
+      "summary": "Verified 10 industry and research internships. Fixed cutoffs, live undated applications, location, support and eligibility restrictions are labeled."
     }
   ],
   "opportunities": [
@@ -2005,6 +2012,394 @@
         "Apply through the organizer and save confirmation"
       ],
       "stream": "trading"
+    },
+    {
+      "id": "nasa-ostem-summer-2027",
+      "title": "NASA OSTEM Internships — Summer 2027",
+      "organization": "NASA",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Paid",
+        "STEM",
+        "Business",
+        "United States",
+        "On-site"
+      ],
+      "url": "https://www.nasa.gov/learning-resources/internship-programs/",
+      "sourceUrl": "https://www.nasa.gov/learning-resources/internship-programs/",
+      "summary": "Paid summer placements across NASA centers, including technical and business projects. Summer sessions typically last 10 weeks; location and arrangements depend on the project.",
+      "eligibility": "U.S. citizen; 18+ at start; minimum 3.0 GPA. Enrolled degree/certificate students and qualifying recent graduates; confirm the specific project and current enrollment rules.",
+      "reward": "Paid stipend varies by placement and education level. Confirm housing, travel and any uncovered costs for the selected project.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "2027-03-01",
+      "deadlineAt": "2027-03-02T04:59:00Z",
+      "sourceDeadline": "March 1, 2027, 11:59 p.m. Eastern Time; center-specific deadlines may be earlier.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "The main NASA page gives March 1. Individual centers can close earlier: GISS lists February 26. Check each selected project before relying on the general cutoff.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check citizenship, enrollment and GPA rules",
+        "Choose projects and verify earlier center-specific deadlines",
+        "Prepare resume and application responses"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "jpl-summer-internship-2027",
+      "title": "JPL Summer Internship Program — 2027",
+      "organization": "NASA Jet Propulsion Laboratory",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "STEM",
+        "Pasadena",
+        "California",
+        "On-site"
+      ],
+      "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/",
+      "sourceUrl": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/",
+      "summary": "Full-time, 10-week summer STEM research internship at JPL in Pasadena, California.",
+      "eligibility": "U.S. citizen or lawful permanent resident; STEM undergraduate or graduate student at an accredited U.S. university; minimum 3.0 GPA. Check all program restrictions.",
+      "reward": "Monthly monetary award varies by education level. Additional housing/travel support may apply when the home institution is more than 50 miles away; confirm terms.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2027-03-12",
+      "deadlineAt": "",
+      "sourceDeadline": "March 12, 2027, 5 p.m. PDT (published wording; timezone needs confirmation).",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "The page labels the March 12 cutoff 5 p.m. PDT, but that date precedes the 2027 daylight-saving transition. The date is retained without an invented UTC time; verify PDT/PST with JPL.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Verify deadline timezone with JPL",
+        "Prepare resume and unofficial transcript",
+        "Check citizenship, GPA and housing/travel terms"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "doe-suli-summer-2027",
+      "title": "DOE SULI — Summer 2027",
+      "organization": "U.S. Department of Energy",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "Paid",
+        "STEM",
+        "National laboratories",
+        "United States",
+        "Research"
+      ],
+      "url": "https://science.osti.gov/wdts/suli/How-to-Apply",
+      "sourceUrl": "https://science.osti.gov/wdts/suli/How-to-Apply",
+      "summary": "Ten-week summer research internships at participating Department of Energy laboratories.",
+      "eligibility": "U.S. citizen or lawful permanent resident; 18+ at start; qualifying undergraduate or recent graduate; minimum 3.0 GPA. Credit, enrollment and prior-participation rules apply: https://science.osti.gov/wdts/suli/Eligibility",
+      "reward": "Paid research placement. Confirm current stipend, housing and travel provisions for the host laboratory before accepting.",
+      "value": 4,
+      "effort": 10,
+      "deadlineDate": "2027-01-06",
+      "deadlineAt": "2027-01-06T22:00:00Z",
+      "sourceDeadline": "January 6, 2027, 5:00 p.m. Eastern Time; recommendations due at the same cutoff.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Summer 2027 applications are open. The application and both recommendations share the January 6 cutoff; do not wait until the final day to invite recommenders.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check enrollment, credits and GPA requirements",
+        "Request two recommendations before the deadline",
+        "Prepare transcripts, essays and laboratory choices"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "doe-cci-summer-2027",
+      "title": "DOE Community College Internships — Summer 2027",
+      "organization": "U.S. Department of Energy",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Paid",
+        "Community college",
+        "STEM",
+        "United States",
+        "National laboratories"
+      ],
+      "url": "https://science.osti.gov/wdts/cci/How-to-Apply",
+      "sourceUrl": "https://science.osti.gov/wdts/cci/How-to-Apply",
+      "summary": "Ten-week technical summer internships at Department of Energy laboratories for community-college students.",
+      "eligibility": "U.S. citizen or lawful permanent resident; 18+ at start; qualifying two-year/community-college enrollment. Minimum 2.7 GPA; applicants below 3.0 need a waiver statement. Credit and participation limits apply: https://science.osti.gov/wdts/cci/Eligibility",
+      "reward": "Paid internship. Verify current stipend and any laboratory-specific housing/travel support.",
+      "value": 4,
+      "effort": 10,
+      "deadlineDate": "2027-01-06",
+      "deadlineAt": "2027-01-06T22:00:00Z",
+      "sourceDeadline": "January 6, 2027, 5:00 p.m. Eastern Time; recommendations due at the same cutoff.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Summer 2027 application and two recommendations are due together. CCI has different eligibility and GPA rules from SULI; check the CCI requirements directly.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Verify community-college eligibility and GPA waiver requirements",
+        "Request two recommendations early",
+        "Prepare transcripts, essays and laboratory preferences"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "nih-sip-2027",
+      "title": "NIH Summer Internship Program — 2027",
+      "organization": "National Institutes of Health",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "Biomedical research",
+        "United States",
+        "On-site"
+      ],
+      "url": "https://www.training.nih.gov/research-training/pb/sip/",
+      "sourceUrl": "https://www.training.nih.gov/research-training/pb/sip/",
+      "summary": "Full-time, in-person biomedical research with NIH investigators. Summer 2027 placements occur within May 10–August 31; dates are arranged with the host.",
+      "eligibility": "U.S. citizen or lawful permanent resident with qualifying enrollment. Age and enrollment exceptions have specific rules; permanent residents must attend or be accepted by a U.S. institution. Review the official criteria.",
+      "reward": "Stipend depends on education level. NIH does not provide housing; health insurance is required. Confirm campus and living costs.",
+      "value": 4,
+      "effort": 10,
+      "deadlineDate": "2027-01-26",
+      "deadlineAt": "2027-01-26T17:00:00Z",
+      "sourceDeadline": "Application: January 26, 2027, noon ET. Reference letters: February 2, 2027, noon ET.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "The application closes at noon Eastern, not midnight. Reference letters have a separate February 2, 2027 noon Eastern deadline. A submitted application does not guarantee investigator selection.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check enrollment, age and residency rules",
+        "Prepare resume, coursework and personal statement",
+        "Request two references for February 2, noon ET",
+        "Identify relevant investigators and review placement instructions"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "jane-street-quant-research-may-aug-current",
+      "title": "Jane Street Quantitative Researcher Internship — NYC",
+      "organization": "Jane Street",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "Paid",
+        "Quantitative research",
+        "Finance",
+        "Python",
+        "New York"
+      ],
+      "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+      "sourceUrl": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+      "summary": "May–August quantitative research internship in New York, working with data, statistical models and trading research.",
+      "eligibility": "Strong mathematical reasoning and programming, especially Python. The posting welcomes varied academic/career backgrounds; confirm intake year, availability and work authorization with recruiting.",
+      "reward": "Paid role. Confirm internship-period compensation and any relocation support; an annual base-salary figure is not total internship earnings.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application is available; no fixed closing date published. Apply early and confirm availability.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "May–August internship · intake year to confirm",
+      "sourceState": "Open listing",
+      "sourceNote": "An active official Apply option was verified. No closing date or explicit intake year is stated on this role page. Do not treat job-board expiration dates as employer deadlines.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm intake year, work authorization and placement dates",
+        "Prepare a research-focused resume and relevant projects",
+        "Review probability, statistics and coding interview preparation"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "goldman-sachs-summer-analyst-americas-2027",
+      "title": "Goldman Sachs Summer Analyst — Americas 2027",
+      "organization": "Goldman Sachs",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Finance",
+        "Business",
+        "Americas",
+        "Summer 2027"
+      ],
+      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2027-summer-analyst-program",
+      "sourceUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2027-summer-analyst-program",
+      "summary": "Nine- to ten-week undergraduate internships across selected Goldman Sachs businesses in the Americas. Location and work arrangements depend on the live requisition.",
+      "eligibility": "Pursuing a college/university degree, usually in the third or penultimate year. Business-specific qualifications, graduation windows and work-authorization requirements must be checked in each application.",
+      "reward": "Professional experience and training. Compensation, relocation and sponsorship are role/location-specific and not confirmed by the general program page.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application is available; no fixed closing date published. Apply early and confirm availability.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "The official page states applications for selected businesses are open. There is no single published cutoff on this page; choose a live business/location requisition and apply early.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Choose a live business and location requisition",
+        "Verify graduation window, pay and work authorization",
+        "Tailor resume and prepare for the selected business interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "goldman-sachs-summer-associate-americas-2027",
+      "title": "Goldman Sachs Summer Associate — Americas 2027",
+      "organization": "Goldman Sachs",
+      "category": "Internships",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Finance",
+        "MBA",
+        "Advanced degree",
+        "Americas",
+        "Summer 2027"
+      ],
+      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/summer-associate-program",
+      "sourceUrl": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/summer-associate-program",
+      "summary": "Nine- to ten-week graduate internships across selected Goldman Sachs businesses in the Americas; availability varies by business and location.",
+      "eligibility": "Working toward an advanced degree such as MBA, PhD, JD, MD or LLM, usually in the second or penultimate year. Check each requisition for degree, experience and authorization restrictions.",
+      "reward": "Business training and project experience. Check the selected role for compensation, relocation and sponsorship; the program overview does not confirm these terms.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application is available; no fixed closing date published. Apply early and confirm availability.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Select-business applications are open on the official 2027 program page. No universal application cutoff is published; verify the live requisition before applying.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Identify an open graduate-level business requisition",
+        "Confirm degree, experience and location requirements",
+        "Prepare business-specific resume and interview materials"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "amazon-sde-intern-summer-2027-10552937",
+      "title": "Amazon SDE Intern — Summer 2027, USA",
+      "organization": "Amazon",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "Software engineering",
+        "United States",
+        "On-site",
+        "Rolling applications"
+      ],
+      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
+      "sourceUrl": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
+      "summary": "Full-time, in-person 12-week software engineering internship across U.S. locations, generally starting May/June 2027.",
+      "eligibility": "18+; bachelor’s or higher in relevant STEM; degree completion October 2027–September 2029; at least one term remaining afterward. Programming, algorithms and AI-assisted development experience required. Confirm work authorization.",
+      "reward": "Paid; published annual base rates vary by location. Confirm internship-period earnings, relocation and sponsorship before accepting.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications accepted on an ongoing basis; no fixed cutoff published.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official job 10552937 explicitly accepts applications on an ongoing basis. A rolling window can close when hiring needs change; there is no fixed date to put on the calendar.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Verify graduation window, term remaining and work authorization",
+        "Tailor resume with engineering projects and coding experience",
+        "Prepare for technical assessment and interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "amazon-marketing-intern-summer-2027-10575256",
+      "title": "Amazon Marketing Specialist Intern — Summer 2027",
+      "organization": "Amazon",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Paid",
+        "Marketing",
+        "Business",
+        "Seattle",
+        "No visa sponsorship"
+      ],
+      "url": "https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027",
+      "summary": "Twelve-week, 40-hour/week summer marketing internship involving campaigns, customer engagement and measurement. Seattle posting; relocation may be required.",
+      "eligibility": "18+; enrolled bachelor’s student graduating December 2027–June 2028; available May–September and able to relocate. The employer explicitly cannot offer visa sponsorship for this role.",
+      "reward": "Seattle base rate is $80,200 annually, not total 12-week earnings. Relocation assistance if eligible; verify actual internship pay and support.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application is available; no fixed closing date published. Apply early and confirm availability.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "An official Apply option is live for job 10575256. No fixed closing date is published; do not infer a guaranteed application window.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check graduation dates and no-sponsorship restriction",
+        "Prepare a marketing resume with campaign or analytics examples",
+        "Confirm location, relocation terms and live availability"
+      ],
+      "stream": "internships"
     }
   ]
 }
