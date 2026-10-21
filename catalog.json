@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
-  "updatedAt": "2026-10-21T21:59:52.534Z",
+  "revision": 8,
+  "updatedAt": "2026-10-21T23:46:02.230Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-21T21:54:55.880Z",
+      "checkedAt": "2026-10-21T23:46:02.230Z",
       "outcome": "success",
-      "summary": "Verified 10 industry and research internships. Fixed cutoffs, live undated applications, location, support and eligibility restrictions are labeled."
+      "summary": "Added 10 Summer 2027 industry internships verified live on official employer pages (Optiver, Pinterest, Booz Allen cyber, TikTok AI Search, Neuralink, Anduril, Veeam x2, M3 USA, Tyler Technologies), plus Wing as needs-verification and a Thrivent watch entry after its posting could not be found live. Six sweep postings (Grow Therapy, K2 Space, Constellation, Keysight, Spectrum and the live Thrivent posting) could not be verified on official pages and are not presented as open. Existing entries preserved; Summer 2027 tags normalized across the stream."
     },
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-10-21T20:38:57Z",
+      "checkedAt": "2026-10-21T23:46:02.230Z",
       "outcome": "success",
-      "summary": "Imported twenty-one trading, career, funding and conference leads. Rechecked sources; closed cycles and unconfirmed application windows stay labeled."
+      "summary": "CME Group Trading Challenge verified on the official CME Institute page: entry closes 5:00 p.m. CT on Nov 15, 2026, with confirmed dates and prizes; the entry is now a confirmed Application with an exact deadline. Optiver’s student programs directory was recategorized from Career & sales to Opportunity hubs so directories group together. Other entries preserved."
     },
     {
       "id": "travel",
       "label": "Sponsored travel & leadership",
-      "checkedAt": "2026-10-21T20:38:57Z",
+      "checkedAt": "2026-10-21T23:46:02.230Z",
       "outcome": "success",
-      "summary": "Imported five travel and leadership leads from the scheduled search; rechecked organizer pages and flagged uncertain fees, airfare and cutoffs."
+      "summary": "Added three verified leadership/fellowship leads: NSBE 2027 workshop & presenter proposals (due Nov 11, 2026), Contrary Research Fellowship Q4 cohort (due Dec 9, 2026), and KP Fellows 2027 as a needs-verification watch entry because no deadline is published on Kleiner Perkins’ official site. Existing travel entries preserved."
     }
   ],
   "opportunities": [
@@ -1760,7 +1760,7 @@
       "id": "optiver-programs-watch",
       "title": "Optiver student trading, tech & research programs",
       "organization": "Optiver",
-      "category": "Career & sales",
+      "category": "Opportunity hubs",
       "levels": [
         "Undergraduate",
         "Graduate",
@@ -1950,29 +1950,32 @@
         "Early career"
       ],
       "tags": [
-        "Daily discovery",
-        "Finance"
+        "Finance",
+        "Trading competition",
+        "Futures",
+        "Virtual",
+        "Cash prizes"
       ],
       "url": "https://institute.cmegroup.com/challenges/1658/landing",
       "sourceUrl": "https://institute.cmegroup.com/challenges/1658/landing",
-      "summary": "Simulated futures competition from November 15 at 5 PM CT to November 20 at noon CT.",
-      "eligibility": "Eligible residents under the official contest rules; verify age, residency and account requirements.",
-      "reward": "Overall first prize $2,500, with further overall, daily and single-stock-futures prizes; simulated funds only.",
+      "summary": "Virtual simulated futures trading challenge run by CME Group: trading runs Sun Nov 15, 2026 (5:00 p.m. CT) to Fri Nov 20, 2026 (12:00 p.m. CT) in the Challenge Simulator from a $25,000 virtual account, across standard and Micro futures. No real money is traded; entry closes when the challenge starts.",
+      "eligibility": "Open to residents of the countries listed in the official terms, including the United States, Canada (excluding Quebec), Brazil, Peru, the United Kingdom, Germany, Netherlands, Switzerland, Ireland, Denmark, Cyprus, UAE/DIFC/ADGM, Australia, Indonesia, Malaysia, Singapore, South Korea, Taiwan, Hong Kong, Japan and India. No purchase necessary; age restrictions are set out in the full terms. No student status required.",
+      "reward": "Overall leaderboard: 1st $2,500, 2nd $1,750, 3rd $1,250, 4th–15th $100 each. Daily leaderboard: one $500 prize per day (Mon–Thu). Single Stock Futures leaderboard: 1st $1,000. A trader may win one leaderboard prize plus one daily prize.",
       "value": 3,
       "effort": 10,
-      "deadlineDate": "",
-      "deadlineAt": "",
-      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
-      "confidence": "Unknown",
+      "deadlineDate": "2026-11-15",
+      "deadlineAt": "2026-11-15T23:00:00Z",
+      "sourceDeadline": "Enter before 5:00 p.m. CT / 23:00 UTC November 15, 2026.",
+      "confidence": "Exact time",
       "opensOn": "",
       "cycle": "November 2026",
-      "sourceState": "Needs verification",
-      "sourceNote": "Organizer confirms trading dates and prizes. A separate registration cutoff has not been established; do not treat the start date as a verified application deadline.",
+      "sourceState": "Application",
+      "sourceNote": "Verified on CME Institute’s official challenge page on 2026-10-21: entry deadline, trading dates and prizes confirmed. The page’s prize-count summary and eligible-country fine print are internally inconsistent in minor ways; the full terms govern.",
       "checkedOn": "2026-10-21",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Register on the CME Institute challenge page before Nov 15, 5:00 p.m. CT",
+        "Read the full terms and simulator rules",
+        "Plan availability for Nov 15–20 trading sessions"
       ],
       "stream": "trading"
     },
@@ -2028,7 +2031,8 @@
         "STEM",
         "Business",
         "United States",
-        "On-site"
+        "On-site",
+        "Summer 2027"
       ],
       "url": "https://www.nasa.gov/learning-resources/internship-programs/",
       "sourceUrl": "https://www.nasa.gov/learning-resources/internship-programs/",
@@ -2067,7 +2071,8 @@
         "STEM",
         "Pasadena",
         "California",
-        "On-site"
+        "On-site",
+        "Summer 2027"
       ],
       "url": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/",
       "sourceUrl": "https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/",
@@ -2106,7 +2111,8 @@
         "STEM",
         "National laboratories",
         "United States",
-        "Research"
+        "Research",
+        "Summer 2027"
       ],
       "url": "https://science.osti.gov/wdts/suli/How-to-Apply",
       "sourceUrl": "https://science.osti.gov/wdts/suli/How-to-Apply",
@@ -2144,7 +2150,8 @@
         "Community college",
         "STEM",
         "United States",
-        "National laboratories"
+        "National laboratories",
+        "Summer 2027"
       ],
       "url": "https://science.osti.gov/wdts/cci/How-to-Apply",
       "sourceUrl": "https://science.osti.gov/wdts/cci/How-to-Apply",
@@ -2182,7 +2189,8 @@
         "Paid",
         "Biomedical research",
         "United States",
-        "On-site"
+        "On-site",
+        "Summer 2027"
       ],
       "url": "https://www.training.nih.gov/research-training/pb/sip/",
       "sourceUrl": "https://www.training.nih.gov/research-training/pb/sip/",
@@ -2376,7 +2384,8 @@
         "Marketing",
         "Business",
         "Seattle",
-        "No visa sponsorship"
+        "No visa sponsorship",
+        "Summer 2027"
       ],
       "url": "https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027",
       "sourceUrl": "https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027",
@@ -2400,6 +2409,674 @@
         "Confirm location, relocation terms and live availability"
       ],
       "stream": "internships"
+    },
+    {
+      "id": "optiver-swe-intern-summer-2027-chicago",
+      "title": "Software Engineer Intern — Summer 2027, Chicago",
+      "organization": "Optiver",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "Software engineering",
+        "Trading technology",
+        "Chicago",
+        "On-site",
+        "Summer 2027"
+      ],
+      "url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+      "sourceUrl": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
+      "summary": "Software engineering internship building production trading systems at Optiver’s Chicago office. Optiver covers flights, living accommodations and commuting stipends.",
+      "eligibility": "Pursuing a bachelor’s, master’s or PhD in Computer Science or Computer Engineering; on track to graduate December 2027–June 2028 with junior standing or higher; proficient in C++, Python or Java. Optiver states it is supportive of U.S. immigration sponsorship for this role. An 8-month re-application cooling-off applies after a prior Optiver tech intern/grad assessment or interview.",
+      "reward": "Base salary range $70,000–$85,000 (annualized figure as published; confirm internship-period pay), plus a sign-on bonus (amount not stated). Optiver covers flights, living accommodations and commuting stipends. No application fee.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Optiver’s official careers site on 2026-10-21 (posting published 2026-07-01). Salary is published as an annual base range, not total internship earnings.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check graduation window (Dec 2027–Jun 2028) and the 8-month re-apply rule",
+        "Tailor resume toward C++/Python/Java systems work",
+        "Prepare for coding and trading-technology interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "pinterest-swe-intern-2027-usa",
+      "title": "Software Engineer Intern 2027 — USA",
+      "organization": "Pinterest",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "Software engineering",
+        "Hybrid",
+        "Remote options",
+        "United States",
+        "Summer 2027",
+        "No visa sponsorship"
+      ],
+      "url": "https://www.pinterestcareers.com/jobs/7838577/software-engineer-intern-2027-usa/",
+      "sourceUrl": "https://www.pinterestcareers.com/jobs/7838577/software-engineer-intern-2027-usa/",
+      "summary": "Software engineering internship on Pinterest teams in the U.S. for Summer 2027, in two cohorts (May 17–Aug 6 or Jun 14–Sep 3, 2027, about 12 weeks). Placement is hybrid near an office or fully remote within approved locations, confirmed during interviews.",
+      "eligibility": "Currently enrolled toward a bachelor’s or master’s in Computer Science or a related technical field, on track to graduate by June 2029; non-academic coding experience expected. U.S.-based applicants only; must be legally authorized to work in the U.S. full-time. The posting states this position is not eligible for immigration sponsorship.",
+      "reward": "Base salary range $8,250–$11,000 per month as published. Housing/relocation support not stated. No application fee.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Pinterest’s official careers site on 2026-10-21 (published 2026-10-08). An earlier sweep described this role as remote; the official posting offers hybrid or remote depending on placement.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm U.S. work authorization and the no-sponsorship restriction",
+        "Tailor resume with project and coding experience",
+        "Prepare for technical interviews and cohort placement"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "booz-allen-cyber-intern-summer-2027",
+      "title": "2027 Summer Games Cyber Security Intern — McLean, VA",
+      "organization": "Booz Allen Hamilton",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Paid",
+        "Cybersecurity",
+        "McLean",
+        "Virginia",
+        "Hybrid",
+        "Summer 2027"
+      ],
+      "url": "https://careers.boozallen.com/jobs/JobDetail/McLean-University-2027-Summer-Games-Cyber-Security-Intern-McLean-VA-R0248034/129524",
+      "sourceUrl": "https://careers.boozallen.com/jobs/JobDetail/McLean-University-2027-Summer-Games-Cyber-Security-Intern-McLean-VA-R0248034/129524",
+      "summary": "Summer Games cybersecurity internship in McLean, VA (tagged hybrid on Booz Allen’s job search), working in teams on a customer challenge project for Summer 2027. Sibling postings exist for Colorado Springs, CO and Huntsville, AL.",
+      "eligibility": "Cybersecurity experience (academic experience counts); knowledge of networking/OSI model, virtualization, Linux and Windows; ability to obtain a Secret clearance; scheduled to earn a bachelor’s in a Technology, Engineering or Mathematics field by Summer 2028 or Summer 2029. Applicants are subject to a security investigation; sponsorship is not stated on the posting.",
+      "reward": "Projected compensation range $53,000–$108,000 (annualized figure as published; confirm internship-period pay). Housing/relocation not stated. No application fee.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No calendar date published; the posting states it will close within 90 days of the posting date. Apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Booz Allen’s official careers site on 2026-10-21 (Req R0248034). An earlier sweep described this role as remote; the official listing is McLean-based and tagged hybrid.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm Secret-clearance eligibility and degree timing",
+        "Tailor resume toward cybersecurity coursework and labs",
+        "Prepare for team-based challenge interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "tiktok-swe-intern-ai-search-summer-2027",
+      "title": "Software Engineer Intern (TikTok AI Search & Visual Search Infra) — Summer 2027",
+      "organization": "TikTok",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Software engineering",
+        "AI search",
+        "Infrastructure",
+        "Summer 2027",
+        "Rolling applications"
+      ],
+      "url": "https://lifeattiktok.com/search/7676276048527214901",
+      "sourceUrl": "https://lifeattiktok.com/search/7676276048527214901",
+      "summary": "Summer 2027 internship building large-scale AI and visual search infrastructure for TikTok Search — indexing/retrieval, RAG and LLM/VLM serving. Applications are reviewed on a rolling basis.",
+      "eligibility": "Detailed requirements were not stated on the official page as retrieved. Confirmed on the official posting: candidates may apply to a maximum of two positions across TikTok and its affiliates globally, and applications are considered in submission order. Confirm degree, location and work-authorization requirements on the live posting before applying.",
+      "reward": "Pay and benefits not stated on the official page as retrieved; confirm on the live posting. No application fee.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; applications reviewed on a rolling basis — apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on TikTok’s official careers site on 2026-10-21. A second strong fit — Backend Software Engineer Intern (TikTok Privacy & Security), San Jose — was identified from syndicated official text, but its official page was not opened in this pass, so it is not catalogued yet. TikTok’s two-application cap makes the choice of roles a decision, not a default.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Decide the two TikTok applications deliberately (company-wide cap of two)",
+        "Tailor resume toward search, infrastructure and AI systems",
+        "Prepare for coding interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "neuralink-swe-intern-implant",
+      "title": "Software Engineer Intern, Implant",
+      "organization": "Neuralink",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Paid",
+        "Software engineering",
+        "Python",
+        "Implant",
+        "Hourly"
+      ],
+      "url": "https://job-boards.greenhouse.io/neuralink/jobs/6569018003",
+      "sourceUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6569018003",
+      "summary": "Software engineering internship on Neuralink’s Brain Interfaces Software team — Implant/Charger SDK, build tooling and manufacturing/monitoring software. Paid hourly. A sibling posting, Software Engineer Intern, BCI Applications, is also live on the same official board.",
+      "eligibility": "Fluent in Python and C or Rust; comfortable with the Linux/Unix command line; evidence of exceptional ability in engineering, mathematics or computer science. The posting states no degree, enrollment or graduation-window requirement; work authorization and sponsorship are not stated.",
+      "reward": "Hourly rate $35/hr USD as published under California pay transparency. Meals and commuter benefits are listed; interns are excluded from equity, parental leave and FTO. Housing not stated. No application fee.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake cycle to confirm",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Neuralink’s official Greenhouse board on 2026-10-21. The posting names no season or location in the retrieved text; confirm both on the live page before applying.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm location, season and work authorization on the live posting",
+        "Tailor resume toward Python and C/Rust systems work",
+        "Prepare portfolio evidence of engineering ability"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "anduril-swe-intern-2027",
+      "title": "2027 Software Engineer Intern",
+      "organization": "Anduril Industries",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "Software engineering",
+        "On-site",
+        "Summer 2027",
+        "U.S. Person required"
+      ],
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+      "sourceUrl": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+      "summary": "Paid, in-person 12-week software engineering internship for Summer 2027, supporting Anduril’s deployed software products at one of its offices.",
+      "eligibility": "Pursuing a bachelor’s or master’s in Computer Science, Computer/Software Engineering, Mathematics, Physics or a related field; must return to school for at least one quarter/semester after the internship. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be required depending on program.",
+      "reward": "U.S. salary range $40–$55 USD as published (the retrieved posting text does not label the unit; confirm the unit before relying on it). Housing/relocation not stated. No application fee.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Anduril’s official Greenhouse board on 2026-10-21. The U.S. Person requirement is a hard eligibility gate stated in the posting.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm U.S. Person status and office location",
+        "Tailor resume with deployed-systems project work",
+        "Prepare for technical interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "veeam-ai-automation-intern-summer-2027",
+      "title": "AI & Automation Engineering Intern — Summer 2027",
+      "organization": "Veeam Software",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "AI",
+        "Automation",
+        "Georgia",
+        "Hybrid",
+        "Summer 2027"
+      ],
+      "url": "https://careers.veeam.com/job/georgia/ai-and-automation-engineering-intern-summer-2027/22681/100489029776",
+      "sourceUrl": "https://careers.veeam.com/job/georgia/ai-and-automation-engineering-intern-summer-2027/22681/100489029776",
+      "summary": "Hybrid Georgia internship (June–August 2027, 10-week program) prototyping AI tools, agents and workflow automations for Veeam’s Center of Expertise. Paid hourly.",
+      "eligibility": "Rising junior or senior pursuing a bachelor’s, or a graduate student, in Computer Science, Software Engineering, Data Science or a related field (program described as designed for students entering their final year). Python preferred. Sponsorship not stated on the posting.",
+      "reward": "U.S. intern pay range $20–$25 USD per hour (stated as an hourly base rate), plus a tech stipend and paid company holidays. Housing not stated. No application fee.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Veeam’s official careers site on 2026-10-21 (posted 2026-09-11).",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Check rising-junior/senior standing and the hybrid Georgia location",
+        "Tailor resume toward AI tools, agents and automation",
+        "Prepare for technical interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "veeam-data-analytics-intern-summer-2027",
+      "title": "Data & Analytics Engineering Intern — Summer 2027",
+      "organization": "Veeam Software",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Paid",
+        "Data engineering",
+        "Analytics",
+        "Alpharetta",
+        "Georgia",
+        "Hybrid",
+        "Summer 2027",
+        "No visa sponsorship"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
+      "sourceUrl": "https://careers.veeam.com",
+      "summary": "Hybrid internship in Alpharetta, GA (2–3 days/week in office) building data pipelines and analytics on Veeam’s modern data platform across the full development lifecycle. Program runs June–August 2027; paid hourly.",
+      "eligibility": "Rising junior or senior pursuing a bachelor’s in Computer Science, Data Science or a related field at an accredited college/university; SQL, Python and Spark preferred. Applicants must be authorized to work in the U.S.; the posting states Veeam is unable to sponsor or take over sponsorship of an employment visa now or in the future.",
+      "reward": "U.S. intern pay range $20–$25 USD per hour (stated as an hourly base rate), plus a tech stipend and paid company holidays. Housing not stated. No application fee.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live via Veeam’s official careers site and its Greenhouse board on 2026-10-21.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm U.S. work authorization and the no-sponsorship restriction",
+        "Tailor resume toward SQL, Python and data pipelines",
+        "Prepare for technical interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "m3-usa-ai-engineering-intern",
+      "title": "AI Engineering Intern (Remote)",
+      "organization": "M3 USA",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "AI engineering",
+        "Remote",
+        "United States",
+        "Python",
+        "TypeScript"
+      ],
+      "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-",
+      "sourceUrl": "https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-",
+      "summary": "Remote internship owning and shipping AI-enabled internal tools end to end, using agentic AI coding tools as the default workflow. The official posting names no season or program dates.",
+      "eligibility": "Actively pursuing or recently obtained a degree in Computer Science or a related field; hands-on use of at least one AI coding agent; working knowledge of Python, TypeScript or similar; comfort working in a terminal and git without a GUI. No graduation window stated; work authorization/sponsorship not stated.",
+      "reward": "Pay, housing and stipends are not stated on the official posting. No application fee stated.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake cycle to confirm",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on M3 USA’s official SmartRecruiters board on 2026-10-21. An earlier sweep listed this as a Summer 2027 SWE internship; the official title is AI Engineering Intern and the posting names no season — confirm the intake before applying.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm intake season and pay on the live posting",
+        "Tailor resume toward AI tooling and shipped projects",
+        "Prepare examples of work with AI coding agents"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "tyler-technologies-swe-intern-summer-2027",
+      "title": "Software Development Intern — Summer 2027",
+      "organization": "Tyler Technologies",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Software development",
+        "Lubbock",
+        "Texas",
+        "Summer 2027"
+      ],
+      "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD/apply",
+      "sourceUrl": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD/apply",
+      "summary": "Software development internship in Lubbock, Texas for Summer 2027. The official application form is live and accepting resumes.",
+      "eligibility": "Requirements were not stated on the official application page as retrieved; confirm qualifications, work mode and work authorization on Tyler’s careers board before applying.",
+      "reward": "Pay not stated on the official page as retrieved. No application fee.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified live on Tyler Technologies’ official Jobvite board on 2026-10-21 (application form open). A second Summer 2027 listing in Troy, MI appears in board syndication.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Confirm qualifications and work mode on the careers board",
+        "Tailor resume and submit application",
+        "Prepare for technical interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "wing-ml-engineering-intern-summer-2027",
+      "title": "Machine Learning Engineering Intern — Summer 2027",
+      "organization": "Wing",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Machine learning",
+        "Palo Alto",
+        "California",
+        "Summer 2027"
+      ],
+      "url": "https://job-boards.greenhouse.io/embed/job_board?for=wing&error=true",
+      "sourceUrl": "https://job-boards.greenhouse.io/embed/job_board?for=wing&error=true",
+      "summary": "Machine learning engineering internship with Wing in Palo Alto, CA for Summer 2027, listed under Internships on Wing’s official job board.",
+      "eligibility": "Qualifications could not be read on 2026-10-21: the board listing is live, but its detail page returned an error. An earlier sweep’s claim of a Master’s/PhD requirement is unverified — confirm requirements on the official detail page before applying.",
+      "reward": "Pay not stated in the board listing. No application fee stated.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published on the board listing.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Partially verified 2026-10-21: title, location and Summer 2027 cycle are from Wing’s official Greenhouse board listing; the detail page could not be loaded, so requirements and pay remain unverified.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Open the official detail page and confirm qualifications",
+        "Tailor resume toward ML engineering projects",
+        "Prepare for ML and coding interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "thrivent-swe-intern-watch",
+      "title": "Thrivent Software Engineering Intern — Summer 2027 (watch)",
+      "organization": "Thrivent",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Software engineering",
+        "Remote",
+        "Summer 2027",
+        "Watch"
+      ],
+      "url": "https://careers.thrivent.com/internships/",
+      "sourceUrl": "https://careers.thrivent.com/internships/",
+      "summary": "Thrivent’s official internships page describes 12-week paid internships, with the majority of roles remote. The specific junior software engineering posting found in an Oct 18 sweep could not be found on Thrivent’s official site on 2026-10-21.",
+      "eligibility": "The sweep described a junior posting for students graduating December 2027–May 2028; that posting is not currently confirmable on the official site. A sophomore version (Dec 2028–May 2029) circulates on aggregator sites, and third-party reporting says Thrivent’s sophomore engineering roles closed in late September 2026.",
+      "reward": "Program level: internships are paid (official program page). Role-specific pay not stated.",
+      "value": 3,
+      "effort": 4,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No live official posting or deadline confirmed on 2026-10-21.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Watch entry: added so the sweep lead is tracked honestly rather than presented as open. Recheck Thrivent’s official job search before spending application effort.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Recheck Thrivent’s official job search for a live junior posting",
+        "Confirm the graduation window on any new posting",
+        "Apply promptly if a matching posting reopens"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "nsbe-2027-call-for-presenters",
+      "title": "NSBE 2027 Annual Convention — Call for Workshops and Presenters",
+      "organization": "National Society of Black Engineers",
+      "category": "Conferences & networking",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Conference",
+        "Boston",
+        "Presenters",
+        "Workshops",
+        "Professional development"
+      ],
+      "url": "https://convention.nsbe.org",
+      "sourceUrl": "https://nsbe.org/article/the-nsbe2027-call-for-workshops-and-presenters-is-now-open/",
+      "summary": "#NSBE2027 (Engineered with Intention) runs March 31–April 4, 2027 at the Menino Convention & Exhibition Center, Boston, MA, with 16,000+ attendees expected, a career fair, technical/professional development and the NEXTGEN Innovation Expo. Two proposal routes are open: interactive workshops, and presenters (panels, fireside chats, roundtables, lectures, lightning talks, technical labs).",
+      "eligibility": "The proposal call seeks innovators, thought leaders, practitioners, educators, entrepreneurs and changemakers; no student-status restriction is stated for proposers. Convention attendance spans K-12, collegiate and professional members; NSBE membership runs Aug 1–Jul 31 and should be current before registering.",
+      "reward": "Not stated — no presenter compensation, prizes or registration fees are published on the official pages checked.",
+      "value": 3,
+      "effort": 8,
+      "deadlineDate": "2026-11-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Submit by November 11, 2026 (no time of day or timezone published).",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Proposal deadline confirmed on NSBE’s official article and convention site on 2026-10-21. NSBE’s site is internally inconsistent about when general registration opens (October vs. November 2026) and publishes no registration fees yet; the full agenda is expected February 2027.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Draft a workshop or presenter proposal with learning objectives",
+        "Submit the proposal by November 11, 2026",
+        "Renew NSBE membership and watch for registration opening"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "contrary-research-fellowship-2026-q4",
+      "title": "Contrary Research Fellowship — Q4 2026 cohort",
+      "organization": "Contrary",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "Fellowship",
+        "Research",
+        "Technology",
+        "Writing",
+        "Rolling applications"
+      ],
+      "url": "https://research.contrary.com/fellowship",
+      "sourceUrl": "https://research.contrary.com/fellowship",
+      "summary": "Three-month cohort fellowship researching, analyzing and writing reports on major private tech companies and markets (e.g., Ramp, Anduril, OpenAI). Strong fellows are promoted to Senior Fellows and work with Contrary’s investment team on market deep dives.",
+      "eligibility": "As published, the fellowship is built for sharp, tech-literate individuals. No degree, enrollment or student-status requirement is stated on the official page.",
+      "reward": "Not stated — the official page publishes no stipend, salary or funding amount.",
+      "value": 4,
+      "effort": 30,
+      "deadlineDate": "2026-12-09",
+      "deadlineAt": "",
+      "sourceDeadline": "December 9 (Q4 cohort), from the official 2026 deadline list: March 25 (Q1), June 17 (Q2), September 23 (Q3), December 9 (Q4). Applications are accepted on a rolling basis and reviewed towards the end of each quarter.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026 Q4 cohort",
+      "sourceState": "Application",
+      "sourceNote": "Deadlines confirmed on Contrary’s official fellowship page on 2026-10-21. Because review happens at quarter end, applying early in the quarter can mean months before a decision.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Prepare a writing/research sample on a private tech company",
+        "Submit the fellowship application before December 9, 2026",
+        "Track the quarter-end review timing"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "kp-fellows-2027",
+      "title": "Kleiner Perkins Fellows Program — 2027 Engineering Fellow",
+      "organization": "Kleiner Perkins",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Fellowship",
+        "Engineering",
+        "San Francisco Bay Area",
+        "Summer 2027",
+        "Rolling applications"
+      ],
+      "url": "https://www.kleinerperkins.com/fellows/",
+      "sourceUrl": "https://www.kleinerperkins.com/fellows/",
+      "summary": "Summer fellowship placing students with a Kleiner Perkins portfolio company, mentored by experienced engineers, alongside a founder speaker series, entrepreneurial workshops, community events and a 1,000+ alumni community.",
+      "eligibility": "KP’s official Fellows page states only that the program connects students with opportunities and publishes no specific criteria. Criteria appearing in the 2027 Engineering Fellow posting as reproduced by a university careers site (CS/engineering/math/physics degree, product/project experience, campus leadership, Bay Area summer availability) are not published on kleinerperkins.com and remain unconfirmed.",
+      "reward": "Not stated on the official page. The fellowship is a summer placement at a portfolio company; any compensation is set by the host company.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No deadline is published on Kleiner Perkins’ official Fellows page. A university careers reproduction of the 2027 posting states applications close 11:59 p.m. PST on January 31 with rolling review — unconfirmed on the official source; verify before relying on it.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Checked on kleinerperkins.com on 2026-10-21: no deadline, opening date or apply link is published there. Treat January 31, 2027 as a lead from Harvard FAS Career Services’ reproduction of the posting, not a confirmed KP deadline.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Watch kleinerperkins.com/fellows for the official application opening",
+        "Prepare resume and product/project examples",
+        "Apply early once the official posting is live"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "amazon-developer-hackathon-2026",
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "organization": "Amazon",
+      "category": "Innovation challenges",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Hackathon",
+        "Online",
+        "Amazon",
+        "Alexa",
+        "Fire TV",
+        "AWS",
+        "Cash prizes"
+      ],
+      "url": "https://amazonappdev2026.devpost.com/",
+      "sourceUrl": "https://amazonappdev2026.devpost.com/",
+      "summary": "Online global hackathon to build or significantly update a working app for one of four tracks — Fire TV, Alexa+, Bee or Ring — plus optional AWS Builder and Open Source mini-challenges. Submission requires a text description, a GitHub repo, a demo video under 3 minutes and written product feedback on the tools used.",
+      "eligibility": "Eligibility rules (age, residency, team size) could not be retrieved from the official Amazon events page or the accessible Devpost listing text on 2026-10-21; read the Devpost rules tab before entering and do not assume eligibility.",
+      "reward": "$138,000 in cash prizes; Amazon and Devpost describe $190K in total cash and AWS credits. Fire TV and Alexa+ 1st place: $25,000 cash + $15,000 AWS credits; Bee and Ring 1st place: $12,000 cash; mini-challenge winners: $5,000 cash + $5,000 AWS credits. Track winners also receive a 1:1 meeting with the Amazon Developer team and a feature on Amazon Developer channels. No entry fee stated.",
+      "value": 4,
+      "effort": 30,
+      "deadlineDate": "2026-10-23",
+      "deadlineAt": "2026-10-23T19:00:00Z",
+      "sourceDeadline": "Submissions close October 23, 2026 (Amazon events page); the Devpost window ends Oct 23, 2026 at 3:00 p.m. ET / 12:00 p.m. PT.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Deadline and prizes verified on Amazon’s official events page and the official Devpost listing on 2026-10-21. The Devpost window opened Aug 31, 2026. Eligibility rules were not accessible in this check.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Read the Devpost rules tab and confirm eligibility",
+        "Build or update an app for one track and record a demo under 3 minutes",
+        "Submit before Oct 23, 2026, 12:00 p.m. PT"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "mit-energy-climate-hack-2026",
+      "title": "MIT Energy & Climate Hack",
+      "organization": "MIT Energy & Climate Club (MITEC)",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Hackathon",
+        "MIT",
+        "Energy",
+        "Climate",
+        "In-person",
+        "Waitlist"
+      ],
+      "url": "https://www.mitenergyhack.org/",
+      "sourceUrl": "https://www.mitenergyhack.org/faqs",
+      "summary": "Three-day in-person student hackathon, Nov 6–8, 2026 at MIT (Cambridge, MA), in its 12th year. Companies present real energy and climate challenges; teams of up to 4 form at the event and pitch to judges. Registration closed Oct 16, 2026 — a waitlist remains open via Luma (luma.com/y097td45).",
+      "eligibility": "As published in the official FAQs: students of all backgrounds, majors and levels (undergraduate, Master’s, PhD, MBA); recent graduates welcome; must be 18 or older. Registration is limited to approved students; no coding experience or pre-formed team required.",
+      "reward": "Winners receive prizes; amounts are not published. No registration fee is stated; breakfast, lunch and dinner are provided all weekend. Accepted hackers may request travel reimbursement on the post-acceptance form by Oct 30 — reviewed on a rolling basis, paid after the event, limited and not guaranteed. No on-campus housing.",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "2026-10-16",
+      "deadlineAt": "",
+      "sourceDeadline": "Registration for the 2026 Hack closed on October 16 (official FAQ). The waitlist via Luma has no published deadline.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Past cycle",
+      "sourceNote": "Verified on the official site and FAQ on 2026-10-21. The application cycle has closed; the live route is the Luma waitlist. Earlier third-party descriptions of rolling applications are superseded by the official FAQ.",
+      "checkedOn": "2026-10-21",
+      "suggestedTasks": [
+        "Join the waitlist via Luma",
+        "If accepted, request travel reimbursement by Oct 30",
+        "Prepare for Nov 6–8 in Cambridge"
+      ],
+      "stream": "original"
     }
   ]
 }
