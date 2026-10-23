@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 15,
-  "updatedAt": "2026-10-23T13:26:13.826Z",
+  "revision": 16,
+  "updatedAt": "2026-10-23T14:14:37.205Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-23T01:38:17.989Z",
+      "checkedAt": "2026-10-23T14:14:13.909Z",
       "outcome": "success",
-      "summary": "Rechecked 10 existing official internship/program pages: the live undated applications remain available, and NASA, JPL, DOE and NIH cutoff wording is retained. Added Cato’s paid Spring 2027 policy internship with a confirmed November 1 deadline; the spreadsheet’s October 25 date is outdated. Other internship entries and research streams are preserved."
+      "summary": "Reviewed 12 existing official internship/program pages, prioritizing undated live applications and Cato’s November 1 cutoff. Added three verified paid Summer 2027 placements: St. Jude POE, Amgen U.S.-remote machine learning and Capital One MBA product management. Clarified Optiver’s unlabeled salary period and Veeam’s enrollment wording; other records and streams are preserved."
     },
     {
       "id": "spreadsheet",
@@ -2460,7 +2460,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "Summer 2027 application and two recommendations are due together. CCI has different eligibility and GPA rules from SULI; check the CCI requirements directly.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Verify community-college eligibility and GPA waiver requirements",
         "Request two recommendations early",
@@ -2518,7 +2518,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "The application closes at noon Eastern, not midnight. Reference letters have a separate February 2, 2027 noon Eastern deadline. A submitted application does not guarantee investigator selection.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Check enrollment, age and residency rules",
         "Prepare resume, coursework and personal statement",
@@ -2560,7 +2560,7 @@
       "cycle": "May–August internship · intake year to confirm",
       "sourceState": "Open listing",
       "sourceNote": "An active official Apply option was verified. No closing date or explicit intake year is stated on this role page. Do not treat job-board expiration dates as employer deadlines.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm intake year, work authorization and placement dates",
         "Prepare a research-focused resume and relevant projects",
@@ -2597,7 +2597,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "The official page states applications for selected businesses are open. There is no single published cutoff on this page; choose a live business/location requisition and apply early.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Choose a live business and location requisition",
         "Verify graduation window, pay and work authorization",
@@ -2635,7 +2635,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "Select-business applications are open on the official 2027 program page. No universal application cutoff is published; verify the live requisition before applying.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Identify an open graduate-level business requisition",
         "Confirm degree, experience and location requirements",
@@ -2674,7 +2674,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "Official job 10552937 explicitly accepts applications on an ongoing basis. A rolling window can close when hiring needs change; there is no fixed date to put on the calendar.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Verify graduation window, term remaining and work authorization",
         "Tailor resume with engineering projects and coding experience",
@@ -2713,7 +2713,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "An official Apply option is live for job 10575256. No fixed closing date is published; do not infer a guaranteed application window.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Check graduation dates and no-sponsorship restriction",
         "Prepare a marketing resume with campaign or analytics examples",
@@ -2742,7 +2742,7 @@
       "sourceUrl": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
       "summary": "Software engineering internship building production trading systems at Optiver’s Chicago office. Optiver covers flights, living accommodations and commuting stipends.",
       "eligibility": "Pursuing a bachelor’s, master’s or PhD in Computer Science or Computer Engineering; on track to graduate December 2027–June 2028 with junior standing or higher; proficient in C++, Python or Java. Optiver states it is supportive of U.S. immigration sponsorship for this role. An 8-month re-application cooling-off applies after a prior Optiver tech intern/grad assessment or interview.",
-      "reward": "Base salary range $70,000–$85,000 (annualized figure as published; confirm internship-period pay), plus a sign-on bonus (amount not stated). Optiver covers flights, living accommodations and commuting stipends. No application fee.",
+      "reward": "Published base-salary scale: $70,000–$85,000 USD; the page does not label the pay period. Confirm internship-period pay and any sign-on bonus. Flights, living accommodation and commuting stipends are covered.",
       "value": 4,
       "effort": 7,
       "deadlineDate": "",
@@ -2752,8 +2752,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Verified live on Optiver’s official careers site on 2026-10-21 (posting published 2026-07-01). Salary is published as an annual base range, not total internship earnings.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Official role and Apply link remain live on October 23. The page supports U.S. immigration sponsorship. Its base-salary scale has no explicit pay-period label; it must not be represented as total internship earnings. No fixed closing date is published.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Check graduation window (Dec 2027–Jun 2028) and the 8-month re-apply rule",
         "Tailor resume toward C++/Python/Java systems work",
@@ -2783,7 +2783,7 @@
       "sourceUrl": "https://www.pinterestcareers.com/jobs/7838577/software-engineer-intern-2027-usa/",
       "summary": "Software engineering internship on Pinterest teams in the U.S. for Summer 2027, in two cohorts (May 17–Aug 6 or Jun 14–Sep 3, 2027, about 12 weeks). Placement is hybrid near an office or fully remote within approved locations, confirmed during interviews.",
       "eligibility": "Currently enrolled toward a bachelor’s or master’s in Computer Science or a related technical field, on track to graduate by June 2029; non-academic coding experience expected. U.S.-based applicants only; must be legally authorized to work in the U.S. full-time. The posting states this position is not eligible for immigration sponsorship.",
-      "reward": "Base salary range $8,250–$11,000 per month as published. Housing/relocation support not stated. No application fee.",
+      "reward": "Published base pay: $8,250–$11,000 per month. Housing and relocation support are not stated; confirm any uncovered costs.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "",
@@ -2793,8 +2793,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Verified live on Pinterest’s official careers site on 2026-10-21 (published 2026-10-08). An earlier sweep described this role as remote; the official posting offers hybrid or remote depending on placement.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Official role and Apply link remain live on October 23. Hybrid or remote placement is limited to approved U.S. locations and confirmed during selection. Full-time U.S. work authorization is required; this role does not offer immigration sponsorship. No fixed cutoff is published.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm U.S. work authorization and the no-sponsorship restriction",
         "Tailor resume with project and coding experience",
@@ -3018,10 +3018,10 @@
         "No visa sponsorship"
       ],
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
-      "sourceUrl": "https://careers.veeam.com",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
       "summary": "Hybrid internship in Alpharetta, GA (2–3 days/week in office) building data pipelines and analytics on Veeam’s modern data platform across the full development lifecycle. Program runs June–August 2027; paid hourly.",
       "eligibility": "Rising junior or senior pursuing a bachelor’s in Computer Science, Data Science or a related field at an accredited college/university; SQL, Python and Spark preferred. Applicants must be authorized to work in the U.S.; the posting states Veeam is unable to sponsor or take over sponsorship of an employment visa now or in the future.",
-      "reward": "U.S. intern pay range $20–$25 USD per hour (stated as an hourly base rate), plus a tech stipend and paid company holidays. Housing not stated. No application fee.",
+      "reward": "Published hourly base pay: $20–$25 USD, with a tech stipend and paid company holidays. Housing support is not stated.",
       "value": 4,
       "effort": 5,
       "deadlineDate": "",
@@ -3031,8 +3031,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Verified live via Veeam’s official careers site and its Greenhouse board on 2026-10-21.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Official employer-hosted application remains live on October 23. The overview describes final-year students while the qualifications allow rising juniors or seniors; confirm the applicable cohort. Hybrid attendance is required in Alpharetta, Georgia. No sponsorship now or in the future and no fixed application deadline are stated.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm U.S. work authorization and the no-sponsorship restriction",
         "Tailor resume toward SQL, Python and data pipelines",
@@ -3070,8 +3070,8 @@
       "opensOn": "",
       "cycle": "Intake cycle to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "Verified live on M3 USA’s official SmartRecruiters board on 2026-10-21. An earlier sweep listed this as a Summer 2027 SWE internship; the official title is AI Engineering Intern and the posting names no season — confirm the intake before applying.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Official employer-hosted listing and application option remain live on October 23. Remote is stated, but eligible working locations, duration, pay and work-authorization/sponsorship rules are not published. Confirm these before applying; do not assume worldwide remote eligibility. No fixed deadline or intake year is stated.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm intake season and pay on the live posting",
         "Tailor resume toward AI tooling and shipped projects",
@@ -3440,7 +3440,7 @@
       "cycle": "Spring 2027",
       "sourceState": "Application",
       "sourceNote": "The official application window confirms November 1, correcting the October 25 date in the connected spreadsheet. This is a fixed cutoff, not rolling recruitment.",
-      "checkedOn": "2026-10-22",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Check role eligibility and U.S. work authorization",
         "Prepare resume and required application responses",
@@ -10115,6 +10115,125 @@
         "Review next milestone: Winner announced following week"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "st-jude-poe-summer-2027",
+      "title": "St. Jude Pediatric Oncology Education Internship — Summer 2027",
+      "organization": "St. Jude Children’s Research Hospital",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "Biomedical research",
+        "Computational biology",
+        "Memphis",
+        "On-site",
+        "Summer 2027"
+      ],
+      "url": "https://www.stjude.org/education-training/research-training/undergraduate/poe.html",
+      "sourceUrl": "https://www.stjude.org/education-training/research-training/undergraduate/poe.html",
+      "summary": "Full-time research in Memphis: 11 weeks, or 9–10 for medical students. Start May 10, 17, 24 or June 1, 2027. Clinical tracks are reserved for medical students.",
+      "eligibility": "Full-time students at U.S. schools; U.S. citizen, non-citizen national or permanent resident. Student visas are insufficient. Age 18+ and sophomore year completed by start; prior research required. Undergraduate overall and science/math GPAs must each be at least 3.4. Predoctoral restrictions apply.",
+      "reward": "Allowance paid monthly, equivalent to $600/week before deductions. Free group housing for participants from outside metropolitan Memphis. Travel and family housing are not covered.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "February 1, 2027: application and all credentials. No cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027 page confirms applications are open. Submit well before February: the organizer warns that applications after January 1 risk missing supporting credentials.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify citizenship, GPA and research requirements",
+        "Confirm an eligible start date",
+        "Request recommendations early"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "amgen-undergrad-ml-intern-summer-2027-r255709",
+      "title": "Amgen Undergraduate Machine Learning Engineer Intern — Summer 2027",
+      "organization": "Amgen",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Paid",
+        "Machine learning",
+        "Data engineering",
+        "Biotechnology",
+        "U.S. remote",
+        "Summer 2027"
+      ],
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "summary": "Full-time U.S.-remote placement building data pipelines and supporting ML models for pharmaceutical datasets. Summer 2027; exact dates and duration are not stated.",
+      "eligibility": "18+; full-time bachelor’s student with GPA 3.0+, one year completed before starting and continued enrollment afterward. Must be located and authorized to work in the U.S. throughout. Must be available for future full-time employment by July 2028 if offered; future sponsorship is not guaranteed.",
+      "reward": "Published U.S. base pay: $28.87 per hour. Confirm any equipment, travel or other support.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application deadline; applications continue until sufficient candidates are received or a candidate is selected.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027 — R-255709",
+      "sourceState": "Open listing",
+      "sourceNote": "Employer-hosted job details confirm this requisition is currently accepting applications. Remote means within the United States. No fixed cutoff is published.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify enrollment and U.S. work authorization",
+        "Prepare Python, SQL and ML project examples",
+        "Confirm internship dates and future availability"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "capital-one-mba-product-intern-summer-2027-r244815",
+      "title": "Capital One MBA Product Intern — Summer 2027",
+      "organization": "Capital One",
+      "category": "Internships",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Paid",
+        "MBA",
+        "Product management",
+        "Financial services",
+        "Hybrid",
+        "Summer 2027",
+        "No immigration support"
+      ],
+      "url": "https://www.capitalonecareers.com/job/mclean/mba-product-intern-summer-2027/31238/101906667360",
+      "sourceUrl": "https://www.capitalonecareers.com/job/mclean/mba-product-intern-summer-2027/31238/101906667360",
+      "summary": "Paid ten-week program, June–August 2027, in McLean, Chicago, Richmond or New York. Requires continental-U.S. residence and assigned-office attendance under the hybrid model.",
+      "eligibility": "Two-year MBA student expecting completion by August 2028 or earlier and returning to that MBA after the internship. Prior quantitative/business/marketing degree, or a bachelor’s plus three years of product-management experience. No new-applicant sponsorship or immigration support, including CPT/OPT-related support.",
+      "reward": "Published annualized salary: $169,000–$203,000 depending on location. This is not total ten-week earnings; confirm actual internship pay and benefits.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027 — R244815",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and employer application are live. The stated minimum five-business-day acceptance period is not a closing deadline; no fixed cutoff is published.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Check MBA timing and prior-degree requirements",
+        "Verify work authorization without employer immigration support",
+        "Prepare product strategy and analytics examples"
+      ],
+      "stream": "internships"
     }
   ]
 }
