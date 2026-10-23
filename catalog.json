@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 23,
-  "updatedAt": "2026-10-23T18:55:01.688Z",
+  "revision": 24,
+  "updatedAt": "2026-10-23T19:57:48.614Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-23T14:14:13.909Z",
+      "checkedAt": "2026-10-23T19:57:04.320Z",
       "outcome": "success",
-      "summary": "Reviewed 12 existing official internship/program pages, prioritizing undated live applications and Cato’s November 1 cutoff. Added three verified paid Summer 2027 placements: St. Jude POE, Amgen U.S.-remote machine learning and Capital One MBA product management. Clarified Optiver’s unlabeled salary period and Veeam’s enrollment wording; other records and streams are preserved."
+      "summary": "Reviewed official financial-institution and fintech applications: 17 new 2027 internships across banking, investment management, software, cybersecurity and AI; sponsorship restrictions and confirmed October/November deadlines distinguished. One existing application link flagged for verification."
     },
     {
       "id": "spreadsheet",
@@ -2736,7 +2736,11 @@
         "Trading technology",
         "Chicago",
         "On-site",
-        "Summer 2027"
+        "Summer 2027",
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Supported",
+        "Graduation: 2027-12 to 2028-06"
       ],
       "url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
       "sourceUrl": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
@@ -2751,8 +2755,8 @@
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
-      "sourceState": "Open listing",
-      "sourceNote": "Official role and Apply link remain live on October 23. The page supports U.S. immigration sponsorship. Its base-salary scale has no explicit pay-period label; it must not be represented as total internship earnings. No fixed closing date is published.",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed October 23, 2026: official current jobs board still lists Summer 2027 Software Engineer Chicago and indexed employer text explicitly supports US immigration sponsorship, but direct role and application links return 404 or generic jobs search. A usable application could not be verified. Retained as an availability conflict, not a verified open application.",
       "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Check graduation window (Dec 2027–Jun 2028) and the 8-month re-apply rule",
@@ -11350,6 +11354,702 @@
         "Apply through the organizer and save confirmation"
       ],
       "stream": "trading"
+    },
+    {
+      "id": "finance-jpmorganchase-2027-210774716",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
+      "organization": "JPMorganChase",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "United Kingdom",
+        "Graduation: 2028-01 to 2028-07"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716/",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716/",
+      "summary": "Build and optimize digital applications and systems; design, develop, test, and troubleshoot software with training and mentorship. HackerRank coding challenge is required if advanced. Location: Glasgow and London, United Kingdom. Summer 2027; exact start/end and role-specific duration not stated. Duration: Role does not state exact duration. Employer's general internship overview describes 10–12 weeks, which is not a role-specific commitment..",
+      "eligibility": "Bachelor's or master's degree; expected graduation January 2028 through July 2028. Computer Science, Information Science, Information Technology, Data Science, Artificial Intelligence, Big Data, or related fields; oral and written English. Unknown / not stated in this role listing",
+      "reward": "Not published in role listing. Confirm actual internship compensation and any relocation costs.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Apply Before 11/01/2026, 05:55 PM (browser display); time zone not printed. Search-rendered official page shows 11/01/2026, 11:55 PM, indicating localization.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Live official job details and application entry verified. No role-specific sponsorship commitment or prohibition is published; confirm before assuming support. Oracle renders different local clock times without a printed timezone; November 1 is retained as date-only. Classes may fill before that date.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-jpmorganchase-2027-210776172",
+      "title": "2027 Software Engineer Program - Summer Internship - Dublin",
+      "organization": "JPMorganChase",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Ireland",
+        "Graduation: 2027-12 to 2028-08"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210776172",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210776172",
+      "summary": "Build digital applications and systems in an engineering team, with induction, networking, senior speaker sessions, and peer mentorship. HackerRank coding challenge is required if advanced. Location: Dublin, Ireland. Summer 2027; exact start/end and role-specific duration not stated. Duration: Role does not state exact duration. Employer's general internship overview describes 10–12 weeks, which is not a role-specific commitment..",
+      "eligibility": "Bachelor's or master's degree; expected graduation December 2027 through August 2028. Computer Science, Information Science, Information Technology, Data Science, Artificial Intelligence, Big Data, or related fields; oral and written English. Unknown / not stated in this role listing",
+      "reward": "Not published in role listing. Confirm actual internship compensation and any relocation costs.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Apply Before 11/01/2026, 05:55 PM (browser display); time zone not printed. Search-rendered official page shows 11/01/2026, 11:55 PM, indicating localization.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Live official job details and application entry verified. No role-specific sponsorship commitment or prohibition is published; confirm before assuming support. Oracle renders different local clock times without a printed timezone; November 1 is retained as date-only. Classes may fill before that date.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-ubs-2027-342877br",
+      "title": "2027 Summer Internship - Technology - NY/ NJ",
+      "organization": "UBS",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "United States",
+        "Graduation: 2027-12 to 2028-06"
+      ],
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=350352&partnerid=25008&siteid=5131",
+      "sourceUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=350352&partnerid=25008&siteid=5131",
+      "summary": "Group Technology Office placements can include Technology Engineer, Data Engineer, Technology Support Analyst, or System Analyst Intern. Develop digital products and technology services and improve data quality and flows. Location: New York, New York and Weehawken, New Jersey, United States. Summer 2027; exact dates not stated. Duration: 10 weeks, paid.",
+      "eligibility": "December 2027 through June 2028. Cumulative GPA 3.2 or higher; proficiency in Java, C# or C++; Computer Science, Engineering and STEM preferred; all majors welcome. Not eligible for employment-based immigration sponsorship. UBS also will not assist or sign documentation for other sponsorship, including OPT or CPT.",
+      "reward": "Paid 10-week internship. Indicative gross base pay USD $50.48–$52.88 per hour; listed range excludes benefits and additional incentives.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published in role listing",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-deutsche-bank-2027-utrm7yhsin2pudx_g6rh2w",
+      "title": "Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2027",
+      "organization": "Deutsche Bank",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "United States",
+        "Graduation: 2027-12 to 2028-07"
+      ],
+      "url": "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w",
+      "sourceUrl": "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w",
+      "summary": "Hands-on coding in languages including Java and Python, cloud and AI technology, and technology solution development in an Agile team. Location: New York, United States. June–August 2027; exact start/end dates not stated. Duration: 10 weeks; full-time availability required.",
+      "eligibility": "All final exams, coursework and other graduation requirements completed December 1, 2027 through July 31, 2028. Bachelor/Master of Science in Computer Science, Engineering, Mathematics, or related field; no more than 12 months relevant full-time work experience. Only applicants presently authorized to work for any US employer and who will not require Deutsche Bank work visa sponsorship now or in the future are considered.",
+      "reward": "USD $100,000 annualized salary, excluding incentives or other remuneration; this is not total pay for the 10-week internship.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published in role listing",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-bny-2027-81318",
+      "title": "2027 BNY Internship Program -Engineering (Developer) (Manchester)",
+      "organization": "BNY",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "United Kingdom"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81318/",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81318/",
+      "summary": "Contribute to software designs, features, APIs, automation, developer tools and platforms; use approved AI coding tools and modern engineering practices such as code review, automated testing and CI/CD. Location: Greater Manchester, United Kingdom. Summer 2027; exact dates not stated. Duration: 10 weeks.",
+      "eligibility": "December 2027 or Summer 2028. Enrollment in a 3- or 4-year undergraduate degree; business-related and/or technology-related majors preferred; on track for a 2.1 or higher. Must not require employment visa sponsorship now or in the future in the country of application.",
+      "reward": "Competitive compensation described; no numerical amount or pay period published. Confirm actual internship compensation and any relocation costs.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published in role listing",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship. Employer says graduation December 2027 or Summer 2028; no exact monthly graduation match is inferred.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-bny-2027-81322",
+      "title": "2027 BNY Internship Program -Engineering (Data Science) (Manchester)",
+      "organization": "BNY",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "United Kingdom"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81322/",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81322/",
+      "summary": "Apply data science to business and engineering problems, profile data, engineer features, build analytical models and tools, and develop programming and machine learning skills. Location: Greater Manchester, United Kingdom. Summer 2027; exact dates not stated. Duration: 10 weeks.",
+      "eligibility": "December 2027 or Summer 2028. Enrollment in a 3- to 4-year undergraduate degree; business-related and/or technology-related majors preferred; on track for a 2.1 or higher. Must not require employment visa sponsorship now or in the future in the country of application.",
+      "reward": "Competitive compensation described; no numerical amount or pay period published. Confirm actual internship compensation and any relocation costs.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published in role listing",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship. Employer says graduation December 2027 or Summer 2028; no exact monthly graduation match is inferred.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-citi-2027-26999062",
+      "title": "Technology - Cyber Security, Summer Analyst, Warsaw 2027",
+      "organization": "Citi",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Poland",
+        "Graduation: 2027-12 to 2028-07"
+      ],
+      "url": "https://jobs.citi.com/job/warsaw/technology-cyber-security-summer-analyst-warsaw-2027/287/102161061248",
+      "sourceUrl": "https://jobs.citi.com/job/warsaw/technology-cyber-security-summer-analyst-warsaw-2027/287/102161061248",
+      "summary": "Chief Information Security Office work covering digital architecture, cyber defenses, enterprise resiliency and business continuity. Listed as On-Site/Resident, while benefits text describes up to two home-working days per week; clarify arrangement with employer. Location: Warsaw, Mazovia, Poland. Starts June 2027; end date not published. Duration: Not specified in this Warsaw role; do not import the 10-week wording from the separate Philippines roles.",
+      "eligibility": "December 2027 through July 2028. Bachelor's degree in Cyber Security, Information Technology, Management Information Systems or another technology-related degree; basic algorithmic programming technical interviews. Authorized to work in Poland without employer sponsorship now or in the future.",
+      "reward": "Published Primary Location Full Time Salary Range: PLN 57,672–72,000. Pay period is not stated; confirm internship pay and units.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published in role listing",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-point72-swe-2027-8885733002-2027",
+      "title": "2027 Summer Internship – Software Engineer",
+      "organization": "Point72",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "United States"
+      ],
+      "url": "https://careers.point72.com/CSJobDetail?jobCode=IVS-0015454&locale=English&location=New+York&retURL=%2FCSCareerSearch",
+      "sourceUrl": "https://careers.point72.com/CSJobDetail?jobCode=IVS-0015454&locale=English&location=New+York&retURL=%2FCSCareerSearch",
+      "summary": "2027 Summer Internship – Software Engineer. Location: New York, NY, United States. Duration: Not specified on this role's public posting.",
+      "eligibility": "Bachelor's degree expected Fall 2027–Spring 2028; programming Python, Java, C++ or similar; software development tools such as Git/JIRA. Role does not publish a sponsorship commitment; confirm country-specific work authorization.",
+      "reward": "$130,000 USD annual base salary, prorated to internship start/end dates; current Greenhouse says this excludes overtime compensation.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Posting makes no sponsorship promise or prohibition. Live application asks whether legally authorized in US and whether current/future employer sponsorship needed (including F-1 CPT/OPT, J-1, TN, H1-B, O-1); questions alone do not establish support. Official role and matching application entry verified. ",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-blackstone-bxti-london-45358-2027",
+      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
+      "organization": "Blackstone",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "United Kingdom"
+      ],
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
+      "sourceUrl": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
+      "summary": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst. Location: London, United Kingdom. Duration: 10 weeks, in person.",
+      "eligibility": "Currently enrolled undergraduate or master's student; anticipated graduation Summer 2028. PDF CV must include graduation month/year and grade. Role does not publish a sponsorship commitment; confirm country-specific work authorization.",
+      "reward": "Not stated",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-10-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications will close on Friday 30 October 2026; reviewed on an ongoing basis",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "No role-specific sponsorship or work-authorization terms in public JD. Citizenship EEO wording is not sponsorship evidence. Official role and matching application entry verified. ",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-deshaw-software-developer-5894-2027",
+      "title": "Software Developer Intern (New York) – Summer 2027",
+      "organization": "D. E. Shaw Group",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "United States"
+      ],
+      "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+      "sourceUrl": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
+      "summary": "Software Developer Intern (New York) – Summer 2027. Location: New York, NY, United States. Duration: 12 weeks, expected June–August 2027.",
+      "eligibility": "Full-time degree enrollment; students usually approaching final year. Strong programming and technical/quantitative coursework; no previous finance experience needed. Role does not publish a sponsorship commitment; confirm country-specific work authorization.",
+      "reward": "$25,000 monthly base plus overtime; $25,000 sign-on; travel; furnished housing or $10,000 allowance; $3,300 self-study stipend and $4,000 personal technology stipend.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Role prints no deadline. Official internships page says rolling applications and recommends applying by previous calendar year-end; intern selection typically completed early Q1 of internship year.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Role JD has no commitment or prohibition. Live form asks whether sponsorship is required to obtain/maintain/extend employment authorization, with explanation box. This is not a support commitment. Official role and matching application entry verified.  Official internships guidance describes rolling applications and recommends applying by the previous calendar year-end; this is guidance, not a fixed role cutoff. https://www.deshaw.com/careers/internships",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-millennium-applied-ai-ny-REQ-30174-2027",
+      "title": "2027 Applied AI Engineer Intern, New York",
+      "organization": "Millennium",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "United States",
+        "Graduation: 2027-12 to 2028-07",
+        "Confirm program dates"
+      ],
+      "url": "https://campusjobs.mlp.com/careers/job/755957778821?microsite=campus-site",
+      "sourceUrl": "https://campusjobs.mlp.com/careers/job/755957778821?microsite=campus-site",
+      "summary": "2027 Applied AI Engineer Intern, New York. Location: New York, NY, United States. Duration: Not stated on role; confirm summer dates/duration.",
+      "eligibility": "Graduating December 2027–July 2028; bachelor's/master's AI, CS, software engineering or related; expected GPA 3.5+; programming, LLM/ML knowledge, SQL/NoSQL. Role does not publish a sponsorship commitment; confirm country-specific work authorization.",
+      "reward": "Fresh browser shows estimated annual compensation package $183,000–$220,000 for New York. This is annual package, not internship total; earlier indexed snippet only displayed $220,000.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated; maximum 2 applications across businesses/offices",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 internship — summer dates to confirm",
+      "sourceState": "Open listing",
+      "sourceNote": "Public pre-authentication JD makes no sponsorship/work authorization statement. Questions beyond sign-in not inspected. Official role and matching application entry verified. Current campus program is 2027, but role-specific summer dates must be confirmed. Maximum two applications across businesses/offices.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "finance-evercore-wealth-3280-2027",
+      "title": "2027 Evercore Wealth Management Summer Analyst Program – New York",
+      "organization": "Evercore",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance analyst",
+        "Sponsorship: Not offered",
+        "United States",
+        "Graduation: 2028",
+        "Wealth management"
+      ],
+      "url": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3280-2027-Evercore-Wealth-Management-Summer-Analyst-Program-New-York/en-GB",
+      "sourceUrl": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3280-2027-Evercore-Wealth-Management-Summer-Analyst-Program-New-York/en-GB",
+      "summary": "Wealth management, investment research and client-service experience. 2027 Evercore Wealth Management Summer Analyst Program – New York. Location: New York, NY, United States. Duration: 10 weeks.",
+      "eligibility": "Undergraduate junior Class of 2028; strong interest in wealth management; analytical, academic and interpersonal strength. Requires valid US work authorization; position is not eligible for visa sponsorship.",
+      "reward": "Expected Base Salary Range $80,000–$80,000. Period unspecified on posting; do not label annual or summer total.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not printed on direct role page; official board currently CAPTCHA protected so board deadline unverified",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "This position requires valid United States work authorization and is not eligible for visa sponsorship. Official role and matching application entry verified.  Direct role application reaches registration/login. No closing date printed; the jobs board could not be fully inspected. This is wealth management, not an investment-banking or technology role.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "bofa-global-technology-2027-14418",
+      "title": "Global Technology Summer Analyst 2027 — Software Engineer and Mainframe Analyst",
+      "organization": "Bank of America",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-11 to 2028-08",
+        "United States"
+      ],
+      "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
+      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
+      "summary": "10-week technology internship with in-person orientation and office-based team work. Software Engineer and Mainframe Analyst track. Locations: Charlotte, Chicago, Dallas Metro, New York City Metro, Pennington NJ and Phoenix, United States.",
+      "eligibility": "Undergraduate or master’s candidate, expected graduation November 2027–August 2028; technical or related field. Preferred GPA 3.5. Review exact discipline and experience rules for this track. Sponsorship is not stated in this role; confirm directly.",
+      "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-07",
+      "deadlineAt": "",
+      "sourceDeadline": "7 November 2026 (application deadline); no cutoff time or timezone printed.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official role and campus application page reviewed. Employer describes rolling recruitment and may assess before closing. Campus limit: three US/Canada applications, eight globally, with additional regional limits; choose tracks carefully.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Choose tracks within Bank of America’s three US/Canada application limit",
+        "Confirm sponsorship and location-specific eligibility",
+        "Tailor resume and complete the official application",
+        "Finish required assessments promptly and record progress privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "bofa-global-technology-2027-14419",
+      "title": "Global Technology Summer Analyst 2027 — Business Analyst",
+      "organization": "Bank of America",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-11 to 2028-08",
+        "United States"
+      ],
+      "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations",
+      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations",
+      "summary": "10-week technology internship with in-person orientation and office-based team work. Business Analyst track. Locations: Charlotte, Chicago, Dallas Metro, New York City Metro, Pennington NJ and Phoenix, United States.",
+      "eligibility": "Undergraduate or master’s candidate, expected graduation November 2027–August 2028; technical or related field. Preferred GPA 3.5. Review exact discipline and experience rules for this track. Sponsorship is not stated in this role; confirm directly.",
+      "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-07",
+      "deadlineAt": "",
+      "sourceDeadline": "7 November 2026 (application deadline); no cutoff time or timezone printed.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official role and campus application page reviewed. Employer describes rolling recruitment and may assess before closing. Campus limit: three US/Canada applications, eight globally, with additional regional limits; choose tracks carefully.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Choose tracks within Bank of America’s three US/Canada application limit",
+        "Confirm sponsorship and location-specific eligibility",
+        "Tailor resume and complete the official application",
+        "Finish required assessments promptly and record progress privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "bofa-global-technology-2027-14391",
+      "title": "Global Technology Summer Analyst 2027 — Cybersecurity Analyst",
+      "organization": "Bank of America",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-11 to 2028-08",
+        "United States"
+      ],
+      "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations",
+      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations",
+      "summary": "10-week technology internship with in-person orientation and office-based team work. Cybersecurity Analyst track. Locations: Charlotte, Dallas and Denver, United States.",
+      "eligibility": "Undergraduate or master’s candidate, expected graduation November 2027–August 2028; technical or related field. Preferred GPA 3.5. Review exact discipline and experience rules for this track. Sponsorship is not stated in this role; confirm directly.",
+      "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-07",
+      "deadlineAt": "",
+      "sourceDeadline": "7 November 2026 (application deadline); no cutoff time or timezone printed.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official role and campus application page reviewed. Employer describes rolling recruitment and may assess before closing. Campus limit: three US/Canada applications, eight globally, with additional regional limits; choose tracks carefully.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Choose tracks within Bank of America’s three US/Canada application limit",
+        "Confirm sponsorship and location-specific eligibility",
+        "Tailor resume and complete the official application",
+        "Finish required assessments promptly and record progress privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "blackrock-amers-summer-2027-11986",
+      "title": "2027 Summer Internship Program — AMERS (Technology, Analytics & other functions)",
+      "organization": "BlackRock",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Finance analyst",
+        "Sponsorship: Conditional",
+        "Graduation: 2027-09 to 2028-07",
+        "United States",
+        "Canada"
+      ],
+      "url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+      "sourceUrl": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
+      "summary": "Nine-week internship, June–August 2027, across selected US and Canadian offices. Technology and Analytics & Risk are among the functions; function availability varies by office.",
+      "eligibility": "Undergraduate or master’s students graduating September 2027–July 2028. Sponsorship is possible in limited cases depending on business needs and is not guaranteed, per Americas candidate FAQ. Check country and function requirements.",
+      "reward": "US Technology hourly ranges: $50.48–$60.10 in CA/NY/WA/DC; $40.87–$53.85 in FL/GA/IL/MA/NJ/DE. Other functions and Canadian compensation differ; confirm selected office.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed application closing date published. Apply early; availability may change.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official program and live application form reviewed. Sponsorship policy: https://careers.blackrock.com/en/candidate-faqs-americas . Program and FAQ state differing application/function limits; confirm current portal limits. Required assessment/coding challenge is due within five calendar days of submission; this is not a program closing date.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Confirm limited sponsorship support for selected office/function",
+        "Choose functions within current application and regional limits",
+        "Apply and complete assessment within five calendar days",
+        "Save submission and assessment dates privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "revolut-frontend-summer-2027-cb1769cb",
+      "title": "Internship Programme 2027 — Software Engineer (Frontend)",
+      "organization": "Revolut",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Summer 2027",
+        "Finance technology",
+        "Fintech",
+        "Sponsorship: Conditional",
+        "Graduation: 2028",
+        "Hybrid",
+        "United Kingdom",
+        "Poland",
+        "Portugal",
+        "UAE",
+        "Spain"
+      ],
+      "url": "https://www.revolut.com/careers/position/cb1769cb-4903-4525-982f-734217331544/",
+      "sourceUrl": "https://www.revolut.com/careers/position/cb1769cb-4903-4525-982f-734217331544/",
+      "summary": "8–10 paid weeks starting June/July 2027, building React/TypeScript interfaces. Hybrid: at least three office days weekly. Listed offices include Barcelona, Dubai, Krakow, Lisbon, London and Madrid; remote labels are country-restricted.",
+      "eligibility": "Penultimate-year bachelor’s/master’s in CS, maths, physics or similar, graduating 2028; English fluency, React/TypeScript and coding portfolio. International relocation and visa assistance offered with conditions for tech hubs in Poland, Portugal, UAE or UK; confirm selected location.",
+      "reward": "Poland/Krakow: PLN 9,500 gross per month. Other locations discuss pay during interviews. Conditional visa assistance, travel and accommodation support; confirm terms.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications open from May 2026; recruitment July–December 2026. Roles filled on a rolling basis. No fixed application cutoff published.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching live application form reviewed. Remote does not mean worldwide remote; JD requires office attendance. Spain appears in location options, but international support paragraph names Poland, Portugal, UAE and UK, so support in Spain is unconfirmed.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review degree, work authorization and sponsorship requirements",
+        "Tailor resume to this requisition",
+        "Complete the official application and any assessment",
+        "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
     }
   ]
 }
