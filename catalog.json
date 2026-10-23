@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 21,
-  "updatedAt": "2026-10-23T17:49:07.182Z",
+  "revision": 22,
+  "updatedAt": "2026-10-23T18:08:20.104Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-10-21T23:46:02.230Z",
+      "checkedAt": "2026-10-23T14:44:13.000Z",
       "outcome": "success",
-      "summary": "CME Group Trading Challenge verified on the official CME Institute page: entry closes 5:00 p.m. CT on Nov 15, 2026, with confirmed dates and prizes; the entry is now a confirmed Application with an exact deadline. Optiver’s student programs directory was recategorized from Career & sales to Opportunity hubs so directories group together. Other entries preserved."
+      "summary": "Rechecked the active Columbia Trading Tournament on its official page and added Citadel Securities’ live Trading Invitational listing. The new listing explicitly covers selected participants’ travel and accommodations; no application cutoff, event dates, prize amounts or entry fee are published."
     },
     {
       "id": "travel",
@@ -1897,8 +1897,8 @@
       "opensOn": "",
       "cycle": "Fall 2026",
       "sourceState": "Application",
-      "sourceNote": "Organizer confirms October 23 at 11:59 PM ET and the December 2026 event. Stipends depend on travel origin; check the awarded amount before booking. Current organizer page checked on October 21, 2026.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer page rechecked October 23, 2026: applications remain open through October 23 at 11:59 PM ET. Stipends depend on travel origin; check the awarded amount before booking.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -11313,6 +11313,43 @@
         "Review required materials: Research abstract (oral/poster) + short travel-award form; awards favor presenters"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "citadel-trading-invitational-live",
+      "title": "Citadel Securities Trading Invitational",
+      "organization": "Citadel Securities",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Quantitative trading",
+        "Market simulation",
+        "Sponsored travel",
+        "Cash prizes"
+      ],
+      "url": "https://www.citadelsecurities.com/careers/programs-and-events/the-trading-invitational/",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/programs-and-events/the-trading-invitational/",
+      "summary": "A Citadel Securities simulated quantitative-trading scenario that gives participants exposure to the work of a quantitative trader. The organizer’s current page invites students to apply; program location and event dates are not published.",
+      "eligibility": "First- and second-year undergraduate students with an interest in markets and quantitative trading. Geographic, age and other program-term requirements are not stated on the current listing; applicants should review the program terms.",
+      "reward": "Citadel Securities states that travel and accommodations are covered for participants, and that winners receive prizes. Prize amounts and any entry fee are not stated.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application cutoff, event date or time is published on the current organizer page.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Live listing · cycle unannounced",
+      "sourceState": "Open listing",
+      "sourceNote": "Official organizer page reviewed October 23, 2026. It explicitly says “Apply to compete” and confirms covered travel/accommodations, but does not publish a deadline, location, event date, prize amount or fee. Verify program terms before applying or booking travel.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Review the program terms and confirm eligibility",
+        "Prepare the required materials",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
     }
   ]
 }
