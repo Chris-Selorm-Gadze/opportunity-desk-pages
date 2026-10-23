@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 16,
-  "updatedAt": "2026-10-23T14:14:37.205Z",
+  "revision": 17,
+  "updatedAt": "2026-10-23T14:14:40.424Z",
   "streams": [
     {
       "id": "internships",
@@ -27,9 +27,9 @@
     {
       "id": "travel",
       "label": "Sponsored travel & leadership",
-      "checkedAt": "2026-10-21T23:46:02.230Z",
+      "checkedAt": "2026-10-23T14:14:38.111Z",
       "outcome": "success",
-      "summary": "Added three verified leadership/fellowship leads: NSBE 2027 workshop & presenter proposals (due Nov 11, 2026), Contrary Research Fellowship Q4 cohort (due Dec 9, 2026), and KP Fellows 2027 as a needs-verification watch entry because no deadline is published on Kleiner Perkins’ official site. Existing travel entries preserved."
+      "summary": "Rechecked five existing organizer pages and added two verified, fully funded leadership/policy opportunities: Budapest’s Global Leadership Dialogue and Silverado’s U.S. Catherine Hinman Fellowship. Fees, exclusions and competitive selection are labeled."
     }
   ],
   "opportunities": [
@@ -1378,7 +1378,7 @@
       "sourceUrl": "https://usa.globalbusinesssymposium.com/",
       "summary": "Leadership training in the United States, June 9–12, 2027. Competitive fully and partially funded places.",
       "eligibility": "Age 18+; students, professionals, entrepreneurs and community leaders. English proficiency required.",
-      "reward": "25 selected fully funded places: return international airfare, stay, meals and program access; 75 partial places exclude airfare. Application fee requires confirmation.",
+      "reward": "25 selected fully funded places: return international airfare, accommodation, meals, official invitation letter, certification access and summit-fee waiver; 75 partial places exclude airfare. The public overview displays $30 beside funded opportunities but does not clearly label it; confirm before paying.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "",
@@ -1388,8 +1388,8 @@
       "opensOn": "",
       "cycle": "2027 · verify current intake",
       "sourceState": "Needs verification",
-      "sourceNote": "Organizer confirms funding categories and event dates but no fixed application cutoff in the readable page. Earlier search reported a $30 fee; reconfirm at checkout before paying. Funding is competitive, not guaranteed.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer confirms funding categories, event dates and coverage but publishes no fixed application cutoff in the readable page. The displayed $30 is not clearly labeled as an application fee. Funding is competitive, not guaranteed.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -1426,8 +1426,8 @@
       "opensOn": "",
       "cycle": "2027 · verify current intake",
       "sourceState": "Needs verification",
-      "sourceNote": "Current organizer page confirms benefits and fee. No fixed application cutoff was found. Visa decisions remain with the relevant government; confirm award and funding arrangements with the organizer.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer confirms 50 fully funded seats, airfare, lodging, meals, visa cost and forum access; no fixed application cutoff was found. Visa issuance remains a government decision; confirm award and funding arrangements with the organizer.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -1455,7 +1455,7 @@
       "sourceUrl": "https://globalfuturenetwork.com/",
       "summary": "Leadership and policy summit in Manchester, UK, April 15–18, 2027.",
       "eligibility": "Any nationality, age 16–45; sessions in English.",
-      "reward": "30 fully funded places and 40 partial places. Earlier search reported return airfare and a £13.99 fee; current funding terms and fee need reconfirmation.",
+      "reward": "30 competitive fully funded seats cover return airfare (organizer books and issues ticket), airport transfers, shared 4-star accommodation, forum meals, invitation/embassy support, programme, kit and certificate. Visa fees and travel insurance are excluded. £13.99 scholarship-application processing fee; 40 partial seats have different coverage.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2027-01-15",
@@ -1465,8 +1465,8 @@
       "opensOn": "",
       "cycle": "2027 · verify current intake",
       "sourceState": "Application",
-      "sourceNote": "Organizer confirms event dates, age range and application cutoff at 11:59 PM GMT. Detailed flight, insurance and visa cost coverage must be verified before payment.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer confirms the 15 January cutoff, 30 full and 40 partial seats, airfare booking, fee, and visa/travel-insurance exclusions. Funding is competitive.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -1500,8 +1500,8 @@
       "opensOn": "",
       "cycle": "2027–2028",
       "sourceState": "Application",
-      "sourceNote": "Organizer announcement states the exact deadline and covered expenses. This is an experienced-professional fellowship, not an undergraduate program.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer’s current fellowship page confirms deadline, LMIC/work/degree restrictions, and coverage of flights, housing, visa fees and living stipend for six weeks in Cambridge.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -1539,8 +1539,8 @@
       "opensOn": "",
       "cycle": "2027",
       "sourceState": "Application",
-      "sourceNote": "Organizer FAQ confirms the funded-track deadline. Airfare is described as support; confirm the cap, booking method and uncovered costs before paying. Paid guaranteed passes are separate.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer confirms 25 full and 25 partial funded seats, deadline and inclusions. The organizer calls airfare ‘support’; confirm cap, booking method and uncovered costs before paying. Paid guaranteed passes are separate.",
+      "checkedOn": "2026-10-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -10234,6 +10234,88 @@
         "Prepare product strategy and analytics examples"
       ],
       "stream": "internships"
+    },
+    {
+      "id": "gld-budapest-2027",
+      "title": "Global Leadership Dialogue 2027 — Budapest",
+      "organization": "World Leadership & Policy Institute",
+      "category": "Travel & leadership",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Professional",
+        "Founder"
+      ],
+      "tags": [
+        "Leadership",
+        "Policy",
+        "Sponsored travel",
+        "International conference",
+        "Budapest"
+      ],
+      "url": "https://www.wlpi.org/fully-funded-registration",
+      "sourceUrl": "https://www.wlpi.org/global-leadership-dialogue-2027",
+      "summary": "International leadership, diplomacy and innovation conference in Budapest, Hungary, April 26–29, 2027.",
+      "eligibility": "Open to people age 16+ of all nationalities and academic/professional backgrounds; selection is merit based. Verify any visa requirements.",
+      "reward": "20 competitive fully funded seats list round-trip airfare, 4/5-star accommodation, breakfast and lunch, airport transfers, invitation letter, visa support/guidance, programme, activities, kit and certificate. Public registration checkout displays €21.49 total (€15.99 processing + €5.50 service/transaction fee). Visa approval, visa fees, travel insurance and other incidentals are not stated as covered.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-20",
+      "deadlineAt": "2027-01-20T22:59:00Z",
+      "sourceDeadline": "20 January 2027, 11:59 PM CET",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Coverage, 20 fully funded seats, eligibility, deadline and checkout charges were confirmed on the organizer’s official pages on 2026-10-23. Fully funded selection is competitive.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Confirm eligibility and all funding conditions",
+        "Prepare application materials",
+        "Submit via organizer and retain confirmation"
+      ],
+      "stream": "travel"
+    },
+    {
+      "id": "hinman-fellowship-2027",
+      "title": "Catherine Hinman Memorial Fellowship — Summer 2027",
+      "organization": "Silverado Policy Accelerator",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Policy",
+        "Economics",
+        "International affairs",
+        "Washington DC",
+        "Fully funded"
+      ],
+      "url": "https://silverado.org/hinmanfellowship/",
+      "sourceUrl": "https://silverado.org/hinmanfellowship/",
+      "summary": "An 8–10 week, in-person Washington, DC policy fellowship in summer 2027 with research, mentoring, career seminars and networking.",
+      "eligibility": "U.S. citizens or people already authorized to work in the United States; Silverado does not sponsor work authorization. Graduate students or undergraduate seniors in a 4+1 program with relevant interest in trade, industrial security, climate/ecological/economic security, and little or no DC work/living experience.",
+      "reward": "Fully funded: round-trip relocation travel from anywhere in the United States, arranged and covered housing, and a $5,000 stipend paid in two installments. International travel, work-authorization sponsorship and other costs are not covered or stated.",
+      "value": 4,
+      "effort": 320,
+      "deadlineDate": "2027-01-09",
+      "deadlineAt": "",
+      "sourceDeadline": "Submit before January 9, 2027; no cutoff time/timezone published. Review begins November 2026 and is rolling, so earlier applications are read earlier.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-19",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Funding, U.S. travel scope, eligibility and January 9 cutoff were confirmed on Silverado’s official fellowship page on 2026-10-23.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Confirm work authorization and academic eligibility",
+        "Prepare CV, transcripts and cover letter",
+        "Apply early and save confirmation"
+      ],
+      "stream": "travel"
     }
   ]
 }
