@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 17,
-  "updatedAt": "2026-10-23T14:14:40.424Z",
+  "revision": 18,
+  "updatedAt": "2026-10-23T14:30:38.440Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-23T13:26:02.301Z",
+      "checkedAt": "2026-10-23T14:28:26.457Z",
       "outcome": "success",
-      "summary": "Read 138 spreadsheet opportunities: 0 new, 138 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 157 spreadsheet opportunities: 18 new, 138 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -8802,14 +8802,14 @@
     {
       "sheet": {
         "key": "24fcaa81b5b45bb5479b2702365ad06ebde3f83f80fbcfafc7f015037471b407",
-        "hash": "54ed940e107afd466d278952c10100e710597437c7219083be37c2458ded4855",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "be9c92088e214b453528625bef6da0a886eab606752f08abb0814a27ed1d5da4",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
         "present": true,
         "fields": {
           "title": "WVU Translational Research in Behavior Science NSF REU 2027",
           "category": "Paid undergraduate research / psychology",
-          "deadline": "Application opens Oct 2026; final deadline not yet posted",
-          "milestone": "Check application portal for 2027 opening/deadline",
+          "deadline": "2027-02-15 (NOW PUBLISHED; application OPEN)",
+          "milestone": "Spreadsheet reports the 2027 application is open; independently verify. The organizer page returned an access error during this check.",
           "programDates": "2027-06-04 to 2027-07-30; Morgantown WV",
           "funding": "$6,300 stipend ($700/week) + food stipend + lodging + travel reimbursement",
           "location": "Housing/food stipend/travel covered",
@@ -8834,15 +8834,15 @@
       ],
       "url": "https://www.psyc-reu-wvu.com/",
       "sourceUrl": "https://www.psyc-reu-wvu.com/",
-      "summary": "Paid undergraduate research / psychology. Program dates: 2027-06-04 to 2027-07-30; Morgantown WV. Location / format: Housing/food stipend/travel covered. Next milestone: Check application portal for 2027 opening/deadline",
+      "summary": "Paid undergraduate research / psychology. Program dates: 2027-06-04 to 2027-07-30; Morgantown WV. Location / format: Housing/food stipend/travel covered. Next milestone: Spreadsheet reports the 2027 application is open; independently verify. The organizer page returned an access error during this check.",
       "eligibility": "Rising sophomores–seniors; psychology/closely related major; >=2.8 psychology GPA; NSF requires US citizen, national or permanent resident; F-1 NOT eligible",
       "reward": "$6,300 stipend ($700/week) + food stipend + lodging + travel reimbursement",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "",
+      "deadlineDate": "2027-02-15",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: Application opens Oct 2026; final deadline not yet posted",
-      "confidence": "Unknown",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-15 (NOW PUBLISHED; application OPEN)",
+      "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027 · WVU Translational Research in Behavior Science NSF REU 2027",
       "sourceState": "Needs verification",
@@ -8851,7 +8851,7 @@
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: REU application (requirements not yet finalized for 2027)",
-        "Review next milestone: Check application portal for 2027 opening/deadline"
+        "Review next milestone: Spreadsheet reports the 2027 application is open; independently verify. The organizer page returned an access error during this check."
       ],
       "stream": "spreadsheet"
     },
@@ -10316,6 +10316,1003 @@
         "Apply early and save confirmation"
       ],
       "stream": "travel"
+    },
+    {
+      "sheet": {
+        "key": "aeec3724ff473fdcc6609bd9edbfa866a041016aa495b45d009bb976aa2c7fb9",
+        "hash": "8b383e4076ad1eb53cfe85dc20ff50ba25780b481849eb3fe35c8baf56447a0e",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Essential Visionaries Scholarship Fund 2027",
+          "category": "Renewable undergraduate scholarship / psychology & nursing",
+          "deadline": "2026-12-14 15:00 CT",
+          "milestone": "OPEN; prepare transcript, tax documentation, three essays",
+          "programDates": "2027-2028 academic year; award payment Aug 2027",
+          "funding": "Up to $10,000 at 4-year colleges; up to $5,000 at 2-year/technical schools; renewable up to 4 additional years (subject to rules)",
+          "location": "Scholarship paid via Scholarship America; no travel",
+          "eligibility": "US-residing high school seniors or undergraduates; 2.5+ GPA; psychology/counseling/social work/education majors must commit to K-12 work; nursing exempt from K-12 condition; no explicit citizen restriction; F-1 confirm tax documentation and eligibility",
+          "materials": "Transcript; most recent IRS 1040 first two pages (ask about 1040-NR if international); 3 essays; financial need",
+          "url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/"
+        },
+        "verifiedAt": "2026-10-23T14:28:26.457Z"
+      },
+      "id": "sheet-essential-visionaries-scholarship-fund-2027-aeec3724ff47",
+      "title": "Essential Visionaries Scholarship Fund 2027",
+      "organization": "Scholarship America",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "renewable",
+        "undergraduate",
+        "scholarship",
+        "psychology",
+        "nursing"
+      ],
+      "url": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
+      "sourceUrl": "https://scholarshipamerica.org/scholarship/essentialvisionaries/",
+      "summary": "Renewable undergraduate scholarship / psychology & nursing. Program dates: 2027-2028 academic year; award payment Aug 2027. Location / format: Scholarship paid via Scholarship America; no travel. Next milestone: OPEN; prepare transcript, tax documentation, three essays",
+      "eligibility": "U.S.-resident high school seniors, graduates, GED graduates or undergraduates planning eligible undergraduate study throughout the upcoming academic year; GPA 2.5+. Eligible fields: education, counseling, social work, psychology and nursing/pre-nursing. K-12 career commitment required outside nursing. Financial need and institutional restrictions apply; DACA applicants are eligible.",
+      "reward": "Up to $5,000 at two-year/technical institutions or $10,000 at four-year institutions; part-time awards are halved. Renewal for up to four additional years is conditional on continued eligibility and academic performance.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-14",
+      "deadlineAt": "2026-12-14T21:00:00Z",
+      "sourceDeadline": "December 14, 2026, 3:00 PM CT.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · Essential Visionaries Scholarship Fund 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official current page confirms the cutoff and open status. The duplicate spreadsheet reference is consolidated. DACA eligibility is explicit; other immigration or tax-documentation questions require confirmation.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Transcript; most recent IRS 1040 first two pages (ask about 1040-NR if international); 3 essays; financial need",
+        "Review next milestone: OPEN; prepare transcript, tax documentation, three essays"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "ff96ebe9c9153e6f8b424dd327b887f68ee286528fad080573e77a74eb7f2dc1",
+        "hash": "d8f79c9aefa73d27e94c2b4f82f2221a566d8d549027cb4699d5a63320b7af8b",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "OHSU Vollum/NGP Undergraduate Neuroscience Summer Research 2027",
+          "category": "Paid summer research / behavioral neuroscience",
+          "deadline": "2027 cutoff not officially confirmed; the source reports a recurring February 1 deadline and an expected November 1 opening.",
+          "milestone": "Application expected to open 2026-11-01",
+          "programDates": "Summer 2027, 8 weeks mid-Jun to mid-Aug; Portland OR; exact dates TBA",
+          "funding": "$3,000 summer stipend (current program FAQ) + housing + travel reimbursement + transit pass",
+          "location": "Housing and travel covered; meals not covered",
+          "eligibility": "Undergrads interested in neuroscience PhD; international students at US universities explicitly accepted, but require CPT from home university; 2027 class/year eligibility not yet updated on FAQ",
+          "materials": "Online application; research interests and background; additional materials confirm in portal",
+          "url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program"
+        }
+      },
+      "id": "sheet-ohsu-vollum-ngp-undergraduate-neuroscience-summer-research-2027-ff96ebe9c915",
+      "title": "OHSU Vollum/NGP Undergraduate Neuroscience Summer Research 2027",
+      "organization": "ohsu.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "research",
+        "behavioral",
+        "neuroscience"
+      ],
+      "url": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program",
+      "sourceUrl": "https://www.ohsu.edu/school-of-medicine/neuroscience-graduate-program/vollum-ngp-undergraduate-summer-research-program",
+      "summary": "Paid summer research / behavioral neuroscience. Program dates: Summer 2027, 8 weeks mid-Jun to mid-Aug; Portland OR; exact dates TBA. Location / format: Housing and travel covered; meals not covered. Next milestone: Application expected to open 2026-11-01",
+      "eligibility": "Undergrads interested in neuroscience PhD; international students at US universities explicitly accepted, but require CPT from home university; 2027 class/year eligibility not yet updated on FAQ",
+      "reward": "$3,000 summer stipend (current program FAQ) + housing + travel reimbursement + transit pass",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027 cutoff not officially confirmed; the source reports a recurring February 1 deadline and an expected November 1 opening.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · OHSU Vollum/NGP Undergraduate Neuroscience Summer Research 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; research interests and background; additional materials confirm in portal",
+        "Review next milestone: Application expected to open 2026-11-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "98da9b30f42b30a4d92c2d7214a27f80d07709e8b4dd4e8b9ddf176fdc2a0a6d",
+        "hash": "e02ee34d31bdfc6e1f85325111171abd051488ca44aff417d0cedf2c80f5b861",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "NOAA EPP/MSI Undergraduate Scholarship 2027",
+          "category": "HBCU/MSI undergraduate scholarship + paid internships",
+          "deadline": "2027-01-31 23:59 ET (shared NOAA application; verify 2027 EPP cohort active)",
+          "milestone": "Application portal open; confirm EPP 2027 cohort availability",
+          "programDates": "2027-2029 academic years and two NOAA summer internships",
+          "funding": "Up to $45,000 total support over junior/senior years including stipends, two paid internships, travel/conference participation",
+          "location": "Housing allowance and internship travel; conference travel supported",
+          "eligibility": "US citizen or US national ONLY; full-time sophomore at accredited MSI/HBCU or eligible transfer; GPA 3.2+; NOAA-related STEM/social sciences; F-1 INELIGIBLE",
+          "materials": "Application + essays + official transcript(s) + 2 recommendations; academic research/service project",
+          "url": "https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship"
+        }
+      },
+      "id": "sheet-noaa-epp-msi-undergraduate-scholarship-2027-98da9b30f42b",
+      "title": "NOAA EPP/MSI Undergraduate Scholarship 2027",
+      "organization": "noaa.gov",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hbcu",
+        "undergraduate",
+        "scholarship",
+        "paid",
+        "internships"
+      ],
+      "url": "https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship",
+      "sourceUrl": "https://www.noaa.gov/office-education/epp-msi/undergraduate-scholarship",
+      "summary": "HBCU/MSI undergraduate scholarship + paid internships. Program dates: 2027-2029 academic years and two NOAA summer internships. Location / format: Housing allowance and internship travel; conference travel supported. Next milestone: Application portal open; confirm EPP 2027 cohort availability",
+      "eligibility": "US citizen or US national ONLY; full-time sophomore at accredited MSI/HBCU or eligible transfer; GPA 3.2+; NOAA-related STEM/social sciences; F-1 INELIGIBLE",
+      "reward": "Up to $45,000 total support over junior/senior years including stipends, two paid internships, travel/conference participation",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-31 23:59 ET (shared NOAA application; verify 2027 EPP cohort active)",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · NOAA EPP/MSI Undergraduate Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application + essays + official transcript(s) + 2 recommendations; academic research/service project",
+        "Review next milestone: Application portal open; confirm EPP 2027 cohort availability"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "1cc0fe5e3ce43507e8c33550769f517bba02538e3508be1fef10ecef6303d736",
+        "hash": "9f0771d45754ffa6bf0c71650c1b6a66ea532d2bbefe2b1b5b4088ec47ccfbbd",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "NOAA Ernest F. Hollings Undergraduate Scholarship 2027",
+          "category": "Undergraduate scholarship + paid NOAA internship",
+          "deadline": "2027-01-31 23:59 ET",
+          "milestone": "Applications OPEN; December 4 2026 info webinar",
+          "programDates": "Academic 2027-2029; 10-week paid NOAA summer internship",
+          "funding": "Up to $40,000 total support: $9,500/year x 2 + $700/week x 10 internship + conference travel/housing allowance",
+          "location": "Travel to NOAA internship/orientation/conferences; $400/week housing allowance when eligible",
+          "eligibility": "US CITIZENS ONLY; full-time sophomore (or year 3 of 5-year program); 3.0+ GPA; expected graduation Dec 2028–Aug 2029; NOAA-relevant major; F-1 INELIGIBLE",
+          "materials": "Application + essays + transcripts + 2 references; NOAA program project interests",
+          "url": "https://www.noaa.gov/office-education/hollings-scholarship"
+        }
+      },
+      "id": "sheet-noaa-ernest-f-hollings-undergraduate-scholarship-2027-1cc0fe5e3ce4",
+      "title": "NOAA Ernest F. Hollings Undergraduate Scholarship 2027",
+      "organization": "noaa.gov",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "scholarship",
+        "paid",
+        "noaa",
+        "internship"
+      ],
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship",
+      "sourceUrl": "https://www.noaa.gov/office-education/hollings-scholarship",
+      "summary": "Undergraduate scholarship + paid NOAA internship. Program dates: Academic 2027-2029; 10-week paid NOAA summer internship. Location / format: Travel to NOAA internship/orientation/conferences; $400/week housing allowance when eligible. Next milestone: Applications OPEN; December 4 2026 info webinar",
+      "eligibility": "US CITIZENS ONLY; full-time sophomore (or year 3 of 5-year program); 3.0+ GPA; expected graduation Dec 2028–Aug 2029; NOAA-relevant major; F-1 INELIGIBLE",
+      "reward": "Up to $40,000 total support: $9,500/year x 2 + $700/week x 10 internship + conference travel/housing allowance",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-31 23:59 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · NOAA Ernest F. Hollings Undergraduate Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application + essays + transcripts + 2 references; NOAA program project interests",
+        "Review next milestone: Applications OPEN; December 4 2026 info webinar"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "4ebf2ebed05a8969961fa6453d83d96ae0554ea0d159796aedc9a3141dfe6a54",
+        "hash": "ac2ff3dc9cfee272d133eddfbb940de0cc85b57552da4b8c8bda0d9e5733a910",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Ceira Boyle Student Nursing ONS Congress Scholarship 2027",
+          "category": "Conference registration and travel scholarship / nursing",
+          "deadline": "2026-12-01",
+          "milestone": "OPEN; request reference and draft short essays",
+          "programDates": "ONS Congress 2027 Apr 14–17 Washington DC",
+          "funding": "Conference registration plus reimbursement for meals/transportation; accommodations considered for out-of-area students (variable)",
+          "location": "Conference registration funded; travel and hotel support not guaranteed",
+          "eligibility": "Junior/senior BSN students interested in oncology nursing; preference within 30 miles of DC but other locations encouraged; no explicit citizenship exclusion; F-1 verify",
+          "materials": "Online application; written responses on oncology nursing goals; recommendation contact",
+          "url": "https://www.onfgivesback.org/funding-for-nurses/congress/ceira-boyle-scholarship"
+        }
+      },
+      "id": "sheet-ceira-boyle-student-nursing-ons-congress-scholarship-2027-4ebf2ebed05a",
+      "title": "Ceira Boyle Student Nursing ONS Congress Scholarship 2027",
+      "organization": "onfgivesback.org",
+      "category": "Grants & funding",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "registration",
+        "travel",
+        "scholarship",
+        "nursing"
+      ],
+      "url": "https://www.onfgivesback.org/funding-for-nurses/congress/ceira-boyle-scholarship",
+      "sourceUrl": "https://www.onfgivesback.org/funding-for-nurses/congress/ceira-boyle-scholarship",
+      "summary": "Conference registration and travel scholarship / nursing. Program dates: ONS Congress 2027 Apr 14–17 Washington DC. Location / format: Conference registration funded; travel and hotel support not guaranteed. Next milestone: OPEN; request reference and draft short essays",
+      "eligibility": "Junior/senior BSN students interested in oncology nursing; preference within 30 miles of DC but other locations encouraged; no explicit citizenship exclusion; F-1 verify",
+      "reward": "Conference registration plus reimbursement for meals/transportation; accommodations considered for out-of-area students (variable)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-01",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Ceira Boyle Student Nursing ONS Congress Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; written responses on oncology nursing goals; recommendation contact",
+        "Review next milestone: OPEN; request reference and draft short essays"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "fe8f38d776fb469724c1c908690189807dedee687e14f43213b92de2e026f7b3",
+        "hash": "a784cbd075d9c84924668a692c3d0e59cc077b2f1013d1a2a68b0b76a7f8470e",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Oncology Nursing Foundation ONS Congress Scholarships 2027",
+          "category": "Professional development / nursing conference travel",
+          "deadline": "2026-12-01",
+          "milestone": "Applications OPEN",
+          "programDates": "ONS Congress Apr 14–18 2027 Washington DC (official RN award page)",
+          "funding": "Up to $2,000 for conference registration, travel, accommodation and per diem",
+          "location": "Partial conference/travel/hotel costs up to $2,000; not guaranteed full funding",
+          "eligibility": "Registered nurses currently involved in cancer nursing; not general undergraduate nursing students; international applicants addressed in rules; licensing/clinical role required",
+          "materials": "Online application; essay responses on learning and knowledge-sharing plan; additional requirements in portal",
+          "url": "https://www.onfgivesback.org/funding-for-nurses/congress/ons-congress-scholarships"
+        }
+      },
+      "id": "sheet-oncology-nursing-foundation-ons-congress-scholarships-2027-fe8f38d776fb",
+      "title": "Oncology Nursing Foundation ONS Congress Scholarships 2027",
+      "organization": "onfgivesback.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "development",
+        "nursing",
+        "conference",
+        "travel"
+      ],
+      "url": "https://www.onfgivesback.org/funding-for-nurses/congress/ons-congress-scholarships",
+      "sourceUrl": "https://www.onfgivesback.org/funding-for-nurses/congress/ons-congress-scholarships",
+      "summary": "Professional development / nursing conference travel. Program dates: ONS Congress Apr 14–18 2027 Washington DC (official RN award page). Location / format: Partial conference/travel/hotel costs up to $2,000; not guaranteed full funding. Next milestone: Applications OPEN",
+      "eligibility": "Registered nurses currently involved in cancer nursing; not general undergraduate nursing students; international applicants addressed in rules; licensing/clinical role required",
+      "reward": "Up to $2,000 for conference registration, travel, accommodation and per diem",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-01",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Oncology Nursing Foundation ONS Congress Scholarships 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; essay responses on learning and knowledge-sharing plan; additional requirements in portal",
+        "Review next milestone: Applications OPEN"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "adae63692549db5cb11ef6b3819cf33fbe115f4027307988aa86debfcfbb2467",
+        "hash": "ecc48eb5c664d4bf85fcd6e45e24eaebfe08b646c362e259248be65f64d067a4",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Louisiana DOTD SASHTO Transportation Engineering Scholarship 2026",
+          "category": "Louisiana state engineering scholarship",
+          "deadline": "2026-10-31",
+          "milestone": "URGENT; one-page essay and official transcript",
+          "programDates": "2026-2027 academic year",
+          "funding": "$1,000 scholarship award",
+          "location": "No travel; local state scholarship",
+          "eligibility": "Engineering juniors/seniors at Louisiana universities; academically in good standing; transportation career interest; previous recipients excluded; citizenship not stated, F-1 verify",
+          "materials": "Online application; <=1-page essay on transportation problem and engineering solution; official e-transcript sent to scholarship contact",
+          "url": "https://www.ltrc.la.gov/sashto_scholarship.html"
+        },
+        "verifiedAt": "2026-10-23T14:28:26.457Z"
+      },
+      "id": "sheet-louisiana-dotd-sashto-transportation-engineering-scholarship-2026-adae63692549",
+      "title": "Louisiana DOTD SASHTO Transportation Engineering Scholarship 2026",
+      "organization": "Louisiana DOTD / LTRC and SASHTO",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "louisiana",
+        "state",
+        "engineering",
+        "scholarship"
+      ],
+      "url": "https://www.ltrc.la.gov/sashto_scholarship.html",
+      "sourceUrl": "https://www.ltrc.la.gov/sashto_scholarship.html",
+      "summary": "Louisiana state engineering scholarship. Program dates: 2026-2027 academic year. Location / format: No travel; local state scholarship. Next milestone: URGENT; one-page essay and official transcript",
+      "eligibility": "Engineering juniors or seniors at Louisiana universities, in good academic standing and interested in transportation careers. Previous DOTD SASHTO scholarship recipients cannot apply. Citizenship rules are not specified.",
+      "reward": "$1,000 scholarship.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-10-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Application window ends October 31, 2026; time and timezone unstated.",
+      "confidence": "Date only",
+      "opensOn": "2026-08-03",
+      "cycle": "2026 · Louisiana DOTD SASHTO Transportation Engineering Scholarship 2026",
+      "sourceState": "Application",
+      "sourceNote": "Official current page confirms the August 3–October 31, 2026 application window and links to the application. No cutoff time or timezone is published.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; <=1-page essay on transportation problem and engineering solution; official e-transcript sent to scholarship contact",
+        "Review next milestone: URGENT; one-page essay and official transcript"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "843f273f19fc4afc85791b3d6ba480ceb2fcb4e831b22cfea61f52397c277aac",
+        "hash": "0fc650a9220398b63274c55d6fc637427d0c6f1dc129e89c2ef71f80a3e889b5",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Next Generation Healers Scholarship (Spring 2027 round)",
+          "category": "Scholarships",
+          "deadline": "2026-12-03; confirm the organizer cutoff and timezone.",
+          "milestone": "Winner notified by email by Dec 17, 2026",
+          "programDates": "",
+          "funding": "$1,000 cash scholarship (sent to institution for tuition/education expenses; can reapply each semester)",
+          "location": "USA / Online application",
+          "eligibility": "Any degree level (undergrad included); must be enrolled in nursing, social work, psychology, healthcare administration or related field; must be currently employed while studying; Spring 2027 enrollment required. No citizenship/PR requirement stated.",
+          "materials": "Online application; essay answering 5 prompts (resilience, compassion/service, mental-health advocacy, professional development, lasting impact); proof of enrollment (transcript or enrollment verification)",
+          "url": "https://www.banyantreatmentcenter.com/resources/student-scholarship/"
+        }
+      },
+      "id": "sheet-next-generation-healers-scholarship-spring-2027-round-843f273f19fc",
+      "title": "Next Generation Healers Scholarship (Spring 2027 round)",
+      "organization": "banyantreatmentcenter.com",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://www.banyantreatmentcenter.com/resources/student-scholarship/",
+      "sourceUrl": "https://www.banyantreatmentcenter.com/resources/student-scholarship/",
+      "summary": "Scholarships. Location / format: USA / Online application. Next milestone: Winner notified by email by Dec 17, 2026",
+      "eligibility": "Any degree level (undergrad included); must be enrolled in nursing, social work, psychology, healthcare administration or related field; must be currently employed while studying; Spring 2027 enrollment required. No citizenship/PR requirement stated.",
+      "reward": "$1,000 cash scholarship (sent to institution for tuition/education expenses; can reapply each semester)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-03",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-03; confirm the organizer cutoff and timezone.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Next Generation Healers Scholarship (Spring 2027 round)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; essay answering 5 prompts (resilience, compassion/service, mental-health advocacy, professional development, lasting impact); proof of enrollment (transcript or enrollment verification)",
+        "Review next milestone: Winner notified by email by Dec 17, 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "5b4c72188d2b449c420489e9dfc73bbd69add77c8564116d055dcea20d8c4bbc",
+        "hash": "eba4373158e5246fb5d1329a53c87727b2fc3a6f29e8df0e0137c4b79e6b4415",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Keith Gebert Scholarship for Mental Health (inaugural 2027)",
+          "category": "Scholarships",
+          "deadline": "2027-07-15; confirm the organizer cutoff and timezone.",
+          "milestone": "Winner announced Aug 15, 2027",
+          "programDates": "",
+          "funding": "$1,000 to a single student (education costs: tuition, books, housing, daily expenses)",
+          "location": "USA / Online (email submission)",
+          "eligibility": "Undergrads currently enrolled or planning to enroll in accredited US college; pursuing degree/career in mental health, healthcare, counseling, social work, or community advocacy; personal connection to mental-health challenges. No citizenship requirement stated.",
+          "materials": "One 500–800 word essay (\"How has your experience with mental health shaped your goals for the future?\") + brief intro, emailed to apply@keithgebertscholarship.com",
+          "url": "https://keithgebertscholarship.com/"
+        }
+      },
+      "id": "sheet-keith-gebert-scholarship-for-mental-health-inaugural-2027-5b4c72188d2b",
+      "title": "Keith Gebert Scholarship for Mental Health (inaugural 2027)",
+      "organization": "keithgebertscholarship.com",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://keithgebertscholarship.com/",
+      "sourceUrl": "https://keithgebertscholarship.com/",
+      "summary": "Scholarships. Location / format: USA / Online (email submission). Next milestone: Winner announced Aug 15, 2027",
+      "eligibility": "Undergrads currently enrolled or planning to enroll in accredited US college; pursuing degree/career in mental health, healthcare, counseling, social work, or community advocacy; personal connection to mental-health challenges. No citizenship requirement stated.",
+      "reward": "$1,000 to a single student (education costs: tuition, books, housing, daily expenses)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-07-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-07-15; confirm the organizer cutoff and timezone.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Keith Gebert Scholarship for Mental Health (inaugural 2027)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: One 500–800 word essay (\"How has your experience with mental health shaped your goals for the future?\") + brief intro, emailed to apply@keithgebertscholarship.com",
+        "Review next milestone: Winner announced Aug 15, 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "5409708149fba3ce74beabea5ee31c1349254ab0a5f8cefb1bac74ba276c5711",
+        "hash": "696c253b0c63adac2de968b2ae501855c3c4e2c5632497f2fde892c9e86d979e",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "WFEO Hackathon 2027",
+          "category": "Hackathons",
+          "deadline": "Register now; challenges released Nov 20, 2026; submissions due Dec 12, 2026 (23:59 UTC)",
+          "milestone": "Winners announced Mar 4, 2027 in Rome",
+          "programDates": "Nov 20 – Dec 12, 2026 build window; finals celebration Mar 4, 2027 in Rome",
+          "funding": "€7,000 cash prize pool (€4,000 / €2,000 / €1,000), split among winning team members",
+          "location": "Worldwide / online submission",
+          "eligibility": "Worldwide, no citizenship restriction; teams of 3–5 led by an engineering student or young engineer under 30; free entry; individuals register now, team formation after. Confirm applicable immigration and travel requirements.",
+          "materials": "One round: 5-minute video + team photo + written submission in English",
+          "url": "https://worldengineeringday.net/hackathon/"
+        },
+        "verifiedAt": "2026-10-23T14:28:26.457Z"
+      },
+      "id": "sheet-wfeo-hackathon-2027-5409708149fb",
+      "title": "WFEO Hackathon 2027",
+      "organization": "World Federation of Engineering Organizations",
+      "category": "Innovation challenges",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hackathons"
+      ],
+      "url": "https://worldengineeringday.net/hackathon/",
+      "sourceUrl": "https://worldengineeringday.net/hackathon/",
+      "summary": "Hackathons. Program dates: Nov 20 – Dec 12, 2026 build window; finals celebration Mar 4, 2027 in Rome. Location / format: Worldwide / online submission. Next milestone: Winners announced Mar 4, 2027 in Rome",
+      "eligibility": "Worldwide multidisciplinary teams of 3–5, led by an eligible engineering student or young engineer under 30. Under-18 team members require parental consent. Register individually before team formation; check the full rules.",
+      "reward": "Free entry. Team prizes: €4,000, €2,000 and €1,000, divided among members of each winning team.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-12",
+      "deadlineAt": "2026-12-12T23:59:00Z",
+      "sourceDeadline": "Solution submissions before December 12, 2026, 23:59 UTC.",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-14",
+      "cycle": "2027 · WFEO Hackathon 2027",
+      "sourceState": "Application",
+      "sourceNote": "Registration is open; challenges arrive November 20, 2026. The verified December 12 cutoff is for solution submissions. Winners are announced March 4, 2027; attendance or funded travel to Rome is not promised.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: One round: 5-minute video + team photo + written submission in English",
+        "Review next milestone: Winners announced Mar 4, 2027 in Rome"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "75edb6039e4d4e43a2b77000f4ee319c305d3e9350ce61aea618c039cca68fed",
+        "hash": "7589e9bc161b87209e33aad706d861d518dc253f380ec8b1a969ac48821e1426",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "IEEE CASS 2027 Student Design Competition",
+          "category": "University competitions",
+          "deadline": "Registration opens 2026-11-02; phase-one registration closes 2027-01-11. Confirm organizer requirements.",
+          "milestone": "Chapter-level live demo by Jan 25, 2027",
+          "programDates": "Phase 2 video+report Feb 22, 2027; final at ISCAS 2027, Bordeaux, June 2027",
+          "funding": "$3,000 cash to winning team; travel + ISCAS 2027 registration for the four regional finalists",
+          "location": "Worldwide (chapter → regional → world) / hybrid",
+          "eligibility": "Worldwide undergraduate student teams; no citizenship restriction; projects must solve a real-life problem using circuits and systems/electrical engineering. Confirm applicable immigration and travel requirements.",
+          "materials": "Phase 1 live demo; phase 2 video + written report; final report + live demo at ISCAS 2027",
+          "url": "https://ieee-cas.org/society-involvement/student-design-competition"
+        }
+      },
+      "id": "sheet-ieee-cass-2027-student-design-competition-75edb6039e4d",
+      "title": "IEEE CASS 2027 Student Design Competition",
+      "organization": "ieee-cas.org",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "competitions"
+      ],
+      "url": "https://ieee-cas.org/society-involvement/student-design-competition",
+      "sourceUrl": "https://ieee-cas.org/society-involvement/student-design-competition",
+      "summary": "University competitions. Program dates: Phase 2 video+report Feb 22, 2027; final at ISCAS 2027, Bordeaux, June 2027. Location / format: Worldwide (chapter → regional → world) / hybrid. Next milestone: Chapter-level live demo by Jan 25, 2027",
+      "eligibility": "Worldwide undergraduate student teams; no citizenship restriction; projects must solve a real-life problem using circuits and systems/electrical engineering. Confirm applicable immigration and travel requirements.",
+      "reward": "$3,000 cash to winning team; travel + ISCAS 2027 registration for the four regional finalists",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Registration opens 2026-11-02; phase-one registration closes 2027-01-11. Confirm organizer requirements.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-02",
+      "cycle": "2027 · IEEE CASS 2027 Student Design Competition",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Phase 1 live demo; phase 2 video + written report; final report + live demo at ISCAS 2027",
+        "Review next milestone: Chapter-level live demo by Jan 25, 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "05bd3a9a31b942b08b7de157f19cfcbab98f1e1fac480ff4f9d0b15103fd964f",
+        "hash": "bcb212269487a4301a6fe35826a25ffb4f82079a9eda8c0c014cbea9ca8f9758",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "D-Prize Global Competition 2026",
+          "category": "Grants",
+          "deadline": "Early submission Oct 25, 2026 (11:59 PM PT); regular Nov 15, 2026; extension Dec 6, 2026 (must register for extension)",
+          "milestone": "Round 2 invites (top 5%) → written questions; final = phone/email interviews",
+          "programDates": "Winners then run a 3-month pilot",
+          "funding": "Up to $20,000 convertible grant to launch a new org distributing a proven poverty solution (avg award $16K; ~1% of 3,000+ submissions funded)",
+          "location": "Global / online application; pilot must run in a developing country",
+          "eligibility": "",
+          "materials": "Round 1 = 2-page concept note + 1-page CV per member",
+          "url": "https://d-prize.org/"
+        },
+        "verifiedAt": "2026-10-23T14:28:26.457Z"
+      },
+      "id": "sheet-d-prize-global-competition-2026-05bd3a9a31b9",
+      "title": "D-Prize Global Competition 2026",
+      "organization": "D-Prize",
+      "category": "Grants & funding",
+      "levels": [
+        "Founder",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "grants"
+      ],
+      "url": "https://d-prize.org/",
+      "sourceUrl": "https://d-prize.org/",
+      "summary": "Funding to launch an organization distributing a proven poverty intervention. Round one requires a two-page concept note and resumes; selected teams progress to written questions and interviews.",
+      "eligibility": "Primarily new organizations and first-time founders. Organizations operating full-time over 18 months or having raised over $30,000 are typically unsupported. Existing organizations qualify only when focused on distributing evidence-based poverty interventions.",
+      "reward": "Up to $20,000 to launch and pilot an organization; selection is competitive. Verify award terms in the application packet.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-10-25",
+      "deadlineAt": "",
+      "sourceDeadline": "Early: October 25; regular: November 15; extension: December 6, 2026. Organizer calls each cutoff midnight PT; confirm the exact boundary.",
+      "confidence": "Date only",
+      "opensOn": "2026-09-14",
+      "cycle": "2026 · D-Prize Global Competition 2026",
+      "sourceState": "Application",
+      "sourceNote": "October 25 is the optional early round, not the final regular deadline. The organizer says midnight PT while the spreadsheet says 11:59 PM; retain date-only planning until the exact boundary is resolved. Extension registration is required for December 6.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Round 1 = 2-page concept note + 1-page CV per member",
+        "Review next milestone: Round 2 invites (top 5%) → written questions; final = phone/email interviews"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "bc5e7dc5732255487b46d851cd9f3bef8f7298dc41a52ee3e071af0b9d4ae091",
+        "hash": "1a7870488578349a4c3a404772652f37d2474616ab050b407e98a3ee6919bf7c",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Undergraduate Minorities in STEM Scholarship",
+          "category": "Scholarships",
+          "deadline": "2026-11-17; confirm the organizer cutoff and timezone.",
+          "milestone": "",
+          "programDates": "",
+          "funding": "$1,400 cash, 2 winners",
+          "location": "USA / Online (Bold.org)",
+          "eligibility": "Source reports BIPOC undergraduates in STEM at HBCUs, minimum GPA 3.0. Verify citizenship and current award eligibility on the specific scholarship page.",
+          "materials": "Bold.org profile application (short-form, ~30–60 min)",
+          "url": "https://bold.org/donor/leslie-smith/"
+        }
+      },
+      "id": "sheet-undergraduate-minorities-in-stem-scholarship-bc5e7dc57322",
+      "title": "Undergraduate Minorities in STEM Scholarship",
+      "organization": "bold.org",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://bold.org/donor/leslie-smith/",
+      "sourceUrl": "https://bold.org/donor/leslie-smith/",
+      "summary": "Scholarships. Location / format: USA / Online (Bold.org)",
+      "eligibility": "Source reports BIPOC undergraduates in STEM at HBCUs, minimum GPA 3.0. Verify citizenship and current award eligibility on the specific scholarship page.",
+      "reward": "$1,400 cash, 2 winners",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-17",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-17; confirm the organizer cutoff and timezone.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Undergraduate Minorities in STEM Scholarship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Bold.org profile application (short-form, ~30–60 min)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "26b510c7f50331b43a3e222d7cb1fc4698bec5562dc1c1c6dff7a7dbb9132f1d",
+        "hash": "14d09071b109c7b1ad180aff2f711a1fbdf63164cd9e748900cb72f4bc016688",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "MPOWER Global Citizen Scholarship",
+          "category": "Scholarships",
+          "deadline": "Dec 31, 2026, 11:59 PM EST",
+          "milestone": "Check reopening — site states funding capacity reached for 2026 and applications temporarily paused as of Oct 23, 2026",
+          "programDates": "",
+          "funding": "$8,000 grand prize + $2,000 runner-up + $1,000 second runner-up (disbursed to winner's school)",
+          "location": "USA/Canada / Online application",
+          "eligibility": "International students legally studying full-time at an MPOWER-supported school in the United States or Canada; verify school and lawful-study requirements in the current rules.",
+          "materials": "Online application + one English essay (selection: essay quality, field-of-study-to-goals nexus, potential as scientist/entrepreneur/leader/change-maker)",
+          "url": "https://www.mpowerfinancing.com/scholarships/global-citizen"
+        },
+        "verifiedAt": "2026-10-23T14:28:26.457Z"
+      },
+      "id": "sheet-mpower-global-citizen-scholarship-26b510c7f503",
+      "title": "MPOWER Global Citizen Scholarship",
+      "organization": "MPOWER Financing",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://www.mpowerfinancing.com/scholarships/global-citizen",
+      "sourceUrl": "https://www.mpowerfinancing.com/scholarships/global-citizen",
+      "summary": "International-student scholarship at supported U.S. and Canadian institutions. Applications are currently paused; monitor official reopening before preparing a submission.",
+      "eligibility": "International students legally studying full-time at an MPOWER-supported school in the United States or Canada; verify school and lawful-study requirements in the current rules.",
+      "reward": "Published cycle awards are $8,000, $2,000 and $1,000, paid to the school after eligibility verification. New applications are currently paused; verify amounts for the next open cycle.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications temporarily paused; no confirmed reopening or active cutoff.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · MPOWER Global Citizen Scholarship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Direct official-page read confirms scholarship funding capacity has been reached and new applications are temporarily paused. December 31 remains in legacy terms but is not a usable current application deadline. No reopening date is confirmed.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application + one English essay (selection: essay quality, field-of-study-to-goals nexus, potential as scientist/entrepreneur/leader/change-maker)",
+        "Review next milestone: Check reopening — site states funding capacity reached for 2026 and applications temporarily paused as of Oct 23, 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7caaac3570bfd6a08466de64c7d140e818da1383aaf5ef54abf737176deb10d4",
+        "hash": "f9e935a10d04959c53cb90168806e48be4ad43464a21c85b94329aa49caa6fa5",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "HBCU Legacy & Excellence Scholarship",
+          "category": "Scholarships",
+          "deadline": "2026-11-20; confirm the organizer cutoff and timezone.",
+          "milestone": "",
+          "programDates": "",
+          "funding": "$1,000 cash",
+          "location": "USA / Online (Bold.org)",
+          "eligibility": "",
+          "materials": "Bold.org profile application (~30–60 min)",
+          "url": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/"
+        }
+      },
+      "id": "sheet-hbcu-legacy-excellence-scholarship-7caaac3570bf",
+      "title": "HBCU Legacy & Excellence Scholarship",
+      "organization": "bold.org",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/",
+      "sourceUrl": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/",
+      "summary": "Scholarships. Location / format: USA / Online (Bold.org)",
+      "eligibility": "Confirm current public eligibility with the organizer.",
+      "reward": "$1,000 cash",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-20; confirm the organizer cutoff and timezone.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · HBCU Legacy & Excellence Scholarship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Bold.org profile application (~30–60 min)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "20c2445baaa98e20a66583c699f8ff61a679cdb0864f36e92aaffabc02e767fa",
+        "hash": "727e81badf662502642e0a861c2234d978d34459f281163a677e0558515973c0",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "ETH Zurich Student Summer Research Fellowship 2027",
+          "category": "Funded fellowships and research",
+          "deadline": "Dec 16, 2026, 13:00 CET (application window opens Nov 1, 2026)",
+          "milestone": "",
+          "programDates": "Jul 2 – Aug 27, 2027, Zurich, Switzerland",
+          "funding": "CHF 4,000 (~$4.5K) stipend + travel and visa expenses reimbursed",
+          "location": "Zurich, Switzerland / in-person research",
+          "eligibility": "Bachelor’s or master’s students in computer science or a closely related field; two years of study completed by the fellowship and graduation in 2028 or later. Open worldwide except students enrolled at ETH Zurich; confirm immigration and travel requirements.",
+          "materials": "Europass-format CV, official transcript, 1-page motivation letter (no letters of recommendation required); apply via SiROP portal; possible interview",
+          "url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html"
+        },
+        "verifiedAt": "2026-10-23T14:28:26.457Z"
+      },
+      "id": "sheet-eth-zurich-student-summer-research-fellowship-2027-20c2445baaa9",
+      "title": "ETH Zurich Student Summer Research Fellowship 2027",
+      "organization": "ETH Zurich Department of Computer Science",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "fellowships",
+        "research"
+      ],
+      "url": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+      "sourceUrl": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
+      "summary": "Funded fellowships and research. Program dates: Jul 2 – Aug 27, 2027, Zurich, Switzerland. Location / format: Zurich, Switzerland / in-person research",
+      "eligibility": "Bachelor’s or master’s students in computer science or a related field, with two years completed by the programme and graduation in the following year or later. Full July–August attendance and working English required. Current ETH students are excluded; confirm travel and immigration arrangements.",
+      "reward": "The spreadsheet reports a stipend and travel/visa reimbursement. Confirm current amounts, payment timing and uncovered costs with the official programme.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-16",
+      "deadlineAt": "2026-12-16T12:00:00Z",
+      "sourceDeadline": "December 16, 2026, 13:00 Central European Time; applications open November 1.",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · ETH Zurich Student Summer Research Fellowship 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official application page confirms the November 1–December 16, 2026 window and CET cutoff. The programme page welcomes applicants worldwide except current ETH Zurich students. Specific funding amounts and reimbursement arrangements have not been independently confirmed in this check.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Europass-format CV, official transcript, 1-page motivation letter (no letters of recommendation required); apply via SiROP portal; possible interview"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "f91bfec6fbb3636ba1ceb8aa73d891475b41517b0c119d2c59f1955f74c16d92",
+        "hash": "d430f2b2616360350e09f9717825ec04c55894b56ac7446d66558ad7d2b5694f",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "CMU Robotics Institute Summer Scholars (RISS) 2027",
+          "category": "Funded fellowships and research",
+          "deadline": "2027 cutoff not officially confirmed; FAQ gives November 1–January 20, 3 PM EST without a year.",
+          "milestone": "",
+          "programDates": "11-week research immersion, Pittsburgh (2026 ran Jun 1–Aug 8; 2027 dates TBD)",
+          "funding": "$6,000–$8,000 scholarship (all participants receive financial support)",
+          "location": "Pittsburgh, PA / in-person research",
+          "eligibility": "Current undergrads with ≥1 semester remaining after program and ≥2 full-time semesters completed before start. F-1 international students at US institutions explicitly eligible IF CPT-eligible and legally able to receive scholarship funds. 35–45 scholars/year (selective).",
+          "materials": "Resume/CV, statement of purpose, 1–3 faculty letters of recommendation, unofficial transcript",
+          "url": "https://riss.ri.cmu.edu/faq/"
+        }
+      },
+      "id": "sheet-cmu-robotics-institute-summer-scholars-riss-2027-f91bfec6fbb3",
+      "title": "CMU Robotics Institute Summer Scholars (RISS) 2027",
+      "organization": "riss.ri.cmu.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "fellowships",
+        "research"
+      ],
+      "url": "https://riss.ri.cmu.edu/faq/",
+      "sourceUrl": "https://riss.ri.cmu.edu/faq/",
+      "summary": "Funded fellowships and research. Program dates: 11-week research immersion, Pittsburgh (2026 ran Jun 1–Aug 8; 2027 dates TBD). Location / format: Pittsburgh, PA / in-person research",
+      "eligibility": "Current undergrads with ≥1 semester remaining after program and ≥2 full-time semesters completed before start. F-1 international students at US institutions explicitly eligible IF CPT-eligible and legally able to receive scholarship funds. 35–45 scholars/year (selective).",
+      "reward": "$6,000–$8,000 scholarship (all participants receive financial support)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027 cutoff not officially confirmed; FAQ gives November 1–January 20, 3 PM EST without a year.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · CMU Robotics Institute Summer Scholars (RISS) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Resume/CV, statement of purpose, 1–3 faculty letters of recommendation, unofficial transcript"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c64983a37a9df02d35b453e8a38c28dc342b13ce1215a27b637757908379af3b",
+        "hash": "63178543bfcc4fc4b943ed6f6ad11ac752b26950dfc2f02fb402a9c4b9706e87",
+        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "present": true,
+        "fields": {
+          "title": "Eastern-Atlantic Student Research Forum (ESRF) 2027 Travel Awards",
+          "category": "Travel-funded conferences",
+          "deadline": "2026-12-06; confirm the organizer cutoff and timezone.",
+          "milestone": "",
+          "programDates": "Feb 18–19, 2027, Miami, FL",
+          "funding": "Travel award (amount unspecified) toward registration, transportation, hotel",
+          "location": "Miami, FL / in-person",
+          "eligibility": "All trainees incl. undergraduates, any research area (forum is biomedical-oriented); no citizenship gate stated.",
+          "materials": "Research abstract (oral/poster) + short travel-award form; awards favor presenters",
+          "url": "https://ocs.yale.edu/blog/2026/10/19/call-for-abstracts-2027-eastern-atlantic-student-research-forum/"
+        }
+      },
+      "id": "sheet-eastern-atlantic-student-research-forum-esrf-2027-travel-awards-c64983a37a9d",
+      "title": "Eastern-Atlantic Student Research Forum (ESRF) 2027 Travel Awards",
+      "organization": "ocs.yale.edu",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "travel",
+        "funded",
+        "conferences"
+      ],
+      "url": "https://ocs.yale.edu/blog/2026/10/19/call-for-abstracts-2027-eastern-atlantic-student-research-forum/",
+      "sourceUrl": "https://ocs.yale.edu/blog/2026/10/19/call-for-abstracts-2027-eastern-atlantic-student-research-forum/",
+      "summary": "Travel-funded conferences. Program dates: Feb 18–19, 2027, Miami, FL. Location / format: Miami, FL / in-person",
+      "eligibility": "All trainees incl. undergraduates, any research area (forum is biomedical-oriented); no citizenship gate stated.",
+      "reward": "Travel award (amount unspecified) toward registration, transportation, hotel",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-06",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-06; confirm the organizer cutoff and timezone.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Eastern-Atlantic Student Research Forum (ESRF) 2027 Travel Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Research abstract (oral/poster) + short travel-award form; awards favor presenters"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
