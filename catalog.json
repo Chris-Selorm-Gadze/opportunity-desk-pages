@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
-  "updatedAt": "2026-10-21T23:46:02.230Z",
+  "revision": 9,
+  "updatedAt": "2026-10-23T01:38:22.200Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-21T23:46:02.230Z",
+      "checkedAt": "2026-10-23T01:38:17.989Z",
       "outcome": "success",
-      "summary": "Added 10 Summer 2027 industry internships verified live on official employer pages (Optiver, Pinterest, Booz Allen cyber, TikTok AI Search, Neuralink, Anduril, Veeam x2, M3 USA, Tyler Technologies), plus Wing as needs-verification and a Thrivent watch entry after its posting could not be found live. Six sweep postings (Grow Therapy, K2 Space, Constellation, Keysight, Spectrum and the live Thrivent posting) could not be verified on official pages and are not presented as open. Existing entries preserved; Summer 2027 tags normalized across the stream."
+      "summary": "Rechecked 10 existing official internship/program pages: the live undated applications remain available, and NASA, JPL, DOE and NIH cutoff wording is retained. Added Cato’s paid Spring 2027 policy internship with a confirmed November 1 deadline; the spreadsheet’s October 25 date is outdated. Other internship entries and research streams are preserved."
     },
     {
       "id": "trading",
@@ -2049,7 +2049,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "The main NASA page gives March 1. Individual centers can close earlier: GISS lists February 26. Check each selected project before relying on the general cutoff.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Check citizenship, enrollment and GPA rules",
         "Choose projects and verify earlier center-specific deadlines",
@@ -2089,7 +2089,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "The page labels the March 12 cutoff 5 p.m. PDT, but that date precedes the 2027 daylight-saving transition. The date is retained without an invented UTC time; verify PDT/PST with JPL.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Verify deadline timezone with JPL",
         "Prepare resume and unofficial transcript",
@@ -2129,7 +2129,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "Summer 2027 applications are open. The application and both recommendations share the January 6 cutoff; do not wait until the final day to invite recommenders.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Check enrollment, credits and GPA requirements",
         "Request two recommendations before the deadline",
@@ -2168,7 +2168,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "Summer 2027 application and two recommendations are due together. CCI has different eligibility and GPA rules from SULI; check the CCI requirements directly.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Verify community-college eligibility and GPA waiver requirements",
         "Request two recommendations early",
@@ -2207,7 +2207,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Application",
       "sourceNote": "The application closes at noon Eastern, not midnight. Reference letters have a separate February 2, 2027 noon Eastern deadline. A submitted application does not guarantee investigator selection.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Check enrollment, age and residency rules",
         "Prepare resume, coursework and personal statement",
@@ -2249,7 +2249,7 @@
       "cycle": "May–August internship · intake year to confirm",
       "sourceState": "Open listing",
       "sourceNote": "An active official Apply option was verified. No closing date or explicit intake year is stated on this role page. Do not treat job-board expiration dates as employer deadlines.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Confirm intake year, work authorization and placement dates",
         "Prepare a research-focused resume and relevant projects",
@@ -2286,7 +2286,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "The official page states applications for selected businesses are open. There is no single published cutoff on this page; choose a live business/location requisition and apply early.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Choose a live business and location requisition",
         "Verify graduation window, pay and work authorization",
@@ -2324,7 +2324,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "Select-business applications are open on the official 2027 program page. No universal application cutoff is published; verify the live requisition before applying.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Identify an open graduate-level business requisition",
         "Confirm degree, experience and location requirements",
@@ -2363,7 +2363,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "Official job 10552937 explicitly accepts applications on an ongoing basis. A rolling window can close when hiring needs change; there is no fixed date to put on the calendar.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Verify graduation window, term remaining and work authorization",
         "Tailor resume with engineering projects and coding experience",
@@ -2402,7 +2402,7 @@
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
       "sourceNote": "An official Apply option is live for job 10575256. No fixed closing date is published; do not infer a guaranteed application window.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "suggestedTasks": [
         "Check graduation dates and no-sponsorship restriction",
         "Prepare a marketing resume with campaign or analytics examples",
@@ -3077,6 +3077,46 @@
         "Prepare for Nov 6–8 in Cambridge"
       ],
       "stream": "original"
+    },
+    {
+      "id": "cato-paid-policy-internship-spring-2027",
+      "title": "Cato Institute Paid Policy Internship — Spring 2027",
+      "organization": "Cato Institute",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Paid",
+        "Public policy",
+        "Washington DC",
+        "On-site",
+        "Spring 2027"
+      ],
+      "url": "https://www.cato.org/internships",
+      "sourceUrl": "https://www.cato.org/internships",
+      "summary": "In-person public-policy research and professional training in Washington, DC. Spring placement runs from late January to late April 2027.",
+      "eligibility": "Check the selected role’s enrollment, experience and degree requirements. International applicants need U.S. work authorization and must work in person; a limited number of J-1 visas are sponsored.",
+      "reward": "Paid $18.40 per hour; course credit may be available. Confirm living, travel and any housing costs.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-01",
+      "deadlineAt": "2026-11-02T04:59:00Z",
+      "sourceDeadline": "Spring 2027: November 1, 2026, 11:59 p.m. Eastern Time.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
+      "cycle": "Spring 2027",
+      "sourceState": "Application",
+      "sourceNote": "The official application window confirms November 1, correcting the October 25 date in the connected spreadsheet. This is a fixed cutoff, not rolling recruitment.",
+      "checkedOn": "2026-10-22",
+      "suggestedTasks": [
+        "Check role eligibility and U.S. work authorization",
+        "Prepare resume and required application responses",
+        "Submit before the confirmed November 1 cutoff"
+      ],
+      "stream": "internships"
     }
   ]
 }
