@@ -14,7 +14,7 @@ export function applyCatalogPatch(base,input,now=new Date()){
  if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(k=>!['stream','checkedAt','outcome','summary','opportunities'].includes(k)))throw Error('Use only public catalog patch fields.');
  if(!Array.isArray(input.opportunities))throw Error('opportunities must be an array of complete public entries.');
  const prior=feed.streams.find(s=>s.id===input.stream);
- const stream=catalogStreamSchema.parse({id:input.stream,label:prior?.label||(input.stream==='travel'?'Sponsored travel & leadership':input.stream==='internships'?'Internships':'Trading & finance'),checkedAt:input.checkedAt,outcome:input.outcome,summary:input.summary});
+ const stream=catalogStreamSchema.parse({id:input.stream,label:prior?.label||(input.stream==='travel'?'Sponsored travel & leadership':input.stream==='internships'?'Internships':input.stream==='spreadsheet'?'Connected spreadsheet':'Trading & finance'),checkedAt:input.checkedAt,outcome:input.outcome,summary:input.summary});
  if(Date.parse(stream.checkedAt)>now.getTime()+300000)throw Error('Research timestamp is in the future.');
  if(prior&&Date.parse(stream.checkedAt)<Date.parse(prior.checkedAt))throw Error('A newer research run is already published. Review it before retrying.');
  const entries=input.opportunities.map(o=>catalogEntrySchema.parse(o));
@@ -25,9 +25,10 @@ export function applyCatalogPatch(base,input,now=new Date()){
   if(match<0){if(entry.stream!==stream.id)throw Error('New entries must belong to this research stream.');rows.push(entry);added++;}
   else{
    const old=rows[match];if(old.cycle!==entry.cycle)throw Error('A new application cycle requires a new ID.');
-   if(old.stream!==stream.id&&old.stream!=='original')throw Error('Preserve the other research stream’s entries.');
-   if(entry.checkedOn<old.checkedOn)throw Error('Refusing to replace newer source research.');
-   const next={...entry,id:old.id,stream:old.stream};if(JSON.stringify(next)!==JSON.stringify(old))updated++;
+   if(old.stream!==stream.id&&old.stream!=='original'&&stream.id!=='spreadsheet')throw Error('Preserve the other research stream’s entries.');
+   const metadataOnly=stream.id==='spreadsheet'&&old.stream!=='spreadsheet'&&entry.sheet?.verifiedAt!==stream.checkedAt;
+   if(!metadataOnly&&entry.checkedOn<old.checkedOn)throw Error('Refusing to replace newer source research.');
+   const next=metadataOnly?{...old,tags:[...new Set([...old.tags,'Spreadsheet'])],sheet:entry.sheet}:{...entry,id:old.id,stream:old.stream,...(stream.id!=='spreadsheet'&&old.sheet?{sheet:old.sheet}:{})};if(JSON.stringify(next)!==JSON.stringify(old))updated++;
    rows[match]=next;
   }
  }
@@ -42,7 +43,7 @@ function git(cwd,args){
  return result.stdout.trim();
 }
 
-export async function publish(input,{dryRun=false}={}){
+export async function publish(inputOrFactory,{dryRun=false}={}){
  let lastError;
  for(let attempt=1;attempt<=3;attempt++){
   const temporary=await mkdtemp(path.join(tmpdir(),'opportunity-catalog-'));
@@ -51,6 +52,7 @@ export async function publish(input,{dryRun=false}={}){
    git(temporary,['clone','--depth','1','--single-branch','--branch','main',repository,'repo']);
    const checkout=path.join(temporary,'repo');
    const base=JSON.parse(await readFile(path.join(checkout,'catalog.json'),'utf8'));
+   const input=typeof inputOrFactory==='function'?await inputOrFactory(base):inputOrFactory;
    const result=applyCatalogPatch(base,input);
    if(dryRun)return {dryRun:true,revision:result.catalog.revision,added:result.added,updated:result.updated,count:result.catalog.opportunities.length};
    await writeFile(path.join(checkout,'catalog.json'),JSON.stringify(result.catalog,null,2)+'\n');
