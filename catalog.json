@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 25,
-  "updatedAt": "2026-10-23T19:59:47.099Z",
+  "revision": 26,
+  "updatedAt": "2026-10-23T20:10:14.091Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-23T19:57:04.320Z",
+      "checkedAt": "2026-10-23T20:10:12.318Z",
       "outcome": "success",
-      "summary": "Reviewed official financial-institution and fintech applications: 17 new 2027 internships across banking, investment management, software, cybersecurity and AI; sponsorship restrictions and confirmed October/November deadlines distinguished. One existing application link flagged for verification."
+      "summary": "Added HSBC London Finance & Treasury summer internship with a November 9 deadline, 2028 undergraduate eligibility and consideration of applicants requiring visa sponsorship. Rechecked near-term and undated financial-institution listings; clarified degree-experience and minimum-age rules for one Bank of America technology track."
     },
     {
       "id": "spreadsheet",
@@ -11858,7 +11858,7 @@
       "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
       "summary": "10-week technology internship with in-person orientation and office-based team work. Software Engineer and Mainframe Analyst track. Locations: Charlotte, Chicago, Dallas Metro, New York City Metro, Pennington NJ and Phoenix, United States.",
-      "eligibility": "Undergraduate or master’s candidate, expected graduation November 2027–August 2028; technical or related field. Preferred GPA 3.5. Review exact discipline and experience rules for this track. Sponsorship is not stated in this role; confirm directly.",
+      "eligibility": "Undergraduate or master’s student graduating November 2027–August 2028, in the penultimate year; CS, computer engineering, information systems or a similar relevant discipline. Master’s candidates must have no more than zero years of experience. GPA 3.5 is preferred. Minimum age 18. Role does not state sponsorship support; confirm directly.",
       "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
       "value": 4,
       "effort": 6,
@@ -12048,6 +12048,50 @@
         "Tailor resume to this requisition",
         "Complete the official application and any assessment",
         "Record the submission and plan a follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "hsbc-finance-treasury-london-summer-2027-60623",
+      "title": "Business Analyst — Finance & Treasury Internship, London 2027",
+      "organization": "HSBC",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Business analysis",
+        "Treasury",
+        "Automation",
+        "Summer 2027",
+        "United Kingdom",
+        "Sponsorship: Conditional",
+        "Graduation: 2028"
+      ],
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Business-Analyst-Finance-%26-Treasury-Internship-E14-5HQ/1373569557/",
+      "sourceUrl": "https://apply.careers.hsbc.com/emergingtalent/job/London-Business-Analyst-Finance-%26-Treasury-Internship-E14-5HQ/1373569557/",
+      "summary": "London office internship in Finance and Treasury, covering financial analysis, reporting, liquidity, capital and digital or automation improvements. Starts June 21, 2027, for 10 full-time weeks.",
+      "eligibility": "Penultimate-year undergraduate graduating in 2028; expected 2:1 degree or overseas equivalent; fluent English and full-time availability. Employer explicitly considers candidates requiring visa sponsorship; approval and individual visa eligibility must be confirmed. HSBC accepts only one application per recruitment cycle and may not transfer an application to another vacancy.",
+      "reward": "Compensation amount, pay period and relocation or housing support are not stated in this role. Confirm internship pay and living costs before accepting.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-09",
+      "deadlineAt": "",
+      "sourceDeadline": "Closing Date: Mon Nov 09, 2026. Applications reviewed on a rolling basis; may close earlier due to application volume. No cutoff time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-19",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official role and matching SuccessFactors application form (requisition 60623) verified. The sponsorship statement establishes willingness to consider applicants requiring sponsorship, not a guarantee. Role is finance/business analysis with automation exposure, not a software-engineering internship.",
+      "checkedOn": "2026-10-23",
+      "suggestedTasks": [
+        "Compare HSBC roles before using the one-application-per-cycle allowance",
+        "Confirm sponsorship, degree equivalence and internship compensation",
+        "Prepare resume with analytical and finance or automation examples",
+        "Apply early and complete any required assessment",
+        "Record application progress privately"
       ],
       "stream": "internships"
     }
