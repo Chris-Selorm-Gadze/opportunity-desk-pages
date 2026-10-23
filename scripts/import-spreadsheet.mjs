@@ -14,7 +14,14 @@ const years=text=>{
  for(const m of text.matchAll(/(20\d{2})\s*[-–/]\s*(\d{2})(?!\d)/g))out.add(m[1].slice(0,2)+m[2]);
  return out;
 };
-const sameCycle=(a,b)=>{const x=years(a),y=years(b);return !x.size||!y.size||[...x].some(v=>y.has(v));};
+const sameCycle=(a,b)=>{
+ const x=years(a),y=years(b);if(x.size&&y.size&&![...x].some(v=>y.has(v)))return false;
+ const seasons=t=>new Set((t.toLowerCase().replaceAll('autumn','fall').match(/\b(spring|summer|fall|winter|q[1-4])\b/g)||[]));
+ const p=seasons(a),q=seasons(b);if(p.size&&q.size&&![...p].some(v=>q.has(v)))return false;
+ const rounds=t=>(t.toLowerCase().match(/\b(?:round|phase|open)\s*(?:[1-9]\d*|[ivx]+)\b/g)||[]).map(words);
+ const r=rounds(a),s=rounds(b);if((r.length||s.length)&&!r.some(v=>s.includes(v)))return false;
+ return true;
+};
 const link=raw=>{const u=new URL(raw);u.protocol='https:';u.hostname=u.hostname.replace(/^www\./,'');u.hash='';for(const k of [...u.searchParams.keys()])if(/^utm_|^fbclid$|^gclid$/.test(k))u.searchParams.delete(k);u.pathname=u.pathname.toLowerCase().replace(/\/(?:submission|apply)\/?$/,'').replace(/\/+$/,'');u.searchParams.sort();return u.href;};
 const titleWords=text=>new Set(words(text).split(' ').filter(w=>w.length>2&&!/^(20\d\d|program|programme|summer|scholarship|competition|internship|the|and|for)$/.test(w)));
 const similarity=(a,b)=>{const x=titleWords(a),y=titleWords(b);return x.size&&y.size?2*[...x].filter(w=>y.has(w)).length/(x.size+y.size):0;};
@@ -73,7 +80,7 @@ function publicRow(input){
 const aliasRules=[[/\bilaunch\b/i,'ilaunch'],[/\be.fest\b(?!.*development)/i,'efest'],[/\bbyu\b/i,'byu'],[/bianca caragliano/i,'stock'],[/riding forward/i,'regions']];
 function matchRow(rows,row,key){
  const prior=rows.find(o=>o.sheet?.key===key);if(prior)return prior;
- const candidates=rows.filter(o=>o.sourceState!=='Directory'&&sameCycle(row.title,o.cycle));
+ const candidates=rows.filter(o=>o.sourceState!=='Directory'&&sameCycle(row.title,o.cycle+' '+o.title));
  for(const [pattern,id] of aliasRules)if(pattern.test(row.title)){const x=candidates.find(o=>o.id===id);if(x)return x;}
  const exact=candidates.filter(o=>link(o.url)===link(row.url));
  const useful=exact.filter(o=>similarity(row.title,o.title)>=.35||!o.sheet&&exact.length===1);
