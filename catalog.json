@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 27,
-  "updatedAt": "2026-10-23T20:14:47.347Z",
+  "revision": 28,
+  "updatedAt": "2026-10-23T21:11:00.161Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-23T20:14:27.785Z",
+      "checkedAt": "2026-10-23T21:09:59.963Z",
       "outcome": "success",
-      "summary": "Read 157 spreadsheet opportunities: 0 new, 156 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 157 spreadsheet opportunities: 0 new, 156 matched to tracked records, 9 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -5306,8 +5306,8 @@
     {
       "sheet": {
         "key": "b733587dd654fa7cd925092eb39ece8431318168379465d1f2bad5d27364ef76",
-        "hash": "c5819e03847f533cd865cc51cbfe00dd6d1a97c24dc7be5e731db04f89a1eeae",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "74b104b52252c6d192a0d03c4740d81498b25365082e0ad474b4fe7501fc416c",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "Cedric Richmond Scholarship Program",
@@ -5317,7 +5317,7 @@
           "programDates": "2026-27 award",
           "funding": "$1,200 scholarship, sent directly to the institution",
           "location": "Louisiana",
-          "eligibility": "U.S. citizen; Louisiana resident; 2.75+ GPA; full-time undergrad/grad/professional student at a Louisiana PUBLIC college (Grambling State qualifies)",
+          "eligibility": "U.S. citizen; Louisiana resident; 2.75+ GPA; full-time undergrad/grad/professional student at a Louisiana PUBLIC college",
           "materials": "Signed application, one letter of recommendation, headshot, essay, resume, transcript",
           "url": "https://gov.louisiana.gov/page/145"
         }
@@ -5338,7 +5338,7 @@
       "url": "https://gov.louisiana.gov/page/145",
       "sourceUrl": "https://gov.louisiana.gov/page/145",
       "summary": "Scholarship. Program dates: 2026-27 award. Location / format: Louisiana. Next milestone: Recipients notified January 2027",
-      "eligibility": "U.S. citizen; Louisiana resident; 2.75+ GPA; full-time undergrad/grad/professional student at a Louisiana PUBLIC college (Grambling State qualifies)",
+      "eligibility": "U.S. citizen; Louisiana resident; 2.75+ GPA; full-time undergrad/grad/professional student at a Louisiana PUBLIC college",
       "reward": "$1,200 scholarship, sent directly to the institution",
       "value": 3,
       "effort": 5,
@@ -6355,8 +6355,8 @@
     {
       "sheet": {
         "key": "65551df7ab148da7dc077e19dbc9f0ef95ab040fa8528205d0f35fc86f5d182b",
-        "hash": "1bb87b6d137107c5b7f49db8a024cee13f096b927eda51109da09f8439cb343e",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "aa1b20184d323e5ee645db8f03f9445627eab3d0fd094e5b82c3400f8cdc1a2e",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "NASA ORBIT Challenge 2027",
@@ -6366,7 +6366,7 @@
           "programDates": "Showcase at Space Center Houston",
           "funding": "Up to $500,000 total pool; Phase 3 track placements $30k/$25k/$15k; $10k Next Steps; $10k Integration Bonus; $5k People Choice; $5k Faculty Advisors Choice (paid to lead institution)",
           "location": "Virtual + showcase in Houston, TX",
-          "eligibility": "Teams LED by HBCU/TCU/eligible MSI (Grambling can lead); 60%+ of team from lead school; up to 6 students + faculty advisor; 18+, enrolled at US institution; foreign citizens may participate if full-time at eligible US institution and residing in US (may be restricted from on-site NASA-center events)",
+          "eligibility": "Teams LED by HBCU/TCU/eligible MSI; 60%+ of team from lead school; up to 6 students + faculty advisor; 18+, enrolled at US institution; foreign citizens may participate if full-time at eligible US institution and residing in US (may be restricted from on-site NASA-center events)",
           "materials": "Registration on NASA STEM Gateway; <=5-page overview paper for Phase 1; no prototype required",
           "url": "https://nasaorbit.org/rules/"
         }
@@ -6388,7 +6388,7 @@
       "url": "https://nasaorbit.org/rules/",
       "sourceUrl": "https://nasaorbit.org/rules/",
       "summary": "Space-tech student competition. Program dates: Showcase at Space Center Houston. Location / format: Virtual + showcase in Houston, TX. Next milestone: Phase 2 finalists up to $15k/team (up to 20 teams)",
-      "eligibility": "Teams LED by HBCU/TCU/eligible MSI (Grambling can lead); 60%+ of team from lead school; up to 6 students + faculty advisor; 18+, enrolled at US institution; foreign citizens may participate if full-time at eligible US institution and residing in US (may be restricted from on-site NASA-center events)",
+      "eligibility": "Teams LED by HBCU/TCU/eligible MSI; 60%+ of team from lead school; up to 6 students + faculty advisor; 18+, enrolled at US institution; foreign citizens may participate if full-time at eligible US institution and residing in US (may be restricted from on-site NASA-center events)",
       "reward": "Up to $500,000 total pool; Phase 3 track placements $30k/$25k/$15k; $10k Next Steps; $10k Integration Bonus; $5k People Choice; $5k Faculty Advisors Choice (paid to lead institution)",
       "value": 3,
       "effort": 5,
@@ -7240,8 +7240,8 @@
     {
       "sheet": {
         "key": "2ef7e5d8be7e55d262f830a4507af8d7447870422ef5f72bd42286a84b769b1f",
-        "hash": "833ec3ed66fade60d28fe76c1c8adcdc8e1f889b6a292e6cbf1a59fe443b8291",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "8476092f1b817b0192803a183ad7aefff09dd81f37e6be1f1c9adcb4c483a8e4",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "Millennium Fellowship Class of 2027",
@@ -7251,7 +7251,7 @@
           "programDates": "2027-08 to 2027-11",
           "funding": "Free fellowship; leadership training; SDG project on own campus; UNAI/MCN certificate",
           "location": "Virtual + campus",
-          "eligibility": "Undergrads 18+ enrolled Aug-Nov 2027; requires campus cohort of 8+ fellows (must recruit ~8 Grambling students; 15+ applications encouraged); worldwide, no F-1 restriction",
+          "eligibility": "Undergrads 18+ enrolled Aug-Nov 2027; requires campus cohort of 8+ fellows; worldwide, no F-1 restriction",
           "materials": "Round 1 application",
           "url": "https://www.millenniumfellows.org"
         }
@@ -7273,7 +7273,7 @@
       "url": "https://www.millenniumfellows.org",
       "sourceUrl": "https://www.millenniumfellows.org",
       "summary": "Social-impact leadership fellowship. Program dates: 2027-08 to 2027-11. Location / format: Virtual + campus. Next milestone: Aug-Nov 2027 program",
-      "eligibility": "Undergrads 18+ enrolled Aug-Nov 2027; requires campus cohort of 8+ fellows (must recruit ~8 Grambling students; 15+ applications encouraged); worldwide, no F-1 restriction",
+      "eligibility": "Undergrads 18+ enrolled Aug-Nov 2027; requires campus cohort of 8+ fellows; worldwide, no F-1 restriction",
       "reward": "Free fellowship; leadership training; SDG project on own campus; UNAI/MCN certificate",
       "value": 3,
       "effort": 5,
@@ -7296,8 +7296,8 @@
     {
       "sheet": {
         "key": "419168e01b05ddd13cb32dcebe369f2d5ce9ef440d7db5cc020e534c35d5b72d",
-        "hash": "a5c3f002517c3dce880275fe4015f8bdae16e58b60d34772404e03a15d17b774",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "61bdaefdf23f7189d83136e58318259f95551258f6257d56c826d917ec2eccab",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "Frederick Douglass Bicentennial Scholarship",
@@ -7307,7 +7307,7 @@
           "programDates": "",
           "funding": "2 x $10,000 scholarships (one female, one male)",
           "location": "US (HBCU)",
-          "eligibility": "Full-time rising seniors at accredited 4-year HBCUs (public included — Grambling eligible; NOT restricted to UNCF-member institutions); high academics, leadership, community service, unmet financial need (3.5 GPA per aggregators)",
+          "eligibility": "Full-time rising seniors at accredited 4-year HBCUs; high academics, leadership, community service, unmet financial need (3.5 GPA per aggregators)",
           "materials": "UNCF portal application",
           "url": "https://uncf.org/the-latest/scholarships-for-october-at-uncf"
         }
@@ -7326,7 +7326,7 @@
       "url": "https://uncf.org/the-latest/scholarships-for-october-at-uncf",
       "sourceUrl": "https://uncf.org/the-latest/scholarships-for-october-at-uncf",
       "summary": "Scholarship. Location / format: US (HBCU)",
-      "eligibility": "Full-time rising seniors at accredited 4-year HBCUs (public included — Grambling eligible; NOT restricted to UNCF-member institutions); high academics, leadership, community service, unmet financial need (3.5 GPA per aggregators)",
+      "eligibility": "Full-time rising seniors at accredited 4-year HBCUs; high academics, leadership, community service, unmet financial need (3.5 GPA per aggregators)",
       "reward": "2 x $10,000 scholarships (one female, one male)",
       "value": 3,
       "effort": 5,
@@ -7947,8 +7947,8 @@
     {
       "sheet": {
         "key": "30f4a83d84b223ce9cf0ef81964050818c51d2c67f91ee09c02c23f6b3756212",
-        "hash": "6ea15297c1844c9d39f0ab92da1dbe6b72a28a6ab4f42921a6431b13c1992c80",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "af084d0b6cded9713bb4f7ff42dd9410fe704ae74524a3d5aa000ad0d4eb8027",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "UNCF/Humble Bundle STEAM Scholarship",
@@ -7958,7 +7958,7 @@
           "programDates": "",
           "funding": "Up to $5,000 scholarship; cash",
           "location": "N/A",
-          "eligibility": "Undergraduate college juniors at a UNCF member institution or any HBCU ; STEAM major; 2.5+ GPA; US citizen/PR/national; need-based; gaming-industry interest preferred; F-1 not eligible",
+          "eligibility": "Undergraduate college juniors at a UNCF member institution or any HBCU; STEAM major; 2.5+ GPA; US citizen/PR/national; need-based; gaming-industry interest preferred; F-1 not eligible",
           "materials": "UNCF general application + FAFSA need info (NO essay; ~1 hr)",
           "url": "https://bigfuture.collegeboard.org/scholarships/uncfhumble-bundle-steam-scholarship"
         }
@@ -7977,7 +7977,7 @@
       "url": "https://bigfuture.collegeboard.org/scholarships/uncfhumble-bundle-steam-scholarship",
       "sourceUrl": "https://bigfuture.collegeboard.org/scholarships/uncfhumble-bundle-steam-scholarship",
       "summary": "Scholarship. Location / format: N/A",
-      "eligibility": "Undergraduate college juniors at a UNCF member institution or any HBCU ; STEAM major; 2.5+ GPA; US citizen/PR/national; need-based; gaming-industry interest preferred; F-1 not eligible",
+      "eligibility": "Undergraduate college juniors at a UNCF member institution or any HBCU; STEAM major; 2.5+ GPA; US citizen/PR/national; need-based; gaming-industry interest preferred; F-1 not eligible",
       "reward": "Up to $5,000 scholarship; cash",
       "value": 3,
       "effort": 5,
@@ -7999,8 +7999,8 @@
     {
       "sheet": {
         "key": "de85b8ad3752dc668ed7f064b7f399ee72834b5d2644aad3d12cd4ac8aa78044",
-        "hash": "23b8379b7b50f647b58c9144054e6e47b60ba89ea50f95afb9851eecdcaf8895",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "08a1c7e91a1c49dee48bbb0bd884d8509efdb8fece1293707a59d427c4cdb050",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "UNCF K-12 Education Fellowship (Walton Family Foundation)",
@@ -8010,7 +8010,7 @@
           "programDates": "10-week summer 2027",
           "funding": "Paid summer internship + housing + travel to internship city + UNCF Student Leadership Conference + senior-year coaching",
           "location": "United States; confirm internship placement and relocation requirements.",
-          "eligibility": "HBCU undergraduate juniors, all majors; commit full 10 weeks, willing to relocate; work-auth not stated — flag for F-1",
+          "eligibility": "HBCU undergraduate juniors, all majors; commit full 10 weeks, willing to relocate; work-auth not stated — international applicants must confirm work authorization",
           "materials": "Fellowship application and faculty/administrator recommendation; confirm current requirements.",
           "url": "https://mycareer.lincolnu.edu/jobs/united-negro-college-fund-uncf-uncf-k-12-education-fellowship/"
         }
@@ -8033,7 +8033,7 @@
       "url": "https://mycareer.lincolnu.edu/jobs/united-negro-college-fund-uncf-uncf-k-12-education-fellowship/",
       "sourceUrl": "https://mycareer.lincolnu.edu/jobs/united-negro-college-fund-uncf-uncf-k-12-education-fellowship/",
       "summary": "Leadership fellowship / paid summer internship. Program dates: 10-week summer 2027. Location / format: United States; confirm internship placement and relocation requirements.",
-      "eligibility": "HBCU undergraduate juniors, all majors; commit full 10 weeks, willing to relocate; work-auth not stated — flag for F-1",
+      "eligibility": "HBCU undergraduate juniors, all majors; commit full 10 weeks, willing to relocate; work-auth not stated — international applicants must confirm work authorization",
       "reward": "Paid summer internship + housing + travel to internship city + UNCF Student Leadership Conference + senior-year coaching",
       "value": 3,
       "effort": 5,
@@ -8265,8 +8265,8 @@
     {
       "sheet": {
         "key": "97baee078a3a607215ccdd3f7bbd595613222eec89dc6df93fea508b0e99f66b",
-        "hash": "4a0e92a5d5fb1a73e73355f3b6e1e05128d37ee1c1a6f7ca549b92635ebfa898",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "261e6fa524e3d44c1b882ef2a9ce5338f6640f6fa064f17694c0b982d73f2a93",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "Private (PVT) Henry Walker Minority Scholarship",
@@ -8276,7 +8276,7 @@
           "programDates": "",
           "funding": "$1,000 scholarship; cash",
           "location": "N/A",
-          "eligibility": "African American undergraduate at an HBCU ; 2.8+ GPA; volunteer experience; memorializes WWI veteran from Pointe Coupee Parish, LA",
+          "eligibility": "African American undergraduate at an HBCU; 2.8+ GPA; volunteer experience; memorializes WWI veteran from Pointe Coupee Parish, LA",
           "materials": "Short Bold.org application",
           "url": "https://bold.org/scholarships/private-henry-walker-minority-scholarship/"
         }
@@ -8295,7 +8295,7 @@
       "url": "https://bold.org/scholarships/private-henry-walker-minority-scholarship/",
       "sourceUrl": "https://bold.org/scholarships/private-henry-walker-minority-scholarship/",
       "summary": "Scholarship. Location / format: N/A",
-      "eligibility": "African American undergraduate at an HBCU ; 2.8+ GPA; volunteer experience; memorializes WWI veteran from Pointe Coupee Parish, LA",
+      "eligibility": "African American undergraduate at an HBCU; 2.8+ GPA; volunteer experience; memorializes WWI veteran from Pointe Coupee Parish, LA",
       "reward": "$1,000 scholarship; cash",
       "value": 3,
       "effort": 5,
@@ -8806,14 +8806,14 @@
     {
       "sheet": {
         "key": "24fcaa81b5b45bb5479b2702365ad06ebde3f83f80fbcfafc7f015037471b407",
-        "hash": "be9c92088e214b453528625bef6da0a886eab606752f08abb0814a27ed1d5da4",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "f90cf0ecae328a02ea82a21dd399ac89395258b826cff64a2e42175bf291ac9f",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "WVU Translational Research in Behavior Science NSF REU 2027",
           "category": "Paid undergraduate research / psychology",
           "deadline": "2027-02-15 (NOW PUBLISHED; application OPEN)",
-          "milestone": "Spreadsheet reports the 2027 application is open; independently verify. The organizer page returned an access error during this check.",
+          "milestone": "Spreadsheet reports the 2027 application is open; independently verify.",
           "programDates": "2027-06-04 to 2027-07-30; Morgantown WV",
           "funding": "$6,300 stipend ($700/week) + food stipend + lodging + travel reimbursement",
           "location": "Housing/food stipend/travel covered",
@@ -8838,7 +8838,7 @@
       ],
       "url": "https://www.psyc-reu-wvu.com/",
       "sourceUrl": "https://www.psyc-reu-wvu.com/",
-      "summary": "Paid undergraduate research / psychology. Program dates: 2027-06-04 to 2027-07-30; Morgantown WV. Location / format: Housing/food stipend/travel covered. Next milestone: Spreadsheet reports the 2027 application is open; independently verify. The organizer page returned an access error during this check.",
+      "summary": "Paid undergraduate research / psychology. Program dates: 2027-06-04 to 2027-07-30; Morgantown WV. Location / format: Housing/food stipend/travel covered. Next milestone: Spreadsheet reports the 2027 application is open; independently verify.",
       "eligibility": "Rising sophomores–seniors; psychology/closely related major; >=2.8 psychology GPA; NSF requires US citizen, national or permanent resident; F-1 NOT eligible",
       "reward": "$6,300 stipend ($700/week) + food stipend + lodging + travel reimbursement",
       "value": 3,
@@ -8855,7 +8855,7 @@
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: REU application (requirements not yet finalized for 2027)",
-        "Review next milestone: Spreadsheet reports the 2027 application is open; independently verify. The organizer page returned an access error during this check."
+        "Review next milestone: Spreadsheet reports the 2027 application is open; independently verify."
       ],
       "stream": "spreadsheet"
     },
@@ -9855,8 +9855,8 @@
     {
       "sheet": {
         "key": "c17fcb5dcb31c7e8fe27e31deae0c768d649682162a59a4682bfa0c5487a739e",
-        "hash": "99e7e91840b0eaa7f8195fb4bd8c6b6f7b4a83af52f9930484fa53817a9365d6",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "1bda5ec4147a5783bab2aa37e21e0cf4d07e8f9c997e9cf18e901eb6169955df",
+        "checkedAt": "2026-10-23T21:09:59.963Z",
         "present": true,
         "fields": {
           "title": "UNCF HBCU Educators Scholarship",
@@ -9866,7 +9866,7 @@
           "programDates": "",
           "funding": "Renewable need-based (amount not published on listing)",
           "location": "UNCF portal",
-          "eligibility": "Juniors in 2026–27 majoring in education at UNCF-member or any four-year HBCU ; UNCF typically requires US citizen/PR — verify; likely F-1 excluded",
+          "eligibility": "Juniors in 2026–27 majoring in education at UNCF-member or any four-year HBCU; UNCF typically requires US citizen/PR — verify; likely F-1 excluded",
           "materials": "UNCF application incl. essays + documents",
           "url": "https://uncf.org/the-latest/scholarships-for-october-at-uncf"
         }
@@ -9885,7 +9885,7 @@
       "url": "https://uncf.org/the-latest/scholarships-for-october-at-uncf",
       "sourceUrl": "https://uncf.org/the-latest/scholarships-for-october-at-uncf",
       "summary": "Scholarships. Location / format: UNCF portal",
-      "eligibility": "Juniors in 2026–27 majoring in education at UNCF-member or any four-year HBCU ; UNCF typically requires US citizen/PR — verify; likely F-1 excluded",
+      "eligibility": "Juniors in 2026–27 majoring in education at UNCF-member or any four-year HBCU; UNCF typically requires US citizen/PR — verify; likely F-1 excluded",
       "reward": "Renewable need-based (amount not published on listing)",
       "value": 3,
       "effort": 5,
