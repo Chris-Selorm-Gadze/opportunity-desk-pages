@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 37,
-  "updatedAt": "2026-10-24T11:54:01.403Z",
+  "revision": 38,
+  "updatedAt": "2026-10-24T14:30:46.704Z",
   "streams": [
     {
       "id": "internships",
@@ -27,9 +27,9 @@
     {
       "id": "travel",
       "label": "Sponsored travel & leadership",
-      "checkedAt": "2026-10-23T14:14:38.111Z",
+      "checkedAt": "2026-10-24T14:30:46.017Z",
       "outcome": "success",
-      "summary": "Rechecked five existing organizer pages and added two verified, fully funded leadership/policy opportunities: Budapest’s Global Leadership Dialogue and Silverado’s U.S. Catherine Hinman Fellowship. Fees, exclusions and competitive selection are labeled."
+      "summary": "Rechecked existing travel leads and five original deadlines within 30 days against organizer sources. No new verified fully sponsored travel opportunity or material change found; existing coverage, caps and exclusions remain labeled."
     }
   ],
   "opportunities": [
