@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 38,
-  "updatedAt": "2026-10-24T14:30:46.704Z",
+  "revision": 39,
+  "updatedAt": "2026-10-24T17:35:33.614Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-24T09:53:11.160Z",
+      "checkedAt": "2026-10-24T17:35:27.728Z",
       "outcome": "success",
-      "summary": "Read 157 spreadsheet opportunities: 0 new, 156 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 163 spreadsheet opportunities: 5 new, 157 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -1062,6 +1062,25 @@
       "stream": "original"
     },
     {
+      "sheet": {
+        "key": "e799f1697be9ea2257a894f9a7e07298a78660deb854d3d33dbfa97fc6e23e10",
+        "hash": "25eaadfabff5896f7c1d548eeeda71d6f8885d9d7b21a4f422e2493931cd346b",
+        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "present": true,
+        "fields": {
+          "title": "MIT Summer Research Program (MSRP General) 2027",
+          "category": "Funded fellowships and research",
+          "deadline": "2027-01-19 23:59 ET",
+          "milestone": "Info session Oct 29 2026 1pm ET; recommendations due same as application; CPT/OPT approval by May 15 2027",
+          "programDates": "2027-06-07 to 2027-08-07 (MIT, Cambridge MA)",
+          "funding": "Weekly stipend + round-trip travel + MIT housing + partial food subsidy; no program fee",
+          "location": "Cambridge MA / in person",
+          "eligibility": "Full-time non-MIT US-based sophomores/juniors/non-graduating seniors; 2 academic years coursework; >=3.5 overall OR major GPA; graduation Dec 2027 or later; research/graduate school interest. F-1 explicitly eligible WITH CPT or OPT authorized by home school, must be secured May 15. Biology/BCS has separate program.",
+          "materials": "Essays; 1-2 page CV; unlocked unofficial transcript; 2 recommendation letters due Jan 19.",
+          "url": "https://oge.mit.edu/msrp/application/"
+        },
+        "verifiedAt": "2026-10-24T17:35:27.728Z"
+      },
       "id": "msrp",
       "title": "MIT Summer Research Program — General",
       "organization": "MIT Office of Graduate Education",
@@ -1071,24 +1090,25 @@
       ],
       "tags": [
         "Research",
-        "Engineering"
+        "Engineering",
+        "Spreadsheet"
       ],
       "url": "https://oge.mit.edu/msrp/application/",
       "sourceUrl": "https://oge.mit.edu/msrp/application/",
-      "summary": "MIT summer research, June 7–August 7, 2027; separate from the biology track.",
-      "eligibility": "Check program enrollment and academic criteria; some MIT departments use separate summer programs.",
-      "reward": "Summer research support; verify stipend",
+      "summary": "On-site Cambridge research, June 7–August 7, 2027; biology/BCS uses a separate program.",
+      "eligibility": "Full-time non-MIT students studying in the U.S.; sophomores, juniors or non-graduating seniors with two academic years completed; 3.5 overall or major GPA; graduation December 2027 or later. F-1 applicants require home-institution CPT/OPT approval by May 15, 2027. Review departmental restrictions.",
+      "reward": "Weekly stipend, round-trip travel, university housing and partial food subsidy; no participation fee.",
       "value": 4,
       "effort": 16,
       "deadlineDate": "2027-01-19",
       "deadlineAt": "2027-01-20T04:59:00Z",
-      "sourceDeadline": "Jan 19, 2027 · 11:59 p.m. ET",
+      "sourceDeadline": "January 19, 2027 at 11:59 PM ET; both recommendation letters and all materials are due at the same cutoff.",
       "confidence": "Exact time",
       "opensOn": "2026-09-29",
       "cycle": "2027",
       "sourceState": "Application",
-      "sourceNote": "Exactly two recommendation letters and all materials must arrive by the same deadline; incomplete files are not reviewed.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Deadline and eligibility rechecked; support confirmed in https://oge.mit.edu/msrp/frequently-asked-questions/ . The eligibility paragraph mentions June 8 while the program table says June 7; confirm arrival dates. Portal requires JavaScript.",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
         "Review eligible departments and enrollment rules",
         "Prepare 1–2 page CV",
@@ -12094,6 +12114,292 @@
         "Record application progress privately"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "b754cf68d3afca5a0c031baed7c6da9d3dae9fd77b07b82d3b61f2e278fb76ee",
+        "hash": "a1d9fafa4937f057269aaf0cb4d1e049c49fab64ced117b70e7e3d8ad9ab4b39",
+        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "present": true,
+        "fields": {
+          "title": "Chick-fil-A Community Scholars 2027",
+          "category": "Scholarships",
+          "deadline": "2026-11-03 15:00 CT",
+          "milestone": "Online recommendation due within 3 business days after deadline; Spring 2027 notification",
+          "programDates": "2027-28 academic year",
+          "funding": "Up to 13 one-time scholarships of up to $25,000 each; disbursable over 1-6 years; mentoring/leadership program",
+          "location": "U.S./Canada/Puerto Rico; online application",
+          "eligibility": "Age 18 by July 15 2027; currently resident US/PR/Canada; high school senior, undergrad or grad enrolling full-time 2027-28; GPA 3.0+; community service/leadership within last 12 months; employees/families excluded. F-1 international students EXPLICITLY eligible.",
+          "materials": "Transcript; parents' or own IRS Form 1040 first two pages (ask for alternative if filing 1040-NR or foreign income); >=1 online recommendation; activities/financial need; scholarship application.",
+          "url": "https://scholarshipamerica.org/scholarship/cfacommunityscholars/"
+        },
+        "verifiedAt": "2026-10-24T17:35:27.728Z"
+      },
+      "id": "sheet-chick-fil-a-community-scholars-2027-b754cf68d3af",
+      "title": "Chick-fil-A Community Scholars 2027",
+      "organization": "Chick-fil-A / Scholarship America",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://scholarshipamerica.org/scholarship/cfacommunityscholars/",
+      "sourceUrl": "https://scholarshipamerica.org/scholarship/cfacommunityscholars/",
+      "summary": "Competitive scholarship for 2027–28 full-time study, with a one-year mentoring and leadership program.",
+      "eligibility": "Resident of the U.S., Puerto Rico or Canada; age 18 by July 15, 2027; GPA 3.0+; recent service or leadership. International students are explicitly eligible. Employees, their spouses/dependents and Operators’ families are excluded. Review full enrollment and financial-need rules.",
+      "reward": "Up to 13 one-time awards of up to $25,000, disbursable over 1–6 years.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-03",
+      "deadlineAt": "2026-11-03T21:00:00Z",
+      "sourceDeadline": "November 3, 2026, 3:00 p.m. Central Time.",
+      "confidence": "Exact time",
+      "opensOn": "2026-08-21",
+      "cycle": "2027 · Chick-fil-A Community Scholars 2027",
+      "sourceState": "Application",
+      "sourceNote": "Administrator states open. At least one online recommendation is due within three business days after the application deadline; that is a separate requirement.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Transcript; parents' or own IRS Form 1040 first two pages (ask for alternative if filing 1040-NR or foreign income); >=1 online recommendation; activities/financial need; scholarship application.",
+        "Review next milestone: Online recommendation due within 3 business days after deadline; Spring 2027 notification"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "5e37a0a190d87ef0ffb40389537b240c0475d115cc9d8ce599980d04f91b24d6",
+        "hash": "d23bc2c559de69428c8eca09719397ad3c6b52710cbda335063d53b6db235e1d",
+        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "present": true,
+        "fields": {
+          "title": "Weill Cornell Medicine Biostatistics Summer Internship 2027",
+          "category": "Paid internships",
+          "deadline": "2027-02-19",
+          "milestone": "Interview invites early/mid March 2027",
+          "programDates": "2027-06-07 to 2027-07-23",
+          "funding": "$5,000 stipend + dorm-style housing; travel/meals not listed as covered",
+          "location": "New York City / in person",
+          "eligibility": "Current undergraduate or recent grad Dec 2026 or later; some graduate TA positions; R not required. Official eligibility says 'U.S. students, citizens, and permanent residents'—ambiguous for F-1; request written eligibility and authorization clarification.",
+          "materials": "1-page resume; unofficial transcript; 1-page responses to 2 application questions; online application.",
+          "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship"
+        },
+        "verifiedAt": "2026-10-24T17:35:27.728Z"
+      },
+      "id": "sheet-weill-cornell-medicine-biostatistics-summer-internship-2027-5e37a0a190d8",
+      "title": "Weill Cornell Medicine Biostatistics Summer Internship 2027",
+      "organization": "Weill Cornell Medicine",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Early career",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "internships"
+      ],
+      "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
+      "sourceUrl": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
+      "summary": "NYC health-data research internship, June 7–July 23, 2027.",
+      "eligibility": "Undergraduates or recent graduates from December 2026 onward; limited graduate TA placements. The official U.S.-student/citizen/permanent-resident wording leaves international eligibility unclear; confirm work authorization directly. R experience is optional.",
+      "reward": "$5,000 stipend plus dorm-style housing; travel and meal support are not specified.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-19",
+      "deadlineAt": "",
+      "sourceDeadline": "Application due 2/19/27; time and timezone are not published. Not rolling.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Weill Cornell Medicine Biostatistics Summer Internship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official page announces 2027 applications and links https://weillcornell.az1.qualtrics.com/jfe/form/SV_8cfrcxru5LOfqGa . The form did not render in the text reader; usable entry and international eligibility need confirmation.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 1-page resume; unofficial transcript; 1-page responses to 2 application questions; online application.",
+        "Review next milestone: Interview invites early/mid March 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "685bf83d76f298196ee665635f7b60b0d04086d6d449868a063c9df1f45ee57a",
+        "hash": "7d4f4242d5e019f9929ad01b2c471768c3535598cc0909eac25203f6ea860ffe",
+        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "present": true,
+        "fields": {
+          "title": "APA CABE Essay Competition 2026",
+          "category": "Task-based competitions",
+          "deadline": "2026-10-26",
+          "milestone": "Winners announced by end Nov 2026",
+          "programDates": "Online",
+          "funding": "Up to 2 awards of $250 each; no travel",
+          "location": "Online",
+          "eligibility": "Current undergraduate psychology majors OR 2026 psychology graduates; no citizenship gate on official page; international entrants have won in prior years. No professional license required.",
+          "materials": "Professional cover letter <=500 words for REAL job + copy of job posting + AI-use disclosure (including no-use statement); free APA portal account if not member.",
+          "url": "https://www.apa.org/about/awards/cabe-essay-competition"
+        },
+        "verifiedAt": "2026-10-24T17:35:27.728Z"
+      },
+      "id": "sheet-apa-cabe-essay-competition-2026-685bf83d76f2",
+      "title": "APA CABE Essay Competition 2026",
+      "organization": "American Psychological Association",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "task",
+        "based",
+        "competitions"
+      ],
+      "url": "https://www.apa.org/about/awards/cabe-essay-competition",
+      "sourceUrl": "https://www.apa.org/about/awards/cabe-essay-competition",
+      "summary": "Psychology cover-letter competition using a real job posting; maximum 500 words and an AI-use disclosure, including a no-use statement.",
+      "eligibility": "Current undergraduate psychology majors or students graduating with a psychology degree in 2026. Review all submission and AI-disclosure rules.",
+      "reward": "Up to two prizes of $250 each.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-10-26",
+      "deadlineAt": "",
+      "sourceDeadline": "October 26, 2026; closing time and timezone are not published.",
+      "confidence": "Date only",
+      "opensOn": "2026-08-31",
+      "cycle": "2026 · APA CABE Essay Competition 2026",
+      "sourceState": "Application",
+      "sourceNote": "Organizer and https://cabe-awards.apa.org/ both list the 2026 competition and cutoff. Portal account required. Results are expected by late November; do not assume a midnight cutoff.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Professional cover letter <=500 words for REAL job + copy of job posting + AI-use disclosure (including no-use statement); free APA portal account if not member.",
+        "Review next milestone: Winners announced by end Nov 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "6a54823c7a6c63342dcdd5926a0c77a3184101ec07a93840f661004260ff01b1",
+        "hash": "8b4d89f023ac0ff99e88f93a0dc588e513ccf69e17c17585cd0ceb3536c4a691",
+        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "present": true,
+        "fields": {
+          "title": "APA Catalyst STAY Mental Health Services Fellowship 2027",
+          "category": "Mental health training grants / graduate fellowship",
+          "deadline": "2027-01-15",
+          "milestone": "One-year fellowship Oct 1-Sep 29; eligibility page says open but also prior cohort closed",
+          "programDates": "2027-28 fellowship term (confirm)",
+          "funding": "$13,000 stipend in four quarterly payments + funded DC training travel + one-year APA associate membership",
+          "location": "Hybrid training / Washington DC travel",
+          "eligibility": "US citizens/permanent residents/noncitizen nationals ONLY (F-1 excluded); full-time terminal master's psychology program housed with APA-accredited doctoral program and license-eligible, not CACREP/MFT/addiction-accredited; 2-year underserved-youth service commitment.",
+          "materials": "Application through APA Catalyst portal; full documentation/mentor details check portal.",
+          "url": "https://catalyst.apa.org/stay"
+        },
+        "verifiedAt": "2026-10-24T17:35:27.728Z"
+      },
+      "id": "sheet-apa-catalyst-stay-mental-health-services-fellowship-2027-6a54823c7a6c",
+      "title": "APA Catalyst STAY Mental Health Services Fellowship 2027",
+      "organization": "APA Catalyst",
+      "category": "Grants & funding",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "mental",
+        "health",
+        "training",
+        "grants",
+        "graduate",
+        "fellowship"
+      ],
+      "url": "https://catalyst.apa.org/stay",
+      "sourceUrl": "https://catalyst.apa.org/stay",
+      "summary": "One-year terminal-master’s psychology training fellowship supporting services for transition-age youth.",
+      "eligibility": "U.S. citizens, permanent residents or noncitizen nationals; full-time terminal psychology master’s in a department with an APA-accredited doctorate, preparing for licensure. CACREP, MFT and addiction-accredited programs are excluded. Two-year underserved-community service commitment; verify eligible program.",
+      "reward": "$13,000 in quarterly installments, Washington DC training travel support and one-year APA associate membership.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Page advertises January 15, 2027, while also saying the 2026/2027 cohort is closed. Confirm the applicable intake and portal deadline.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · APA Catalyst STAY Mental Health Services Fellowship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Eligibility and funding reviewed. Current intake/year and availability remain unresolved because the page combines open and prior-cohort-closed wording; no confirmed cutoff or inferred closure is assigned.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application through APA Catalyst portal; full documentation/mentor details check portal.",
+        "Review next milestone: One-year fellowship Oct 1-Sep 29; eligibility page says open but also prior cohort closed"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "d58a11ce35e587d0c3db56a4738c4201c508437ca9a20dc3f5b9ad4caa3262c2",
+        "hash": "419bec5531827dcc61411e1ae8e8d4cb3ad3f4d0fe44c3cbd47d1082419c0640",
+        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "present": true,
+        "fields": {
+          "title": "SMART Scholarship-for-Service 2027",
+          "category": "Scholarships / workforce",
+          "deadline": "2026-12-04 17:00 ET",
+          "milestone": "Degree funding starts Aug 2027; summer internships and post-graduation service",
+          "programDates": "2027-28 onward (1-5 years support)",
+          "funding": "Full tuition + $30,000-$46,000 annual stipend + internships + civilian job after graduation",
+          "location": "U.S. colleges / employment at federal facilities",
+          "eligibility": "Citizens of the USA, Australia, Canada, New Zealand or UK; GPA 3.0+; eligible STEM degree; security clearance and one-for-one post-graduation federal civilian service required.",
+          "materials": "Online SMART application; STEM academic background, career interests, transcripts and supporting documents per portal.",
+          "url": "https://scholarshipamerica.org/scholarship/smart-scholarship-program/"
+        },
+        "verifiedAt": "2026-10-24T17:35:27.728Z"
+      },
+      "id": "sheet-smart-scholarship-for-service-2027-d58a11ce35e5",
+      "title": "SMART Scholarship-for-Service 2027",
+      "organization": "SMART Scholarship-for-Service",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships",
+        "workforce"
+      ],
+      "url": "https://scholarshipamerica.org/scholarship/smart-scholarship-program/",
+      "sourceUrl": "https://scholarshipamerica.org/scholarship/smart-scholarship-program/",
+      "summary": "U.S. STEM degree funding for 1–5 years beginning August 2027, with internships and a civilian service obligation.",
+      "eligibility": "Citizenship in the U.S., Australia, Canada, New Zealand or UK; GPA 3.0+; eligible bachelor’s/master’s/doctoral STEM study at an accredited U.S. institution. Security clearance and one-for-one post-graduation civilian service required; review all award terms.",
+      "reward": "Full tuition, $30,000–$46,000 annual stipend and summer internships. Internships apply to awards longer than 1.5 years; post-graduation service is mandatory.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-04",
+      "deadlineAt": "2026-12-04T22:00:00Z",
+      "sourceDeadline": "December 4, 2026, 5:00 PM ET.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · SMART Scholarship-for-Service 2027",
+      "sourceState": "Application",
+      "sourceNote": "Administrator marks the current program open and publishes the exact cutoff. Citizenship, clearance and service restrictions are material; this is a scholarship-for-service, not unrestricted funding.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online SMART application; STEM academic background, career interests, transcripts and supporting documents per portal.",
+        "Review next milestone: Degree funding starts Aug 2027; summer internships and post-graduation service"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
