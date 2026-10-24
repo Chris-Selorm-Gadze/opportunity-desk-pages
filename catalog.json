@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 44,
-  "updatedAt": "2026-10-24T19:53:10.644Z",
+  "revision": 45,
+  "updatedAt": "2026-10-24T20:10:18.534Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-24T17:46:36.298Z",
+      "checkedAt": "2026-10-24T20:09:57.873Z",
       "outcome": "success",
-      "summary": "Added six verified Summer 2027 US openings: four IMC Chicago roles and two Hudson River Trading roles. Sponsorship is not affirmatively stated for these openings. Rechecked Evercore Wealth, BlackRock and Bank of America; corrected Business Analyst and Cybersecurity at Bank of America to no sponsorship and retained the November 7 date-only deadline. Optiver Chicago remains unverified because its direct application route is broken."
+      "summary": "Added Optiver’s Chicago FPGA Summer 2027 internship with explicit US immigration sponsorship support, and three Citi US technology summer analyst roles labeled no sponsorship. Citi’s anticipated October 30 posting ends remain unconfirmed cutoffs. Rechecked undated Point72, D. E. Shaw and Millennium applications and near-term Bank of America dates; retained unresolved Optiver software availability and clarified Millennium’s unconfirmed internship season."
     },
     {
       "id": "spreadsheet",
@@ -11670,10 +11670,11 @@
         "Summer 2027",
         "Finance technology",
         "Sponsorship: Not stated",
-        "United States"
+        "United States",
+        "Location: US"
       ],
-      "url": "https://careers.point72.com/CSJobDetail?jobCode=IVS-0015454&locale=English&location=New+York&retURL=%2FCSCareerSearch",
-      "sourceUrl": "https://careers.point72.com/CSJobDetail?jobCode=IVS-0015454&locale=English&location=New+York&retURL=%2FCSCareerSearch",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/8885733002",
+      "sourceUrl": "https://job-boards.greenhouse.io/point72/jobs/8885733002",
       "summary": "2027 Summer Internship – Software Engineer. Location: New York, NY, United States. Duration: Not specified on this role's public posting.",
       "eligibility": "Bachelor's degree expected Fall 2027–Spring 2028; programming Python, Java, C++ or similar; software development tools such as Git/JIRA. Role does not publish a sponsorship commitment; confirm country-specific work authorization.",
       "reward": "USD $130,000 annual base salary, prorated to internship start/end dates, excluding overtime compensation.",
@@ -11681,13 +11682,13 @@
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Not stated",
+      "sourceDeadline": "No application closing date published; apply early.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Posting makes no sponsorship promise or prohibition. Live application asks whether legally authorized in US and whether current/future employer sponsorship needed (including F-1 CPT/OPT, J-1, TN, H1-B, O-1); questions alone do not establish support. Official role and matching application entry verified. ",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: current New York Summer 2027 posting and complete role-specific application form verified. Bachelor’s graduation wording remains Fall 2027–Spring 2028; no monthly bounds inferred. Sponsorship questions include current/future needs but provide no commitment. Program duration is not published.",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11750,7 +11751,8 @@
         "Summer 2027",
         "Finance technology",
         "Sponsorship: Not stated",
-        "United States"
+        "United States",
+        "Location: US"
       ],
       "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
       "sourceUrl": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
@@ -11766,8 +11768,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Role JD has no commitment or prohibition. Live form asks whether sponsorship is required to obtain/maintain/extend employment authorization, with explanation box. This is not a support commitment. Official role and matching application entry verified.  Official internships guidance describes rolling applications and recommends applying by the previous calendar year-end; this is guidance, not a fixed role cutoff. https://www.deshaw.com/careers/internships",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: role 5894 and matching online application verified through the role’s Apply Now link. Start from that role page; the generic application URL alone can show a session timeout. Form sponsorship questions do not establish support. Official internship guidance confirms rolling consideration and recommends applying by the previous calendar year-end, not a fixed deadline: https://www.deshaw.com/careers/internships",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11787,29 +11789,29 @@
       ],
       "tags": [
         "Financial institution",
-        "Summer 2027",
         "Finance technology",
         "Sponsorship: Not stated",
         "United States",
         "Graduation: 2027-12 to 2028-07",
-        "Confirm program dates"
+        "Confirm program dates",
+        "Location: US"
       ],
       "url": "https://campusjobs.mlp.com/careers/job/755957778821?microsite=campus-site",
       "sourceUrl": "https://campusjobs.mlp.com/careers/job/755957778821?microsite=campus-site",
-      "summary": "2027 Applied AI Engineer Intern, New York. Location: New York, NY, United States. Duration: Not stated on role; confirm summer dates/duration.",
+      "summary": "2027 Applied AI Engineer internship in New York, working on production AI/ML applications, infrastructure and data pipelines. The role does not publish its season, exact dates or duration; confirm these before applying.",
       "eligibility": "Graduating December 2027–July 2028; bachelor's/master's AI, CS, software engineering or related; expected GPA 3.5+; programming, LLM/ML knowledge, SQL/NoSQL. Role does not publish a sponsorship commitment; confirm country-specific work authorization.",
       "reward": "Estimated New York annual compensation package: USD $183,000–$220,000. This is an annual package, not total internship earnings; confirm the internship rate and duration.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Not stated; maximum 2 applications across businesses/offices",
+      "sourceDeadline": "No closing date published; maximum two applications across businesses/offices.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 internship — summer dates to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "Public pre-authentication JD makes no sponsorship/work authorization statement. Questions beyond sign-in not inspected. Official role and matching application entry verified. Current campus program is 2027, but role-specific summer dates must be confirmed. Maximum two applications across businesses/offices.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: official New York requisition REQ-30174 and its Apply Now sign-in entry verified. Maximum two applications across businesses/offices. The role does not affirm sponsorship support. Season and duration remain unconfirmed; no Summer 2027 intake is inferred from the year alone. Compensation is explicitly an annual package, not internship total pay.",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -12736,6 +12738,172 @@
         "Plan the Round 1 submission and virtual semifinal availability"
       ],
       "stream": "trading"
+    },
+    {
+      "id": "citi-production-support-261004417-2027",
+      "title": "Technology Production Support Summer Analyst — New York / New Jersey, 2027",
+      "organization": "Citi",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Location: US",
+        "Graduation: 2027-12 to 2028-05",
+        "Summer 2027",
+        "Production support",
+        "Paid"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Technology--Production-Support--Summer-Analyst--New-York---USA--2027_261004417/apply",
+      "sourceUrl": "https://jobs.citi.com/job/new-york/technology-production-support-summer-analyst-new-york-or-new-jersey-usa-2027/287/102340905328",
+      "summary": "New York / Jersey City internship supporting live banking systems, incident management, monitoring and Python/SQL automation. Starts early June; duration not published. Role page labels Hybrid; confirm office attendance.",
+      "eligibility": "CS, computer engineering, IT, MIS or another technology bachelor’s degree; graduation December 2027–May 2028. GPA 3.0 preferred; technical interviews. Must have US work authorization without sponsorship now or later.",
+      "reward": "$105,000 annual salary, not internship total. Page separately lists an $80,000–$110,000 full-time salary range; confirm internship pay.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Anticipated Posting Close Date: Oct 30, 2026. Estimated posting end; no confirmed application cutoff or timezone.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching Workday Start Your Application entry verified October 24. October 30 is labeled anticipated, so it remains unconfirmed. Sponsorship exclusion is role-specific.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Review work-authorization exclusion",
+        "Apply early before the anticipated October 30 posting end",
+        "Confirm dates, attendance and internship pay"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "citi-cybersecurity-irving-26999482-2027",
+      "title": "Technology Cyber Security Summer Analyst — Irving, 2027",
+      "organization": "Citi",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Location: US",
+        "Graduation: 2027-12 to 2028-05",
+        "Summer 2027",
+        "Cybersecurity",
+        "Paid"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482/apply",
+      "sourceUrl": "https://jobs.citi.com/job/irving/technology-cyber-security-summer-analyst-irving-usa-2027/287/102340900160",
+      "summary": "On-site Irving, Texas internship in Citi’s information-security organization. Starts early June; exact dates and duration not published.",
+      "eligibility": "Cybersecurity, IT, MIS or another technology bachelor’s degree; graduation December 2027–May 2028. GPA 3.0 preferred; technical interviews. Must have US work authorization without sponsorship now or later.",
+      "reward": "Posting lists $90,000 salary without a pay period, plus a separate $80,000–$110,000 full-time range. Confirm actual internship rate and earnings.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Anticipated Posting Close Date: Oct 30, 2026. Estimated posting end; no confirmed application cutoff or timezone.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching Workday Start Your Application entry verified October 24. October 30 is labeled anticipated, so it remains unconfirmed. Sponsorship exclusion is role-specific.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Review work-authorization exclusion",
+        "Apply early before the anticipated October 30 posting end",
+        "Confirm dates, attendance and internship pay"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "citi-app-development-261004378-2027",
+      "title": "Technology Application Development Summer Analyst — New York / New Jersey, 2027",
+      "organization": "Citi",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Location: US",
+        "Graduation: 2027-12 to 2028-05",
+        "Summer 2027",
+        "Software engineering",
+        "Paid"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378/apply",
+      "sourceUrl": "https://jobs.citi.com/job/jersey-city/technology-application-development-summer-analyst-new-york-or-new-jersey-usa-2027/287/102340905456",
+      "summary": "New York / Jersey City internship developing and testing banking software across backend, frontend, AI or analytics teams. Starts early June; duration not published. Role page labels Hybrid; confirm office attendance.",
+      "eligibility": "CS, computer engineering, IT, MIS or another technology bachelor’s degree; graduation December 2027–May 2028. GPA 3.0 preferred; technical interviews. Must have US work authorization without sponsorship now or later.",
+      "reward": "$105,000 annual salary, not internship total. Page separately lists an $80,000–$110,000 full-time salary range; confirm internship pay.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Anticipated Posting Close Date: Oct 30, 2026. Estimated posting end; no confirmed application cutoff or timezone.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching Workday Start Your Application entry verified October 24. October 30 is labeled anticipated, so it remains unconfirmed. Sponsorship exclusion is role-specific.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Review work-authorization exclusion",
+        "Apply early before the anticipated October 30 posting end",
+        "Confirm dates, attendance and internship pay"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "optiver-fpga-chicago-8402114002-2027",
+      "title": "FPGA Engineer Intern — Summer 2027, Chicago",
+      "organization": "Optiver",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Supported",
+        "Location: US",
+        "Graduation: 2027-12 to 2028-06",
+        "Summer 2027",
+        "FPGA",
+        "Hardware engineering",
+        "Paid"
+      ],
+      "url": "https://www.optiver.com/join-us/jobs/technology/chicago/fpga-engineer-intern-summer-2027-chicago/apply",
+      "sourceUrl": "https://www.optiver.com/join-us/jobs/technology/chicago/fpga-engineer-intern-summer-2027-chicago/",
+      "summary": "Chicago Summer 2027 hardware internship developing low-latency trading infrastructure with FPGAs. Exact dates and duration are not published.",
+      "eligibility": "Bachelor’s, master’s or PhD in computer/electrical engineering or related field; junior standing or higher; graduation December 2027–June 2028. Requires FPGA/ASIC digital-design experience and VHDL, Verilog or SystemVerilog. Employer explicitly supports US immigration sponsorship.",
+      "reward": "Published base salary $80,000; pay period not stated. Flights, living accommodation and commuting stipends covered; confirm internship earnings.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching live Greenhouse application 8402114002 verified October 24. Only one role/location considered at a time; apply for first preference. Eight-month cooling period after an FPGA assessment/interview at any Optiver office.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Check FPGA experience and eight-month reapplication rule",
+        "Choose first role/location preference",
+        "Confirm pay units and program dates"
+      ],
+      "stream": "internships"
     }
   ]
 }
