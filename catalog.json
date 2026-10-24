@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 41,
-  "updatedAt": "2026-10-24T17:50:20.914Z",
+  "revision": 42,
+  "updatedAt": "2026-10-24T17:54:09.267Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-10-23T14:44:13.000Z",
+      "checkedAt": "2026-10-24T17:47:47.000Z",
       "outcome": "success",
-      "summary": "Rechecked the active Columbia Trading Tournament on its official page and added Citadel Securities’ live Trading Invitational listing. The new listing explicitly covers selected participants’ travel and accommodations; no application cutoff, event dates, prize amounts or entry fee are published."
+      "summary": "Marked Columbia Trading Tournament’s verified October 23 cutoff as a past cycle. Added Voloridge’s fully covered Florida quant-research program for early undergraduates and early PhDs, plus PRMIA’s paid-entry global virtual risk challenge with cash awards."
     },
     {
       "id": "travel",
@@ -1912,17 +1912,17 @@
       "effort": 6,
       "deadlineDate": "2026-10-23",
       "deadlineAt": "2026-10-24T03:59:00Z",
-      "sourceDeadline": "October 23, 2026, 11:59 PM ET",
+      "sourceDeadline": "October 23, 2026, 11:59 PM ET — passed",
       "confidence": "Exact time",
       "opensOn": "",
       "cycle": "Fall 2026",
-      "sourceState": "Application",
-      "sourceNote": "Organizer page rechecked October 23, 2026: applications remain open through October 23 at 11:59 PM ET. Stipends depend on travel origin; check the awarded amount before booking.",
-      "checkedOn": "2026-10-23",
+      "sourceState": "Past cycle",
+      "sourceNote": "The official page was rechecked October 24, 2026. It still displays the prior application copy, but its stated October 23, 11:59 PM ET cutoff has passed; this cycle is retained as history rather than treated as open.",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
+        "Watch the organizer for a later cycle",
         "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Prepare the required materials"
       ],
       "stream": "trading"
     },
@@ -12658,6 +12658,84 @@
         "Tailor resume and prepare for coding/quant interviews"
       ],
       "stream": "internships"
+    },
+    {
+      "id": "voloridge-ascend-2027",
+      "title": "Voloridge Ascend Program 2027",
+      "organization": "Voloridge Investment Management",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Quantitative research",
+        "Trading",
+        "Sponsored travel",
+        "Florida"
+      ],
+      "url": "https://voloridge.com/jobs/voloridgeinvestmentmanagement/4328356009",
+      "sourceUrl": "https://voloridge.com/jobs/voloridgeinvestmentmanagement/4328356009",
+      "summary": "A four-day, in-person quantitative-research and trading exposure program in Jupiter, Florida, January 11–14, 2027. It includes technical sessions, mentorship, a collaborative simulation and a team competition.",
+      "eligibility": "First- or second-year undergraduates, or early-stage PhD students, in mathematics, physics, computer science, statistics, engineering or a related quantitative field. A professor or faculty-advisor recommendation is required. Selection is competitive; only 20 participants are selected per cohort.",
+      "reward": "Voloridge arranges and fully covers travel and hotel for selected participants, and provides a stipend for additional meals and incidental travel expenses. No participation fee is stated.",
+      "value": 5,
+      "effort": 8,
+      "deadlineDate": "2026-10-31",
+      "deadlineAt": "",
+      "sourceDeadline": "This application will be open until October 31, 2026; cutoff time/timezone not stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "January 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official Voloridge listing reviewed October 24, 2026. Funding is for selected participants, not an automatic award to every applicant. Program dates, travel, hotel and meal/incidental stipend are explicit.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Confirm eligibility and availability for January 11–14",
+        "Request a faculty recommendation",
+        "Apply through the organizer and save confirmation"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "prmia-risk-management-challenge-2027",
+      "title": "PRMIA Risk Management Challenge 2027",
+      "organization": "PRMIA Institute",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Risk management",
+        "Case competition",
+        "Virtual",
+        "Cash awards",
+        "Global"
+      ],
+      "url": "https://prmia.org/Public/Public/Learning/University-Alliances/2026_PRMIA_Risk_Management_Challenge.aspx",
+      "sourceUrl": "https://prmia.org/Public/Public/Learning/University-Alliances/2026_PRMIA_Risk_Management_Challenge.aspx",
+      "summary": "A global, team-based risk case competition. Round 1 is submitted remotely; the March 19–21 semifinal weekend and April 17 international final are virtual.",
+      "eligibility": "Current undergraduate or graduate students worldwide. Teams of 2–4 may span universities, and each participant must use a university email. Students across finance, economics, mathematics, business, commerce, accounting and marketing are encouraged; no coursework prerequisite is stated.",
+      "reward": "The top two teams receive cash awards, but amounts are not published. Three award teams also receive PRM designation scholarships valued at US$1,500 per student. The eight finalist teams receive one-year PRMIA Sustaining Memberships valued at US$250 per student. Entry costs US$200 per team in early registration and US$300 per team after January 5; no travel funding is applicable because the competition is virtual.",
+      "value": 3,
+      "effort": 16,
+      "deadlineDate": "2027-02-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Final team registration deadline February 15, 2027. The organizer states early registration runs through January 5, 2027, while another line labels January 6 as the early deadline; verify the early-rate cutoff before paying.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-15",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Official PRMIA page reviewed October 24, 2026. Cash awards are confirmed, but the page does not state their dollar amounts. Distinguishes the paid registration from the separate awards and virtual event format.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Form a team of two to four students",
+        "Confirm the applicable registration rate before paying",
+        "Register using university email addresses",
+        "Plan the Round 1 submission and virtual semifinal availability"
+      ],
+      "stream": "trading"
     }
   ]
 }
