@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 39,
-  "updatedAt": "2026-10-24T17:35:33.614Z",
+  "revision": 40,
+  "updatedAt": "2026-10-24T17:46:56.132Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-23T20:10:12.318Z",
+      "checkedAt": "2026-10-24T17:46:36.298Z",
       "outcome": "success",
-      "summary": "Added HSBC London Finance & Treasury summer internship with a November 9 deadline, 2028 undergraduate eligibility and consideration of applicants requiring visa sponsorship. Rechecked near-term and undated financial-institution listings; clarified degree-experience and minimum-age rules for one Bank of America technology track."
+      "summary": "Added six verified Summer 2027 US openings: four IMC Chicago roles and two Hudson River Trading roles. Sponsorship is not affirmatively stated for these openings. Rechecked Evercore Wealth, BlackRock and Bank of America; corrected Business Analyst and Cybersecurity at Bank of America to no sponsorship and retained the November 7 date-only deadline. Optiver Chicago remains unverified because its direct application route is broken."
     },
     {
       "id": "spreadsheet",
@@ -2760,7 +2760,8 @@
         "Financial institution",
         "Finance technology",
         "Sponsorship: Supported",
-        "Graduation: 2027-12 to 2028-06"
+        "Graduation: 2027-12 to 2028-06",
+        "Location: US"
       ],
       "url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
       "sourceUrl": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/",
@@ -2776,8 +2777,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Needs verification",
-      "sourceNote": "Reviewed October 23, 2026: official current jobs board still lists Summer 2027 Software Engineer Chicago and indexed employer text explicitly supports US immigration sponsorship, but direct role and application links return 404 or generic jobs search. A usable application could not be verified. Retained as an availability conflict, not a verified open application.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: direct role/application route still returns 404, while the official Chicago jobs board still lists Summer 2027 Software Engineer. Availability remains contradictory; retained as Needs verification, not a verified open application or a confirmed closure. Prior employer sponsorship wording is retained but does not resolve application availability. Board: https://www.optiver.com/join-us/jobs/?location=chicago",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
         "Check graduation window (Dec 2027–Jun 2028) and the 8-month re-apply rule",
         "Tailor resume toward C++/Python/Java systems work",
@@ -11832,7 +11833,8 @@
         "Sponsorship: Not offered",
         "United States",
         "Graduation: 2028",
-        "Wealth management"
+        "Wealth management",
+        "Location: US"
       ],
       "url": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3280-2027-Evercore-Wealth-Management-Summer-Analyst-Program-New-York/en-GB",
       "sourceUrl": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-6/candidate/so/pm/1/pl/2/opp/3280-2027-Evercore-Wealth-Management-Summer-Analyst-Program-New-York/en-GB",
@@ -11843,13 +11845,13 @@
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Not printed on direct role page; official board currently CAPTCHA protected so board deadline unverified",
+      "sourceDeadline": "No closing date printed on the direct role page; current job board does not list this requisition. Deadline remains unconfirmed.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "This position requires valid United States work authorization and is not eligible for visa sponsorship. Official role and matching application entry verified.  Direct role application reaches registration/login. No closing date printed; the jobs board could not be fully inspected. This is wealth management, not an investment-banking or technology role.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: New York role and role-specific registration/login entry remain available. The current live student board did not list requisition 3280; indexed board snippets are not a verified deadline. No closure inferred from board absence. Requires valid US work authorization; no visa sponsorship. This is wealth management. Board: https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11873,12 +11875,13 @@
         "Finance technology",
         "Sponsorship: Not stated",
         "Graduation: 2027-11 to 2028-08",
-        "United States"
+        "United States",
+        "Location: US"
       ],
       "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
       "summary": "10-week technology internship with in-person orientation and office-based team work. Software Engineer and Mainframe Analyst track. Locations: Charlotte, Chicago, Dallas Metro, New York City Metro, Pennington NJ and Phoenix, United States.",
-      "eligibility": "Undergraduate or master’s student graduating November 2027–August 2028, in the penultimate year; CS, computer engineering, information systems or a similar relevant discipline. Master’s candidates must have no more than zero years of experience. GPA 3.5 is preferred. Minimum age 18. Role does not state sponsorship support; confirm directly.",
+      "eligibility": "Penultimate-year undergraduate or master’s student in CS, computer engineering, information systems or a related field; graduation November 2027–August 2028. Master’s candidates must have no more than zero years of experience. GPA 3.5 preferred; minimum age 18. Role does not specify sponsorship. General US policy allows case-by-case support for some programs, which does not confirm support for this requisition.",
       "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
       "value": 4,
       "effort": 6,
@@ -11889,13 +11892,13 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "Official role and campus application page reviewed. Employer describes rolling recruitment and may assess before closing. Campus limit: three US/Canada applications, eight globally, with additional regional limits; choose tracks carefully.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: current official role, campus listing and role-specific registration entry verified. November 7, 2026 remains date-only. Recruitment is explicitly rolling before closing. Maximum three US/Canada applications and eight globally per recruitment season; regional limits also apply. Sponsorship remains Not stated for this specific requisition. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
-        "Choose tracks within Bank of America’s three US/Canada application limit",
-        "Confirm sponsorship and location-specific eligibility",
-        "Tailor resume and complete the official application",
-        "Finish required assessments promptly and record progress privately"
+        "Choose tracks within the three US/Canada application limit",
+        "Review role-specific work authorization and sponsorship restrictions",
+        "Apply early before the November 7 date-only cutoff",
+        "Complete assessments and track progress privately"
       ],
       "stream": "internships"
     },
@@ -11912,14 +11915,15 @@
         "Financial institution",
         "Summer 2027",
         "Finance technology",
-        "Sponsorship: Not stated",
+        "Sponsorship: Not offered",
         "Graduation: 2027-11 to 2028-08",
-        "United States"
+        "United States",
+        "Location: US"
       ],
       "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations",
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations",
       "summary": "10-week technology internship with in-person orientation and office-based team work. Business Analyst track. Locations: Charlotte, Chicago, Dallas Metro, New York City Metro, Pennington NJ and Phoenix, United States.",
-      "eligibility": "Undergraduate or master’s candidate, expected graduation November 2027–August 2028; technical or related field. Preferred GPA 3.5. Review exact discipline and experience rules for this track. Sponsorship is not stated in this role; confirm directly.",
+      "eligibility": "Penultimate-year undergraduate or master’s student in CS, computer engineering, information systems or a related field; graduation November 2027–August 2028. Master’s candidates must have no more than zero years of experience. GPA 3.5 preferred; minimum age 18. The employer explicitly excludes candidates needing visa sponsorship now or in the future for this role.",
       "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
       "value": 4,
       "effort": 6,
@@ -11930,13 +11934,13 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "Official role and campus application page reviewed. Employer describes rolling recruitment and may assess before closing. Campus limit: three US/Canada applications, eight globally, with additional regional limits; choose tracks carefully.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: current official role, campus listing and role-specific registration entry verified. November 7, 2026 remains date-only. Recruitment is explicitly rolling before closing. Maximum three US/Canada applications and eight globally per recruitment season; regional limits also apply. Corrected sponsorship from Not stated to Not offered using the role-specific exclusion. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14419-Global-Technology-Summer-Analyst-2027-Business-Analyst/en-GB",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
-        "Choose tracks within Bank of America’s three US/Canada application limit",
-        "Confirm sponsorship and location-specific eligibility",
-        "Tailor resume and complete the official application",
-        "Finish required assessments promptly and record progress privately"
+        "Choose tracks within the three US/Canada application limit",
+        "Review role-specific work authorization and sponsorship restrictions",
+        "Apply early before the November 7 date-only cutoff",
+        "Complete assessments and track progress privately"
       ],
       "stream": "internships"
     },
@@ -11953,14 +11957,15 @@
         "Financial institution",
         "Summer 2027",
         "Finance technology",
-        "Sponsorship: Not stated",
+        "Sponsorship: Not offered",
         "Graduation: 2027-11 to 2028-08",
-        "United States"
+        "United States",
+        "Location: US"
       ],
       "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations",
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14391/global-technology-summer-analyst-2027-cybersecurity-analyst-multiple-locations",
       "summary": "10-week technology internship with in-person orientation and office-based team work. Cybersecurity Analyst track. Locations: Charlotte, Dallas and Denver, United States.",
-      "eligibility": "Undergraduate or master’s candidate, expected graduation November 2027–August 2028; technical or related field. Preferred GPA 3.5. Review exact discipline and experience rules for this track. Sponsorship is not stated in this role; confirm directly.",
+      "eligibility": "Penultimate-year undergraduate or master’s student in CS, computer engineering, information systems or a related field; graduation November 2027–August 2028. Master’s candidates must have no more than zero years of experience. GPA 3.5 preferred; minimum age 18. The employer explicitly excludes candidates needing visa sponsorship now or in the future for this role.",
       "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
       "value": 4,
       "effort": 6,
@@ -11971,13 +11976,13 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "Official role and campus application page reviewed. Employer describes rolling recruitment and may assess before closing. Campus limit: three US/Canada applications, eight globally, with additional regional limits; choose tracks carefully.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: current official role, campus listing and role-specific registration entry verified. November 7, 2026 remains date-only. Recruitment is explicitly rolling before closing. Maximum three US/Canada applications and eight globally per recruitment season; regional limits also apply. Corrected sponsorship from Not stated to Not offered using the role-specific exclusion. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14391-Global-Technology-Summer-Analyst-2027-Cybersecurity-Analyst/en-GB",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
-        "Choose tracks within Bank of America’s three US/Canada application limit",
-        "Confirm sponsorship and location-specific eligibility",
-        "Tailor resume and complete the official application",
-        "Finish required assessments promptly and record progress privately"
+        "Choose tracks within the three US/Canada application limit",
+        "Review role-specific work authorization and sponsorship restrictions",
+        "Apply early before the November 7 date-only cutoff",
+        "Complete assessments and track progress privately"
       ],
       "stream": "internships"
     },
@@ -11998,11 +12003,12 @@
         "Sponsorship: Conditional",
         "Graduation: 2027-09 to 2028-07",
         "United States",
-        "Canada"
+        "Canada",
+        "Location: US"
       ],
       "url": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
       "sourceUrl": "https://careers.blackrock.com/job/new-york/2027-summer-internship-program-amers/45831/90628276544",
-      "summary": "Nine-week internship, June–August 2027, across selected US and Canadian offices. Technology and Analytics & Risk are among the functions; function availability varies by office.",
+      "summary": "Nine-week June–August 2027 program. US options include Atlanta, Boston, Chicago, Miami, New York, Newport Beach, Princeton, San Francisco, Santa Monica and Seattle; available functions vary. Technology and Analytics & Risk are included. Canadian options have separate requirements and pay.",
       "eligibility": "Undergraduate or master’s students graduating September 2027–July 2028. Sponsorship is possible in limited cases depending on business needs and is not guaranteed, per Americas candidate FAQ. Check country and function requirements.",
       "reward": "US Technology hourly ranges: $50.48–$60.10 in CA/NY/WA/DC; $40.87–$53.85 in FL/GA/IL/MA/NJ/DE. Other functions and Canadian compensation differ; confirm selected office.",
       "value": 4,
@@ -12014,13 +12020,13 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official program and live application form reviewed. Sponsorship policy: https://careers.blackrock.com/en/candidate-faqs-americas . Program and FAQ state differing application/function limits; confirm current portal limits. Required assessment/coding challenge is due within five calendar days of submission; this is not a program closing date.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 24: official 2027 program and requisition 11986 application form are live. Americas FAQ permits limited, business-dependent sponsorship, not guaranteed. Application-count conflict remains: role says one application with up to two functions; FAQ allows two applications and three functions within one program/region. Confirm portal limits before another submission. Required assessments are due within five calendar days; missing them causes withdrawal. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-24",
       "suggestedTasks": [
-        "Confirm limited sponsorship support for selected office/function",
-        "Choose functions within current application and regional limits",
-        "Apply and complete assessment within five calendar days",
-        "Save submission and assessment dates privately"
+        "Confirm sponsorship and requirements for selected US office/function",
+        "Resolve the role/FAQ application-count conflict before submitting another application",
+        "Complete required assessments within five calendar days",
+        "Record submission and assessment dates privately"
       ],
       "stream": "internships"
     },
@@ -12400,6 +12406,258 @@
         "Review next milestone: Degree funding starts Aug 2027; summer internships and post-graduation service"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "imc-swe-chicago-4823924101-2027",
+      "title": "Software Engineer Intern — Summer 2027, Chicago",
+      "organization": "IMC Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-09 to 2028-07",
+        "Location: US",
+        "Summer 2027",
+        "Chicago",
+        "Software engineering",
+        "Paid"
+      ],
+      "url": "https://www.imc.com/us/careers/jobs/4823924101/apply",
+      "sourceUrl": "https://www.imc.com/us/careers/jobs/4823924101",
+      "summary": "Ten-week Chicago internship developing trading software; June 7, 2027 start.",
+      "eligibility": "University student in CS, engineering or a related technology field, graduating September 2027–July 2028. Algorithms/data structures and programming ability required; Java/C++ preferred. Must start June 7. Sponsorship support is not affirmatively stated.",
+      "reward": "Published base salary $200,000; pay period not stated. Confirm actual internship earnings. Accommodations included.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Confirm sponsorship and published pay units",
+        "Choose the strongest role within IMC’s application rules",
+        "Tailor resume and prepare for technical assessments"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "imc-quant-performance-4842595101-2027",
+      "title": "Quant Performance Engineer Intern — Summer 2027, Chicago",
+      "organization": "IMC Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-09 to 2028-07",
+        "Location: US",
+        "Summer 2027",
+        "Chicago",
+        "Quantitative engineering",
+        "Paid"
+      ],
+      "url": "https://www.imc.com/us/careers/jobs/4842595101/apply",
+      "sourceUrl": "https://www.imc.com/us/careers/jobs/4842595101",
+      "summary": "Chicago trading-technology research using large datasets, Python pipelines, machine learning and low-latency systems. June 7, 2027 start; duration not stated on this role.",
+      "eligibility": "University student in CS, engineering or a related technology field, graduating September 2027–July 2028; programming proficiency and strong quantitative skills. Must start June 7. Sponsorship support is not affirmatively stated.",
+      "reward": "Published base salary $200,000; pay period not stated. Confirm internship earnings and relocation/housing coverage.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Confirm sponsorship and published pay units",
+        "Choose the strongest role within IMC’s application rules",
+        "Tailor resume and prepare for technical assessments"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "imc-quant-trader-4823923101-2027",
+      "title": "Quantitative Trader Intern — Summer 2027, Chicago",
+      "organization": "IMC Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-09 to 2028-07",
+        "Location: US",
+        "Summer 2027",
+        "Chicago",
+        "Quantitative trading",
+        "Paid"
+      ],
+      "url": "https://www.imc.com/us/careers/jobs/4823923101/apply",
+      "sourceUrl": "https://www.imc.com/us/careers/jobs/4823923101",
+      "summary": "Ten-week Chicago trading internship combining market training and project work; June 7, 2027 start.",
+      "eligibility": "University student in a quantitative discipline graduating September 2027–July 2028. Strong analytical skills; programming helpful; prior finance knowledge unnecessary. Must start June 7. Sponsorship support is not affirmatively stated.",
+      "reward": "Published base salary $250,000; pay period not stated. Confirm actual internship earnings. Accommodations included.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Confirm sponsorship and published pay units",
+        "Choose the strongest role within IMC’s application rules",
+        "Tailor resume and prepare for technical assessments"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "imc-quant-research-4907399101-2027",
+      "title": "Quantitative Research Intern (BS/MS) — Summer 2027, Chicago",
+      "organization": "IMC Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-09 to 2028-07",
+        "Location: US",
+        "Summer 2027",
+        "Chicago",
+        "Quantitative research",
+        "Paid"
+      ],
+      "url": "https://www.imc.com/us/careers/jobs/4907399101/apply",
+      "sourceUrl": "https://www.imc.com/us/careers/jobs/4907399101",
+      "summary": "Ten-week Chicago quantitative research internship with analysis tools and market-making research; starts in person June 7, 2027.",
+      "eligibility": "Bachelor’s or master’s student in mathematics, engineering, statistics, physics, CS or another highly quantitative field, graduating September 2027–July 2028. Programming highly desired. Must start June 7. Sponsorship support is not affirmatively stated.",
+      "reward": "Published base salary $250,000; pay period not stated. Confirm actual internship earnings. Accommodations included.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Confirm sponsorship and published pay units",
+        "Choose the strongest role within IMC’s application rules",
+        "Tailor resume and prepare for technical assessments"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "hrt-swe-8052083-2027",
+      "title": "Software Engineering Internship (C++ or Python) — Summer 2027, US offices",
+      "organization": "Hudson River Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2028",
+        "Location: US",
+        "Summer 2027",
+        "Software engineering",
+        "Paid"
+      ],
+      "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+      "sourceUrl": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+      "summary": "US placements: Austin, Chicago and New York. Build trading/research infrastructure with Python, C or C++. Summer 2027; program duration and exact dates are not stated.",
+      "eligibility": "Full-time undergraduate in CS or a related field; Python, C or C++ experience required. Official student page labels this Summer 2027 program for 2028 graduates. US sponsorship support is not stated; confirm authorization requirements.",
+      "reward": "New York base pay $5,800 per week plus signing bonus, company-paid housing and meals. Austin/Chicago pay is not published in this posting; confirm office-specific compensation.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and embedded live application verified October 24. Only the identified US offices are included here; foreign offices have separate pay and requirements. Sponsorship questions are not affirmative support. HRT permits only ONE role application and considers it for other openings; choose carefully. Graduation source: https://www.hudsonrivertrading.com/student-opportunities/",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Choose ONE HRT role before applying",
+        "Confirm US office, sponsorship and dates",
+        "Tailor resume and prepare for coding/quant interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "hrt-algo-7964062-2027",
+      "title": "Algorithm Development (Quant Research & Trading) Internship — Summer 2027, New York",
+      "organization": "Hudson River Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Graduation: 2028",
+        "Location: US",
+        "Summer 2027",
+        "Quantitative research",
+        "Paid"
+      ],
+      "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-trading-internship-summer-2027/",
+      "sourceUrl": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-trading-internship-summer-2027/",
+      "summary": "New York is the verified US placement. Quantitative modeling, machine learning, data analysis and automated trading research. Summer 2027; duration and exact dates are not stated.",
+      "eligibility": "Full-time undergraduate or master’s student in a quantitative discipline; Python required, C++ useful for low-latency work. Statistical/numerical/ML experience expected. Official student page labels this program for 2028 graduates. US sponsorship support is not stated; confirm authorization requirements.",
+      "reward": "New York base pay $5,800 per week plus signing bonus, company-paid housing and meals; no total internship earnings implied.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and embedded live application verified October 24. Only the identified US offices are included here; foreign offices have separate pay and requirements. Sponsorship questions are not affirmative support. HRT permits only ONE role application and considers it for other openings; choose carefully. Graduation source: https://www.hudsonrivertrading.com/student-opportunities/",
+      "checkedOn": "2026-10-24",
+      "suggestedTasks": [
+        "Choose ONE HRT role before applying",
+        "Confirm US office, sponsorship and dates",
+        "Tailor resume and prepare for coding/quant interviews"
+      ],
+      "stream": "internships"
     }
   ]
 }
