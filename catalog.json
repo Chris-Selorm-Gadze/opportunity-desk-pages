@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 65,
-  "updatedAt": "2026-10-25T19:21:43.575Z",
+  "revision": 66,
+  "updatedAt": "2026-10-25T20:05:11.441Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-25T14:04:41.701Z",
+      "checkedAt": "2026-10-25T20:04:30.565Z",
       "outcome": "error",
-      "summary": "Partial review: added Belvedere Chicago quantitative trading with explicit sponsorship and two BNY US engineering internships labeled no sponsorship. Rechecked Bank of America software, BlackRock, UBS, Deutsche Bank and Citi cyber applications; corrected Citi to Hybrid and UBS benefit exclusions. Evercore recheck and Jefferies discovery were blocked by site verification; Evercore’s prior facts were retained. Optiver quantitative URL returned 404 and was not promoted to a verified opening."
+      "summary": "Partial review: verified four new US Summer 2027 roles at Akuna Capital, Maven and DriveWealth; rechecked Point72, Millennium, two Bank of America technology tracks and Citi production support. Evercore recheck was blocked by a human-verification screen; D. E. Shaw application recheck returned a session timeout. Their previous facts are preserved; no closure inferred."
     },
     {
       "id": "spreadsheet",
@@ -11709,8 +11709,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 24: current New York Summer 2027 posting and complete role-specific application form verified. Bachelor’s graduation wording remains Fall 2027–Spring 2028; no monthly bounds inferred. Sponsorship questions include current/future needs but provide no commitment. Program duration is not published.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: current New York Summer 2027 role and complete matching application form reverified. Fall 2027–Spring 2028 degree wording is unchanged; no monthly bounds inferred. Sponsorship questions provide no commitment. Duration and closing date remain unpublished.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11832,8 +11832,8 @@
       "opensOn": "",
       "cycle": "2027 internship — summer dates to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "October 24: official New York requisition REQ-30174 and its Apply Now sign-in entry verified. Maximum two applications across businesses/offices. The role does not affirm sponsorship support. Season and duration remain unconfirmed; no Summer 2027 intake is inferred from the year alone. Compensation is explicitly an annual package, not internship total pay.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: New York requisition REQ-30174 and its Apply Now sign-in entry reverified. Maximum two applications across businesses/offices. Sponsorship support, season and duration remain unconfirmed. The published compensation is an annual package, not internship total pay.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11958,8 +11958,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 24: current official role, campus listing and role-specific registration entry verified. November 7, 2026 remains date-only. Recruitment is explicitly rolling before closing. Maximum three US/Canada applications and eight globally per recruitment season; regional limits also apply. Corrected sponsorship from Not stated to Not offered using the role-specific exclusion. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14419-Global-Technology-Summer-Analyst-2027-Business-Analyst/en-GB",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: official role, campus description and matching role-specific registration entry reverified. November 7, 2026 is date-only; recruiting is explicitly rolling before close. Maximum three US/Canada applications and eight globally per season. This role excludes current/future visa sponsorship. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14419-Global-Technology-Summer-Analyst-2027-Business-Analyst/en-GB",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12000,8 +12000,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 24: current official role, campus listing and role-specific registration entry verified. November 7, 2026 remains date-only. Recruitment is explicitly rolling before closing. Maximum three US/Canada applications and eight globally per recruitment season; regional limits also apply. Corrected sponsorship from Not stated to Not offered using the role-specific exclusion. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14391-Global-Technology-Summer-Analyst-2027-Cybersecurity-Analyst/en-GB",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: official role, campus description and matching role-specific registration entry reverified. November 7, 2026 is date-only; recruiting is explicitly rolling before close. Maximum three US/Canada applications and eight globally per season. This role excludes current/future visa sponsorship. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14391-Global-Technology-Summer-Analyst-2027-Cybersecurity-Analyst/en-GB",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12793,8 +12793,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and matching Workday Start Your Application entry verified October 24. October 30 is labeled anticipated, so it remains unconfirmed. Sponsorship exclusion is role-specific.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: official role and matching Workday Start Your Application entry reverified. New York/Jersey City and Hybrid remain explicit. October 30 is an anticipated posting end, not a confirmed application deadline. Current/future sponsorship is excluded. Duration remains unpublished.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Review work-authorization exclusion",
         "Apply early before the anticipated October 30 posting end",
@@ -13963,6 +13963,178 @@
         "Review next milestone: Summit 2027-01-06 to 2027-01-08"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "akuna-quant-development-strategy-8021481-2027",
+      "title": "Quantitative Development & Strategy Intern — Summer 2027, Chicago",
+      "organization": "Akuna Capital",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Conditional",
+        "Quantitative development",
+        "Python",
+        "Paid"
+      ],
+      "url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "sourceUrl": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "summary": "Ten-week Chicago Akunacademy internship building quantitative trading strategies and production code. Exact dates are not published.",
+      "eligibility": "Technical bachelor’s, master’s or PhD; graduating by August 2028; GPA 3.5+. Python, object-oriented programming, linear algebra/statistics. US work authorization required by day one, including F-1 CPT/OPT/STEM. Application explicitly offers sponsorship to qualified candidates when legally possible; confirm individual support.",
+      "reward": "Minimum annualized base salary $145,000; prorated internship earnings and housing/travel support are not specified.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching embedded application 8021481 reviewed October 25. Choose one Quant/Tech preference for the season; Trading applications are separately permitted. Sponsorship is an affirmative conditional policy, not inferred from a question. PDF resume required.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Choose one Akuna Quant/Tech preference for this recruiting season",
+        "Confirm work authorization, sponsorship and internship dates",
+        "Prepare a PDF resume and quantitative coding examples"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "akuna-full-stack-web-8018893-2027",
+      "title": "Software Engineer Intern — Full Stack Web, Summer 2027, Chicago",
+      "organization": "Akuna Capital",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Conditional",
+        "Full stack",
+        "React",
+        "TypeScript",
+        "Python",
+        "Paid"
+      ],
+      "url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+      "sourceUrl": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+      "summary": "Ten-week Chicago UI engineering internship building real-time trading applications with React, TypeScript and Python. Exact dates are not published.",
+      "eligibility": "Technical bachelor’s, master’s or PhD; graduating by August 2028; major GPA 3.5+. US work authorization required by day one; description mentions F-1 OPT/STEM. Application offers sponsorship to qualified candidates when legally possible. CPT is not expressly listed in this role’s description; confirm arrangements.",
+      "reward": "Minimum annualized base salary $145,000; actual internship earnings and housing/travel support are not specified.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching embedded application 8018893 reviewed October 25. Only one Quant/Tech preference per recruiting season; Trading applications separately allowed. PDF resume required. Employer prohibits AI assistance in interviews/assessments, with disqualification for use.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Choose one Akuna Quant/Tech preference for this season",
+        "Confirm authorization and role-specific sponsorship support",
+        "Prepare a PDF resume and web engineering examples",
+        "Follow the employer’s assessment rules"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "maven-trader-chicago-8051937-2027",
+      "title": "Trader Summer Internship — Chicago 2027",
+      "organization": "Maven Securities",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance analyst",
+        "Sponsorship: Not stated",
+        "Quantitative trading",
+        "Chicago",
+        "Paid"
+      ],
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "sourceUrl": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "summary": "Nine-week Chicago options-market-making training internship, June 7–August 6, 2027; classroom training, trading simulations and desk exposure.",
+      "eligibility": "Penultimate-year undergraduate/master’s student with numeracy and probability/statistics skills. US right to work required at application. One role/location per cycle; no other Maven program application this cycle. Form asks availability for September 2028 full-time entry. Sponsorship support is not affirmed.",
+      "reward": "Published base salary: $110,000 pro-rated; pay period is not specified, so confirm internship earnings. Choice of $5,000 or summer accommodation costs paid by Maven; breakfast/lunch and listed wellness benefits.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Current official Chicago role and complete application form reviewed October 25. A sponsorship question does not prove support. No fixed closing date; no rolling claim inferred. Graduate-program availability is distinct from internship dates.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Select the first-preference role/location before applying",
+        "Confirm sponsorship, pay units and September 2028 availability",
+        "Prepare resume and probability/trading assessments"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "drivewealth-ai-brokerage-8039368003-2027",
+      "title": "AI CAP Brokerage Intern — Summer 2027, Chicago",
+      "organization": "DriveWealth",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Applied AI",
+        "Brokerage",
+        "Hybrid",
+        "Paid"
+      ],
+      "url": "https://job-boards.greenhouse.io/drivewealth/jobs/8039368003",
+      "sourceUrl": "https://job-boards.greenhouse.io/drivewealth/jobs/8039368003",
+      "summary": "Ten-to-twelve-week AI/automation and brokerage analytics internship, mid-May–August 2027; Chicago Loop office three to four days weekly.",
+      "eligibility": "Current undergraduate or MBA in CS, data science, engineering, economics, finance or related; expected graduation 2027 or 2028. AI/data/automation familiarity. Full-time US work authorization required without current/future sponsorship. Employer excludes visa sponsorship and employment-authorization support/transfers.",
+      "reward": "$35–$40 per hour. Confirm internship-specific benefits and relocation support; company-wide benefits are not guaranteed for interns.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official posting and complete matching application reviewed October 25. Form also lists later graduation choices; the role’s stated 2027/2028 requirement is retained. Chicago is explicit. The November 23 open house is not an application deadline.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Check the current/future sponsorship exclusion",
+        "Confirm graduation requirement and Chicago commute",
+        "Prepare resume with brokerage analytics or AI automation examples"
+      ],
+      "stream": "internships"
     }
   ]
 }
