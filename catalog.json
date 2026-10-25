@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 58,
-  "updatedAt": "2026-10-25T13:56:15.551Z",
+  "revision": 59,
+  "updatedAt": "2026-10-25T14:04:58.165Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-24T20:09:57.873Z",
-      "outcome": "success",
-      "summary": "Added Optiver’s Chicago FPGA Summer 2027 internship with explicit US immigration sponsorship support, and three Citi US technology summer analyst roles labeled no sponsorship. Citi’s anticipated October 30 posting ends remain unconfirmed cutoffs. Rechecked undated Point72, D. E. Shaw and Millennium applications and near-term Bank of America dates; retained unresolved Optiver software availability and clarified Millennium’s unconfirmed internship season."
+      "checkedAt": "2026-10-25T14:04:41.701Z",
+      "outcome": "error",
+      "summary": "Partial review: added Belvedere Chicago quantitative trading with explicit sponsorship and two BNY US engineering internships labeled no sponsorship. Rechecked Bank of America software, BlackRock, UBS, Deutsche Bank and Citi cyber applications; corrected Citi to Hybrid and UBS benefit exclusions. Evercore recheck and Jefferies discovery were blocked by site verification; Evercore’s prior facts were retained. Optiver quantitative URL returned 404 and was not promoted to a verified opening."
     },
     {
       "id": "spreadsheet",
@@ -11472,13 +11472,14 @@
         "Finance technology",
         "Sponsorship: Not offered",
         "United States",
-        "Graduation: 2027-12 to 2028-06"
+        "Graduation: 2027-12 to 2028-06",
+        "Location: US"
       ],
       "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=350352&partnerid=25008&siteid=5131",
       "sourceUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=350352&partnerid=25008&siteid=5131",
       "summary": "Group Technology Office placements can include Technology Engineer, Data Engineer, Technology Support Analyst, or System Analyst Intern. Develop digital products and technology services and improve data quality and flows. Location: New York, New York and Weehawken, New Jersey, United States. Summer 2027; exact dates not stated. Duration: 10 weeks, paid.",
       "eligibility": "December 2027 through June 2028. Cumulative GPA 3.2 or higher; proficiency in Java, C# or C++; Computer Science, Engineering and STEM preferred; all majors welcome. Not eligible for employment-based immigration sponsorship. UBS also will not assist or sign documentation for other sponsorship, including OPT or CPT.",
-      "reward": "Paid 10-week internship. Indicative gross base pay USD $50.48–$52.88 per hour; listed range excludes benefits and additional incentives.",
+      "reward": "Paid ten-week internship at an indicative gross base rate of $50.48–$52.88 USD per hour. Employer explicitly states no UBS benefits or additional incentives for this role.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "",
@@ -11488,8 +11489,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 25: official NY/NJ technology role and role-specific sign-in application entry reverified. No closing date published. No employment-visa sponsorship or assistance/documentation for OPT or CPT. Corrected benefits wording: this role is not eligible for UBS benefits or additional incentives.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11513,7 +11514,8 @@
         "Finance technology",
         "Sponsorship: Not offered",
         "United States",
-        "Graduation: 2027-12 to 2028-07"
+        "Graduation: 2027-12 to 2028-07",
+        "Location: US"
       ],
       "url": "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w",
       "sourceUrl": "https://db.recsolu.com/external/requisitions/utrM7YhSIN2pudx_g6Rh2w",
@@ -11529,8 +11531,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Live official job details and application entry verified. Employer explicitly excludes visa sponsorship.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 25: official New York TDI description and matching account/login application entry reverified. No application closing date published. Employer excludes candidates needing work-visa sponsorship now or in the future.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11894,8 +11896,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 24: current official role, campus listing and role-specific registration entry verified. November 7, 2026 remains date-only. Recruitment is explicitly rolling before closing. Maximum three US/Canada applications and eight globally per recruitment season; regional limits also apply. Sponsorship remains Not stated for this specific requisition. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: official role, campus description and role-specific registration entry reverified. November 7, 2026 remains date-only; recruiting is explicitly rolling before close. Maximum three US/Canada applications and eight globally per season. Sponsorship remains Not stated for this requisition. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12022,8 +12024,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 24: official 2027 program and requisition 11986 application form are live. Americas FAQ permits limited, business-dependent sponsorship, not guaranteed. Application-count conflict remains: role says one application with up to two functions; FAQ allows two applications and three functions within one program/region. Confirm portal limits before another submission. Required assessments are due within five calendar days; missing them causes withdrawal. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: official role, current Americas FAQ and matching requisition 11986 application entry reverified. Sponsorship remains limited and business-dependent. The role permits one program application with two functions; FAQ permits two applications and three functions within one program and region. Confirm portal limits. Assessments are due within five calendar days; missing them causes withdrawal. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Confirm sponsorship and requirements for selected US office/function",
         "Resolve the role/FAQ application-count conflict before submitting another application",
@@ -12800,7 +12802,7 @@
       ],
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482/apply",
       "sourceUrl": "https://jobs.citi.com/job/irving/technology-cyber-security-summer-analyst-irving-usa-2027/287/102340900160",
-      "summary": "On-site Irving, Texas internship in Citi’s information-security organization. Starts early June; exact dates and duration not published.",
+      "summary": "Irving, Texas cybersecurity internship in Citi’s information-security organization. Current employer role page labels Hybrid; confirm office attendance. Starts early June; exact dates and duration are not published.",
       "eligibility": "Cybersecurity, IT, MIS or another technology bachelor’s degree; graduation December 2027–May 2028. GPA 3.0 preferred; technical interviews. Must have US work authorization without sponsorship now or later.",
       "reward": "Posting lists $90,000 salary without a pay period, plus a separate $80,000–$110,000 full-time range. Confirm actual internship rate and earnings.",
       "value": 4,
@@ -12812,8 +12814,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and matching Workday Start Your Application entry verified October 24. October 30 is labeled anticipated, so it remains unconfirmed. Sponsorship exclusion is role-specific.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 25: official requisition 26999482 and matching Workday Start Your Application entry reverified. Corrected work arrangement from on-site to Hybrid based on the current role page. October 30 remains an anticipated posting end, not a confirmed application cutoff. No sponsorship now or in the future.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Review work-authorization exclusion",
         "Apply early before the anticipated October 30 posting end",
@@ -12902,6 +12904,129 @@
         "Check FPGA experience and eight-month reapplication rule",
         "Choose first role/location preference",
         "Confirm pay units and program dates"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "belvedere-quant-trading-cbde47db-2027",
+      "title": "Quantitative Trading Intern — Summer 2027, Chicago",
+      "organization": "Belvedere Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Finance technology",
+        "Sponsorship: Supported",
+        "Location: US",
+        "Summer 2027",
+        "Quantitative trading",
+        "Chicago",
+        "Paid"
+      ],
+      "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+      "sourceUrl": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+      "summary": "Ten-week, fully in-person Chicago trading internship with desk rotations, quantitative research, data analysis and programming. Summer 2027; exact dates are not published.",
+      "eligibility": "Posting specifies graduation December 2027 or Spring 2028; degree/major not specified. General FAQ welcomes undergraduate and graduate students, except graduating seniors eligible for full-time roles; confirm this requisition’s graduation rule. Quantitative reasoning and ability to learn C++, C# or Python expected. Prior trading knowledge optional. Employer explicitly states sponsorship is available; confirm visa arrangements.",
+      "reward": "$140,000 annual base salary rate, not total internship earnings. General intern benefits include medical coverage and housing assistance; amount and conditions are not stated. Confirm relocation support and any bonus.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published. Employer states applications are reviewed on a rolling basis; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and matching complete application verified October 25. Posting explicitly offers sponsorship. Seasonal graduation wording remains unconverted. Application form restricts review to one position at a time; choose the preferred role. Duration, student levels and general benefits: https://www.belvederetrading.com/working-at-belvedere . Rolling review: https://www.belvederetrading.com/new-graduates-campus-recruiting .",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Choose one preferred Belvedere role",
+        "Confirm degree, visa support, dates and housing",
+        "Prepare resume, motivation answers and quantitative assessments"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "bny-engineering-developer-ny-81253-2027",
+      "title": "2027 BNY Summer Internship — Engineering (Developer), New York, NY",
+      "organization": "BNY",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Location: US",
+        "Summer 2027",
+        "Paid",
+        "Engineering (Developer)"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81253/",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81253/",
+      "summary": "Build financial software, APIs and automation using modern engineering and AI-assisted workflows. Ten-week Summer 2027 program in New York, NY, United States, with in-person induction. Exact dates and weekly office attendance are not stated.",
+      "eligibility": "Enrolled in a four-year undergraduate degree; business or technology majors preferred; GPA at least 3.0. Employer specifies graduation in December 2027 or May 2028. Applicants must not need employment-visa sponsorship now or in the future.",
+      "reward": "Published annual base salary range $52,000–$110,000, not total internship pay. Actual rate depends on position and location; confirm internship earnings and benefits.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official requisition 81253 and matching email-entry application screen verified October 25. Only the named US office is represented. December 2027 and May 2028 are separate graduation options; no continuous monthly eligibility range inferred. No application cutoff published.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Review graduation-month and no-sponsorship restrictions",
+        "Confirm attendance, dates and actual internship pay",
+        "Tailor resume to the engineering practice"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "bny-engineering-data-science-nj-81238-2027",
+      "title": "2027 BNY Summer Internship — Engineering (Data Science), Jersey City, NJ",
+      "organization": "BNY",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Location: US",
+        "Summer 2027",
+        "Paid",
+        "Engineering (Data Science)"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81238/",
+      "sourceUrl": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81238/",
+      "summary": "Analyze financial and engineering data, build models and analytical automation, and develop data-driven recommendations. Ten-week Summer 2027 program in Jersey City, NJ, United States, with in-person induction. Exact dates and weekly office attendance are not stated.",
+      "eligibility": "Enrolled in a four-year undergraduate degree; business or technology majors preferred; GPA at least 3.0. Employer specifies graduation in December 2027 or May 2028. Applicants must not need employment-visa sponsorship now or in the future.",
+      "reward": "Published annual base salary range $52,000–$110,000, not total internship pay. Actual rate depends on position and location; confirm internship earnings and benefits.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official requisition 81238 and matching email-entry application screen verified October 25. Only the named US office is represented. December 2027 and May 2028 are separate graduation options; no continuous monthly eligibility range inferred. No application cutoff published.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Review graduation-month and no-sponsorship restrictions",
+        "Confirm attendance, dates and actual internship pay",
+        "Tailor resume to the engineering practice"
       ],
       "stream": "internships"
     }
