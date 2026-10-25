@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 64,
-  "updatedAt": "2026-10-25T18:29:34.519Z",
+  "revision": 65,
+  "updatedAt": "2026-10-25T19:21:43.575Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-25T18:27:09.610Z",
+      "checkedAt": "2026-10-25T19:21:34.199Z",
       "outcome": "success",
-      "summary": "Read 180 spreadsheet opportunities: 12 new, 167 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 180 spreadsheet opportunities: 0 new, 179 matched to tracked records, 0 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
