@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 59,
-  "updatedAt": "2026-10-25T14:04:58.165Z",
+  "revision": 60,
+  "updatedAt": "2026-10-25T14:21:26.742Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-25T13:13:09.383Z",
+      "checkedAt": "2026-10-25T14:20:54.711Z",
       "outcome": "success",
-      "summary": "Read 163 spreadsheet opportunities: 0 new, 162 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 168 spreadsheet opportunities: 4 new, 163 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -1119,6 +1119,25 @@
       "stream": "original"
     },
     {
+      "sheet": {
+        "key": "a0795a0084c3007ad58a709b90400c5364f5d12abdb41a22cfe079efc62436f5",
+        "hash": "eaeb300533d38ae8f5fdc93ea786308dc63221051b149a7bf30cd4cbf41b8254",
+        "checkedAt": "2026-10-25T14:20:54.711Z",
+        "present": true,
+        "fields": {
+          "title": "MIT BSG-MSRP-Bio 2027",
+          "category": "Funded summer undergraduate research",
+          "deadline": "2027-01-30 23:59 ET",
+          "milestone": "Application opens 2026-11-20",
+          "programDates": "2027-05-31 to 2027-08-07",
+          "funding": "Weekly stipend + shared housing + domestic travel allowance",
+          "location": "Cambridge, MA / in person",
+          "eligibility": "F-1 international students explicitly eligible; U.S.-college sophomore/junior/non-graduating senior; STEM GPA >=3.5; life-sciences intro and prior research required; non-research institutions prioritized",
+          "materials": "CV, cover letter, research statements, transcript, 3 science references incl research mentor",
+          "url": "https://biology.mit.edu/program-details-bsg-msrp-bio/"
+        },
+        "verifiedAt": "2026-10-25T14:20:54.711Z"
+      },
       "id": "msrp-bio",
       "title": "BSG-MSRP Biology / Brain & Cognitive Sciences",
       "organization": "MIT Department of Biology",
@@ -1128,24 +1147,25 @@
       ],
       "tags": [
         "Biology",
-        "Research"
+        "Research",
+        "Spreadsheet"
       ],
       "url": "https://biology.mit.edu/program-details-bsg-msrp-bio/",
       "sourceUrl": "https://biology.mit.edu/program-details-bsg-msrp-bio/",
-      "summary": "Ten-week MIT biology and neuroscience research internship.",
-      "eligibility": "Non-MIT U.S.-college sophomores, juniors or non-graduating seniors; STEM GPA ≥3.5 and prior research. Eligible F-1 students may apply.",
-      "reward": "Weekly stipend + housing/travel allowance",
+      "summary": "Ten-week biology and neuroscience research internship starting May 31, 2027; participants must be at MIT May 30–August 7. Applications open November 20, 2026.",
+      "eligibility": "Full-time non-MIT undergraduates at US colleges: sophomores, juniors or non-graduating seniors. Introductory life sciences, STEM GPA at least 3.5, prior research and full availability required. Eligible F-1 international students may apply. Priority for students at institutions with limited research access.",
+      "reward": "Weekly stipend, local shared-suite housing and domestic travel allowance; amounts and travel cap not published.",
       "value": 4,
       "effort": 18,
       "deadlineDate": "2027-01-30",
       "deadlineAt": "",
-      "sourceDeadline": "Jan 30, 2027 · 11:59 p.m.; timezone not stated",
+      "sourceDeadline": "Application deadline: January 30, 2027 at 11:59 p.m.; timezone not stated.",
       "confidence": "Timezone unconfirmed",
       "opensOn": "2026-11-20",
       "cycle": "2027",
       "sourceState": "Upcoming",
-      "sourceNote": "Three science-faculty references, including research mentorship, are required. This is a separate application from MSRP General.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Organizer reviewed October 25. Separate application from MSRP General. Official deadline prints 11:59 p.m. without a timezone; the spreadsheet’s ET label is not independently confirmed. No UTC cutoff inferred.",
+      "checkedOn": "2026-10-25",
       "suggestedTasks": [
         "Check research and GPA eligibility",
         "Prepare CV and cover letter",
@@ -13029,6 +13049,239 @@
         "Tailor resume to the engineering practice"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "5c48b3e5ff25b19c1b62de048b0a95591d2f8c19fa93927ee26a53fb542640bd",
+        "hash": "e9800f9644b4e55076fa452f743518befe3738b7d9696ca3e210e680f9fc7f7d",
+        "checkedAt": "2026-10-25T14:20:54.711Z",
+        "present": true,
+        "fields": {
+          "title": "UChicago Data Science Institute Summer Lab 2027",
+          "category": "Paid interdisciplinary undergraduate research",
+          "deadline": "2027 deadline TBA (2027 application expected fall 2026)",
+          "milestone": "Watch 2027 application opening",
+          "programDates": "2027-06-14 to 2027-08-06",
+          "funding": "$5,600 stipend + free optional college housing",
+          "location": "Chicago, IL / in person",
+          "eligibility": "College undergraduates returning Fall 2027; international F-1 students eligible with U.S. work authorization; no prior research required",
+          "materials": "Application statements + optional recommendation (confirm 2027 form)",
+          "url": "https://datascience.uchicago.edu/education/summerlab/"
+        },
+        "verifiedAt": "2026-10-25T14:20:54.711Z"
+      },
+      "id": "sheet-uchicago-data-science-institute-summer-lab-2027-5c48b3e5ff25",
+      "title": "UChicago Data Science Institute Summer Lab 2027",
+      "organization": "University of Chicago Data Science Institute",
+      "category": "Research programs",
+      "levels": [
+        "High school",
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "interdisciplinary",
+        "undergraduate",
+        "research"
+      ],
+      "url": "https://datascience.uchicago.edu/education/summerlab/",
+      "sourceUrl": "https://datascience.uchicago.edu/education/summerlab/faq/",
+      "summary": "Eight-week in-person data science research program at UChicago Hyde Park, June 14–August 6, 2027. The 2027 application is announced for fall 2026 but is not yet available on the reviewed application page.",
+      "eligibility": "Undergraduates must return to college in Fall 2027; graduate students are ineligible. High-school applicants must reside in the Chicago area and commute. International undergraduates need US work authorization and stipend documentation. No prior research required; programming familiarity preferred.",
+      "reward": "$5,600 stipend for the eight-week 2027 program. Optional free housing for college students; housing is not provided to minors or high-school students, who arrange housing and transportation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "2027 application deadline not announced. Organizer says to check back in fall; the available application page is for Summer 2026.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · UChicago Data Science Institute Summer Lab 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Reviewed organizer main page, FAQ and application page October 25. FAQ gives 2027 dates and support; the application page still serves Summer 2026. No 2027 cutoff or exact opening date confirmed. FAQ’s stale 2026 deadline is not reused.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application statements + optional recommendation (confirm 2027 form)",
+        "Review next milestone: Watch 2027 application opening"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "6f259d191e2bc715d477e1f30044050863a9092cb9c6ad72308185e29a8b520e",
+        "hash": "efb504cf3d56b9988a62266bac6f8c95938144f588761f6702968a39deabe618",
+        "checkedAt": "2026-10-25T14:20:54.711Z",
+        "present": true,
+        "fields": {
+          "title": "APF Sharon Stephens Brehm Undergraduate Psychology Scholarships 2027",
+          "category": "Undergraduate psychology scholarship",
+          "deadline": "2027-07-09",
+          "milestone": "APF 2027 application portal expected 2026-11-01",
+          "programDates": "2027-28 academic year",
+          "funding": "Seven $5,000 scholarships for education expenses",
+          "location": "US / scholarship",
+          "eligibility": "Declared psychology major Fall 2027 and enrolled Spring 2028; >=3.5 cumulative GPA; demonstrated financial need; APF welcomes applicants regardless nationality, but specific F-1 payout eligibility confirm",
+          "materials": "Personal statement, CV, transcript, psychology faculty recommendation",
+          "url": "https://apf.apa.org/funding/brehm-undergraduate-scholarships/"
+        },
+        "verifiedAt": "2026-10-25T14:20:54.711Z"
+      },
+      "id": "sheet-apf-sharon-stephens-brehm-undergraduate-psychology-scholarships-2-6f259d191e2b",
+      "title": "APF Sharon Stephens Brehm Undergraduate Psychology Scholarships 2027",
+      "organization": "American Psychological Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "psychology",
+        "scholarship"
+      ],
+      "url": "https://apf.apa.org/funding/brehm-undergraduate-scholarships/",
+      "sourceUrl": "https://apf.apa.org/funding/brehm-undergraduate-scholarships/",
+      "summary": "Seven undergraduate psychology scholarships for direct educational expenses. Announced 2027 application opening: November 1, 2026.",
+      "eligibility": "Declared psychology major at an accredited college or university in Fall 2027, planning enrollment in Spring 2028; cumulative GPA at least 3.50 and financial need. Requires personal statement, CV, transcript and psychology-faculty recommendation. No nationality exclusion stated on the program page; confirm award-payment requirements.",
+      "reward": "Seven $5,000 scholarships for tuition, institutional fees, required textbooks and similar direct education costs.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-07-09",
+      "deadlineAt": "",
+      "sourceDeadline": "Deadline: July 9, 2027. All application materials and recommendation letters are due by the deadline; no time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · APF Sharon Stephens Brehm Undergraduate Psychology Scholarships 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Program page reviewed October 25; July 9 deadline has no time or timezone. APF announces 2027 applications opening November 1, 2026. The linked Brehm campaign currently reports inactive/ended, so current application availability is not asserted.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Personal statement, CV, transcript, psychology faculty recommendation",
+        "Review next milestone: APF 2027 application portal expected 2026-11-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "09eb33716e889b4e4b300a83c5586cf5e342f7ff600879c8e95ebd6d8c7ce8d6",
+        "hash": "f202d251a2122ba6bbbe65e1141c98d8721854eea4f9da9ba832e3f30f474b1d",
+        "checkedAt": "2026-10-25T14:20:54.711Z",
+        "present": true,
+        "fields": {
+          "title": "APF Elizabeth Munsterberg Koppitz Child Psychology Fellowship 2026",
+          "category": "Graduate child psychology research fellowship",
+          "deadline": "2026-11-25",
+          "milestone": "Check APF portal; 2027 application portal notice Nov 1",
+          "programDates": "2026-27 academic year",
+          "funding": "Five fellowships of $21,800",
+          "location": "US / academic research",
+          "eligibility": "Must have completed doctoral candidacy, child/developmental psychology research competence, institution tuition waiver; only one application per institution; citizenship not specified",
+          "materials": "Dissertation abstract, timeline, project proposal, budget, CV, 2 recommendations from advisor and chair",
+          "url": "https://ampsychfdn.org/funding/koppitz-child-psychology-fellowship/"
+        },
+        "verifiedAt": "2026-10-25T14:20:54.711Z"
+      },
+      "id": "sheet-apf-elizabeth-munsterberg-koppitz-child-psychology-fellowship-202-09eb33716e88",
+      "title": "APF Elizabeth Munsterberg Koppitz Child Psychology Fellowship 2026",
+      "organization": "American Psychological Foundation",
+      "category": "Research programs",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "graduate",
+        "child",
+        "psychology",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://ampsychfdn.org/funding/koppitz-child-psychology-fellowship/",
+      "sourceUrl": "https://ampsychfdn.org/funding/koppitz-child-psychology-fellowship/",
+      "summary": "Graduate fellowship supporting child-psychology research. Published 2026–27 funding cycle has an unresolved application-portal discrepancy.",
+      "eligibility": "Completed doctoral candidacy at application, documented research competence and commitment to child psychology. Home institution must provide tuition waiver/coverage. Only one application per institution per year. Requires dissertation abstract, timeline, proposal, budget, CV and advisor/chair recommendations.",
+      "reward": "Five fellowships of $21,800; stated support is for the 2026–2027 academic year, with tuition waiver/coverage required from the institution.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Program page: Deadline November 25, 2026. Linked campaign inactive/ended; current application cutoff remains unconfirmed.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026 · APF Elizabeth Munsterberg Koppitz Child Psychology Fellowship 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed October 25. Program page lists November 25, 2026 and 2026–27 funding, while the linked campaign reports inactive/ended and a general banner announces 2027 applications on November 1. Current cycle availability and cutoff need confirmation; no closure inferred.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Dissertation abstract, timeline, project proposal, budget, CV, 2 recommendations from advisor and chair",
+        "Review next milestone: Check APF portal; 2027 application portal notice Nov 1"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "9c0dd4ac76a1b7312d8354c824f40d88f6b63697b96351a3c8b79b74af510e00",
+        "hash": "b86bbc5aaee5f99ea0f6bf782e397864987d83ab0aba06fdde53d851cab1f1ec",
+        "checkedAt": "2026-10-25T14:20:54.711Z",
+        "present": true,
+        "fields": {
+          "title": "APF Direct Action Visionary Grants 2026-27",
+          "category": "Evidence-based mental health community intervention grant",
+          "deadline": "2026-10-30 LOI round; next 2027-01-29",
+          "milestone": "LOI rolling quarterly; confirm portal October 2026 despite APF Nov 1 banner",
+          "programDates": "Rolling LOI / invited full proposals 2027",
+          "funding": "Up to $60,000 project grant",
+          "location": "Community program / remote submission",
+          "eligibility": "Individuals or organizations; need proven intervention and central expert in evidence-based psychological practice; not new proof-of-concept or standalone clinical trial; nationality restriction not specified",
+          "materials": "LOI: goals, evidence base, methods, community outcomes, evaluation plan; full proposal by invitation",
+          "url": "https://ampsychfdn.org/funding/direct-action-visionary-grants/"
+        },
+        "verifiedAt": "2026-10-25T14:20:54.711Z"
+      },
+      "id": "sheet-apf-direct-action-visionary-grants-2026-27-9c0dd4ac76a1",
+      "title": "APF Direct Action Visionary Grants 2026-27",
+      "organization": "American Psychological Foundation",
+      "category": "Grants & funding",
+      "levels": [
+        "All levels",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "evidence",
+        "based",
+        "mental",
+        "health",
+        "community",
+        "intervention",
+        "grant"
+      ],
+      "url": "https://ampsychfdn.org/funding/direct-action-visionary-grants/",
+      "sourceUrl": "https://ampsychfdn.org/funding/direct-action-visionary-grants/",
+      "summary": "Community implementation grants for evidence-based psychological interventions. LOIs accepted year-round and reviewed quarterly; full proposals require invitation.",
+      "eligibility": "Individuals or organizations with demonstrated capacity and a relevant intervention expert centrally involved throughout funding. Not limited to psychologists or clinical/academic settings. Excludes new proof-of-concept projects, facility work and standalone clinical trials; pilots must already operate in a real-world setting.",
+      "reward": "Project grants up to $60,000. No award guaranteed; full proposals are by invitation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-10-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Next quarterly LOI review deadline: October 30, 2026; next January 29, 2027. LOIs accepted on a rolling basis year-round. No time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026–2027 · APF Direct Action Visionary Grants 2026-27",
+      "sourceState": "Application",
+      "sourceNote": "Reviewed October 25: program-specific Direct Action campaign offers sign-in to submit a form, despite a general 2027 November 1 opening banner. October 30 is a quarterly LOI review cutoff, not final program closure; no cutoff time published. Portal: https://ampsychfdn.givingdata.com/portal/campaign/DirectActionGrant1",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: LOI: goals, evidence base, methods, community outcomes, evaluation plan; full proposal by invitation",
+        "Review next milestone: LOI rolling quarterly; confirm portal October 2026 despite APF Nov 1 banner"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
