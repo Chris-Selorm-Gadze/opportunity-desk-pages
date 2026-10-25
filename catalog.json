@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 63,
-  "updatedAt": "2026-10-25T17:18:51.638Z",
+  "revision": 64,
+  "updatedAt": "2026-10-25T18:29:34.519Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-25T17:18:45.701Z",
+      "checkedAt": "2026-10-25T18:27:09.610Z",
       "outcome": "success",
-      "summary": "Read 168 spreadsheet opportunities: 0 new, 167 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 180 spreadsheet opportunities: 12 new, 167 matched to tracked records, 0 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -13280,6 +13280,687 @@
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: LOI: goals, evidence base, methods, community outcomes, evaluation plan; full proposal by invitation",
         "Review next milestone: LOI rolling quarterly; confirm portal October 2026 despite APF Nov 1 banner"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "149c0f2dc28ccb11559b8e3ae524314848037dc42c2b1c9284789c3b72858c87",
+        "hash": "67bb8d09fec8ccfc08b4d93ecf67a5fd3ffc3d693073e4313612228d92c16d6d",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "a16z speedrun SR008",
+          "category": "Accelerator",
+          "deadline": "2026-11-01 23:59 PT",
+          "milestone": "Demo Day 2027-04-13",
+          "programDates": "Residency 2027-02-01 to 2027-04-18",
+          "funding": "Up to $1M investment ($500K for 10% via SAFE + up to $500K next round); $10M+ credits; no board seats",
+          "location": "San Francisco, CA; in person",
+          "eligibility": "Early-stage founders; solo founders allowed and no revenue required. Confirm residency and work-authorization requirements before participating.",
+          "materials": "Application form via speedrun",
+          "url": "https://a16z.com/applications-for-a16z-speedrun-sr008-are-now-open/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-a16z-speedrun-sr008-149c0f2dc28c",
+      "title": "a16z speedrun SR008",
+      "organization": "Andreessen Horowitz / a16z speedrun",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "accelerator"
+      ],
+      "url": "https://a16z.com/applications-for-a16z-speedrun-sr008-are-now-open/",
+      "sourceUrl": "https://a16z.com/applications-for-a16z-speedrun-sr008-are-now-open/",
+      "summary": "Twelve-week San Francisco startup residency starting February 1, 2027, with Demo Day April 13. Published end dates conflict: April 16 versus April 18; confirm attendance dates.",
+      "eligibility": "Early-stage founders already building an idea, prototype or product; solo founders and companies that already raised capital may apply. Students may apply, but founders are expected to build full-time and attend San Francisco programming about one day weekly. Confirm participation and work-authorization arrangements.",
+      "reward": "Free application. Investment: $500,000 for 10% via SAFE, plus up to $500,000 in a qualifying next round of $2 million or more within 18 months, subject to terms. Pro rata rights and an option pool apply. Advertised $10M+ partner credits are conditional, not cash.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-11-01",
+      "deadlineAt": "2026-11-02T07:59:00.000Z",
+      "sourceDeadline": "SR008 applications close Nov 1, 2026, at 11:59 PM PT. Later applications are considered for the next residency.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-12",
+      "cycle": "Intake unconfirmed · a16z speedrun SR008",
+      "sourceState": "Application",
+      "sourceNote": "Reviewed announcement, FAQ and current email-entry application October 25. FAQ confirms November 1 at 11:59 PM PT; later applications target the next residency. End-date conflict: announcement/FAQ say April 18, application landing page says April 16. FAQ: https://speedrun.a16z.com/faq ; apply: https://speedrun.a16z.com/apply",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application form via speedrun",
+        "Review next milestone: Demo Day 2027-04-13"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "06877652c25e2117e0c36de3676009950b0adfdfd2e75d3fc45b56f78a368455",
+        "hash": "35fe08243490ef6bf5965582893adbdd4161ea6b8593fb332539d20ebc7e0a58",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "Tulane $50K Demo Day 2027",
+          "category": "Startup pitch competition",
+          "deadline": "2027-01-10",
+          "milestone": "Competition 2027-03-10",
+          "programDates": "2027-03-10, New Orleans Entrepreneur Week",
+          "funding": "$50,000 non-dilutive pool ($25,000 grand; $15,000 second; $10,000 third)",
+          "location": "New Orleans, LA; in person",
+          "eligibility": "For-profit and nonprofit early-stage startups; must have participated in Startup Team Mentoring or completed 3+ Ad Hoc Mentoring sessions via GWIN Network; no formal launch required",
+          "materials": "Pitch application + completed mentoring",
+          "url": "https://innovation.tulane.edu/50kdemoday"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-tulane-50k-demo-day-2027-06877652c25e",
+      "title": "Tulane $50K Demo Day 2027",
+      "organization": "Tulane University Innovation Institute",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "pitch",
+        "competition"
+      ],
+      "url": "https://innovation.tulane.edu/50kdemoday",
+      "sourceUrl": "https://innovation.tulane.edu/50kdemoday",
+      "summary": "Early-stage venture pitch competition at Tulane A.B. Freeman School in New Orleans on March 10, 2027, during New Orleans Entrepreneur Week.",
+      "eligibility": "For-profit and nonprofit startups; formal company launch is not required. Applicants must have participated in GWIN Startup Team Mentoring or completed at least three Ad Hoc Mentoring sessions by the application deadline.",
+      "reward": "$50,000 non-dilutive prize pool: $25,000 grand prize, $15,000 second and $10,000 third. Travel support is not stated.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2027-01-10",
+      "deadlineAt": "",
+      "sourceDeadline": "January 10, 2027: submit the application and complete mentorship requirements. No cutoff time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Tulane $50K Demo Day 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Reviewed October 25. Page confirms the 2027 event and January 10 cutoff despite its stale browser title. Both application and mentoring requirements are due January 10. A current submission form was not verified; the page announces fall opening.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Pitch application + completed mentoring",
+        "Review next milestone: Competition 2027-03-10"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "911a8656a123d8f88b8b07c061f3c34f7b5bea171349ff96ea88bf87d97a6aca",
+        "hash": "5a4e78f0da96bf0c8f2ee8b7ff80aac047574b2e8b0519de103627c561eec288",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "Fortis Fellowship 2027",
+          "category": "Founder / leadership fellowship",
+          "deadline": "2026-11-08",
+          "milestone": "Interviews Nov-Dec 2026; decisions by end Jan 2027",
+          "programDates": "Jan-Jun 2027; Summit Medellin June 2027",
+          "funding": "No cash; funded 5-month fellowship + Summit; lifetime Fortis Society membership",
+          "location": "Virtual + Medellin, Colombia Summit",
+          "eligibility": "Anyone from humble beginnings with ambition for significant impact; no degree or nomination required; cohorts skew 1-5 years work experience",
+          "materials": "Resume/portfolio, 3 short answers, 2-minute video; interview if shortlisted",
+          "url": "https://fortissociety.org/fellowship"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-fortis-fellowship-2027-911a8656a123",
+      "title": "Fortis Fellowship 2027",
+      "organization": "Fortis Society",
+      "category": "Travel & leadership",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "founder",
+        "leadership",
+        "fellowship"
+      ],
+      "url": "https://fortissociety.org/fellowship",
+      "sourceUrl": "https://fortissociety.org/fellowship",
+      "summary": "Global mentorship and leadership fellowship, January–June 2027, with online sessions and a Medellín gathering; the application lists Colombia travel June 8–13.",
+      "eligibility": "Applicants from humble beginnings who demonstrate positive impact, ambition and generosity. Global applicants across sectors; no degree or nomination required. Any work-experience level may apply, though cohorts skew one to five years. Requires resume/portfolio, three answers and a two-minute video; shortlisted applicants interview.",
+      "reward": "No application or fellowship fee. Cohort programming and Summit are funded; lifetime society membership follows completion. Cash stipend, airfare, visa and meal coverage are not specified—confirm the funded components.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-08",
+      "deadlineAt": "",
+      "sourceDeadline": "November 8, 2026, at 11:59pm in your local time zone (official application).",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "2027 · Fortis Fellowship 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official page and live 2027 application reviewed October 25. Form states November 8 at 11:59 p.m. in the applicant’s local timezone; no universal UTC cutoff is assigned. Form gives Colombia travel June 8–13, while the overview describes a shorter gathering. Application: https://form.fortissociety.org/apply",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Resume/portfolio, 3 short answers, 2-minute video; interview if shortlisted",
+        "Review next milestone: Interviews Nov-Dec 2026; decisions by end Jan 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "0ec783a71b2aa36aec688ff2f3de9c6f4fe5fcde5b697a5393185a1ce751197d",
+        "hash": "9c59c32f89a053be5ec3a50a17d3854bce61f722a31d375c1c35fa3b4ccd6605",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "UW-Madison PREP Psychology Research Experience Program 2027",
+          "category": "Undergraduate research fellowship (REU)",
+          "deadline": "2027-02-10",
+          "milestone": "Shared SROP application",
+          "programDates": "10 weeks, summer 2027",
+          "funding": "$6,000 stipend + $2,100 meal stipend + dorm housing + full travel + health insurance if needed",
+          "location": "Madison, WI; in person",
+          "eligibility": "Undergraduates; no prior research required. Verify citizenship and current-cycle eligibility with the organizer.",
+          "materials": "Two-part application (SROP form + PREP essay), transcript, recommendations",
+          "url": "http://psych.wisc.edu/nsf-reu-site-psychology-research-experience-program/about-prep/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-uw-madison-prep-psychology-research-experience-program-2027-0ec783a71b2a",
+      "title": "UW-Madison PREP Psychology Research Experience Program 2027",
+      "organization": "University of Wisconsin–Madison Department of Psychology",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "research",
+        "fellowship"
+      ],
+      "url": "http://psych.wisc.edu/nsf-reu-site-psychology-research-experience-program/about-prep/",
+      "sourceUrl": "https://psych.wisc.edu/nsf-reu-site-psychology-research-experience-program/",
+      "summary": "Psychology/data-science research program; the proposed 2027 cycle is unverified. Organizer currently says applications are not being accepted after the Summer 2026 suspension.",
+      "eligibility": "Published application rules require US citizenship or permanent residence and undergraduate status; prior research is not required. Historical rules mention sophomore/junior completion, GPA 3.0 consideration and research-career interest. The Fall 2026 enrollment wording is stale; 2027 eligibility needs confirmation.",
+      "reward": "Published historical ten-week package: $6,000 stipend, $2,100 meals, dorm housing, travel to/from Madison and health insurance if needed. Availability and funding for 2027 are unconfirmed.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No confirmed 2027 deadline. The application page says February 10 without a year; the home page says applications are not currently accepted.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · UW-Madison PREP Psychology Research Experience Program 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed organizer home, funding and application pages October 25. Home says operations were suspended for Summer 2026 and applications are not currently accepted. No 2027 restart confirmed. The application page retains Fall 2026 eligibility and a yearless February 10 deadline, so the sheet’s February 10, 2027 cutoff is unconfirmed.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Two-part application (SROP form + PREP essay), transcript, recommendations",
+        "Review next milestone: Shared SROP application"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "eeb55deffc047fc06c21a2ce36b8d7afd0d09efe141c89f3f79e664c02223802",
+        "hash": "cc36528c875ee12871c85ff45cd187117f0ce02ca3d91ca9992a6d789ca2b7f8",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "CHOP Injury Science REU 2027",
+          "category": "Undergraduate research fellowship (REU)",
+          "deadline": "2027-01-13 (applications open 2026-12-14)",
+          "milestone": "Interviews Feb 2027; decisions Mar 2027",
+          "programDates": "2027-06-07 to 2027-08-13",
+          "funding": "$7,000 stipend + free housing for in-person projects + up to $500 travel/conference reimbursement",
+          "location": "Philadelphia, PA; in person",
+          "eligibility": "Undergrads 3.0+ GPA, 1 year college by Jun 7 2027, graduating after Aug 13 2027; U.S. citizen or permanent resident ONLY — not open to F-1",
+          "materials": "REU application",
+          "url": "https://injury.research.chop.edu/training-opportunities/research-experiences-undergraduates"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-chop-injury-science-reu-2027-eeb55deffc04",
+      "title": "CHOP Injury Science REU 2027",
+      "organization": "Children’s Hospital of Philadelphia / CIRP",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://injury.research.chop.edu/training-opportunities/research-experiences-undergraduates",
+      "sourceUrl": "https://injury.research.chop.edu/training-opportunities/research-experiences-undergraduates",
+      "summary": "Ten-week injury-science research internship, June 7–August 13, 2027, spanning engineering, behavioral science, education, population science and statistics.",
+      "eligibility": "Undergraduates with GPA 3.0, one college year completed by June 7, 2027, and expected graduation after August 13, 2027. US citizens or permanent residents only; interest in advanced study other than pre-med. In-person placements are in Philadelphia.",
+      "reward": "$7,000 stipend; free housing for in-person projects. Up to $500 reimbursement for program travel to/from Philadelphia or conference presentation travel; reimbursement is capped.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-13",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications close: January 13, 2027. No cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-12-14",
+      "cycle": "2027 · CHOP Injury Science REU 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer reviewed October 25. Explicit 2027 opening, closing date, eligibility, support and program dates verified. No cutoff time or timezone is published.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: REU application",
+        "Review next milestone: Interviews Feb 2027; decisions Mar 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "115cfa30bab8fdc6ed71b2157d14b6d2fb269516a879c5cd195db22341cc39ff",
+        "hash": "e062a3d1dad57b62a735f221a40cf3630c18d2c9d8060c4e88da40d14a905f89",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "UW-Madison SERP Summer Education Research Program 2027",
+          "category": "Undergraduate research fellowship",
+          "deadline": "2027-02-10 (opens 2026-11-01)",
+          "milestone": "Decisions rolling to 2027-03-15",
+          "programDates": "2027-06-01 to 2027-08-07",
+          "funding": "$5,000 stipend + travel expenses + housing",
+          "location": "Madison, WI; in person",
+          "eligibility": "Full-time domestic undergrads completing sophomore or junior year; U.S. citizen or permanent resident ONLY",
+          "materials": "3 written statements, official transcript, 2 faculty/staff recommendations",
+          "url": "https://education.wisc.edu/about/community-well-being/summer-education-research-program-serp/eligibility-and-deadlines/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-uw-madison-serp-summer-education-research-program-2027-115cfa30bab8",
+      "title": "UW-Madison SERP Summer Education Research Program 2027",
+      "organization": "University of Wisconsin–Madison School of Education",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://education.wisc.edu/about/community-well-being/summer-education-research-program-serp/eligibility-and-deadlines/",
+      "sourceUrl": "https://education.wisc.edu/about/community-well-being/summer-education-research-program-serp/eligibility-and-deadlines/",
+      "summary": "Ten-week mentored education, health or arts research experience in Madison, June 1–August 7, 2027; designed for undergraduates considering graduate study.",
+      "eligibility": "Full-time domestic undergraduates enrolled at a US college in spring, completing sophomore or junior year and not graduated before the program. US citizens or permanent residents only. Written statements, official transcripts and two faculty/staff recommendations required.",
+      "reward": "$5,000 stipend plus housing and travel expenses. Confirm travel arrangements and any uncovered costs.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-10",
+      "deadlineAt": "",
+      "sourceDeadline": "Application Closes: February 10, 2027. No time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · UW-Madison SERP Summer Education Research Program 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Reviewed current 2027 eligibility/deadline page and program overview October 25. Rolling decisions are distinct from the fixed application cutoff. Funding source: https://education.wisc.edu/about/community-well-being/summer-education-research-program-serp/",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 3 written statements, official transcript, 2 faculty/staff recommendations",
+        "Review next milestone: Decisions rolling to 2027-03-15"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "34e877b1b9484134f07195fe8d3d0e42d90aebc57ff0864b29d241536170530d",
+        "hash": "f9ff627d3ecbadc8d48c05d2da5e8d394a355e38a3ea49fb73061932194a5576",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "American Farm Bureau MANRRS Fellows - FUSION Conference 2027",
+          "category": "Agriculture leadership fellowship / conference",
+          "deadline": "2026-11-19 12:00 EST",
+          "milestone": "Virtual orientation 2027-02-02; mentorship Jan-Feb 2027",
+          "programDates": "Conference 2027-03-12 to 2027-03-16",
+          "funding": "Fellowship place at FUSION Conference; travel/lodging coverage NOT stated — confirm before assuming fully funded",
+          "location": "New Orleans, LA; in person",
+          "eligibility": "Active MANRRS collegiate members, 18-35 as of 2027-03-01, GPA 2.8+, production-agriculture interest; citizenship not stated — verify",
+          "materials": "Submittable application",
+          "url": "https://fb.submittable.com/submit"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-american-farm-bureau-manrrs-fellows-fusion-conference-2027-34e877b1b948",
+      "title": "American Farm Bureau MANRRS Fellows - FUSION Conference 2027",
+      "organization": "American Farm Bureau Federation / MANRRS / CoBank",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "agriculture",
+        "leadership",
+        "fellowship",
+        "conference"
+      ],
+      "url": "https://fb.submittable.com/submit",
+      "sourceUrl": "https://fb.submittable.com/submit",
+      "summary": "Up to 15 collegiate MANRRS fellows attend FUSION in New Orleans March 12–16, 2027, including travel days. Virtual orientation February 2 and mentorship January–February.",
+      "eligibility": "Active collegiate MANRRS members with production-agriculture involvement or interest; age 18–35 on March 1, 2027; GPA at least 2.8 and full participation. Previous fellows, current/former AFBF committee members, and Farm Bureau/affiliate staff are excluded. Citizenship restrictions are not stated.",
+      "reward": "Expense-paid conference registration, airfare and hotel accommodations, plus $200 travel stipend and one-year county Farm Bureau membership. A dinner is included; other meals and additional costs are not fully specified.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-19",
+      "deadlineAt": "2026-11-19T17:00:00.000Z",
+      "sourceDeadline": "November 19, 2026, at 12:00 p.m. (noon) EST: Application Deadline.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · American Farm Bureau MANRRS Fellows - FUSION Conference 2027",
+      "sourceState": "Application",
+      "sourceNote": "Current 2027 MANRRS program guidelines and role-specific application login verified October 25. Corrected the sheet’s unconfirmed travel claim using explicit organizer coverage. March 12–16 includes travel days. Application entry: https://fb.submittable.com/submit/370725/2027-farm-bureau-manrrs-fellowship-program",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Submittable application",
+        "Review next milestone: Virtual orientation 2027-02-02; mentorship Jan-Feb 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "38dcb75169feefecf0d25fd08a52d8d67b67aadde709c16fc17e19c20d80de81",
+        "hash": "ffcdc4802ad1291a7a0fe13a657a765197a3569c64a26dacb4528cb097a0bdf9",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "Louisiana Wildlife Federation Conservation Leadership Corps 2027-2028",
+          "category": "Conservation leadership program",
+          "deadline": "2027-05-17 (applications open Feb 2027; confirm when Feb opening posts — current page still shows Spring 2026 wording)",
+          "milestone": "February 2027 opening check",
+          "programDates": "4 sessions across academic year",
+          "funding": "No cost; food/lodging for training sessions covered; transport NOT covered; $300 scholarship on completion",
+          "location": "Louisiana (Chicot State Park retreat, Baton Rouge, Zoom, LWF convention)",
+          "eligibility": "Undergraduates age 18 or older, enrolled and residing in Louisiana and able to attend four sessions; confirm current-cycle requirements.",
+          "materials": "Application (details at February opening)",
+          "url": "https://lawildlifefed.org/what-we-do/conservation-leadership-corps/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-louisiana-wildlife-federation-conservation-leadership-corps-2027--38dcb75169fe",
+      "title": "Louisiana Wildlife Federation Conservation Leadership Corps 2027-2028",
+      "organization": "Louisiana Wildlife Federation",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conservation",
+        "leadership",
+        "program"
+      ],
+      "url": "https://lawildlifefed.org/what-we-do/conservation-leadership-corps/",
+      "sourceUrl": "https://lawildlifefed.org/what-we-do/conservation-leadership-corps/",
+      "summary": "Four-session conservation policy and leadership program in Louisiana, including Chicot State Park, Baton Rouge, Zoom and the LWF convention. The 2027–28 intake is announced for a February opening.",
+      "eligibility": "Published requirements: age 18+, undergraduate enrollment/residence in Louisiana and attendance at four sessions. The page’s enrollment term remains Spring 2026, so confirm the current-cycle term and residency requirements.",
+      "reward": "No program fee; training food and lodging covered. Transportation is excluded. A $300 education scholarship is awarded upon successful completion.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Program page lists Applications due: May 17 without a year. The reported May 17, 2027 cutoff remains unconfirmed.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027–2028 · Louisiana Wildlife Federation Conservation Leadership Corps 2027-2028",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer reviewed October 25. Heading announces the 2027–28 cycle and February opening; the body still references Spring 2026 and lists May 17 without a year. A May 17, 2027 cutoff and exact opening date are not confirmed.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application (details at February opening)",
+        "Review next milestone: February 2027 opening check"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "09108e57b4a128e172e7010888fc2ec5cbed8c71934900f836dee1213a5a2c8e",
+        "hash": "8d8588a88ac362ae4199f2116e256a289aa1bf527172a0575a2ae4ede86d751c",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "Seismological Society of America 2027 Annual Meeting Travel Grants",
+          "category": "Conference travel grant",
+          "deadline": "2026-11-30 (applications open 2026-11-01; support letter due 2026-11-30)",
+          "milestone": "Annual Meeting 2027",
+          "programDates": "2027 Annual Meeting",
+          "funding": "Complimentary registration + lodging/meals/travel funds up to $2,000 North America / $3,000 international",
+          "location": "Annual Meeting; in person",
+          "eligibility": "Student members inside or outside U.S. explicitly eligible; must be first author on abstract and present; one award per category per institution",
+          "materials": "Application + personal essay + abstract + faculty support letter",
+          "url": "https://www.seismosoc.org/awards/travel-grant-types/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-seismological-society-of-america-2027-annual-meeting-travel-grant-09108e57b4a1",
+      "title": "Seismological Society of America 2027 Annual Meeting Travel Grants",
+      "organization": "Seismological Society of America",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "grant"
+      ],
+      "url": "https://www.seismosoc.org/awards/travel-grant-types/",
+      "sourceUrl": "https://www.seismosoc.org/awards/travel-grant-types/",
+      "summary": "Travel support for the SSA 2027 Annual Meeting. Student, early-career, international, ESC and domestic-regular-member categories have separate eligibility rules; confirm meeting venue and dates.",
+      "eligibility": "Student awards accept SSA student members inside or outside the US. Recipients generally must be first author and present; session conveners have an exception. Student/early-career applicants need advisor/supervisor support by November 30. At most one award per category per institution; domestic regular-member grants exclude government employees.",
+      "reward": "Complimentary registration plus lodging, meal and travel funding: request up to $2,000 from within North America or $3,000 internationally. Awards are competitive and capped; review membership dues and remaining expenses.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Application Period: 1–30 November 2026. Student/early-career support letters are also due November 30; no cutoff time published.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · Seismological Society of America 2027 Annual Meeting Travel Grants",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer’s 2027 grant window, support caps, membership categories and support-letter deadline reviewed October 25. No cutoff time published. This listing covers multiple grant categories; their conditions differ.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application + personal essay + abstract + faculty support letter",
+        "Review next milestone: Annual Meeting 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "26413d2b50786b83281dbef936f4b2ebf19d13c7280a82347a8e498e733acd06",
+        "hash": "aedf71a2480e235a3f161fe88e3f8e7a48d2d205d770afd0be48d91d597fb22e",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "ACS Green Chemistry & Engineering Conference Awards 2027",
+          "category": "Conference travel awards",
+          "deadline": "2026-11-01 to 2026-11-02 (Ciba/McClelland/Hancock); Sustainable Future Grants 2026-10-31 to 2027-01-15",
+          "milestone": "GC&E Conference 2027",
+          "programDates": "2027 conference",
+          "funding": "Ciba up to $2,000 (up to 4); McClelland up to $2,000 (up to 4); Hancock $1,000 + up to $1,000 travel; Breen (international) up to $2,000; Sustainable Future amount not stated",
+          "location": "Conference; in person",
+          "eligibility": "U.S. undergrad/grad for Ciba/McClelland; Hancock open to U.S. and international students; Breen for international scholars; green-chemistry research or leadership",
+          "materials": "Conference award application",
+          "url": "https://www.gcande.org/the-experience/students/awards/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-acs-green-chemistry-engineering-conference-awards-2027-26413d2b5078",
+      "title": "ACS Green Chemistry & Engineering Conference Awards 2027",
+      "organization": "American Chemical Society Green Chemistry Institute",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "awards"
+      ],
+      "url": "https://www.gcande.org/the-experience/students/awards/",
+      "sourceUrl": "https://www.gcande.org/the-experience/students/awards/",
+      "summary": "Directory of 2027 green-chemistry conference awards and travel grants. Multiple award-specific windows and requirements apply; November 1 versus November 2 closing-date conflict remains unresolved.",
+      "eligibility": "Ciba/McClelland target US undergraduate/graduate students; Hancock accepts US and international students; Breen supports international undergraduate, graduate or postdoctoral scholars. Research and leadership requirements vary by award.",
+      "reward": "Ciba/McClelland: up to four $2,000 awards each; Hancock: $1,000 plus up to $1,000 travel; Breen: two awards up to $2,000. These are capped awards, not complete trip funding. Sustainable Future grant amount is not stated.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Conflicting 2027 award windows: key dates say October 1–November 1, 2026; individual panels say November 2. Sustainable Future window: October 31, 2026–January 15, 2027. Verify the selected award.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · ACS Green Chemistry & Engineering Conference Awards 2027",
+      "sourceState": "Directory",
+      "sourceNote": "Reviewed October 25. This is an award directory with separate applications, not one combined award. Its key-dates summary ends November 1, 2026, while individual award panels end November 2. Preserve the discrepancy and confirm each organizer application; do not assign one confirmed deadline.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Conference award application",
+        "Review next milestone: GC&E Conference 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "79ff88a4e1df6716195f046e5e98f2a1156ec968e5a0a28426a89e1b0f987f68",
+        "hash": "fffa1221256458ab47471ae8469dd9041ba742b41f62ea44ffc6a4591a25d656",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "ASPET 2027 Annual Meeting Travel Awards",
+          "category": "Conference travel award",
+          "deadline": "2026-12-03",
+          "milestone": "Annual Meeting Atlanta 2027",
+          "programDates": "2027 Annual Meeting",
+          "funding": "Paid registration + up to 4 hotel nights (Hilton Atlanta group rate); airfare up to $1,000 only for international awards for applicants residing in developing countries — U.S.-residing students should not count on airfare",
+          "location": "Atlanta, GA; in person",
+          "eligibility": "Undergrads, post-bacc, graduates, postdocs; ASPET 2027 member + presenting author on submitted abstract; no citizenship bar stated for general award",
+          "materials": "ASPET membership, abstract, travel-award application",
+          "url": "https://www.aspet.org/aspet/meetings-awards/annual-meeting/aspet-2027/attend/opportunities-for-students-postdocs"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-aspet-2027-annual-meeting-travel-awards-79ff88a4e1df",
+      "title": "ASPET 2027 Annual Meeting Travel Awards",
+      "organization": "American Society for Pharmacology and Experimental Therapeutics",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://www.aspet.org/aspet/meetings-awards/annual-meeting/aspet-2027/attend/opportunities-for-students-postdocs",
+      "sourceUrl": "https://www.aspet.org/aspet/meetings-awards/annual-meeting/aspet-2027/attend/opportunities-for-students-postdocs",
+      "summary": "Travel awards for presenting research at ASPET 2027 in Atlanta, May 16–19, 2027. Award interest is indicated during abstract submission; no separate application.",
+      "eligibility": "Undergraduate, post-baccalaureate, graduate and postdoctoral applicants in eligible membership categories; must be presenting author and an ASPET member in good standing for 2026 and 2027. Current detailed undergraduate date wording is stale; verify that requirement. Membership dues and abstract submission fees apply.",
+      "reward": "Paid registration and up to four nights at the official hotel under award/group-rate rules. Airfare reimbursement up to $1,000 is only for qualifying international awards for applicants residing in developing countries, with receipts after the meeting. Other award types exclude airfare; meals and membership/abstract fees are not stated as covered.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-03",
+      "deadlineAt": "2026-12-04T04:59:00.000Z",
+      "sourceDeadline": "Submissions close Thursday, Dec. 3, 2026 at 11:59 pm ET. This abstract cutoff is required for travel-award consideration.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · ASPET 2027 Annual Meeting Travel Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed October 25: current abstract page confirms December 3, 2026, 11:59 p.m. ET. Linked submission portal returned Invalid url; no closure inferred. Detailed award rules also retain a stale June 2026 undergraduate threshold. Confirm portal and degree-date requirements before paying. Cutoff source: https://www.aspet.org/aspet/meetings-awards/annual-meeting/aspet-2027/present/abstracts",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: ASPET membership, abstract, travel-award application",
+        "Review next milestone: Annual Meeting Atlanta 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7e307825ff390542861b070004a6d4f2fb9688c40bb732ed2029641ec9ef4894",
+        "hash": "474cc639f6cf534a1a22cc072c33efca56c3326a211100cfa47e1cde6726c1dc",
+        "checkedAt": "2026-10-25T18:27:09.610Z",
+        "present": true,
+        "fields": {
+          "title": "KAGC U College Leadership Summit 2027",
+          "category": "Leadership summit (funded travel)",
+          "deadline": "2026-11-11 23:59 ET",
+          "milestone": "Summit 2027-01-06 to 2027-01-08",
+          "programDates": "2027-01-06 to 2027-01-08",
+          "funding": "Round-trip flight to Washington, DC + paid lodging near Capitol Hill; meals not explicitly stated — verify",
+          "location": "Washington, DC; in person",
+          "eligibility": "Undergraduate applicants; typically no more than two per school. Program focuses on Korean American history, identity and civic leadership; confirm current published eligibility.",
+          "materials": "Short application form (Google Form on official page)",
+          "url": "https://kagc.us/leadership-summit/"
+        },
+        "verifiedAt": "2026-10-25T18:27:09.610Z"
+      },
+      "id": "sheet-kagc-u-college-leadership-summit-2027-7e307825ff39",
+      "title": "KAGC U College Leadership Summit 2027",
+      "organization": "Korean American Grassroots Conference",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "leadership",
+        "summit",
+        "funded",
+        "travel"
+      ],
+      "url": "https://kagc.us/leadership-summit/",
+      "sourceUrl": "https://kagc.us/leadership-summit/",
+      "summary": "Three-day civic leadership summit in Washington, DC, January 6–8, 2027, focused on Korean American history, policy and grassroots civic engagement.",
+      "eligibility": "All full-time students actively pursuing an undergraduate degree; no prior political experience required. Competitive selection, typically at most two per school with exceptions. No citizenship restriction stated on the reviewed page or introductory application screen.",
+      "reward": "Round-trip flight to Washington, DC, subject to terms and conditions, plus paid lodging near Capitol Hill. Meals and other trip costs are not explicitly covered.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-11",
+      "deadlineAt": "2026-11-12T04:59:00.000Z",
+      "sourceDeadline": "11:59 PM ET on Wednesday, November 11th, 2026; completed essay PDF submitted through the official form.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · KAGC U College Leadership Summit 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027 page and live Google Form reviewed October 25. Form explicitly welcomes all full-time undergraduate students; Korean American civic themes are the program focus, not a stated ethnicity restriction. Required essay answers must be uploaded as PDF. Funding terms apply; meals are not confirmed.",
+      "checkedOn": "2026-10-25",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Short application form (Google Form on official page)",
+        "Review next milestone: Summit 2027-01-06 to 2027-01-08"
       ],
       "stream": "spreadsheet"
     }
