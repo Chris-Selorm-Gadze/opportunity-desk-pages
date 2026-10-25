@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 57,
-  "updatedAt": "2026-10-25T13:13:14.806Z",
+  "revision": 58,
+  "updatedAt": "2026-10-25T13:56:15.551Z",
   "streams": [
     {
       "id": "internships",
@@ -27,9 +27,9 @@
     {
       "id": "travel",
       "label": "Sponsored travel & leadership",
-      "checkedAt": "2026-10-24T14:30:46.017Z",
+      "checkedAt": "2026-10-25T13:56:14.850Z",
       "outcome": "success",
-      "summary": "Rechecked existing travel leads and five original deadlines within 30 days against organizer sources. No new verified fully sponsored travel opportunity or material change found; existing coverage, caps and exclusions remain labeled."
+      "summary": "Rechecked existing travel leads and five original deadlines within 30 days against organizer sources. No new verified fully sponsored travel opportunity or material change found; the UBC Student Founder Stage deadline remains October 25 with no published time."
     }
   ],
   "opportunities": [
