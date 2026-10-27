@@ -37,6 +37,10 @@ The script verifies remote readback after pushing. `pagesDeployment: queued` mea
 
 Before a future website code deployment, copy the latest remote catalog into the source build input. Never replace live daily data with an old build’s catalog.
 
+### Curated public research
+
+For a user-requested review outside the four scheduled discovery feeds, use the same publisher with input `stream: "curated"`. This is a publishing mode, not a fifth dashboard feed. All other input fields and public-entry validation rules are unchanged. New entries use `stream: "original"`; updates retain their existing ID, cycle, stream ownership and exact spreadsheet provenance. Every included entry must have `checkedOn` equal to the UTC date of the actual `checkedAt`. Do not invent spreadsheet provenance or import personal application information. The four scheduled streams and their freshness metadata remain unchanged; the catalog revision, publication time and reviewed records are refreshed. Remote readback confirms the exact curated records. Use this mode for verified scholarship additions and corrections without rebuilding the website or mislabeling them as internship, travel or spreadsheet discoveries.
+
 ## JSON contract (schemaVersion 1)
 
 The root contains exactly `schemaVersion: 1`, positive integer `revision`, ISO UTC `updatedAt`, `streams`, and `opportunities` (1–1,000 entries). Streams have unique `id` (`travel`, `trading`, `internships` or `spreadsheet`), `label`, `checkedAt`, `outcome` (`success` or `error`), and public `summary`. Keep all four streams.

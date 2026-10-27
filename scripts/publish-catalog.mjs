@@ -13,19 +13,23 @@ export function applyCatalogPatch(base,input,now=new Date()){
  const feed=catalogSchema.parse(base);
  if(!input||typeof input!=='object'||Array.isArray(input)||Object.keys(input).some(k=>!['stream','checkedAt','outcome','summary','opportunities'].includes(k)))throw Error('Use only public catalog patch fields.');
  if(!Array.isArray(input.opportunities))throw Error('opportunities must be an array of complete public entries.');
+ const curated=input.stream==='curated';
  const prior=feed.streams.find(s=>s.id===input.stream);
- const stream=catalogStreamSchema.parse({id:input.stream,label:prior?.label||(input.stream==='travel'?'Sponsored travel & leadership':input.stream==='internships'?'Internships':input.stream==='spreadsheet'?'Connected spreadsheet':'Trading & finance'),checkedAt:input.checkedAt,outcome:input.outcome,summary:input.summary});
+ const research={checkedAt:input.checkedAt,outcome:input.outcome,summary:input.summary};
+ const stream=curated?{id:'curated',...catalogStreamSchema.omit({id:true,label:true}).parse(research)}:catalogStreamSchema.parse({id:input.stream,label:prior?.label||(input.stream==='travel'?'Sponsored travel & leadership':input.stream==='internships'?'Internships':input.stream==='spreadsheet'?'Connected spreadsheet':'Trading & finance'),...research});
  if(Date.parse(stream.checkedAt)>now.getTime()+300000)throw Error('Research timestamp is in the future.');
  if(prior&&Date.parse(stream.checkedAt)<Date.parse(prior.checkedAt))throw Error('A newer research run is already published. Review it before retrying.');
  const entries=input.opportunities.map(o=>catalogEntrySchema.parse(o));
+ if(curated&&entries.some(o=>o.checkedOn!==stream.checkedAt.slice(0,10)))throw Error('Curated entries need the actual review date.');
  if(new Set(entries.map(o=>o.id)).size!==entries.length||new Set(entries.map(identity)).size!==entries.length)throw Error('Duplicate patch entries.');
  const rows=structuredClone(feed.opportunities);let added=0,updated=0;
  for(const entry of entries){
   const match=rows.findIndex(o=>o.id===entry.id||identity(o)===identity(entry));
-  if(match<0){if(entry.stream!==stream.id)throw Error('New entries must belong to this research stream.');rows.push(entry);added++;}
+  if(match<0){if(entry.stream!==(curated?'original':stream.id))throw Error('New entries must belong to this research stream.');if(curated&&entry.sheet)throw Error('Curated additions cannot invent spreadsheet provenance.');rows.push(entry);added++;}
   else{
    const old=rows[match];if(old.cycle!==entry.cycle)throw Error('A new application cycle requires a new ID.');
-   if(old.stream!==stream.id&&old.stream!=='original'&&stream.id!=='spreadsheet')throw Error('Preserve the other research stream’s entries.');
+   if(curated&&entry.sheet&&!old.sheet)throw Error('Curated research cannot invent spreadsheet provenance.');
+   if(!curated&&old.stream!==stream.id&&old.stream!=='original'&&stream.id!=='spreadsheet')throw Error('Preserve the other research stream’s entries.');
    const metadataOnly=stream.id==='spreadsheet'&&old.stream!=='spreadsheet'&&entry.sheet?.verifiedAt!==stream.checkedAt;
    if(!metadataOnly&&entry.checkedOn<old.checkedOn)throw Error('Refusing to replace newer source research.');
    const next=metadataOnly?{...old,tags:[...new Set([...old.tags,'Spreadsheet'])],sheet:entry.sheet}:{...entry,id:old.id,stream:old.stream,...(stream.id!=='spreadsheet'&&old.sheet?{sheet:old.sheet}:{})};if(JSON.stringify(next)!==JSON.stringify(old))updated++;
@@ -33,7 +37,7 @@ export function applyCatalogPatch(base,input,now=new Date()){
   }
  }
  if(new Set(rows.map(identity)).size!==rows.length)throw Error('Duplicate opportunity URL and cycle.');
- const result=catalogSchema.parse({...feed,revision:feed.revision+1,updatedAt:now.toISOString(),streams:[...feed.streams.filter(s=>s.id!==stream.id),stream].sort((a,b)=>a.id.localeCompare(b.id)),opportunities:rows});
+ const result=catalogSchema.parse({...feed,revision:feed.revision+1,updatedAt:now.toISOString(),streams:curated?feed.streams:[...feed.streams.filter(s=>s.id!==stream.id),stream].sort((a,b)=>a.id.localeCompare(b.id)),opportunities:rows});
  return {catalog:result,added,updated};
 }
 
@@ -66,7 +70,8 @@ export async function publish(inputOrFactory,{dryRun=false}={}){
    git(checkout,['fetch','--depth','1','origin','main']);
    const persisted=catalogSchema.parse(JSON.parse(git(checkout,['show','FETCH_HEAD:catalog.json'])));
    const stream=persisted.streams.find(s=>s.id===input.stream);
-   if(persisted.revision<result.catalog.revision||!stream||Date.parse(stream.checkedAt)<Date.parse(input.checkedAt))throw Error('Remote readback did not confirm the published research.');
+   const confirmed=input.stream==='curated'?input.opportunities.every(entry=>{const expected=result.catalog.opportunities.find(o=>o.id===entry.id||identity(o)===identity(entry));return expected&&persisted.opportunities.some(o=>JSON.stringify(o)===JSON.stringify(expected));}):stream&&Date.parse(stream.checkedAt)>=Date.parse(input.checkedAt);
+   if(persisted.revision<result.catalog.revision||!confirmed)throw Error('Remote readback did not confirm the published research.');
    return {commit,revision:persisted.revision,added:result.added,updated:result.updated,count:persisted.opportunities.length,stream:input.stream,publishedToRepository:true,pagesDeployment:'queued',url:'https://chris-selorm-gadze.github.io/opportunity-desk-pages/'};
   }catch(error){lastError=error;if(!/push failed/.test(error.message)||attempt===3)throw error;}
   finally{await rm(temporary,{recursive:true,force:true});}
