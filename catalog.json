@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 74,
-  "updatedAt": "2026-10-27T16:23:29.434Z",
+  "revision": 75,
+  "updatedAt": "2026-10-27T16:30:36.997Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-25T20:04:30.565Z",
+      "checkedAt": "2026-10-27T16:29:50.932Z",
       "outcome": "error",
-      "summary": "Partial review: verified four new US Summer 2027 roles at Akuna Capital, Maven and DriveWealth; rechecked Point72, Millennium, two Bank of America technology tracks and Citi production support. Evercore recheck was blocked by a human-verification screen; D. E. Shaw application recheck returned a session timeout. Their previous facts are preserved; no closure inferred."
+      "summary": "Partial review: added four verified US Summer 2027 openings at Morgan Stanley and Broadridge, including an October 30 fixed-income cutoff. Rechecked Bank of America software/mainframe, BlackRock, Citi Irving cybersecurity, Belvedere trading and Akuna quant development. Evercore recheck was blocked by human verification; previous facts were preserved without inferring closure."
     },
     {
       "id": "spreadsheet",
@@ -11916,8 +11916,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 25: official role, campus description and role-specific registration entry reverified. November 7, 2026 remains date-only; recruiting is explicitly rolling before close. Maximum three US/Canada applications and eight globally per season. Sponsorship remains Not stated for this requisition. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27: official software/mainframe description, campus listing and matching registration entry reverified. November 7, 2026 remains date-only; recruiting is explicitly rolling before close. Maximum three US/Canada applications and eight globally per recruitment season. Sponsorship remains unstated for this requisition. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12044,8 +12044,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 25: official role, current Americas FAQ and matching requisition 11986 application entry reverified. Sponsorship remains limited and business-dependent. The role permits one program application with two functions; FAQ permits two applications and three functions within one program and region. Confirm portal limits. Assessments are due within five calendar days; missing them causes withdrawal. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27: role 11986, current Americas FAQ and matching live application entry reverified. Sponsorship is limited and business-dependent. Role permits one program application/two functions; FAQ permits two applications/three functions within one program and region. Confirm portal limits before another application. Five-calendar-day coding deadline and five-day pre-interview assessment remain required; missed deadlines cause withdrawal. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Confirm sponsorship and requirements for selected US office/function",
         "Resolve the role/FAQ application-count conflict before submitting another application",
@@ -12834,8 +12834,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 25: official requisition 26999482 and matching Workday Start Your Application entry reverified. Corrected work arrangement from on-site to Hybrid based on the current role page. October 30 remains an anticipated posting end, not a confirmed application cutoff. No sponsorship now or in the future.",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27: official Irving Cyber Security requisition 26999482 and matching Workday Start Your Application entry reverified. Hybrid work and current/future sponsorship exclusion remain explicit. October 30 is an anticipated posting end, not a confirmed application deadline. Pay period for the separately printed $90,000 salary remains unspecified.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Review work-authorization exclusion",
         "Apply early before the anticipated October 30 posting end",
@@ -12961,8 +12961,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and matching complete application verified October 25. Posting explicitly offers sponsorship. Seasonal graduation wording remains unconverted. Application form restricts review to one position at a time; choose the preferred role. Duration, student levels and general benefits: https://www.belvederetrading.com/working-at-belvedere . Rolling review: https://www.belvederetrading.com/new-graduates-campus-recruiting .",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27: current Chicago Summer 2027 role and complete matching application reverified. Sponsorship is explicitly affirmed. One position is reviewed at a time; choose the preferred role. December 2027/Spring 2028 wording is unconverted. General duration/benefit guidance previously checked October 25: https://www.belvederetrading.com/working-at-belvedere ; rolling review guidance: https://www.belvederetrading.com/new-graduates-campus-recruiting .",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Choose one preferred Belvedere role",
         "Confirm degree, visa support, dates and housing",
@@ -13997,8 +13997,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and matching embedded application 8021481 reviewed October 25. Choose one Quant/Tech preference for the season; Trading applications are separately permitted. Sponsorship is an affirmative conditional policy, not inferred from a question. PDF resume required.",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27: official Chicago Summer 2027 role and matching embedded application 8021481 reverified. Form explicitly offers sponsorship to qualified candidates when legally possible; day-one US authorization is required. Only one Quant/Tech preference per season; Trading applications separately allowed. PDF resume required.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Choose one Akuna Quant/Tech preference for this recruiting season",
         "Confirm work authorization, sponsorship and internship dates",
@@ -14133,6 +14133,174 @@
         "Check the current/future sponsorship exclusion",
         "Confirm graduation requirement and Chicago commute",
         "Prepare resume with brokerage analytics or AI automation examples"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "morgan-stanley-fixed-income-20903-2027",
+      "title": "Investment Management Summer Analyst — Fixed Income, Boston 2027",
+      "organization": "Morgan Stanley",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Paid",
+        "Finance analyst",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-12 to 2028-06",
+        "High yield research"
+      ],
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20903-2027-Investment-Management-Summer-Analyst-Program-Fixed-Income-Boston/en-GB",
+      "sourceUrl": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20903-2027-Investment-Management-Summer-Analyst-Program-Fixed-Income-Boston/en-GB",
+      "summary": "Ten-week Summer 2027 high-yield research program starting June: one training week in New York, then nine weeks with the Boston investment team. Remote participation is not stated.",
+      "eligibility": "Bachelor’s degree expected December 2027–June 2028; strong academics, Excel, corporate financial-statement modeling and bond/equity-market understanding. Resume and HireVue questionnaire required. Role does not state citizenship, work-authorization or sponsorship policy; confirm before applying.",
+      "reward": "Expected base pay $52.89 per hour; actual rate individualized. Housing and travel support are not stated.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-10-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Application deadline 10/30/2026. Rolling review until filled or the deadline, whichever comes first. No cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official role and matching registration entry verified October 27. Current US campus board lists this Boston program. Sponsorship is not inferred from equal-opportunity language.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Review work authorization and sponsorship before applying",
+        "Prepare credit-focused resume and financial-modeling examples",
+        "Submit the official application and complete HireVue before the date-only October 30 cutoff"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "morgan-stanley-operations-baltimore-20853-2027",
+      "title": "Operations Summer Analyst — Baltimore 2027",
+      "organization": "Morgan Stanley",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Paid",
+        "Finance analyst",
+        "Sponsorship: Not offered",
+        "Graduation: 2027-12 to 2028-06",
+        "Operations",
+        "Controls"
+      ],
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20853-2027-Operations-Summer-Analyst-Program-Baltimore/en-GB",
+      "sourceUrl": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20853-2027-Operations-Summer-Analyst-Program-Baltimore/en-GB",
+      "summary": "Ten-week Baltimore operations internship starting June 2027, covering transaction support, controls, operational risk and process improvement with technology teams. Remote work is not specified.",
+      "eligibility": "Bachelor’s degree graduating December 2027–June 2028; minimum cumulative GPA 3.0. All majors encouraged. Must be legally authorized to work in the US without employment-visa sponsorship now or in the future.",
+      "reward": "Expected base pay $25.49 per hour; actual rate individualized. Housing or relocation coverage is not stated.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application Process and Deadline: Applications will be reviewed on a rolling basis. No fixed closing date on the reviewed role or current campus board.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role, active US campus-board listing and matching registration entry verified October 27. A dated deadline was not independently confirmed; no October 31 cutoff is assigned.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Review the current/future sponsorship exclusion",
+        "Prepare resume with operations, controls and analytical examples",
+        "Apply early through the official role page"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "broadridge-technology-jr1085773-2027",
+      "title": "Summer 2027 Technology Internship Program — NY/NJ",
+      "organization": "Broadridge Financial Solutions",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Paid",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Software engineering",
+        "DevOps"
+      ],
+      "url": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Broadridge-Summer-2027-Technology-Internship-Program_JR1085773",
+      "sourceUrl": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Broadridge-Summer-2027-Technology-Internship-Program_JR1085773",
+      "summary": "Ten-week fintech internship beginning June 2027; New York NY, Edgewood NY or Newark NJ. Potential teams include software/infrastructure engineering, DevOps and enterprise systems. Confirm office attendance; no remote permission stated.",
+      "eligibility": "CS or related bachelor’s degree, graduating Fall 2027–Spring 2028; GPA 3.2+. Programming, SDLC/Agile and generative-AI concepts expected; available June–August 2027. Must currently have US work authorization and need no visa sponsorship from Broadridge now or later.",
+      "reward": "$25–$40 per hour, depending on qualifications. Housing and relocation coverage are not published.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-13",
+      "deadlineAt": "",
+      "sourceDeadline": "Application Deadline: November 13th. Portal End Date: November 13, 2026. Rolling review; applications may close earlier when positions fill. No time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official requisition JR1085773 and matching Start Your Application entry verified October 27. Seasonal graduation wording remains unconverted. Workday date is corroborated by the role’s explicit application deadline.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Check the current/future sponsorship exclusion",
+        "Tailor resume to preferred technology functions",
+        "Apply early before the date-only November 13 deadline",
+        "Confirm office attendance and relocation costs"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "broadridge-business-jr1085772-2027",
+      "title": "Summer 2027 Business Internship Program — NY/NJ",
+      "organization": "Broadridge Financial Solutions",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Paid",
+        "Finance analyst",
+        "Sponsorship: Not offered",
+        "Finance",
+        "Operations",
+        "Governance and risk"
+      ],
+      "url": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Broadridge-Summer-2027-Business-Internship-Program_JR1085772",
+      "sourceUrl": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Broadridge-Summer-2027-Business-Internship-Program_JR1085772",
+      "summary": "Ten-week fintech business internship beginning June 2027; New York NY, Edgewood NY or Newark NJ. Potential functions include operations, finance, governance and risk. Confirm attendance; no remote permission stated.",
+      "eligibility": "Business administration, analytics, finance, management or related bachelor’s degree, graduating Fall 2027–Spring 2028; GPA 3.2+. Analytical, communication and collaboration skills. Must currently have US work authorization and need no visa sponsorship from Broadridge now or later.",
+      "reward": "$25–$35 per hour, depending on qualifications. Housing and relocation coverage are not published.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-13",
+      "deadlineAt": "",
+      "sourceDeadline": "Application Deadline: November 13th. Portal End Date: November 13, 2026. Rolling review; applications may close earlier when positions fill. No time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official requisition JR1085772 and matching Start Your Application entry verified October 27. Seasonal graduation wording remains unconverted. Function assignment varies; do not assume placement in a specific team.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Check the current/future sponsorship exclusion",
+        "Prepare resume with finance, operations or risk examples",
+        "Apply early before the date-only November 13 deadline",
+        "Confirm team placement and office attendance"
       ],
       "stream": "internships"
     }
