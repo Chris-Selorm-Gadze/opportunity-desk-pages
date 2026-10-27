@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 75,
-  "updatedAt": "2026-10-27T16:30:36.997Z",
+  "revision": 76,
+  "updatedAt": "2026-10-27T16:49:59.057Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-26T02:30:02.566Z",
+      "checkedAt": "2026-10-27T16:37:38.192Z",
       "outcome": "success",
-      "summary": "Read 180 spreadsheet opportunities: 0 new, 179 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 204 spreadsheet opportunities: 24 new, 179 matched to tracked records, 14 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -5402,21 +5402,22 @@
     {
       "sheet": {
         "key": "e1439c3243c5451a901ac76faf0a60337ebcd7ad8388f574d9a5a2208c5c0bc0",
-        "hash": "b0978f061f021cac8959a758f517d803c60bf443bc8bf72aa84e72f378dcf18a",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "b4252506d3f48f6eb09930c1af7a5380ad5c773ecd657fe8f92a0d31e29724dd",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "HBCUFI Better Futures Pre-Accelerator - Spring 2027",
           "category": "Startup pre-accelerator",
-          "deadline": "2026-12-11",
-          "milestone": "Second window Nov 30 - Dec 11, 2026; notifications Dec 18",
+          "deadline": "2026-11-18 23:59 ET (official top-page deadline; FAQ conflicts and says Dec 18)",
+          "milestone": "Applications currently open; apply by Nov 18 safe date; confirm with HBCUFI about FAQ Dec 18 conflict",
           "programDates": "2027-01-04 to 2027-02-10; virtual Demo Day Feb 12",
           "funding": "Non-cash: free 6-week program - mentorship, curriculum, network, access to non-dilutive startup funding (competitive, not guaranteed)",
           "location": "Virtual",
           "eligibility": "Current HBCU students and alumni building tech-enabled businesses; open to students from ALL HBCUs; tech-adjacent preferred",
           "materials": "Application (business idea/startup details); program covers problem validation, concept testing, MVP",
           "url": "https://www.hbcufi.org/pre-accelerator"
-        }
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
       },
       "id": "sheet-hbcufi-better-futures-pre-accelerator-spring-2027-e1439c3243c5",
       "title": "HBCUFI Better Futures Pre-Accelerator - Spring 2027",
@@ -5432,24 +5433,24 @@
       ],
       "url": "https://www.hbcufi.org/pre-accelerator",
       "sourceUrl": "https://www.hbcufi.org/pre-accelerator",
-      "summary": "Startup pre-accelerator. Program dates: 2027-01-04 to 2027-02-10; virtual Demo Day Feb 12. Location / format: Virtual. Next milestone: Second window Nov 30 - Dec 11, 2026; notifications Dec 18",
-      "eligibility": "Current HBCU students and alumni building tech-enabled businesses; open to students from ALL HBCUs; tech-adjacent preferred",
+      "summary": "Spring 2027 HBCU startup pre-accelerator. The organizer publishes conflicting November and December deadlines; confirm the cutoff before relying on either date.",
+      "eligibility": "HBCU students and alumni with ideas or early-stage technology ventures. Partner-campus cohorts meet in person; applicants from nonpartner HBCUs may join virtually. Students are preferred.",
       "reward": "Non-cash: free 6-week program - mentorship, curriculum, network, access to non-dilutive startup funding (competitive, not guaranteed)",
       "value": 3,
       "effort": 12,
-      "deadlineDate": "2026-12-11",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-12-11",
-      "confidence": "Date only",
-      "opensOn": "",
+      "sourceDeadline": "Top of page: November 18, 2026 at 11:59 PM ET. FAQ: applications October 21–December 18. Conflicting closing dates remain unresolved.",
+      "confidence": "Unknown",
+      "opensOn": "2026-10-21",
       "cycle": "2027 · HBCUFI Better Futures Pre-Accelerator - Spring 2027",
       "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceNote": "Reviewed the organizer page and linked application entry on October 27. The headline deadline and FAQ disagree, so neither has been promoted to a confirmed cutoff. The source's program schedule also needs confirmation.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Application (business idea/startup details); program covers problem validation, concept testing, MVP",
-        "Review next milestone: Second window Nov 30 - Dec 11, 2026; notifications Dec 18"
+        "Review next milestone: Applications currently open; apply by Nov 18 safe date; confirm with HBCUFI about FAQ Dec 18 conflict"
       ],
       "stream": "spreadsheet"
     },
@@ -8847,14 +8848,14 @@
     {
       "sheet": {
         "key": "24fcaa81b5b45bb5479b2702365ad06ebde3f83f80fbcfafc7f015037471b407",
-        "hash": "f90cf0ecae328a02ea82a21dd399ac89395258b826cff64a2e42175bf291ac9f",
-        "checkedAt": "2026-10-23T21:09:59.963Z",
+        "hash": "1487e51997bf9223632c03c52f313db780ab6c982736fb89e04718c3bf89d5f7",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "WVU Translational Research in Behavior Science NSF REU 2027",
           "category": "Paid undergraduate research / psychology",
           "deadline": "2027-02-15 (NOW PUBLISHED; application OPEN)",
-          "milestone": "Spreadsheet reports the 2027 application is open; independently verify.",
+          "milestone": "Apply now; 2027 cycle officially accepting applications",
           "programDates": "2027-06-04 to 2027-07-30; Morgantown WV",
           "funding": "$6,300 stipend ($700/week) + food stipend + lodging + travel reimbursement",
           "location": "Housing/food stipend/travel covered",
@@ -8879,7 +8880,7 @@
       ],
       "url": "https://www.psyc-reu-wvu.com/",
       "sourceUrl": "https://www.psyc-reu-wvu.com/",
-      "summary": "Paid undergraduate research / psychology. Program dates: 2027-06-04 to 2027-07-30; Morgantown WV. Location / format: Housing/food stipend/travel covered. Next milestone: Spreadsheet reports the 2027 application is open; independently verify.",
+      "summary": "Paid undergraduate research / psychology. Program dates: 2027-06-04 to 2027-07-30; Morgantown WV. Location / format: Housing/food stipend/travel covered. Next milestone: Apply now; 2027 cycle officially accepting applications",
       "eligibility": "Rising sophomores–seniors; psychology/closely related major; >=2.8 psychology GPA; NSF requires US citizen, national or permanent resident; F-1 NOT eligible",
       "reward": "$6,300 stipend ($700/week) + food stipend + lodging + travel reimbursement",
       "value": 3,
@@ -8896,7 +8897,7 @@
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: REU application (requirements not yet finalized for 2027)",
-        "Review next milestone: Spreadsheet reports the 2027 application is open; independently verify."
+        "Review next milestone: Apply now; 2027 cycle officially accepting applications"
       ],
       "stream": "spreadsheet"
     },
@@ -10424,13 +10425,13 @@
     {
       "sheet": {
         "key": "ff96ebe9c9153e6f8b424dd327b887f68ee286528fad080573e77a74eb7f2dc1",
-        "hash": "d8f79c9aefa73d27e94c2b4f82f2221a566d8d549027cb4699d5a63320b7af8b",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "0e9b808c43fa3be1155bb6f3194d1a938d8be37936b37c686786af7b98349dfb",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "OHSU Vollum/NGP Undergraduate Neuroscience Summer Research 2027",
           "category": "Paid summer research / behavioral neuroscience",
-          "deadline": "2027 cutoff not officially confirmed; the source reports a recurring February 1 deadline and an expected November 1 opening.",
+          "deadline": "2027-02-01 (published recurring deadline; 2027 cycle confirm on Nov 1 opening)",
           "milestone": "Application expected to open 2026-11-01",
           "programDates": "Summer 2027, 8 weeks mid-Jun to mid-Aug; Portland OR; exact dates TBA",
           "funding": "$3,000 summer stipend (current program FAQ) + housing + travel reimbursement + transit pass",
@@ -10463,10 +10464,10 @@
       "reward": "$3,000 summer stipend (current program FAQ) + housing + travel reimbursement + transit pass",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "",
+      "deadlineDate": "2027-02-01",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027 cutoff not officially confirmed; the source reports a recurring February 1 deadline and an expected November 1 opening.",
-      "confidence": "Unknown",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-01 (published recurring deadline; 2027 cycle confirm on Nov 1 opening)",
+      "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027 · OHSU Vollum/NGP Undergraduate Neuroscience Summer Research 2027",
       "sourceState": "Needs verification",
@@ -10768,13 +10769,13 @@
     {
       "sheet": {
         "key": "843f273f19fc4afc85791b3d6ba480ceb2fcb4e831b22cfea61f52397c277aac",
-        "hash": "0fc650a9220398b63274c55d6fc637427d0c6f1dc129e89c2ef71f80a3e889b5",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "4ef3c2f31596c2249f41da2dc49ccaefb966211a0f56bd4ccf777faf95a121ea",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "Next Generation Healers Scholarship (Spring 2027 round)",
           "category": "Scholarships",
-          "deadline": "2026-12-03; confirm the organizer cutoff and timezone.",
+          "deadline": "Dec 3, 2026",
           "milestone": "Winner notified by email by Dec 17, 2026",
           "programDates": "",
           "funding": "$1,000 cash scholarship (sent to institution for tuition/education expenses; can reapply each semester)",
@@ -10802,10 +10803,10 @@
       "reward": "$1,000 cash scholarship (sent to institution for tuition/education expenses; can reapply each semester)",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2026-12-03",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-12-03; confirm the organizer cutoff and timezone.",
-      "confidence": "Date only",
+      "sourceDeadline": "Spreadsheet reports: Dec 3, 2026",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 · Next Generation Healers Scholarship (Spring 2027 round)",
       "sourceState": "Needs verification",
@@ -10821,13 +10822,13 @@
     {
       "sheet": {
         "key": "5b4c72188d2b449c420489e9dfc73bbd69add77c8564116d055dcea20d8c4bbc",
-        "hash": "eba4373158e5246fb5d1329a53c87727b2fc3a6f29e8df0e0137c4b79e6b4415",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "6ec8faa192c214c52e03ea569cbc0e702f6b7e3a0d6ae3adb81264b67aa67263",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "Keith Gebert Scholarship for Mental Health (inaugural 2027)",
           "category": "Scholarships",
-          "deadline": "2027-07-15; confirm the organizer cutoff and timezone.",
+          "deadline": "Jul 15, 2027",
           "milestone": "Winner announced Aug 15, 2027",
           "programDates": "",
           "funding": "$1,000 to a single student (education costs: tuition, books, housing, daily expenses)",
@@ -10855,10 +10856,10 @@
       "reward": "$1,000 to a single student (education costs: tuition, books, housing, daily expenses)",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2027-07-15",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027-07-15; confirm the organizer cutoff and timezone.",
-      "confidence": "Date only",
+      "sourceDeadline": "Spreadsheet reports: Jul 15, 2027",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 · Keith Gebert Scholarship for Mental Health (inaugural 2027)",
       "sourceState": "Needs verification",
@@ -10931,13 +10932,13 @@
     {
       "sheet": {
         "key": "75edb6039e4d4e43a2b77000f4ee319c305d3e9350ce61aea618c039cca68fed",
-        "hash": "7589e9bc161b87209e33aad706d861d518dc253f380ec8b1a969ac48821e1426",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "acac00db59f16eda1a2ec2d7b048c2b76a5d65cd587a39622868cfd1878e88b5",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "IEEE CASS 2027 Student Design Competition",
           "category": "University competitions",
-          "deadline": "Registration opens 2026-11-02; phase-one registration closes 2027-01-11. Confirm organizer requirements.",
+          "deadline": "Registration opens Nov 2, 2026; phase-one registration deadline Jan 11, 2027",
           "milestone": "Chapter-level live demo by Jan 25, 2027",
           "programDates": "Phase 2 video+report Feb 22, 2027; final at ISCAS 2027, Bordeaux, June 2027",
           "funding": "$3,000 cash to winning team; travel + ISCAS 2027 registration for the four regional finalists",
@@ -10966,11 +10967,11 @@
       "reward": "$3,000 cash to winning team; travel + ISCAS 2027 registration for the four regional finalists",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2027-01-11",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: Registration opens 2026-11-02; phase-one registration closes 2027-01-11. Confirm organizer requirements.",
-      "confidence": "Date only",
-      "opensOn": "2026-11-02",
+      "sourceDeadline": "Spreadsheet reports: Registration opens Nov 2, 2026; phase-one registration deadline Jan 11, 2027",
+      "confidence": "Unknown",
+      "opensOn": "",
       "cycle": "2027 · IEEE CASS 2027 Student Design Competition",
       "sourceState": "Needs verification",
       "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
@@ -10985,8 +10986,8 @@
     {
       "sheet": {
         "key": "05bd3a9a31b942b08b7de157f19cfcbab98f1e1fac480ff4f9d0b15103fd964f",
-        "hash": "bcb212269487a4301a6fe35826a25ffb4f82079a9eda8c0c014cbea9ca8f9758",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "6493aa2e8e90ffc3a23dabca985b07bd7881b80fe27f6405b556bc503eb98e74",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "D-Prize Global Competition 2026",
@@ -10996,11 +10997,10 @@
           "programDates": "Winners then run a 3-month pilot",
           "funding": "Up to $20,000 convertible grant to launch a new org distributing a proven poverty solution (avg award $16K; ~1% of 3,000+ submissions funded)",
           "location": "Global / online application; pilot must run in a developing country",
-          "eligibility": "",
+          "eligibility": "Applicants age 18 or older, from any country, individually or as a team. Source reports limits on prior operations and funding and excludes new inventions/prototypes/manufacturing/scholarships; confirm current competition rules.",
           "materials": "Round 1 = 2-page concept note + 1-page CV per member",
           "url": "https://d-prize.org/"
-        },
-        "verifiedAt": "2026-10-23T14:28:26.457Z"
+        }
       },
       "id": "sheet-d-prize-global-competition-2026-05bd3a9a31b9",
       "title": "D-Prize Global Competition 2026",
@@ -11040,13 +11040,13 @@
     {
       "sheet": {
         "key": "bc5e7dc5732255487b46d851cd9f3bef8f7298dc41a52ee3e071af0b9d4ae091",
-        "hash": "1a7870488578349a4c3a404772652f37d2474616ab050b407e98a3ee6919bf7c",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "aad98cb72109c02f7a52f1d1aff080dd377392e30abc2f3b7a67b1aa3804729e",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "Undergraduate Minorities in STEM Scholarship",
           "category": "Scholarships",
-          "deadline": "2026-11-17; confirm the organizer cutoff and timezone.",
+          "deadline": "Nov 17, 2026",
           "milestone": "",
           "programDates": "",
           "funding": "$1,400 cash, 2 winners",
@@ -11074,10 +11074,10 @@
       "reward": "$1,400 cash, 2 winners",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2026-11-17",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-11-17; confirm the organizer cutoff and timezone.",
-      "confidence": "Date only",
+      "sourceDeadline": "Spreadsheet reports: Nov 17, 2026",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Intake unconfirmed · Undergraduate Minorities in STEM Scholarship",
       "sourceState": "Needs verification",
@@ -11146,18 +11146,18 @@
     {
       "sheet": {
         "key": "7caaac3570bfd6a08466de64c7d140e818da1383aaf5ef54abf737176deb10d4",
-        "hash": "f9e935a10d04959c53cb90168806e48be4ad43464a21c85b94329aa49caa6fa5",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "30d8faa6fd17f9302527330f818b8c9317d80f7605798e604bf410af4951f683",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "HBCU Legacy & Excellence Scholarship",
           "category": "Scholarships",
-          "deadline": "2026-11-20; confirm the organizer cutoff and timezone.",
+          "deadline": "Nov 20, 2026",
           "milestone": "",
           "programDates": "",
           "funding": "$1,000 cash",
           "location": "USA / Online (Bold.org)",
-          "eligibility": "",
+          "eligibility": "HBCU freshmen, sophomores and juniors with campus leadership experience and GPA 3.0 or higher. Citizenship requirements are not stated in the source; verify current award rules.",
           "materials": "Bold.org profile application (~30–60 min)",
           "url": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/"
         }
@@ -11176,14 +11176,14 @@
       "url": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/",
       "sourceUrl": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/",
       "summary": "Scholarships. Location / format: USA / Online (Bold.org)",
-      "eligibility": "Confirm current public eligibility with the organizer.",
+      "eligibility": "HBCU freshmen, sophomores and juniors with campus leadership experience and GPA 3.0 or higher. Citizenship requirements are not stated in the source; verify current award rules.",
       "reward": "$1,000 cash",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2026-11-20",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-11-20; confirm the organizer cutoff and timezone.",
-      "confidence": "Date only",
+      "sourceDeadline": "Spreadsheet reports: Nov 20, 2026",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Intake unconfirmed · HBCU Legacy & Excellence Scholarship",
       "sourceState": "Needs verification",
@@ -11254,13 +11254,13 @@
     {
       "sheet": {
         "key": "f91bfec6fbb3636ba1ceb8aa73d891475b41517b0c119d2c59f1955f74c16d92",
-        "hash": "d430f2b2616360350e09f9717825ec04c55894b56ac7446d66558ad7d2b5694f",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "a62c0fa840762095aed12411421cb3bdd3d356c2c6dd5b4aa99b39340d1ab3ba",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "CMU Robotics Institute Summer Scholars (RISS) 2027",
           "category": "Funded fellowships and research",
-          "deadline": "2027 cutoff not officially confirmed; FAQ gives November 1–January 20, 3 PM EST without a year.",
+          "deadline": "Jan 20, 2027, 3 PM EST (portal opens Nov 1, 2026)",
           "milestone": "",
           "programDates": "11-week research immersion, Pittsburgh (2026 ran Jun 1–Aug 8; 2027 dates TBD)",
           "funding": "$6,000–$8,000 scholarship (all participants receive financial support)",
@@ -11268,7 +11268,8 @@
           "eligibility": "Current undergrads with ≥1 semester remaining after program and ≥2 full-time semesters completed before start. F-1 international students at US institutions explicitly eligible IF CPT-eligible and legally able to receive scholarship funds. 35–45 scholars/year (selective).",
           "materials": "Resume/CV, statement of purpose, 1–3 faculty letters of recommendation, unofficial transcript",
           "url": "https://riss.ri.cmu.edu/faq/"
-        }
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
       },
       "id": "sheet-cmu-robotics-institute-summer-scholars-riss-2027-f91bfec6fbb3",
       "title": "CMU Robotics Institute Summer Scholars (RISS) 2027",
@@ -11286,19 +11287,19 @@
       "url": "https://riss.ri.cmu.edu/faq/",
       "sourceUrl": "https://riss.ri.cmu.edu/faq/",
       "summary": "Funded fellowships and research. Program dates: 11-week research immersion, Pittsburgh (2026 ran Jun 1–Aug 8; 2027 dates TBD). Location / format: Pittsburgh, PA / in-person research",
-      "eligibility": "Current undergrads with ≥1 semester remaining after program and ≥2 full-time semesters completed before start. F-1 international students at US institutions explicitly eligible IF CPT-eligible and legally able to receive scholarship funds. 35–45 scholars/year (selective).",
+      "eligibility": "Current undergraduate students with at least two full-time undergraduate semesters completed before the internship and at least one full semester remaining afterward. Eligible U.S. citizens, nationals, permanent residents and TPS holders; international students must physically attend a U.S. institution full time, qualify for CPT and legally receive the financial support. Overseas, exchange, graduate and postbaccalaureate students are excluded.",
       "reward": "$6,000–$8,000 scholarship (all participants receive financial support)",
       "value": 3,
       "effort": 5,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027 cutoff not officially confirmed; FAQ gives November 1–January 20, 3 PM EST without a year.",
+      "sourceDeadline": "FAQ publishes November 1–January 20 at 3 PM EST without establishing the 2027 application cycle.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 · CMU Robotics Institute Summer Scholars (RISS) 2027",
       "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceNote": "Reviewed RISS home and FAQ on October 27. Eligibility is updated from the current FAQ. The yearless application window does not independently establish a January 20, 2027 cutoff; the cycle still needs confirmation.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Resume/CV, statement of purpose, 1–3 faculty letters of recommendation, unofficial transcript"
@@ -11308,13 +11309,13 @@
     {
       "sheet": {
         "key": "c64983a37a9df02d35b453e8a38c28dc342b13ce1215a27b637757908379af3b",
-        "hash": "63178543bfcc4fc4b943ed6f6ad11ac752b26950dfc2f02fb402a9c4b9706e87",
-        "checkedAt": "2026-10-23T14:28:26.457Z",
+        "hash": "be0af3a7ab02d8869ae8400ef020edf8a459f0cdfbbde710fc218829ddc8a7dd",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "Eastern-Atlantic Student Research Forum (ESRF) 2027 Travel Awards",
           "category": "Travel-funded conferences",
-          "deadline": "2026-12-06; confirm the organizer cutoff and timezone.",
+          "deadline": "Dec 6, 2026 (abstract submission + travel award application)",
           "milestone": "",
           "programDates": "Feb 18–19, 2027, Miami, FL",
           "funding": "Travel award (amount unspecified) toward registration, transportation, hotel",
@@ -11344,10 +11345,10 @@
       "reward": "Travel award (amount unspecified) toward registration, transportation, hotel",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2026-12-06",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-12-06; confirm the organizer cutoff and timezone.",
-      "confidence": "Date only",
+      "sourceDeadline": "Spreadsheet reports: Dec 6, 2026 (abstract submission + travel award application)",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 · Eastern-Atlantic Student Research Forum (ESRF) 2027 Travel Awards",
       "sourceState": "Needs verification",
@@ -12204,8 +12205,8 @@
     {
       "sheet": {
         "key": "5e37a0a190d87ef0ffb40389537b240c0475d115cc9d8ce599980d04f91b24d6",
-        "hash": "d23bc2c559de69428c8eca09719397ad3c6b52710cbda335063d53b6db235e1d",
-        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "hash": "caeb1552fe54964c0326d723ffa23f6fb23b1a0997ef5a2ee2288c0cd964371c",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "Weill Cornell Medicine Biostatistics Summer Internship 2027",
@@ -12215,11 +12216,11 @@
           "programDates": "2027-06-07 to 2027-07-23",
           "funding": "$5,000 stipend + dorm-style housing; travel/meals not listed as covered",
           "location": "New York City / in person",
-          "eligibility": "Current undergraduate or recent grad Dec 2026 or later; some graduate TA positions; R not required. Official eligibility says 'U.S. students, citizens, and permanent residents'—ambiguous for F-1; request written eligibility and authorization clarification.",
+          "eligibility": "Source reports undergraduates and recent graduates from US institutions, including international students, and possible graduate teaching-assistant positions. R experience is not required. Confirm current-cycle eligibility and work authorization with the organizer.",
           "materials": "1-page resume; unofficial transcript; 1-page responses to 2 application questions; online application.",
           "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship"
         },
-        "verifiedAt": "2026-10-24T17:35:27.728Z"
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
       },
       "id": "sheet-weill-cornell-medicine-biostatistics-summer-internship-2027-5e37a0a190d8",
       "title": "Weill Cornell Medicine Biostatistics Summer Internship 2027",
@@ -12227,8 +12228,8 @@
       "category": "Internships",
       "levels": [
         "Undergraduate",
-        "Early career",
-        "Graduate"
+        "Graduate",
+        "Early career"
       ],
       "tags": [
         "Spreadsheet",
@@ -12237,20 +12238,20 @@
       ],
       "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
       "sourceUrl": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
-      "summary": "NYC health-data research internship, June 7–July 23, 2027.",
-      "eligibility": "Undergraduates or recent graduates from December 2026 onward; limited graduate TA placements. The official U.S.-student/citizen/permanent-resident wording leaves international eligibility unclear; confirm work authorization directly. R experience is optional.",
-      "reward": "$5,000 stipend plus dorm-style housing; travel and meal support are not specified.",
+      "summary": "Paid biostatistics research internship in New York City, June 7–July 23, 2027. Analyze health data with mentorship and training. Applications are not reviewed on a rolling basis.",
+      "eligibility": "Undergraduates, including community-college students, and recent graduates who graduated December 2026 or later and have not started graduate study. A few graduate-level TA positions are also available. U.S. citizens, permanent residents and international students at U.S. institutions may apply; employment authorization must still be established. R experience is preferred, not required.",
+      "reward": "$5,000 stipend and dorm-style housing.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2027-02-19",
       "deadlineAt": "",
-      "sourceDeadline": "Application due 2/19/27; time and timezone are not published. Not rolling.",
+      "sourceDeadline": "Application due 2/19/27; no rolling admissions. No cutoff time is published.",
       "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027 · Weill Cornell Medicine Biostatistics Summer Internship 2027",
-      "sourceState": "Needs verification",
-      "sourceNote": "Official page announces 2027 applications and links https://weillcornell.az1.qualtrics.com/jfe/form/SV_8cfrcxru5LOfqGa . The form did not render in the text reader; usable entry and international eligibility need confirmation.",
-      "checkedOn": "2026-10-24",
+      "sourceState": "Application",
+      "sourceNote": "Organizer page explicitly confirms international students at U.S. institutions, community-college applicants and limited graduate TA places. The linked Qualtrics form requires JavaScript and did not render in the read-only check; the program page states applications are open.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: 1-page resume; unofficial transcript; 1-page responses to 2 application questions; online application.",
@@ -12318,12 +12319,12 @@
     {
       "sheet": {
         "key": "6a54823c7a6c63342dcdd5926a0c77a3184101ec07a93840f661004260ff01b1",
-        "hash": "8b4d89f023ac0ff99e88f93a0dc588e513ccf69e17c17585cd0ceb3536c4a691",
-        "checkedAt": "2026-10-24T17:35:27.728Z",
+        "hash": "587fd2f2d1c5388440cd9616bc5b61b97da24157658e912ace18e4bc2f134eb3",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "APA Catalyst STAY Mental Health Services Fellowship 2027",
-          "category": "Mental health training grants / graduate fellowship",
+          "category": "Mental health fellowships",
           "deadline": "2027-01-15",
           "milestone": "One-year fellowship Oct 1-Sep 29; eligibility page says open but also prior cohort closed",
           "programDates": "2027-28 fellowship term (confirm)",
@@ -12332,8 +12333,7 @@
           "eligibility": "US citizens/permanent residents/noncitizen nationals ONLY (F-1 excluded); full-time terminal master's psychology program housed with APA-accredited doctoral program and license-eligible, not CACREP/MFT/addiction-accredited; 2-year underserved-youth service commitment.",
           "materials": "Application through APA Catalyst portal; full documentation/mentor details check portal.",
           "url": "https://catalyst.apa.org/stay"
-        },
-        "verifiedAt": "2026-10-24T17:35:27.728Z"
+        }
       },
       "id": "sheet-apa-catalyst-stay-mental-health-services-fellowship-2027-6a54823c7a6c",
       "title": "APA Catalyst STAY Mental Health Services Fellowship 2027",
@@ -13053,22 +13053,22 @@
     {
       "sheet": {
         "key": "5c48b3e5ff25b19c1b62de048b0a95591d2f8c19fa93927ee26a53fb542640bd",
-        "hash": "e9800f9644b4e55076fa452f743518befe3738b7d9696ca3e210e680f9fc7f7d",
-        "checkedAt": "2026-10-25T14:20:54.711Z",
+        "hash": "b2610a3d1a769d53325a2ead0423e22bba385d0811a7ec342421a4b8c22ad8f4",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
         "present": true,
         "fields": {
           "title": "UChicago Data Science Institute Summer Lab 2027",
           "category": "Paid interdisciplinary undergraduate research",
           "deadline": "2027 deadline TBA (2027 application expected fall 2026)",
           "milestone": "Watch 2027 application opening",
-          "programDates": "2027-06-14 to 2027-08-06",
+          "programDates": "2027 program dates NOT YET published on current official landing page (prior June 14-Aug 6 2027 dates unconfirmed)",
           "funding": "$5,600 stipend + free optional college housing",
           "location": "Chicago, IL / in person",
           "eligibility": "College undergraduates returning Fall 2027; international F-1 students eligible with U.S. work authorization; no prior research required",
           "materials": "Application statements + optional recommendation (confirm 2027 form)",
           "url": "https://datascience.uchicago.edu/education/summerlab/"
         },
-        "verifiedAt": "2026-10-25T14:20:54.711Z"
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
       },
       "id": "sheet-uchicago-data-science-institute-summer-lab-2027-5c48b3e5ff25",
       "title": "UChicago Data Science Institute Summer Lab 2027",
@@ -13086,21 +13086,21 @@
         "research"
       ],
       "url": "https://datascience.uchicago.edu/education/summerlab/",
-      "sourceUrl": "https://datascience.uchicago.edu/education/summerlab/faq/",
-      "summary": "Eight-week in-person data science research program at UChicago Hyde Park, June 14–August 6, 2027. The 2027 application is announced for fall 2026 but is not yet available on the reviewed application page.",
-      "eligibility": "Undergraduates must return to college in Fall 2027; graduate students are ineligible. High-school applicants must reside in the Chicago area and commute. International undergraduates need US work authorization and stipend documentation. No prior research required; programming familiarity preferred.",
-      "reward": "$5,600 stipend for the eight-week 2027 program. Optional free housing for college students; housing is not provided to minors or high-school students, who arrange housing and transportation.",
+      "sourceUrl": "https://datascience.uchicago.edu/education/summerlab/",
+      "summary": "Data Science Summer Lab research program in Chicago. The current page says the 2026 program concluded and asks visitors to check back for the 2027 application. Confirmed 2027 dates are not yet published.",
+      "eligibility": "The program serves undergraduates and Chicago high-school students. Confirm the 2027-specific eligibility and work-authorization rules when the application is published.",
+      "reward": "Current page does not establish 2027 stipend or housing terms. Earlier funding figures require confirmation for the new cycle.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "2027 application deadline not announced. Organizer says to check back in fall; the available application page is for Summer 2026.",
+      "sourceDeadline": "2027 application deadline not published on the current organizer page.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 · UChicago Data Science Institute Summer Lab 2027",
       "sourceState": "Upcoming",
-      "sourceNote": "Reviewed organizer main page, FAQ and application page October 25. FAQ gives 2027 dates and support; the application page still serves Summer 2026. No 2027 cutoff or exact opening date confirmed. FAQ’s stale 2026 deadline is not reused.",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27 review found no confirmed 2027 session dates or application cutoff. Earlier June 14–August 6 dates and funding claims are no longer presented as verified 2027 facts. Source reports remain available for comparison.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Application statements + optional recommendation (confirm 2027 form)",
@@ -14303,6 +14303,1370 @@
         "Confirm team placement and office attendance"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "f4a63c8676a750864d223c3d672bc5df47972c2c0628a3c4f1bfface71b79e71",
+        "hash": "83b80e87f5dafe9b9fcf20be33628b402ef0b51354eb658ab94fe7bbc5c6c3c2",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "CaCTüS Max Planck Computation and Cognition Summer Internship 2027",
+          "category": "Funded international research internship",
+          "deadline": "2026-11-16",
+          "milestone": "Application OPEN since 2026-10-21; interviews Jan 2027",
+          "programDates": "2027-07-01 to 2027-09-30",
+          "funding": "Approx €1,350/month salary (3 months); travel cost compensation; arranged affordable housing and health insurance covered from salary; visa fees not covered",
+          "location": "Tübingen, Germany; in person",
+          "eligibility": "Bachelor’s/master’s students or recent graduates worldwide; undergraduates must complete four semesters by the start. No PhD applicants. CS/ML, neuroscience or psychology fields; some projects require enrollment January–October 2027. Ninety days full-time and no required course credits; verify project and visa conditions.",
+          "materials": "Motivation + project preferences (up to 2), 2-page CV, transcripts; optional reference; English; applicant-generated substantive ideas",
+          "url": "https://www.projects.tuebingen.mpg.de/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-cactu-s-max-planck-computation-and-cognition-summer-internship-20-f4a63c8676a7",
+      "title": "CaCTüS Max Planck Computation and Cognition Summer Internship 2027",
+      "organization": "Max Planck Institutes / CaCTüS",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "international",
+        "research",
+        "internship"
+      ],
+      "url": "https://www.projects.tuebingen.mpg.de/",
+      "sourceUrl": "https://www.projects.tuebingen.mpg.de/",
+      "summary": "Ninety-day AI and cognition research internship in Tübingen or Stuttgart, July 1–September 30, 2027. The 2027 registration portal is available.",
+      "eligibility": "Applicants must not have started a PhD. Undergraduates need four semesters completed before arrival. Projects 1–4 require enrollment throughout January–October 2027; other projects accept enrolled students or qualifying bachelor's graduates. Relevant academic background, English and constrained access to higher education are required. Voluntary internships only; required course-credit placements cannot be hosted.",
+      "reward": "About €1,350 monthly salary to cover living costs, housing and health insurance; travel compensation and accommodation arrangements. Visa-related expenses are excluded.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-16",
+      "deadlineAt": "",
+      "sourceDeadline": "2027 timeline: application deadline November 16, 2026; no closing time stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-21",
+      "cycle": "2027 · CaCTüS Max Planck Computation and Cognition Summer Internship 2027",
+      "sourceState": "Application",
+      "sourceNote": "Confirmed 2027 timeline, detailed program rules and cycle-specific registration entry. Visa assistance is offered without a guarantee of timely issuance. The homepage introduction still mentions 2026; the explicit 2027 program and portal establish this cycle.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Motivation + project preferences (up to 2), 2-page CV, transcripts; optional reference; English; applicant-generated substantive ideas",
+        "Review next milestone: Application OPEN since 2026-10-21; interviews Jan 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7b5d6111c9f2789c5a9539758f2d80e919630773b4ff44c2842b436380bcaf90",
+        "hash": "c33fb1eeb98ddf37547726546aab044aadc1b12809dd33567c783cfa978d2892",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Parkinson's Foundation Summer Student Fellowships 2027",
+          "category": "Research fellowship (student)",
+          "deadline": "2027-01-20",
+          "milestone": "Opened 2026-10-19; find Parkinson's research mentor now",
+          "programDates": "Summer 2027 (10 weeks)",
+          "funding": "$4,000 award for 10 weeks; may apply for up to $1,000 conference travel afterward; no guaranteed housing/food/transport",
+          "location": "Research at U.S. or international institution",
+          "eligibility": "Advanced undergraduates or medical students remaining full-time enrolled through the award; spring 2027 graduates excluded. International students reportedly eligible. Parkinson’s research mentor required; one award per lab. Confirm authorization for the placement.",
+          "materials": "Research plan 2 pages + references, 2-page statement, transcript, mentor biosketch and support letter, online form",
+          "url": "https://www.parkinson.org/advancing-research/for-researchers/fellowships-early-career-awards"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-parkinson-s-foundation-summer-student-fellowships-2027-7b5d6111c9f2",
+      "title": "Parkinson's Foundation Summer Student Fellowships 2027",
+      "organization": "Parkinson's Foundation",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "research",
+        "fellowship",
+        "student"
+      ],
+      "url": "https://www.parkinson.org/advancing-research/for-researchers/fellowships-early-career-awards",
+      "sourceUrl": "https://www.parkinson.org/advancing-research/for-researchers/fellowships-early-career-awards",
+      "summary": "Ten-week Parkinson's research fellowship for undergraduate and medical students, starting summer 2027.",
+      "eligibility": "Domestic and international students with a qualified research mentor. Applicants must remain students throughout the award; spring 2027 graduates are excluded. International awardees need a valid visa.",
+      "reward": "$4,000 in staged payments. Afterward, recipients may apply for up to $1,000 toward conference travel; this is not guaranteed.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Summer Student Fellowships: opens October 19, 2026; closes January 20, 2027.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-19",
+      "cycle": "2027 · Parkinson's Foundation Summer Student Fellowships 2027",
+      "sourceState": "Application",
+      "sourceNote": "Program rules and the separate official Award Deadlines page were checked: https://www.parkinson.org/advancing-research/for-researchers/award-deadlines",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Research plan 2 pages + references, 2-page statement, transcript, mentor biosketch and support letter, online form",
+        "Review next milestone: Opened 2026-10-19; find Parkinson's research mentor now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2a542ceccf967cc98231748fd86b9b03566ecffb1beed5a6065c6f9efc675d04",
+        "hash": "a562a51454c7520a80f5fbac8a0ecaabafeb27f7ed00c162fd81a8a7ffc04b93",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Yale Child Study Center Undergraduate Developmental Science Summer Internship 2027",
+          "category": "Summer undergraduate research internship",
+          "deadline": "2027-01-14 17:00 ET",
+          "milestone": "Applications OPEN 2026-12-01; request recommendations now",
+          "programDates": "Summer 2027 (8 weeks, 40h/week)",
+          "funding": "Up to $4,000 stipend MAY be available if home institution cannot fund; housing advice only; travel/meals/registration not covered",
+          "location": "New Haven, CT; in person",
+          "eligibility": "Rising junior/senior undergraduate, non-graduating; U.S. citizens or international students enrolled in U.S. undergrad programs eligible; up to 12 placements; no prior research required; clinical observation/research, not counselor license or placement",
+          "materials": "1-page interest letter with faculty themes, CV <=2 pages, health insurance proof, 2 academic recommendation letters; combined PDF + Interfolio",
+          "url": "https://medicine.yale.edu/childstudy/education-and-training/undergraduate-pga/interns/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-yale-child-study-center-undergraduate-developmental-science-summe-2a542ceccf96",
+      "title": "Yale Child Study Center Undergraduate Developmental Science Summer Internship 2027",
+      "organization": "Yale Child Study Center",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "summer",
+        "undergraduate",
+        "research",
+        "internship"
+      ],
+      "url": "https://medicine.yale.edu/childstudy/education-and-training/undergraduate-pga/interns/",
+      "sourceUrl": "https://medicine.yale.edu/childstudy/education-and-training/undergraduate-pga/interns/",
+      "summary": "Eight-week, full-time developmental-science research internship in New Haven in summer 2027; applications open December 1.",
+      "eligibility": "Undergraduates, generally rising juniors or seniors, who will not graduate before participation. U.S. citizens and international undergraduates studying at U.S. institutions are eligible. High-school students and graduating seniors are excluded; health insurance is required.",
+      "reward": "A stipend up to $4,000 may be available when the home institution cannot provide funding. Housing guidance is available; housing and travel funding are not guaranteed.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-14",
+      "deadlineAt": "2027-01-14T22:00:00.000Z",
+      "sourceDeadline": "January 14, 2027 at 5pm Eastern Time; late or incomplete applications are not reviewed.",
+      "confidence": "Exact time",
+      "opensOn": "2026-12-01",
+      "cycle": "2027 · Yale Child Study Center Undergraduate Developmental Science Summer Internship 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Confirmed the 2027 opening and exact cutoff. Prepare an interest letter, CV, insurance proof and two academic references; recommenders submit letters directly through Interfolio.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 1-page interest letter with faculty themes, CV <=2 pages, health insurance proof, 2 academic recommendation letters; combined PDF + Interfolio",
+        "Review next milestone: Applications OPEN 2026-12-01; request recommendations now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c97e45e8fc3ec79c36329a0d434f1905515baba4963f90dc5c1cfc938276b6f9",
+        "hash": "ac7ade0f65160a8111d447cc70ecf48161e2305293dfd98c0906929ec13ed361",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "APS 2027 Annual Convention Student Travel Assistance",
+          "category": "Conference travel support",
+          "deadline": "2026-12-16 17:00 ET",
+          "milestone": "Applications opened 2026-10-15; submit research abstract",
+          "programDates": "APS Annual Convention May 2027",
+          "funding": "Complimentary registration; $200 travel stipend for eligible LMIC recipients; no full airfare, hotel or meals; 6h onsite volunteer required",
+          "location": "Seattle, WA; in person",
+          "eligibility": "APS student membership active through 2027-06-01; research poster/talk/symposium submitted for review; no APS event financial aid in last 3 years; international applicants not expressly excluded; LMIC status determination needs organizer confirmation",
+          "materials": "APS student membership, research submission, travel-assistance application; onsite 6-hour volunteer shift",
+          "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/financial-assistance"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-aps-2027-annual-convention-student-travel-assistance-c97e45e8fc3e",
+      "title": "APS 2027 Annual Convention Student Travel Assistance",
+      "organization": "Association for Psychological Science",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "support"
+      ],
+      "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/financial-assistance",
+      "sourceUrl": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/financial-assistance",
+      "summary": "Registration and limited travel assistance for student presenters at the 2027 APS Annual Convention.",
+      "eligibility": "APS student members active through June 1, 2027 with a submitted research presentation. Applicants must not have received APS financial assistance within the previous three years and must complete a six-hour on-site volunteer shift.",
+      "reward": "Complimentary convention registration. Eligible recipients from low- or middle-income countries also receive $200 toward travel. Do not pay registration before an award decision; this is partial support.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-16",
+      "deadlineAt": "2026-12-16T22:00:00.000Z",
+      "sourceDeadline": "December 16, 2026, 5:00 PM EST.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-15",
+      "cycle": "2027 · APS 2027 Annual Convention Student Travel Assistance",
+      "sourceState": "Application",
+      "sourceNote": "Confirmed the current convention assistance window and eligibility on the organizer page.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: APS student membership, research submission, travel-assistance application; onsite 6-hour volunteer shift",
+        "Review next milestone: Applications opened 2026-10-15; submit research abstract"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "5059df87c98a7e35aab7c96940e17d17599b2c7f5e34794dc871d220433461bb",
+        "hash": "2629711d4893c38256a1c40d458171ea9bd2a3caf31f6ec67e662f241db9a193",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "CFA Institute Access Scholarship — August 2027 exam cycle",
+          "category": "Professional certification fee-reduction scholarship",
+          "deadline": "2026-11-23",
+          "milestone": "Application OPENS 2026-11-03; decision 2026-12-18",
+          "programDates": "August 2027 CFA exams",
+          "funding": "Exam registration fee reduced to $400 (premium package incl practice pack); not cash, travel or housing funding",
+          "location": "Online application; exam at test centers",
+          "eligibility": "Applicants must qualify for CFA Program; financial need key; worldwide program; no U.S. citizenship requirement stated on scholarship page; candidate must plan to sit exam cycle and meet CFA enrollment rules",
+          "materials": "Online financial-need scholarship application, CFA candidate eligibility info; no exam registration before award decision recommended",
+          "url": "https://www.cfainstitute.org/programs/cfa-program/scholarships/access"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-cfa-institute-access-scholarship-august-2027-exam-cycle-5059df87c98a",
+      "title": "CFA Institute Access Scholarship — August 2027 exam cycle",
+      "organization": "CFA Institute",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "certification",
+        "reduction",
+        "scholarship"
+      ],
+      "url": "https://www.cfainstitute.org/programs/cfa-program/scholarships/access",
+      "sourceUrl": "https://www.cfainstitute.org/programs/cfa-program/scholarships/access",
+      "summary": "Need-based registration-fee reduction for the August 2027 CFA exams, Levels I, II and III. Decisions are scheduled for December 18.",
+      "eligibility": "Applicants must satisfy CFA Program entry requirements and the Access Scholarship Rules. Financial need matters; this listing does not establish that every student or professional qualifies. Application must be completed on a computer during the window.",
+      "reward": "Exam registration reduced to USD 400 under the Premium Registration Package including Practice Pack, plus applicable tax. This is a fee reduction, not a cash award, and is valid only for the awarded exam cycle.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-23",
+      "deadlineAt": "",
+      "sourceDeadline": "August 2027 exam cycle: opens November 3, 2026; closes November 23, 2026.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-03",
+      "cycle": "2027 · CFA Institute Access Scholarship — August 2027 exam cycle",
+      "sourceState": "Upcoming",
+      "sourceNote": "Checked the organizer's cycle table, cost and application rules. No cutoff time was published.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online financial-need scholarship application, CFA candidate eligibility info; no exam registration before award decision recommended",
+        "Review next milestone: Application OPENS 2026-11-03; decision 2026-12-18"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a5fcc344b4c9120d491bd67fa791009ade3f8c404f18399cc512774a851ec161",
+        "hash": "ed5fbfceed2bf14548c9bc46a3dbab157c08efa9beae6783ae5048f247d77d5e",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Parkinson's Foundation Melvin Yahr Clinical Research Award 2027",
+          "category": "Clinical research grant",
+          "deadline": "2027-01-11",
+          "milestone": "Application OPEN since 2026-09-14",
+          "programDates": "Award starts 2027-08-01",
+          "funding": "$50,000 one-year RESEARCH grant (personnel, equipment, consumables); not personal scholarship or unrestricted cash; no travel coverage specified",
+          "location": "Universities/research hospitals/nonprofits worldwide",
+          "eligibility": "Early-stage MD investigators in neurology, psychiatry, physical medicine & rehabilitation or related; <35 or <=5 years after residency; underrepresented countries in Africa/Asia/Latin America encouraged; institutional research support; licensed clinician/MD not undergraduate",
+          "materials": "Research plan <=6 pages with analysis plan, budget + justification, NIH biosketch, department chair letter, motivation letter",
+          "url": "https://www.parkinson.org/advancing-research/for-researchers/award-deadlines"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-parkinson-s-foundation-melvin-yahr-clinical-research-award-2027-a5fcc344b4c9",
+      "title": "Parkinson's Foundation Melvin Yahr Clinical Research Award 2027",
+      "organization": "Parkinson's Foundation",
+      "category": "Grants & funding",
+      "levels": [
+        "Professional",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "clinical",
+        "research",
+        "grant"
+      ],
+      "url": "https://www.parkinson.org/advancing-research/for-researchers/award-deadlines",
+      "sourceUrl": "https://www.parkinson.org/advancing-research/for-researchers/fellowships-early-career-awards",
+      "summary": "One-year clinical Parkinson's research award beginning August 1, 2027.",
+      "eligibility": "Early-career physicians in relevant clinical fields, under 35 or within five years of residency. Eligible research institutions worldwide may host.",
+      "reward": "$50,000 for research costs over one year; indirect costs are excluded.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Melvin Yahr Clinical Research Award: closes January 11, 2027.",
+      "confidence": "Date only",
+      "opensOn": "2026-09-14",
+      "cycle": "2027 · Parkinson's Foundation Melvin Yahr Clinical Research Award 2027",
+      "sourceState": "Application",
+      "sourceNote": "Checked current award rules and https://www.parkinson.org/advancing-research/for-researchers/award-deadlines",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Research plan <=6 pages with analysis plan, budget + justification, NIH biosketch, department chair letter, motivation letter",
+        "Review next milestone: Application OPEN since 2026-09-14"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "9cdc6324540316c79b366c64a46b1d4ded9b32e53b99a3a20409786ac87d5257",
+        "hash": "621bc425fe14e4e1892b147c2205c27dd966af6f593a090ada654f80733a3778",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Boyce Thompson Institute Plant Science REU 2027",
+          "category": "Fully funded undergraduate summer research",
+          "deadline": "2027 deadline TBA (applications open end October 2026)",
+          "milestone": "Check official portal at end of Oct 2026",
+          "programDates": "2027-06-02 to 2027-08-06",
+          "funding": "$7,000 stipend + $850 meal allowance + free Cornell-campus housing + $700 travel allowance + free local bus pass",
+          "location": "Ithaca, NY; in person",
+          "eligibility": "Source reports US citizens, permanent residents or lawful refugees only; undergraduates enrolled through the program, age 18+, GPA at least 2.75. Confirm current NSF/USDA funding eligibility when the application opens.",
+          "materials": "2027 portal application materials TBA; likely research interest, academic record, recommendation; verify on opening",
+          "url": "https://reu.btiscience.org/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-boyce-thompson-institute-plant-science-reu-2027-9cdc63245403",
+      "title": "Boyce Thompson Institute Plant Science REU 2027",
+      "organization": "Boyce Thompson Institute",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "fully",
+        "funded",
+        "undergraduate",
+        "summer",
+        "research"
+      ],
+      "url": "https://reu.btiscience.org/",
+      "sourceUrl": "https://reu.btiscience.org/",
+      "summary": "Plant-science REU in Ithaca, June 2–August 6, 2027. Applications are announced for the end of October 2026; an exact opening day and closing date are not confirmed.",
+      "eligibility": "Enrolled undergraduates with GPA at least 2.75, age 18 by June 2, 2027. U.S. citizens, permanent residents or lawful refugees only; international students cannot be hosted. Bachelor's graduates before the program are excluded, except students pursuing a second bachelor's. Community-college students continuing into a degree program are addressed in the organizer's eligibility rules.",
+      "reward": "$7,000 stipend, $850 meal allowance, Cornell housing, up to $700 travel reimbursement and local bus access.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "2027 deadline not yet confirmed. Organizer says applications open at the end of October 2026.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · Boyce Thompson Institute Plant Science REU 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Reviewed the 2027 homepage and Who Should Apply page. Separate Plant Genome and Programmable Plant Systems applications use NSF ETAP; verify the relevant program entry before applying.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 2027 portal application materials TBA; likely research interest, academic record, recommendation; verify on opening",
+        "Review next milestone: Check official portal at end of Oct 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "5e932b78dae3968a28063fafd0baa9e33620788860cd40857d63765ab635fc74",
+        "hash": "08e223633cf5715a2ecb029c0af855f7a0ba83d831686f8a21a8b98df1283faf",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "APS Summer Undergraduate Research Fellowship (SURF)",
+          "category": "Research fellowship",
+          "deadline": "2027-02-01 (confirm in APS portal; official program page shows no deadline date)",
+          "milestone": "Secure APS-member host first",
+          "programDates": "Summer 2027, 8-10 weeks full time",
+          "funding": "$4,000 stipend + up to $1,300 domestic travel to American Physiology Summit + up to $300 lab supplies to host",
+          "location": "Host lab, US; Summit travel domestic",
+          "eligibility": "Full-time undergrad, GPA >3.0, max 9 months prior physiology-lab research, no prior peer-reviewed publications/abstracts; NO citizenship requirement (official page); individual",
+          "materials": "500-word student-written project description, 1-page personal statement, transcript, 2 recommendation letters (host + home faculty)",
+          "url": "https://www.physiology.org/surf?SSO=Y"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-aps-summer-undergraduate-research-fellowship-surf-5e932b78dae3",
+      "title": "APS Summer Undergraduate Research Fellowship (SURF)",
+      "organization": "American Physiological Society",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://www.physiology.org/surf?SSO=Y",
+      "sourceUrl": "https://www.physiology.org/surf?SSO=Y",
+      "summary": "Eight- to ten-week consecutive full-time physiology research placement with an APS-member host. The 2027 cutoff remains unresolved.",
+      "eligibility": "Full-time undergraduates with GPA above 3.0, no more than nine calendar months of physiology-lab research, and no peer-reviewed publications or national/international meeting abstracts. No citizenship restriction. An APS-member research host is required; no summer classes, travel or second job during the placement.",
+      "reward": "$4,000 stipend, up to $1,300 domestic Summit travel support, a year of APS membership, and up to $300 lab-supply reimbursement to the host.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Official program page says February 2 without a year; the source reports February 1, 2027. Do not treat either as a confirmed 2027 cutoff.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · APS Summer Undergraduate Research Fellowship (SURF)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed the organizer page. The application portal redirects to a login and did not establish the cycle; the conflicting source date remains unconfirmed.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 500-word student-written project description, 1-page personal statement, transcript, 2 recommendation letters (host + home faculty)",
+        "Review next milestone: Secure APS-member host first"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "69f41541a0f6bec521eb1c4b277cddca58385440ddc582303e7b365fe4e98d03",
+        "hash": "a2b1239e9c4983d48b309aaa34b71bb5e4fdb4bd183c0908148ee1c408e93c01",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "MANRRS / Farm Credit VIP Scholarship Program",
+          "category": "Academic scholarship and conference participation",
+          "deadline": "2026-11-16",
+          "milestone": "2027 National MANRRS Conference VIP Track",
+          "programDates": "2027 National MANRRS Conference",
+          "funding": "$1,000 academic scholarship (spring or fall 2027 tuition/room-board) + travel scholarship to conference + Farm Credit VIP leadership track",
+          "location": "2027 National MANRRS Conference; in person",
+          "eligibility": "MANRRS members and their children, including high-school seniors, college and nontraditional students in any field at an eligible two-/four-year institution or technical school. Citizenship and international-student restrictions are not stated; verify current rules.",
+          "materials": "Online application via MANRRS scholarships page",
+          "url": "https://www.manrrs.org/opportunities/scholarships"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-manrrs-farm-credit-vip-scholarship-program-69f41541a0f6",
+      "title": "MANRRS / Farm Credit VIP Scholarship Program",
+      "organization": "MANRRS / Farm Credit",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "academic",
+        "scholarship",
+        "conference",
+        "participation"
+      ],
+      "url": "https://www.manrrs.org/opportunities/scholarships",
+      "sourceUrl": "https://www.manrrs.org/opportunities/scholarships",
+      "summary": "Farm Credit VIP participation at the 2027 National MANRRS Conference, with academic and travel scholarship support.",
+      "eligibility": "Confirm the Farm Credit VIP application criteria and eligible student levels. The adjacent National Farmers Union award has separate rules; its eligibility for members' children, high-school seniors and any field does not establish Farm Credit VIP eligibility.",
+      "reward": "$1,000 toward spring or fall 2027 college tuition or room and board, plus conference travel scholarship and VIP programming. Travel amounts and coverage need confirmation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-16",
+      "deadlineAt": "",
+      "sourceDeadline": "Farm Credit VIP application: Monday, November 16, 2026.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · MANRRS / Farm Credit VIP Scholarship Program",
+      "sourceState": "Needs verification",
+      "sourceNote": "Corrected an eligibility mix-up between two awards on the same organizer page. The page reports applications open, but full VIP criteria and the application entry still require verification.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application via MANRRS scholarships page",
+        "Review next milestone: 2027 National MANRRS Conference VIP Track"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "ff0693bda63f794bb4e5ce63c45612b5705e7b27b0a8c4fc7defbe242ff71e1a",
+        "hash": "eac900dd01c4bb08da0411fe0f5149e70187b28edecc4b963f7cccc42bd073a3",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Psi Chi Summer Research Grants",
+          "category": "Undergraduate research grant",
+          "deadline": "2027-03-30 (confirm when portal opens ~30 days before deadline)",
+          "milestone": "Portal opens ~30 days before deadline",
+          "programDates": "Summer 2027 research project",
+          "funding": "14 grants of $5,000: $3,500 student stipend + $1,500 sponsoring-faculty stipend",
+          "location": "Student institution; summer research",
+          "eligibility": "Undergraduate Psi Chi members with a Psi Chi faculty sponsor; must remain undergraduate in the semester after the funded summer. Citizenship and international-student rules are not stated; confirm current eligibility.",
+          "materials": "Summer research project outline/proposal with identified faculty sponsor",
+          "url": "https://www.psichi.org/page/summerresinfo"
+        }
+      },
+      "id": "sheet-psi-chi-summer-research-grants-ff0693bda63f",
+      "title": "Psi Chi Summer Research Grants",
+      "organization": "psichi.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "research",
+        "grant"
+      ],
+      "url": "https://www.psichi.org/page/summerresinfo",
+      "sourceUrl": "https://www.psichi.org/page/summerresinfo",
+      "summary": "Undergraduate research grant. Program dates: Summer 2027 research project. Location / format: Student institution; summer research. Next milestone: Portal opens ~30 days before deadline",
+      "eligibility": "Undergraduate Psi Chi members with a Psi Chi faculty sponsor; must remain undergraduate in the semester after the funded summer. Citizenship and international-student rules are not stated; confirm current eligibility.",
+      "reward": "14 grants of $5,000: $3,500 student stipend + $1,500 sponsoring-faculty stipend",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-03-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-03-30 (confirm when portal opens ~30 days before deadline)",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Psi Chi Summer Research Grants",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Summer research project outline/proposal with identified faculty sponsor",
+        "Review next milestone: Portal opens ~30 days before deadline"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7df6db939b30ed89f54d6e1b2137ff863d35927713629865f50652e114f6a591",
+        "hash": "c4cc93bdae775a34a44e14b24e22749edd4f2f9ec2011b9d9630610dc7b33ce9",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Psi Chi Undergraduate Scholarships",
+          "category": "Scholarship",
+          "deadline": "2027-06-28",
+          "milestone": "Portal opens ~30 days before deadline (by ~May 29, 2027)",
+          "programDates": "2027-28 academic year",
+          "funding": "8 scholarships of $3,000 each toward direct educational costs (tuition, institutional fees, required textbooks)",
+          "location": "N/A - scholarship to institution",
+          "eligibility": "Undergraduate Psi Chi members meeting membership standards. Citizenship and international-student requirements are not stated; confirm current scholarship rules.",
+          "materials": "Application via Psi Chi portal",
+          "url": "https://www.psichi.org/page/psichischolars"
+        }
+      },
+      "id": "sheet-psi-chi-undergraduate-scholarships-7df6db939b30",
+      "title": "Psi Chi Undergraduate Scholarships",
+      "organization": "psichi.org",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarship"
+      ],
+      "url": "https://www.psichi.org/page/psichischolars",
+      "sourceUrl": "https://www.psichi.org/page/psichischolars",
+      "summary": "Scholarship. Program dates: 2027-28 academic year. Location / format: N/A - scholarship to institution. Next milestone: Portal opens ~30 days before deadline (by ~May 29, 2027)",
+      "eligibility": "Undergraduate Psi Chi members meeting membership standards. Citizenship and international-student requirements are not stated; confirm current scholarship rules.",
+      "reward": "8 scholarships of $3,000 each toward direct educational costs (tuition, institutional fees, required textbooks)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-06-28",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-06-28",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Psi Chi Undergraduate Scholarships",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via Psi Chi portal",
+        "Review next milestone: Portal opens ~30 days before deadline (by ~May 29, 2027)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2863f419a3266a5d931654f4e08c21bacf997c889ab403433fee0ae03924c851",
+        "hash": "1924e9edbc6ce5fa8b9229bf71c67d6e0b5df0a8e6351bbb9663d84d1115a283",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "beVisioneers: The Mercedes-Benz Fellowship 2027/28",
+          "category": "Sustainability startup founder fellowship",
+          "deadline": "2027-01-31 (confirm on application portal; official fellowship page shows no deadline)",
+          "milestone": "Apply via applications.bevisioneers.world",
+          "programDates": "Year 1 from June 2027, 12 months + Year 2 acceleration",
+          "funding": "Up to EUR 15,000 project scholarships after Year 1 + Year 2 project scholarships and cost-of-living stipend (amount unspecified); travel/accommodation/expenses paid for key program events; needs-based participation support",
+          "location": "Hybrid; Local Hubs and Regional/Global Summits",
+          "eligibility": "Age 18-28; residence-based: USA listed among eligible residences, must live in an eligible country >9 months per fellowship year and implement project there; no degree required; must have a truly planet-positive project (prototype preferred, idea-stage at high bar); already financially sustainable ventures NOT accepted; no citizenship gate stated; individual application per team member",
+          "materials": "Application via official portal (project description + evidence of problem understanding/traction)",
+          "url": "https://bevisioneers.world/fellowship"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-bevisioneers-the-mercedes-benz-fellowship-2027-28-2863f419a326",
+      "title": "beVisioneers: The Mercedes-Benz Fellowship 2027/28",
+      "organization": "The DO School Fellowships / Mercedes-Benz",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "sustainability",
+        "startup",
+        "founder",
+        "fellowship"
+      ],
+      "url": "https://bevisioneers.world/fellowship",
+      "sourceUrl": "https://applications.bevisioneers.world/courses/course/11-bevisioneers-mercedes-benz-fellowship",
+      "summary": "Two-year environmental-project fellowship beginning June 2027. The first year requires at least 24 hours per month, combining online learning, local hubs and venture support.",
+      "eligibility": "Applicants must be 18–28 on January 31, 2027 and live in an eligible country, including the United States, for the fellowship. English proficiency and an environmental project are required. Confirm the residency and project-stage rules before applying.",
+      "reward": "Mentoring and training; access to project scholarships up to €15,000 at the end of year one. Year-two project and living support have conditions. Financial need support requires a separate assessment; no universal upfront cash payment is promised.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "2027-01-31T22:59:59.000Z",
+      "sourceDeadline": "Portal: 31 Jan 2027, 23:59:59 Central European Time.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027–2028 · beVisioneers: The Mercedes-Benz Fellowship 2027/28",
+      "sourceState": "Application",
+      "sourceNote": "Verified the active 2027/28 course and application entry. The current portal resolves the stale January 25, 2026 wording on the general fellowship page. UTC conversion uses CET (UTC+1).",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via official portal (project description + evidence of problem understanding/traction)",
+        "Review next milestone: Apply via applications.bevisioneers.world"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "44c1a23bb1c9d3ed78815ddb60977edb1243b075cd84d118eb5066f3f0f4b96b",
+        "hash": "eaa5f09ff1706ded51774320877b335fc0f13469d8c519af606c12abc0f228c4",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Internet Society Fellowship Program 2027",
+          "category": "Internet leadership fellowship",
+          "deadline": "2026-11-22 (Pre-Fellowship Training completion gate); fellowship application by 2026-12-18",
+          "milestone": "Notifications 2027-02-19; kickoff 2027-02-22",
+          "programDates": "2027-02-22 to 2027-12 (mentored project 2027-06-01 to 2027-11-30)",
+          "funding": "Project stipend up to $5,000 + travel support to a global/regional Internet event (e.g. IGF, AfPIF, NDSS) + mentorship + Alumni Network",
+          "location": "Virtual + event travel",
+          "eligibility": "Completed Pre-Fellowship Training, strong English, reliable internet/equipment and four hours weekly for ten months; valid passport for travel. Source states no age or country list and excludes current 2026 fellows; confirm current rules.",
+          "materials": "Pre-Fellowship Training modules; fellowship application with track/sub-track choice and project proposal (Policy and Mobilization, Connectivity, or Safety and Security)",
+          "url": "https://www.internetsociety.org/fellowship/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-internet-society-fellowship-program-2027-44c1a23bb1c9",
+      "title": "Internet Society Fellowship Program 2027",
+      "organization": "Internet Society",
+      "category": "Travel & leadership",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "internet",
+        "leadership",
+        "fellowship"
+      ],
+      "url": "https://www.internetsociety.org/fellowship/",
+      "sourceUrl": "https://www.internetsociety.org/fellowship/",
+      "summary": "2027 fellowship with training and a mentored Internet-focused project. Training completion is a prerequisite to receiving the formal application link; project work runs June–November 2027.",
+      "eligibility": "Complete all required Pre-Fellowship Training modules before November 22, 2026. English, reliable Internet, roughly four hours weekly and travel readiness are required. Current 2026 Internet Society fellows cannot apply.",
+      "reward": "Project stipend up to $5,000 subject to budget approval and support for designated event travel. Not an unconditional cash award.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-22",
+      "deadlineAt": "",
+      "sourceDeadline": "Complete training before 22 November 2026; formal fellowship applications close 18 December 2026. Organizer also lists training enrollment September 23–November 22.",
+      "confidence": "Date only",
+      "opensOn": "2026-09-23",
+      "cycle": "2027 · Internet Society Fellowship Program 2027",
+      "sourceState": "Application",
+      "sourceNote": "The tracked November date is the prerequisite training gate, not the final fellowship form deadline. Eligible completers receive an application link by email; the organizer explicitly describes subsequent applications as rolling.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Pre-Fellowship Training modules; fellowship application with track/sub-track choice and project proposal (Policy and Mobilization, Connectivity, or Safety and Security)",
+        "Review next milestone: Notifications 2027-02-19; kickoff 2027-02-22"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "d841b9d3534b44c20193a943586720c67b3ccec377f62d864bd4a253a810be8d",
+        "hash": "40c370aa40883a00816c0f023f790daa541bdd853813b298a7a805a182d2bb67",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Blue Ridge Labs Catalyst 2027",
+          "category": "Accelerator",
+          "deadline": "2026-11-13",
+          "milestone": "Feb-Jun 2027 program; Demo Day at end",
+          "programDates": "2027-02 to 2027-06, 16 weeks",
+          "funding": "$100,000 investment (for-profit) or grant (nonprofit) + coaching + 295 Robin Hood community partners",
+          "location": "New York City, in person (Union Square) + SXSW trip",
+          "eligibility": "Early-stage/pre-seed startups or technology nonprofits with an MVP, early traction and economic-mobility impact. Source reports revenue up to $150,000 in any twelve months and raised capital up to $500,000 excluding grants; technical founder capacity. Incorporation required upon acceptance. Verify participation and investment/grant terms.",
+          "materials": "Online application (product, users, traction, social impact)",
+          "url": "https://robinhood.org/our-work/blue-ridge-labs/catalyst/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-blue-ridge-labs-catalyst-2027-d841b9d3534b",
+      "title": "Blue Ridge Labs Catalyst 2027",
+      "organization": "Robin Hood / Blue Ridge Labs",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "accelerator"
+      ],
+      "url": "https://robinhood.org/our-work/blue-ridge-labs/catalyst/",
+      "sourceUrl": "https://robinhood.org/our-work/blue-ridge-labs/catalyst/",
+      "summary": "Sixteen-week accelerator for economic-mobility ventures, February–June 2027, based in Union Square, New York City with an SXSW phase.",
+      "eligibility": "Solo founders or small teams with a working MVP and early traction serving low-income New Yorkers or Americans. No more than $150,000 revenue in any 12-month period or $500,000 raised excluding grants. Teams need the capability to build their product.",
+      "reward": "$100,000 investment for for-profit ventures or grant for nonprofits, plus coaching. For-profit funding must not be described as equity-free; review the investment terms.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-11-13",
+      "deadlineAt": "",
+      "sourceDeadline": "2027 Catalyst cohort: apply by November 13, 2026; no closing time stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Blue Ridge Labs Catalyst 2027",
+      "sourceState": "Application",
+      "sourceNote": "Confirmed current call, stages, funding distinction and program location on the organizer page.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application (product, users, traction, social impact)",
+        "Review next milestone: Feb-Jun 2027 program; Demo Day at end"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "9fb251eb866e36b5fb83b1628988f1da7c22396dcdef4b04e11454aa2f0df921",
+        "hash": "9f1c3ffbc518119a97063f5eb1abafd325ce444fc35296420a7f2eca28e53558",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Allianz x Social Shifters MoveNow Social Innovation Challenge 2026",
+          "category": "Social innovation challenge",
+          "deadline": "2026-12-18 17:00 UTC",
+          "milestone": "First scoring round 2027-01-25 to 2027-02-26; finalist shortlist March 2027; finals May 2027",
+          "programDates": "Finals May 2027; grants allocated June 2027",
+          "funding": "$90,000 total: $30,000 per category in $5,000 and $10,000 grants + Allianz business mentor for finalists + Global Opportunities Network access",
+          "location": "Global; virtual submission, live-pitch finals",
+          "eligibility": "Youth-led ventures with founders age 18–30, decision-making authority, a defined social/environmental problem and measurable impact. Categories: digital financial confidence, health gaps and community climate resilience. Global; confirm current organizer requirements.",
+          "materials": "Online submission (venture description, problem, measurable impact, category fit); finalists pitch live",
+          "url": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-allianz-x-social-shifters-movenow-social-innovation-challenge-202-9fb251eb866e",
+      "title": "Allianz x Social Shifters MoveNow Social Innovation Challenge 2026",
+      "organization": "Social Shifters / Allianz",
+      "category": "Innovation challenges",
+      "levels": [
+        "Founder",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "social",
+        "innovation",
+        "challenge"
+      ],
+      "url": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
+      "sourceUrl": "https://www.socialshifters.co/allianz-movenow-social-innovation-challenge/",
+      "summary": "Global youth-led social-innovation challenge in financial confidence, health equity and climate resilience. Finalist mentoring and pitches follow in 2027.",
+      "eligibility": "Founders leading the startup or project must be 18–30, hold decision-making authority and demonstrate measurable social or environmental impact.",
+      "reward": "$90,000 award pool: $30,000 per category through multiple $5,000 and $10,000 grants. Founder resources and finalist mentoring are offered.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-18",
+      "deadlineAt": "2026-12-18T17:00:00.000Z",
+      "sourceDeadline": "Timeline: submissions open 7 October 2026; close 18 December at 5pm UTC, before January 2027 scoring.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-07",
+      "cycle": "2026 · Allianz x Social Shifters MoveNow Social Innovation Challenge 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "The timeline confirms the exact cutoff, but the page also retains 'submissions open soon' wording and the linked application platform did not render. Current submission availability needs confirmation; no closure is inferred.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online submission (venture description, problem, measurable impact, category fit); finalists pitch live",
+        "Review next milestone: First scoring round 2027-01-25 to 2027-02-26; finalist shortlist March 2027; finals May 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "de1c02b1cc3b0091cdaa4dc2ed49a659022fc6538126a178c061e580dc41964f",
+        "hash": "53801bf48a9bdfb54018754611dc443bfc5dbd09c824a2f3ac01742bdd5e3255",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Duke University Fuqua New Ideas Competition, 5th Annual",
+          "category": "University idea competition",
+          "deadline": "2027-01-20",
+          "milestone": "Grand-prize trip April 2027",
+          "programDates": "April 2027, 3-day trip to Duke",
+          "funding": "All-expenses-paid 3-day trip to Duke for grand-prize winners (10 in prior cycles) + partial scholarship eligibility for a Fuqua one-year master if admitted; no cash prize published",
+          "location": "Duke University, Durham, NC; in person for winners",
+          "eligibility": "Freshman, sophomore or junior undergraduates in any major at a US college/university. Prior cycles reportedly welcomed all nationalities; confirm current-cycle citizenship rules.",
+          "materials": "Essay and/or business plan proposal on how a company, sector or industry can have positive impact on a community/population/location/industry/environment (own entrepreneurial idea explicitly welcome)",
+          "url": "https://www.fuqua.duke.edu/usingbusinessforcegood"
+        }
+      },
+      "id": "sheet-duke-university-fuqua-new-ideas-competition-5th-annual-de1c02b1cc3b",
+      "title": "Duke University Fuqua New Ideas Competition, 5th Annual",
+      "organization": "fuqua.duke.edu",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "idea",
+        "competition"
+      ],
+      "url": "https://www.fuqua.duke.edu/usingbusinessforcegood",
+      "sourceUrl": "https://www.fuqua.duke.edu/usingbusinessforcegood",
+      "summary": "University idea competition. Program dates: April 2027, 3-day trip to Duke. Location / format: Duke University, Durham, NC; in person for winners. Next milestone: Grand-prize trip April 2027",
+      "eligibility": "Freshman, sophomore or junior undergraduates in any major at a US college/university. Prior cycles reportedly welcomed all nationalities; confirm current-cycle citizenship rules.",
+      "reward": "All-expenses-paid 3-day trip to Duke for grand-prize winners (10 in prior cycles) + partial scholarship eligibility for a Fuqua one-year master if admitted; no cash prize published",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-20",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Duke University Fuqua New Ideas Competition, 5th Annual",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Essay and/or business plan proposal on how a company, sector or industry can have positive impact on a community/population/location/industry/environment (own entrepreneurial idea explicitly welcome)",
+        "Review next milestone: Grand-prize trip April 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c5075c2652e548f6dadcdf568834fa9055ac4f2a8ae7072b90cb24212de64a78",
+        "hash": "4467471621630fdca55c8ef55fae5d0107bb3b7830d1990d76eaefc6cfa842b7",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Louisiana Engineering Foundation Undergraduate Scholarships 2026",
+          "category": "Scholarships / Louisiana",
+          "deadline": "2026-10-31",
+          "milestone": "Apply immediately; multiple LEF awards via one form",
+          "programDates": "2026-27 academic year",
+          "funding": "Multiple scholarships; individual amounts not published on current official page",
+          "location": "Louisiana universities / online application",
+          "eligibility": "Engineering undergraduates at Louisiana universities. A universal form reportedly asks about citizenship and permits other universities; restrictions may differ by award. Confirm current scholarship rules.",
+          "materials": "Universal online application: academics, engineering GPA, activities, financial need, legal residency, family details; approx 1-2 hours",
+          "url": "https://lef.les-state.org/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-louisiana-engineering-foundation-undergraduate-scholarships-2026-c5075c2652e5",
+      "title": "Louisiana Engineering Foundation Undergraduate Scholarships 2026",
+      "organization": "Louisiana Engineering Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships",
+        "louisiana"
+      ],
+      "url": "https://lef.les-state.org/",
+      "sourceUrl": "https://lef.les-state.org/",
+      "summary": "Scholarships for undergraduates studying engineering in Louisiana. The annual organizer window is September 1–October 31; the linked form's current-cycle date has a weekday inconsistency.",
+      "eligibility": "Undergraduate engineering students at Louisiana institutions; verify individual scholarship requirements in the organizer's application.",
+      "reward": "Award amounts and any award-specific restrictions are not confirmed on the reviewed page.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Linked form says 'Thursday, October 31, 2026'; October 31, 2026 falls on Saturday. Confirm the intended current-cycle cutoff.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026 · Louisiana Engineering Foundation Undergraduate Scholarships 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed the organizer and linked form. The year/date wording conflicts with its weekday, so a confirmed 2026 deadline has not been assigned. The annual window alone cannot resolve this discrepancy.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Universal online application: academics, engineering GPA, activities, financial need, legal residency, family details; approx 1-2 hours",
+        "Review next milestone: Apply immediately; multiple LEF awards via one form"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a8b0d7ccef6a29a1bf80851b15488b216138a10f85842f74e247ef921ab769d3",
+        "hash": "87fc1574d2b22d4521cbef14a45afbbd16d078b42ad70a5be695b0214f7420e4",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Nonprofit Engine 2027 — Health & Workforce AI Engineering Award",
+          "category": "In-kind grants / mental health technology",
+          "deadline": "2026-12-23 23:59 ET",
+          "milestone": "Q&A Nov 19; finalists Feb 18; pitch Mar 2 2027",
+          "programDates": "Spring 2027, 3-6 month build",
+          "funding": "Two awards each worth $250,000 in donated senior AI engineering services; NOT cash",
+          "location": "US nationwide; remote pitch permitted; optional NYC in-person",
+          "eligibility": "US 501(c)(3) or fiscally sponsored nonprofit in health incl mental health or workforce; must own and maintain tech stack with some technical capacity; not for ordinary for-profit startups",
+          "materials": "Short organization/project slide deck, video presenting deck, video walkthrough of existing tech stack; 8-15h estimated",
+          "url": "https://www.nonprofitengine.org/how-it-works"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-nonprofit-engine-2027-health-workforce-ai-engineering-award-a8b0d7ccef6a",
+      "title": "Nonprofit Engine 2027 — Health & Workforce AI Engineering Award",
+      "organization": "Nonprofit Engine",
+      "category": "Grants & funding",
+      "levels": [
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "kind",
+        "grants",
+        "mental",
+        "health",
+        "technology"
+      ],
+      "url": "https://www.nonprofitengine.org/how-it-works",
+      "sourceUrl": "https://www.nonprofitengine.org/how-it-works",
+      "summary": "Two U.S. nonprofits receive a three- to six-month senior AI engineering team for a major technology build beginning in spring 2027. Finalists pitch March 2, remotely or in New York; in-person participation is optional.",
+      "eligibility": "U.S.-based 501(c)(3) nonprofits or fiscally sponsored organizations working in Health or Workforce. Applicants must own a technology stack and have a team able to maintain the resulting work. NYC presence is not required; past awardees may apply.",
+      "reward": "In-kind technical services valued at $250,000 per award, provided at no cost. This is not cash funding.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-23",
+      "deadlineAt": "2026-12-24T04:59:00.000Z",
+      "sourceDeadline": "December 23, 2026, at 11:59 p.m. Eastern Time.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · Nonprofit Engine 2027 — Health & Workforce AI Engineering Award",
+      "sourceState": "Application",
+      "sourceNote": "Checked the program and 2027 application page. Materials include a short deck, presentation video and tech-stack walkthrough. The UTC cutoff falls on December 24; the organizer-local deadline remains December 23.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Short organization/project slide deck, video presenting deck, video walkthrough of existing tech stack; 8-15h estimated",
+        "Review next milestone: Q&A Nov 19; finalists Feb 18; pitch Mar 2 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "e284d384db31e28f7ff682159e39bafed45a635e14cbbf4dda736e7aa1de3a13",
+        "hash": "a65037593bd87a5d2406ab582db30a3a9da90c8ab08895cdfee970cef832405c",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "AOTF Bonita Kraft Occupational Therapy Doctoral Student Scholarship 2027",
+          "category": "Mental health / clinical research scholarships",
+          "deadline": "2027-02-19",
+          "milestone": "Applications open Jan 5 2027",
+          "programDates": "2027 research year",
+          "funding": "Up to $5,000 research scholarship for one year; not salary",
+          "location": "US academic institution / research",
+          "eligibility": "Licensed occupational therapy practitioners in a PhD/ScD/DrPH dissertation phase with a defended proposal and adult serious-mental-illness research. IRB approval/in progress and US citizenship or qualifying residence/visa documentation reportedly required; confirm current rules.",
+          "materials": "Research proposal, implementation-science framework, budget, timeline, CV, mentor and institutional support, literature review; 20-40h estimated",
+          "url": "https://www.aotf.org/fund/bonita-kraft-occupational-therapy-doctoral-student-scholarship/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-aotf-bonita-kraft-occupational-therapy-doctoral-student-scholarsh-e284d384db31",
+      "title": "AOTF Bonita Kraft Occupational Therapy Doctoral Student Scholarship 2027",
+      "organization": "American Occupational Therapy Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Graduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "mental",
+        "health",
+        "clinical",
+        "research",
+        "scholarships"
+      ],
+      "url": "https://www.aotf.org/fund/bonita-kraft-occupational-therapy-doctoral-student-scholarship/",
+      "sourceUrl": "https://www.aotf.org/fund/bonita-kraft-occupational-therapy-doctoral-student-scholarship/",
+      "summary": "One-year doctoral research scholarship addressing serious mental illness in adults.",
+      "eligibility": "Licensed occupational therapist in a research doctorate, with coursework completed and dissertation proposal defended. Mental-health research, IRB approval obtained or underway, a qualified mentor and a U.S. academic host are required. U.S. citizenship or appropriate residence/visa documentation is required.",
+      "reward": "Up to $5,000 for the research award over one year.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-19",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications open January 5, 2027; application deadline February 19, 2027.",
+      "confidence": "Date only",
+      "opensOn": "2027-01-05",
+      "cycle": "2027 · AOTF Bonita Kraft Occupational Therapy Doctoral Student Scholarship 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Confirmed the forthcoming cycle and doctoral/professional eligibility on the organizer page.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Research proposal, implementation-science framework, budget, timeline, CV, mentor and institutional support, literature review; 20-40h estimated",
+        "Review next milestone: Applications open Jan 5 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "b1483fd867936b564ac0f36d7fb3a106c3d62947b95a88d80e09e9018fedd24b",
+        "hash": "0429eb3779727c55022e81e6196dd6ee0cecb10a2aebce4cebab8644e4b7c9e3",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "ASCE Structural Engineering Institute Student Travel Scholarships — ASCE2027",
+          "category": "Conference travel award",
+          "deadline": "2026-11-20",
+          "milestone": "Decisions Dec 18 2026",
+          "programDates": "2027-03-01 to 2027-03-05",
+          "funding": "Free conference registration + reimbursed US economy travel up to $550 + $175/day for up to 4 nights ($700); partial reimbursement, not full expenses",
+          "location": "Philadelphia PA / in person",
+          "eligibility": "Full-time civil-engineering or related undergraduate/graduate students with current SEI membership. First-time conference attendees preferred; student membership reportedly free. Citizenship restrictions are not published; verify current rules.",
+          "materials": "Online SEI scholarship application, career goals, research/internship and volunteer history; participate in committee meetings/mentoring and submit feedback; 2-4h estimated",
+          "url": "https://experience.asce.org/about/sei-at-asce2027"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-asce-structural-engineering-institute-student-travel-scholarships-b1483fd86793",
+      "title": "ASCE Structural Engineering Institute Student Travel Scholarships — ASCE2027",
+      "organization": "ASCE Structural Engineering Institute",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://experience.asce.org/about/sei-at-asce2027",
+      "sourceUrl": "https://experience.asce.org/about/sei-at-asce2027",
+      "summary": "Student attendance support for ASCE2027, March 1–5 in Philadelphia, with mentoring and required SEI participation.",
+      "eligibility": "Full-time civil-engineering or related undergraduate/graduate students who are current SEI members. The program page prefers first-time attendees, while its linked form says only first-time attendees qualify; repeat attendees must clarify eligibility.",
+      "reward": "Complimentary student registration. Post-conference reimbursement: economy travel within the U.S. up to $550 with 14-day advance purchase, plus $175 daily toward lodging and other costs for up to four nights. Remaining costs are the attendee's responsibility.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Apply by November 20, 2026. No closing time is published.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · ASCE Structural Engineering Institute Student Travel Scholarships — ASCE2027",
+      "sourceState": "Application",
+      "sourceNote": "Verified the student application form and funding caps. Reimbursement requires conference activities and feedback. Preserved the first-time-attendee discrepancy between the page and form.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online SEI scholarship application, career goals, research/internship and volunteer history; participate in committee meetings/mentoring and submit feedback; 2-4h estimated",
+        "Review next milestone: Decisions Dec 18 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "6b8e0a2516111a40fd38810aee047d1f6c43f5f23f5d2fce6f17645caf979dd6",
+        "hash": "42aefdb7e25b102f1d31f68cf30e8d4600caea9a11391ac7325e9cf4c4d72297",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "MassChallenge 2026-27 Corporate Challenge Programs",
+          "category": "Startup accelerator / corporate innovation",
+          "deadline": "2026-11-09",
+          "milestone": "Virtual info session Nov 3 1pm ET; finalist matchmaking Jan 6-8",
+          "programDates": "Feb-Jun 2027, required Boston in-person events",
+          "funding": "Enterprise introductions, mentoring, potential pilot/commercial collaborations; no guaranteed cash prize or investment",
+          "location": "International startups accepted; Boston in-person sessions required",
+          "eligibility": "Pre-seed through Series A startups matching partner challenge statements in fintech, insurance or health/life sciences. International startups reportedly eligible; one founder/executive must attend Boston events. Confirm participation and business/travel authorization.",
+          "materials": "Create startup profile + short initial application (<10 min per organizer); partner-specific challenge fit statement; 1-3h estimated",
+          "url": "https://masschallenge.org/2026-2027-challenge-cycle/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-masschallenge-2026-27-corporate-challenge-programs-6b8e0a251611",
+      "title": "MassChallenge 2026-27 Corporate Challenge Programs",
+      "organization": "MassChallenge",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "accelerator",
+        "corporate",
+        "innovation"
+      ],
+      "url": "https://masschallenge.org/2026-2027-challenge-cycle/",
+      "sourceUrl": "https://masschallenge.org/2026-2027-challenge-cycle/",
+      "summary": "Corporate challenge programs matching early-stage startups to partners in financial services, insurance, health and life sciences. Program runs February–June 2027; plan for three to five hours weekly.",
+      "eligibility": "Pre-seed through Series A startups aligned with a partner challenge. At least one founder or C-suite member must attend required Boston sessions, including January 6–8 finalist matchmaking, February 9–10 kickoff and the June finale; confirm all attendance dates.",
+      "reward": "Partner access, mentoring and possible commercial pilots. No guaranteed cash award or investment is established by the reviewed cycle page; verify participation and travel costs.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-11-09",
+      "deadlineAt": "",
+      "sourceDeadline": "Apply by November 9, 2026; no closing time stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-19",
+      "cycle": "2026–2027 · MassChallenge 2026-27 Corporate Challenge Programs",
+      "sourceState": "Application",
+      "sourceNote": "Checked the current cycle call and FAQ. Required in-person Boston attendance makes this more than an online-only program.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Create startup profile + short initial application (<10 min per organizer); partner-specific challenge fit statement; 1-3h estimated",
+        "Review next milestone: Virtual info session Nov 3 1pm ET; finalist matchmaking Jan 6-8"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c00ef52a5bea9e48dff0580739a9d15e9eeb7b5d328247d0f9107f9721d5fa7b",
+        "hash": "5528b52576094d568fb4011c3ba6d859db4a93d29792e28c6439c65d970c75b2",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Argonne Chain Reaction Innovations Cohort 2027",
+          "category": "Funded startup founder fellowship / engineering",
+          "deadline": "2026-10-30 17:00 CT",
+          "milestone": "Apply now; relocation to Chicago if selected",
+          "programDates": "Two-year fellowship at Argonne National Laboratory",
+          "funding": "$115,000 annual stipend for two years + healthcare + non-dilutive R&D support and lab access; no equity",
+          "location": "Argonne National Laboratory / Chicago-area relocation required",
+          "eligibility": "Technical founders with laboratory experience and DOE-relevant technology. Source reports US citizenship or permanent residence required at application and full-time participation; confirm official current-cycle rules.",
+          "materials": "Technical founder application including technology, lab experience and commercialization vision; 8-15h estimated",
+          "url": "https://chainreaction.anl.gov/2026/08/13/cri-to-open-recruitment-for-cohort-202/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-argonne-chain-reaction-innovations-cohort-2027-c00ef52a5bea",
+      "title": "Argonne Chain Reaction Innovations Cohort 2027",
+      "organization": "Argonne National Laboratory / Chain Reaction Innovations",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "startup",
+        "founder",
+        "fellowship",
+        "engineering"
+      ],
+      "url": "https://chainreaction.anl.gov/2026/08/13/cri-to-open-recruitment-for-cohort-202/",
+      "sourceUrl": "https://chainreaction.anl.gov/apply/",
+      "summary": "Two-year laboratory commercialization fellowship for technical founders, beginning October 1, 2027 at Argonne near Chicago. Full-time participation and relocation are required.",
+      "eligibility": "U.S. citizens or permanent residents at application. Applicants must be technical founders able to perform hands-on R&D on technology aligned with Department of Energy interests. Review employment and commercialization obligations.",
+      "reward": "$115,000 annual stipend for two years, healthcare and laboratory/R&D support. DOE and Argonne do not take equity.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-10-30",
+      "deadlineAt": "2026-10-30T22:00:00.000Z",
+      "sourceDeadline": "Applications close at 5 p.m. CT on October 30, 2026.",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-15",
+      "cycle": "2027 · Argonne Chain Reaction Innovations Cohort 2027",
+      "sourceState": "Application",
+      "sourceNote": "Verified the Cohort 2027 call, application instructions and current ProposalSpace entry. Cutoff converts from Central Daylight Time to 22:00 UTC. This is a founder fellowship, not an undergraduate summer internship.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Technical founder application including technology, lab experience and commercialization vision; 8-15h estimated",
+        "Review next milestone: Apply now; relocation to Chicago if selected"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "b7cf0a81105992d8c47e858f345900648f7e6070973943423d00588f296b15ff",
+        "hash": "18a80c747165a2186a5981e761dba3c7228ad6c9553b103f24c8c7abd1b73ed6",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Northwell Health Nursing Fellowships — January 2027 cohort",
+          "category": "Clinical nursing employment fellowship",
+          "deadline": "2026-11-06 (applications Nov 4-6 ONLY)",
+          "milestone": "Prepare nursing resume and monitor listings Nov 4",
+          "programDates": "Cohort starts 2027-01-25",
+          "funding": "Clinical specialty training with employer; salary/benefits not specified on program page; NOT a scholarship",
+          "location": "New York healthcare facilities / in person",
+          "eligibility": "New graduate or experienced registered nurses for emergency, critical care, pediatric, perioperative, oncology specialties; clinical licensure and employer work authorization required; not for unlicensed undergraduate nursing students",
+          "materials": "Apply to relevant posted RN fellowship during Nov 4-6; résumé, license/eligibility and credentials per listing; 2-4h estimated",
+          "url": "https://jobs.northwell.edu/career-specialties/nursing/nursing-externship-fellowship/"
+        },
+        "verifiedAt": "2026-10-27T16:37:38.192Z"
+      },
+      "id": "sheet-northwell-health-nursing-fellowships-january-2027-cohort-b7cf0a811059",
+      "title": "Northwell Health Nursing Fellowships — January 2027 cohort",
+      "organization": "Northwell Health",
+      "category": "Career & sales",
+      "levels": [
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "clinical",
+        "nursing",
+        "employment",
+        "fellowship"
+      ],
+      "url": "https://jobs.northwell.edu/career-specialties/nursing/nursing-externship-fellowship/",
+      "sourceUrl": "https://jobs.northwell.edu/career-specialties/nursing/nursing-externship-fellowship/",
+      "summary": "Clinical nursing fellowships starting January 25, 2027. The application window is November 4–6, 2026; apply to the appropriate clinical requisition when it opens.",
+      "eligibility": "Newly graduated or experienced licensed registered nurses. These fellowships are distinct from the summer nursing-student externship; verify degree, licensing, work-authorization and specialty requirements in the actual requisition.",
+      "reward": "Pay and benefits for the January cohort are not specified on the reviewed program summary; verify the employment posting.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-06",
+      "deadlineAt": "",
+      "sourceDeadline": "January 25, 2027 fellowship cohort: applications November 4–6, 2026. No closing time is stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-04",
+      "cycle": "2027 · Northwell Health Nursing Fellowships — January 2027 cohort",
+      "sourceState": "Upcoming",
+      "sourceNote": "Reviewed the nursing program calendar and separated the January RN fellowship from the June 2027 student externship. Actual role requirements and compensation need the forthcoming requisition.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Apply to relevant posted RN fellowship during Nov 4-6; résumé, license/eligibility and credentials per listing; 2-4h estimated",
+        "Review next milestone: Prepare nursing resume and monitor listings Nov 4"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "bc63d5b0706ce81a97e521aec49e00dadbc166193bd61a66c803f5fd25288caa",
+        "hash": "8545abd86ea02cf867ac1b44336aab559b038204109443582cb8021a50b2c440",
+        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "present": true,
+        "fields": {
+          "title": "Psi Chi Regional Travel Grants 2027 — SEPA/SWPA and other regions",
+          "category": "Psychology professional society / conference travel",
+          "deadline": "2027-01-03 (EPA); 2027-01-20 (SWPA); 2027-02-11 (SEPA); other regions vary",
+          "milestone": "Plan spring 2027 psychology conference, confirm chapter membership and portal",
+          "programDates": "SEPA Apr 7-10 Greenville SC; SWPA Apr 2-4 Houston TX; other regions",
+          "funding": "Travel grants $150-$400; partial assistance only; registration/housing/meals not fully covered",
+          "location": "US regional psychology conferences",
+          "eligibility": "Active Psi Chi members with limited travel funds attending EPA/MPA/RMPA/SEPA/SWPA/WPA; undergraduate/graduate; no US citizenship restriction published; no clinical license required",
+          "materials": "Online grant application via appropriate regional portal (opens closer to deadlines); verify travel budget/meeting attendance requirements; 1-3h estimated",
+          "url": "https://www.psichi.org/page/regtravel_info"
+        }
+      },
+      "id": "sheet-psi-chi-regional-travel-grants-2027-sepa-swpa-and-other-regions-bc63d5b0706c",
+      "title": "Psi Chi Regional Travel Grants 2027 — SEPA/SWPA and other regions",
+      "organization": "psichi.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "psychology",
+        "professional",
+        "society",
+        "conference",
+        "travel"
+      ],
+      "url": "https://www.psichi.org/page/regtravel_info",
+      "sourceUrl": "https://www.psichi.org/page/regtravel_info",
+      "summary": "Psychology professional society / conference travel. Program dates: SEPA Apr 7-10 Greenville SC; SWPA Apr 2-4 Houston TX; other regions. Location / format: US regional psychology conferences. Next milestone: Plan spring 2027 psychology conference, confirm chapter membership and portal",
+      "eligibility": "Active Psi Chi members with limited travel funds attending EPA/MPA/RMPA/SEPA/SWPA/WPA; undergraduate/graduate; no US citizenship restriction published; no clinical license required",
+      "reward": "Travel grants $150-$400; partial assistance only; registration/housing/meals not fully covered",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-03",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-03 (EPA); 2027-01-20 (SWPA); 2027-02-11 (SEPA); other regions vary",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Psi Chi Regional Travel Grants 2027 — SEPA/SWPA and other regions",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online grant application via appropriate regional portal (opens closer to deadlines); verify travel budget/meeting attendance requirements; 1-3h estimated",
+        "Review next milestone: Plan spring 2027 psychology conference, confirm chapter membership and portal"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
