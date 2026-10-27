@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 85,
-  "updatedAt": "2026-10-27T23:35:33.419Z",
+  "revision": 86,
+  "updatedAt": "2026-10-27T23:49:56.761Z",
   "streams": [
     {
       "id": "internships",
@@ -313,36 +313,39 @@
     },
     {
       "id": "uncf",
-      "title": "UNCF opportunity — program identity to verify",
+      "title": "UNCF HBCU Educators Scholarship — 2026–27",
       "organization": "UNCF",
       "category": "Scholarships",
       "levels": [
-        "Undergraduate",
-        "Graduate"
+        "Undergraduate"
       ],
       "tags": [
-        "Scholarship"
+        "HBCU",
+        "Education majors",
+        "College juniors",
+        "GPA: 2.5",
+        "Citizenship restricted"
       ],
       "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000XPIzQAO",
       "sourceUrl": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000XPIzQAO",
-      "summary": "The supplied UNCF portal link needs manual review to identify the specific program.",
-      "eligibility": "Program-specific eligibility has not been verified.",
-      "reward": "Not yet verified",
+      "summary": "Need-based scholarship for full-time junior education majors at UNCF member institutions or other four-year HBCUs.",
+      "eligibility": "Junior standing in fall 2026, education major, full-time enrollment, GPA at least 2.50, FAFSA and school-verified unmet financial need. Portal lists U.S. citizens, U.S. nationals or permanent residents; temporary student status alone is insufficient.",
+      "reward": "Up to $2,500 for 2026–27; possible additional-year renewal subject to funds and continuing eligibility.",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "",
+      "deadlineDate": "2026-10-29",
       "deadlineAt": "",
-      "sourceDeadline": "Deadline not verified",
-      "confidence": "Unknown",
-      "opensOn": "",
+      "sourceDeadline": "Deadline 10/29/2026 11:59 PM EST.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-09-21",
       "cycle": "Cycle unverified",
-      "sourceState": "Needs verification",
-      "sourceNote": "The supplied Salesforce program page could not be read. No program name, award or deadline has been inferred.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Application",
+      "sourceNote": "Official portal is Active with Apply Now. EST wording occurs during daylight-saving time, so no exact UTC cutoff inferred. The original saved link and spreadsheet-linked record refer to the same award; historical IDs and cycle labels are retained.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Identify the program from the source",
-        "Confirm deadline and timezone",
-        "Confirm award and eligibility"
+        "Confirm education major, junior standing and citizenship eligibility",
+        "Prepare current transcript and career-interest essay",
+        "Confirm portal cutoff timezone before submission"
       ],
       "stream": "original"
     },
@@ -5310,35 +5313,37 @@
       },
       "id": "sheet-nsbe-fall-scholarships-d16c069a7d0c",
       "title": "NSBE Fall Scholarships",
-      "organization": "nsbe.org",
+      "organization": "National Society of Black Engineers",
       "category": "Scholarships",
       "levels": [
         "Undergraduate"
       ],
       "tags": [
         "Spreadsheet",
-        "scholarship"
+        "STEM",
+        "Membership required",
+        "Some non-citizen awards"
       ],
       "url": "https://nsbe.org/scholarships/",
       "sourceUrl": "https://nsbe.org/scholarships/",
-      "summary": "Scholarship. Program dates: Fall 2026 cycle. Location / format: Cash scholarships via MyNSBE portal. Next milestone: Start GPA verification now (2-3 business day turnaround)",
-      "eligibility": "Active NSBE collegiate members; awards span undergrad years 1-4; some awards open to non-U.S. citizens, others U.S. citizen/permanent resident only",
-      "reward": "$500-$15,000 per scholarship; multiple corporate sponsors (Cargill, Chevron, Cummins, Deloitte Foundation, Honeywell, Intel)",
+      "summary": "Fall 2026 scholarship cycle is announced as opening soon; current applications and individual closing dates are not yet confirmed.",
+      "eligibility": "Active paid NSBE membership and GPA verification are required, with award-specific major, class-year and region limits. Some awards accept non-U.S. citizens, including listed Intel and Fulfilling the Legacy awards; others require U.S. citizenship or permanent residence.",
+      "reward": "Award amounts vary. Current examples list Intel at $5,000 and Fulfilling the Legacy at $500. Membership costs and award-specific restrictions must be reviewed.",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2026-12-11",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-12-11",
-      "confidence": "Date only",
+      "sourceDeadline": "Official page: Fall 2026 Scholarship Cycle will open soon. No confirmed application closing date.",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Intake unconfirmed · NSBE Fall Scholarships",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer page reviewed. The spreadsheet’s December 11 date is unconfirmed. GPA-verification window ending February 26, 2027 is not a scholarship application deadline. Retain source comparison without promising an open application.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: NSBE membership renewal, GPA verification, completed profile, per-scholarship applications",
-        "Review next milestone: Start GPA verification now (2-3 business day turnaround)"
+        "Check the official page for the Fall 2026 opening",
+        "Review paid membership and GPA verification",
+        "Select awards matching class year, major, region and citizenship"
       ],
       "stream": "spreadsheet"
     },
@@ -6857,35 +6862,37 @@
       },
       "id": "sheet-tmcf-mcdonald-s-black-and-positively-golden-scholarship-2027-2028-e2ec8c198f06",
       "title": "TMCF | McDonald's Black and Positively Golden Scholarship 2027-2028",
-      "organization": "tmcf.org",
+      "organization": "Thurgood Marshall College Fund / McDonald’s",
       "category": "Scholarships",
       "levels": [
         "Undergraduate"
       ],
       "tags": [
         "Spreadsheet",
-        "scholarship"
+        "HBCU",
+        "GPA: 2.7",
+        "U.S. citizen or permanent resident"
       ],
       "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-mcdonalds-black-and-positively-golden-scholarship/",
       "sourceUrl": "https://tmcf.org/open-scholarships/2027-2028-tmcf-mcdonalds-black-and-positively-golden-scholarship/",
-      "summary": "Scholarship. Location / format: TMCF member HBCU. Next milestone: Fall 2027 / Spring 2028 disbursement",
-      "eligibility": "Full-time undergrad freshman-senior at TMCF member HBCU; GPA 2.7+; demonstrated leadership + financial need; US citizen or legal permanent resident (NOT F-1 friendly)",
-      "reward": "Up to $15,000 need-based scholarship; 60 scholars (tuition & fees)",
+      "summary": "Need-based scholarship for students at eligible TMCF HBCU member institutions during 2027–28.",
+      "eligibility": "Full-time undergraduate freshman through senior in 2027–28, GPA at least 2.7, demonstrated leadership and financial need. U.S. citizen or lawful permanent resident with the specified documentation. Verify the institution against the official member-school requirements.",
+      "reward": "60 scholars may receive up to $15,000 each, split between fall 2027 and spring 2028 for verified tuition and usual fees.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2027-04-23",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027-04-23 23:59 EST (application open now, opened 2026-08-03)",
-      "confidence": "Date only",
-      "opensOn": "",
+      "sourceDeadline": "Application opens August 3, 2026, and closes April 23, 2027, at 11:59 p.m. EST (Eastern Standard Time).",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-08-03",
       "cycle": "2027–2028 · TMCF | McDonald's Black and Positively Golden Scholarship 2027-2028",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "Current organizer overview and scholarship-portal entry verified. Published EST wording falls in daylight-saving time, so retain date-only cutoff pending clarification. Current portal link: https://scholarships.tmcf.org/.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: TMCF portal application; 200-word essay (how will you use your education to change the world)",
-        "Review next milestone: Fall 2027 / Spring 2028 disbursement"
+        "Verify TMCF school, citizenship, GPA and financial-need requirements",
+        "Draft the required 200-word community-impact essay",
+        "Review current scholarship-portal documents"
       ],
       "stream": "spreadsheet"
     },
@@ -9912,35 +9919,40 @@
         }
       },
       "id": "sheet-uncf-hbcu-educators-scholarship-c17fcb5dcb31",
-      "title": "UNCF HBCU Educators Scholarship",
-      "organization": "uncf.org",
+      "title": "UNCF HBCU Educators Scholarship — 2026–27",
+      "organization": "UNCF",
       "category": "Scholarships",
       "levels": [
-        "All levels"
+        "Undergraduate"
       ],
       "tags": [
         "Spreadsheet",
-        "scholarships"
+        "HBCU",
+        "Education majors",
+        "College juniors",
+        "GPA: 2.5",
+        "Citizenship restricted"
       ],
-      "url": "https://uncf.org/the-latest/scholarships-for-october-at-uncf",
-      "sourceUrl": "https://uncf.org/the-latest/scholarships-for-october-at-uncf",
-      "summary": "Scholarships. Location / format: UNCF portal",
-      "eligibility": "Juniors in 2026–27 majoring in education at UNCF-member or any four-year HBCU; UNCF typically requires US citizen/PR — verify; likely F-1 excluded",
-      "reward": "Renewable need-based (amount not published on listing)",
+      "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000XPIzQAO",
+      "sourceUrl": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000XPIzQAO",
+      "summary": "Need-based scholarship for full-time junior education majors at UNCF member institutions or other four-year HBCUs.",
+      "eligibility": "Junior standing in fall 2026, education major, full-time enrollment, GPA at least 2.50, FAFSA and school-verified unmet financial need. Portal lists U.S. citizens, U.S. nationals or permanent residents; temporary student status alone is insufficient.",
+      "reward": "Up to $2,500 for 2026–27; possible additional-year renewal subject to funds and continuing eligibility.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2026-10-29",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-10-29",
-      "confidence": "Date only",
-      "opensOn": "",
+      "sourceDeadline": "Deadline 10/29/2026 11:59 PM EST.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-09-21",
       "cycle": "Intake unconfirmed · UNCF HBCU Educators Scholarship",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "Official portal is Active with Apply Now. EST wording occurs during daylight-saving time, so no exact UTC cutoff inferred. The original saved link and spreadsheet-linked record refer to the same award; historical IDs and cycle labels are retained.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: UNCF application incl. essays + documents"
+        "Confirm education major, junior standing and citizenship eligibility",
+        "Prepare current transcript and career-interest essay",
+        "Confirm portal cutoff timezone before submission"
       ],
       "stream": "spreadsheet"
     },
@@ -11056,34 +11068,38 @@
       },
       "id": "sheet-undergraduate-minorities-in-stem-scholarship-bc5e7dc57322",
       "title": "Undergraduate Minorities in STEM Scholarship",
-      "organization": "bold.org",
+      "organization": "Leslie Smith / Bold.org",
       "category": "Scholarships",
       "levels": [
         "Undergraduate"
       ],
       "tags": [
         "Spreadsheet",
-        "scholarships"
+        "HBCU",
+        "STEM",
+        "BIPOC",
+        "GPA: 3.0"
       ],
-      "url": "https://bold.org/donor/leslie-smith/",
-      "sourceUrl": "https://bold.org/donor/leslie-smith/",
-      "summary": "Scholarships. Location / format: USA / Online (Bold.org)",
-      "eligibility": "Source reports BIPOC undergraduates in STEM at HBCUs, minimum GPA 3.0. Verify citizenship and current award eligibility on the specific scholarship page.",
-      "reward": "$1,400 cash, 2 winners",
+      "url": "https://bold.org/scholarships/undergraduate-minorities-in-stem-scholarship/",
+      "sourceUrl": "https://bold.org/scholarships/undergraduate-minorities-in-stem-scholarship/",
+      "summary": "Donor-funded STEM scholarships for underrepresented HBCU undergraduates.",
+      "eligibility": "BIPOC undergraduate attending an HBCU, majoring in STEM, with GPA at least 3.0. Citizenship restrictions are not specified on the award page; confirm platform and enrollment requirements.",
+      "reward": "Two awards of $700 each ($1,400 total across winners). No purchase required under https://bold.org/scholarship-rules/.",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "",
+      "deadlineDate": "2026-11-17",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: Nov 17, 2026",
-      "confidence": "Unknown",
+      "sourceDeadline": "Application Deadline: Nov 17, 2026. No time or timezone stated.",
+      "confidence": "Date only",
       "opensOn": "",
       "cycle": "Intake unconfirmed · Undergraduate Minorities in STEM Scholarship",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "Direct donor-program page shows Open with application registration. Replaced donor-profile link with the actual current scholarship. Winner announcement December 18, 2026.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Bold.org profile application (short-form, ~30–60 min)"
+        "Verify HBCU enrollment, STEM major and GPA",
+        "Choose an official prompt and write 100–400 words",
+        "Review application and enrollment verification requirements"
       ],
       "stream": "spreadsheet"
     },
@@ -11132,12 +11148,11 @@
       "opensOn": "",
       "cycle": "Intake unconfirmed · MPOWER Global Citizen Scholarship",
       "sourceState": "Needs verification",
-      "sourceNote": "Direct official-page read confirms scholarship funding capacity has been reached and new applications are temporarily paused. December 31 remains in legacy terms but is not a usable current application deadline. No reopening date is confirmed.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "Current official page confirms funding capacity for 2026 has been reached and new scholarship applications remain temporarily paused. Legacy December 31 terms are not a usable application cutoff. No reopening date is confirmed.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Online application + one English essay (selection: essay quality, field-of-study-to-goals nexus, potential as scientist/entrepreneur/leader/change-maker)",
-        "Review next milestone: Check reopening — site states funding capacity reached for 2026 and applications temporarily paused as of Oct 23, 2026"
+        "Monitor the official page for reopening",
+        "Recheck school, lawful-study and award rules when a new cycle opens"
       ],
       "stream": "spreadsheet"
     },
@@ -11162,34 +11177,38 @@
       },
       "id": "sheet-hbcu-legacy-excellence-scholarship-7caaac3570bf",
       "title": "HBCU Legacy & Excellence Scholarship",
-      "organization": "bold.org",
+      "organization": "Originals 3D Prints / Bold.org",
       "category": "Scholarships",
       "levels": [
-        "All levels"
+        "Undergraduate"
       ],
       "tags": [
         "Spreadsheet",
-        "scholarships"
+        "HBCU",
+        "GPA: 3.0",
+        "Leadership",
+        "Essay"
       ],
-      "url": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/",
-      "sourceUrl": "https://bold.org/scholarships/by-demographics/minorities/black-students-scholarships/2/",
-      "summary": "Scholarships. Location / format: USA / Online (Bold.org)",
-      "eligibility": "HBCU freshmen, sophomores and juniors with campus leadership experience and GPA 3.0 or higher. Citizenship requirements are not stated in the source; verify current award rules.",
-      "reward": "$1,000 cash",
+      "url": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
+      "sourceUrl": "https://bold.org/scholarships/hbcu-legacy-and-excellence-scholarship/",
+      "summary": "HBCU scholarship recognizing campus leadership, service and the impact of an HBCU education.",
+      "eligibility": "HBCU freshman, sophomore or junior with GPA at least 3.0 and campus leadership experience. Specific citizenship restrictions are not published on the award page; confirm platform and enrollment rules.",
+      "reward": "One $1,000 award; funds administered by Bold.org. No purchase required under https://bold.org/scholarship-rules/.",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "",
+      "deadlineDate": "2026-11-20",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: Nov 20, 2026",
-      "confidence": "Unknown",
+      "sourceDeadline": "Application Deadline: Nov 20, 2026. No time or timezone stated.",
+      "confidence": "Date only",
       "opensOn": "",
       "cycle": "Intake unconfirmed · HBCU Legacy & Excellence Scholarship",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "Direct donor-program page shows Open with application registration. Replaced the general category-page link with the actual award. Existing ID, cycle and spreadsheet facts retained. Winner announced December 21, 2026.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Bold.org profile application (~30–60 min)"
+        "Verify HBCU enrollment, GPA and campus leadership",
+        "Draft the 400–600-word HBCU values and legacy essay",
+        "Review Bold.org rules and application requirements"
       ],
       "stream": "spreadsheet"
     },
@@ -15828,6 +15847,230 @@
         "Apply and complete the mathematics assessment if invited"
       ],
       "stream": "trading"
+    },
+    {
+      "id": "mensa-foundation-scholarships-2027-28",
+      "title": "Mensa Foundation Scholarships — 2027–28",
+      "organization": "Mensa Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Academic goals",
+        "Essay",
+        "Eligibility: Award-specific"
+      ],
+      "url": "https://mensafoundation.awardspring.com/",
+      "sourceUrl": "https://www.mensafoundation.org/what-we-do/scholarships/",
+      "summary": "Scholarship program using a single application and an original essay on educational and career goals.",
+      "eligibility": "Provide intended enrollment at an accredited institution for 2027–28 if selected. Current public guidelines do not fully state citizenship, residence or individual-award restrictions; review matching awards in the portal before applying.",
+      "reward": "Individual awards vary; no current individual award amount is confirmed on the public guidelines. The program-wide annual total is not an individual award.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-15",
+      "deadlineAt": "2026-11-16T05:59:00.000Z",
+      "sourceDeadline": "Closes: November 15, 2026 (11:59 p.m. CST / 05:59 a.m. GMT).",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-15",
+      "cycle": "2027–28 academic year",
+      "sourceState": "Application",
+      "sourceNote": "Current organizer guidelines and linked AwardSpring sign-in/registration entry verified. Do not reuse older January deadlines. Additional award-specific rules require portal review.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Review award-specific eligibility in the official portal",
+        "Write an original plain-text essay of at most 550 words without identifying information",
+        "Confirm enrollment documentation requirements"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "american-dream-cabay-scholarship-2027",
+      "title": "American Dream Scholarship — 2027",
+      "organization": "Charleen Cabay / Bold.org",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Non-citizen students",
+        "Community service",
+        "Essay"
+      ],
+      "url": "https://bold.org/scholarships/american-dream-scholarship/",
+      "sourceUrl": "https://bold.org/scholarships/american-dream-scholarship/",
+      "summary": "Donor-funded award for a non-U.S.-citizen student with volunteering or community-service experience.",
+      "eligibility": "Published criteria permit non-citizen students with community-service or volunteering experience. Description emphasizes undocumented students; confirm how the organizer applies this to a particular status. Bold.org rules require an eligible U.S. institution. No GPA threshold is published.",
+      "reward": "One $1,000 scholarship, generally paid to the institution. No purchase or payment required under https://bold.org/scholarship-rules/.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-03-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Application Deadline: Mar 30, 2027. No cutoff time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "March 2027 award",
+      "sourceState": "Application",
+      "sourceNote": "Official donor scholarship page is Open and links to the application registration. Citizenship and service restrictions retained; an award is competitive. Winners announced May 1, 2027.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Confirm current non-citizen eligibility rules",
+        "Write the 400–600-word essay defining the American dream",
+        "Review the official Bold.org application and enrollment rules"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "uncf-general-application-2026-27",
+      "title": "UNCF General Scholarship Application — 2026–27",
+      "organization": "UNCF",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "HBCU",
+        "UNCF member schools only",
+        "GPA: 2.5",
+        "FAFSA required"
+      ],
+      "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000iirQfYAI",
+      "sourceUrl": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000iirQfYAI",
+      "summary": "Application pool for unpublished UNCF scholarships; submitting this form does not guarantee funding.",
+      "eligibility": "Full-time enrollment during 2026–27 at one of the 37 UNCF member institutions, GPA at least 2.50, FAFSA and institution-verified unmet financial need. A school being an HBCU alone is insufficient. Citizenship eligibility is not fully specified on this public page; confirm FAFSA and program requirements.",
+      "reward": "No fixed individual award is published for this general pool; awards depend on matching scholarships.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-03-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Deadline 3/31/2027 5:00 PM EST.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-04-27",
+      "cycle": "2026–2027 academic year",
+      "sourceState": "Application",
+      "sourceNote": "Official portal shows Active and Apply Now. EST wording falls during daylight-saving time; date retained without invented UTC cutoff. Member-school list: https://uncf.org/member-colleges.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Confirm the college is a UNCF member institution",
+        "Verify FAFSA, GPA and unmet-need requirements",
+        "Complete the general application and review separate program applications"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "uncf-phelps-2026-27",
+      "title": "Bryant X. Phelps Endowed Scholarship — 2026–27",
+      "organization": "UNCF",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Texas residents",
+        "GPA: 2.7",
+        "FAFSA required",
+        "Need-based"
+      ],
+      "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000idUJRYA2",
+      "sourceUrl": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000idUJRYA2",
+      "summary": "Need-based scholarship for Texas permanent residents studying full-time at an accredited U.S. four-year institution.",
+      "eligibility": "GPA at least 2.7, permanent Texas residence, completed FAFSA and school-verified unmet need. Preference for Morehouse, Clark Atlanta, Spelman, Huston-Tillotson, Prairie View A&M and Texas Tech. Citizenship restrictions are not separately specified; verify FAFSA eligibility. Non-relative recommendation must arrive through the portal by the deadline.",
+      "reward": "Up to $4,400 for 2026–27; competitive need-based award.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-09",
+      "deadlineAt": "2026-11-09T22:00:00.000Z",
+      "sourceDeadline": "Deadline 11/9/2026 5:00 PM EST.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-12",
+      "cycle": "2026–2027 academic year",
+      "sourceState": "Application",
+      "sourceNote": "Official portal shows Active and Apply Now. Texas permanent residence is required; attending a Texas school alone does not establish eligibility.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify Texas residency, GPA and FAFSA requirements",
+        "Request the required non-relative reference through the portal",
+        "Prepare transcript and 500-word higher-education motivation essay"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "uncf-matisse-2026-27",
+      "title": "Pierre and Tana Matisse Scholarship — 2026–27",
+      "organization": "UNCF / Pierre and Tana Matisse Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "New York City residents",
+        "GPA: 2.5",
+        "Citizenship restricted",
+        "Arts preference"
+      ],
+      "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000hLF4vYAG",
+      "sourceUrl": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000hLF4vYAG",
+      "summary": "Renewable need-based scholarship for New York City residents at accredited two- or four-year colleges; art-related majors receive priority.",
+      "eligibility": "Full-time undergraduate or graduate enrollment, residence or permanent residence in one of NYC’s five boroughs, GPA at least 2.5, FAFSA and verified unmet need. Portal residency categories specify U.S. citizen, U.S. national or permanent resident. Priority favors undergraduate juniors/seniors in the listed arts disciplines.",
+      "reward": "Up to $7,500 for 2026–27, paid to the institution; potential renewal up to $7,500 in 2027–28 if continuing requirements are met.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-27",
+      "deadlineAt": "2026-11-28T04:59:00.000Z",
+      "sourceDeadline": "Deadline 11/27/2026 11:59 PM EST.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-19",
+      "cycle": "2026–2027 academic year",
+      "sourceState": "Application",
+      "sourceNote": "Official portal shows Active and Apply Now. NYC residence and citizenship restrictions apply; priority is not a requirement to major in the arts.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Verify NYC residence, citizenship and FAFSA requirements",
+        "Prepare transcript and career-interest statement",
+        "List recent leadership, honors and community-service examples"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "science-ambassador-2027",
+      "title": "Science Ambassador Scholarship — 2027",
+      "organization": "Cards Against Humanity",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Undergraduate"
+      ],
+      "tags": [
+        "STEM",
+        "Women and non-binary students",
+        "International students eligible",
+        "Video"
+      ],
+      "url": "https://www.scienceambassadorscholarship.org/",
+      "sourceUrl": "https://www.scienceambassadorscholarship.org/",
+      "summary": "Five competitive undergraduate STEM scholarships selected through short educational videos.",
+      "eligibility": "Women and non-binary high-school seniors or undergraduates who will attend a U.S. college full-time in 2027–28 and pursue a STEM major. U.S. citizenship is not required. Graduate students and STEM-minor-only applicants are excluded.",
+      "reward": "Five one-time awards of $20,000 for undergraduate STEM tuition; paid to colleges in fall 2027. This cycle is not a full-tuition guarantee.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-14",
+      "deadlineAt": "2026-12-15T05:59:00.000Z",
+      "sourceDeadline": "Monday, December 14th, 2026 at 11:59PM US Central Time.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 academic year",
+      "sourceState": "Application",
+      "sourceNote": "Organizer page and active form at https://apply.scienceambassadorscholarship.org/ reviewed. Public YouTube video of at most three minutes required; Shorts excluded. Email confirmation is mandatory.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Confirm gender, STEM-major and U.S. enrollment eligibility",
+        "Create an original STEM teaching video of at most three minutes",
+        "Review public-video and email-confirmation requirements"
+      ],
+      "stream": "original"
     }
   ]
 }
