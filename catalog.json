@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 80,
-  "updatedAt": "2026-10-27T19:46:45.340Z",
+  "revision": 81,
+  "updatedAt": "2026-10-27T20:08:28.853Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-27T16:29:50.932Z",
+      "checkedAt": "2026-10-27T20:07:45.000Z",
       "outcome": "error",
-      "summary": "Partial review: added four verified US Summer 2027 openings at Morgan Stanley and Broadridge, including an October 30 fixed-income cutoff. Rechecked Bank of America software/mainframe, BlackRock, Citi Irving cybersecurity, Belvedere trading and Akuna quant development. Evercore recheck was blocked by human verification; previous facts were preserved without inferring closure."
+      "summary": "Added two verified U.S. Summer 2027 Susquehanna engineering openings with explicit sponsorship and a Guardian audit internship without sponsorship. Marked UBS NY/NJ technology expired/filled. Rechecked D. E. Shaw and Point72 applications and the October 30 Morgan Stanley fixed-income deadline. Partial verification: Evercore requires human verification; Optiver software remains a 404. Preserved prior facts for unavailable sources."
     },
     {
       "id": "spreadsheet",
@@ -2797,8 +2797,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Needs verification",
-      "sourceNote": "October 24: direct role/application route still returns 404, while the official Chicago jobs board still lists Summer 2027 Software Engineer. Availability remains contradictory; retained as Needs verification, not a verified open application or a confirmed closure. Prior employer sponsorship wording is retained but does not resolve application availability. Board: https://www.optiver.com/join-us/jobs/?location=chicago",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 27: direct Chicago software internship route still displays an official 404, while an indexed official description remains available. Application availability is unverified; retained as Needs verification without inferring closure. Previous sponsorship wording does not prove an active application. Board: https://www.optiver.com/join-us/jobs/?location=chicago",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Check graduation window (Dec 2027–Jun 2028) and the 8-month re-apply rule",
         "Tailor resume toward C++/Python/Java systems work",
@@ -11509,9 +11509,9 @@
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
-      "sourceState": "Open listing",
-      "sourceNote": "October 25: official NY/NJ technology role and role-specific sign-in application entry reverified. No closing date published. No employment-visa sponsorship or assistance/documentation for OPT or CPT. Corrected benefits wording: this role is not eligible for UBS benefits or additional incentives.",
-      "checkedOn": "2026-10-25",
+      "sourceState": "Past cycle",
+      "sourceNote": "October 27: the official UBS recruiting system for job 350352 states that the posting has expired or the position has already been filled. Marked this listing Past cycle; no exact closure date is inferred. Earlier job details and source history are retained.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11710,8 +11710,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 25: current New York Summer 2027 role and complete matching application form reverified. Fall 2027–Spring 2028 degree wording is unchanged; no monthly bounds inferred. Sponsorship questions provide no commitment. Duration and closing date remain unpublished.",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 27: current New York Summer 2027 description and matching application form reverified. Fall 2027–Spring 2028 graduation wording remains seasonal. Sponsorship questions do not promise support. No fixed deadline or program length is published; annual salary is prorated, not internship-total pay.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11791,8 +11791,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 24: role 5894 and matching online application verified through the role’s Apply Now link. Start from that role page; the generic application URL alone can show a session timeout. Form sponsorship questions do not establish support. Official internship guidance confirms rolling consideration and recommends applying by the previous calendar year-end, not a fixed deadline: https://www.deshaw.com/careers/internships",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 27: current New York Summer 2027 role and complete matching application for job 5894 verified. Start at the role page and use Apply Now; a generic application URL without the selected job can time out. Sponsorship remains unstated; application questions do not establish support. Existing rolling guidance is unchanged: https://www.deshaw.com/careers/internships",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -15667,6 +15667,131 @@
         "Review next milestone: Plan spring 2027 psychology conference, confirm chapter membership and portal"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "susquehanna-trading-system-engineering-10837-2027",
+      "title": "Trading System Engineering Intern — Summer 2027, Philadelphia area",
+      "organization": "Susquehanna International Group",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Supported",
+        "Trading systems",
+        "C++",
+        "Housing provided"
+      ],
+      "url": "https://careers.sig.com/philadelphia-jobs/jobs/10837?lang=en-us",
+      "sourceUrl": "https://careers.sig.com/philadelphia-jobs/jobs/10837?lang=en-us",
+      "summary": "Ten-week internship starting June 2027 in Bala Cynwyd, Pennsylvania. Build low-latency trading systems alongside experienced developers; in-person amenities and housing are provided.",
+      "eligibility": "Full-time bachelor's or master's students in computer science, computer engineering, mathematics or a closely related STEM discipline. Must intend to graduate and start full-time employment by August 2028. Strong compiled-language programming and some Python are expected. The employer explicitly offers visa sponsorship for this position; confirm individual authorization arrangements.",
+      "reward": "Housing for the internship and workplace meals are provided. Cash compensation and travel reimbursement are not specified on the reviewed posting; confirm terms before accepting.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published on the official role; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 27: current Summer 2027 U.S. role and matching iCIMS email-entry application verified. No fixed closing date or pay period is published. Sponsorship support comes from the role description, not an application question.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Confirm work authorization arrangements and internship compensation",
+        "Prepare a systems-focused resume and C++ examples",
+        "Review the official role and start its matching application"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "susquehanna-quant-strategy-developer-10838-2027",
+      "title": "Quantitative Strategy Developer Intern — Summer 2027, Philadelphia area",
+      "organization": "Susquehanna International Group",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Supported",
+        "Quantitative development",
+        "Python",
+        "Housing provided"
+      ],
+      "url": "https://careers.sig.com/intern-co-op/jobs/10838?lang=en-us",
+      "sourceUrl": "https://careers.sig.com/intern-co-op/jobs/10838?lang=en-us",
+      "summary": "Ten-week internship starting June 2027 in Bala Cynwyd, Pennsylvania. Develop trading signals and quantitative analyses and work on low-latency strategies.",
+      "eligibility": "Full-time bachelor's or master's students in CS, computer engineering, mathematics or a related STEM field, intending to graduate and begin full-time employment by August 2028. Python, a compiled language and data-library experience are expected. Visa sponsorship is explicitly available; confirm individual authorization arrangements.",
+      "reward": "Internship housing and workplace meals are provided. The role does not publish a cash-pay amount, pay period or travel allowance.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published on the official role; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 27: detailed U.S. Summer 2027 posting and matching iCIMS application entry verified. No deadline is published. A start-by-August-2028 requirement is not converted into a fabricated monthly graduation range.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Compare quantitative strategy work with the trading-system engineering role",
+        "Prepare Python/data-analysis and compiled-language examples",
+        "Confirm compensation and work authorization before applying"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "guardian-internal-audit-r000110166-2027",
+      "title": "Internal Audit Internship — Summer 2027, New York",
+      "organization": "Guardian Life",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not offered",
+        "Internal audit",
+        "Hybrid",
+        "Graduation: 2028"
+      ],
+      "url": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Internal-Audit_R000110166",
+      "sourceUrl": "https://guardianlife.wd5.myworkdayjobs.com/en-US/Guardian-Life-Careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Internal-Audit_R000110166",
+      "summary": "Paid summer audit placement, May 27–August 6, 2027, in New York City with three office days weekly. Work includes control testing and process-improvement projects.",
+      "eligibility": "Current juniors graduating May 2028 with finance, business, economics or related coursework. Must attend the full program and work in the U.S. without employer sponsorship now or later. The employer excludes F-1 OPT applicants needing H-1B, TN and current H-1B holders for this role.",
+      "reward": "Posted pay range $20–$35, with no pay period stated on the reviewed page; confirm units. Housing is not provided; most employee benefits exclude interns.",
+      "value": 4,
+      "effort": 7,
+      "deadlineDate": "2026-11-13",
+      "deadlineAt": "",
+      "sourceDeadline": "Body: Friday, November 13th, 2026, at 11:59PM ET, or earlier if filled. Workday header: End Date November 14, 2026.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "October 27: matching application entry verified. Body/header dates differ; retained the earlier body date without UTC pending clarification. Review is explicitly rolling.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Confirm work authorization exclusions",
+        "Confirm the November 13/14 deadline discrepancy and pay units",
+        "Tailor resume toward audit controls and analytical work"
+      ],
+      "stream": "internships"
     }
   ]
 }
