@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 76,
-  "updatedAt": "2026-10-27T16:49:59.057Z",
+  "revision": 77,
+  "updatedAt": "2026-10-27T16:51:01.663Z",
   "streams": [
     {
       "id": "internships",
@@ -12250,7 +12250,7 @@
       "opensOn": "",
       "cycle": "2027 · Weill Cornell Medicine Biostatistics Summer Internship 2027",
       "sourceState": "Application",
-      "sourceNote": "Organizer page explicitly confirms international students at U.S. institutions, community-college applicants and limited graduate TA places. The linked Qualtrics form requires JavaScript and did not render in the read-only check; the program page states applications are open.",
+      "sourceNote": "Confirmed the 2027 organizer page and active Qualtrics application form. International students at U.S. institutions, community-college applicants and limited graduate TA places are explicitly addressed; applicants must still establish appropriate employment authorization.",
       "checkedOn": "2026-10-27",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
