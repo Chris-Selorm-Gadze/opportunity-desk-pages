@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 84,
-  "updatedAt": "2026-10-27T23:00:12.928Z",
+  "revision": 85,
+  "updatedAt": "2026-10-27T23:35:33.419Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-10-24T17:47:47.000Z",
+      "checkedAt": "2026-10-27T23:06:36.000Z",
       "outcome": "success",
-      "summary": "Marked Columbia Trading Tournament’s verified October 23 cutoff as a past cycle. Added Voloridge’s fully covered Florida quant-research program for early undergraduates and early PhDs, plus PRMIA’s paid-entry global virtual risk challenge with cash awards."
+      "summary": "Corrected Tradeify Open 2 from a stale October 25 cutoff to the current free-entry listing (the page lists October 26–November 23 play dates but no registration cutoff). Added SIG’s New York 2027 quantitative-trading Discovery Program. Marked IAQF Industry Day and the Global Market Making Games qualifier as past cycles after their stated October 25 cutoffs."
     },
     {
       "id": "travel",
@@ -1888,26 +1888,26 @@
         "Daily discovery",
         "Finance"
       ],
-      "url": "https://help.tradeify.co/en/articles/16829567-premier-trading-league-full-competition-guide",
-      "sourceUrl": "https://help.tradeify.co/en/articles/16829567-premier-trading-league-full-competition-guide",
-      "summary": "Online simulated futures tournament. Open 2 is followed by a live finale in Fort Lauderdale on December 11.",
+      "url": "https://www.premiertradingleague.com/",
+      "sourceUrl": "https://www.premiertradingleague.com/",
+      "summary": "Online simulated futures tournament. The FAQ lists Open 2 play from October 26–November 23; a live finale is listed for Fort Lauderdale on December 11.",
       "eligibility": "KYC verification; one entry per person and household; restricted-country rules apply. Finalists must be legally able to travel to the U.S.; no visa sponsorship.",
-      "reward": "Free entry, simulated accounts; cash prizes depend on placing. Finalists receive coach travel and hotel under organizer terms; optional paid resets are separate.",
+      "reward": "Free entry and a simulated $50,000 account. The organizer advertises $1,000,000 in total cash rewards, including a $300,000 prize pool for each Open and a $180,000 overall first prize; these are pools/awards, not guaranteed individual payment. Optional resets cost $25 or $49. The organizer promotes an all-inclusive Florida finale; verify finalist travel coverage and exclusions in the terms.",
       "value": 3,
       "effort": 20,
-      "deadlineDate": "2026-10-25",
-      "deadlineAt": "2026-10-26T03:59:00Z",
-      "sourceDeadline": "October 25, 2026, 11:59 PM ET",
-      "confidence": "Exact time",
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "The official current page has an active ‘Enter for FREE’ link and states Open 2 runs October 26–November 23, 2026; it does not publish a registration cutoff.",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2026 Open 2",
-      "sourceState": "Application",
-      "sourceNote": "Official guide specifies Open 2 registration closing Sunday October 25 at 11:59 PM ET. Read eligibility and prize/payment terms before entering.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Open listing",
+      "sourceNote": "Official current page checked October 27. Its FAQ says Open 2 ends November 23, while a leaderboard section says November 19; confirm the schedule and terms before playing.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Review eligibility, cash-prize and reset terms",
+        "Register through the official free-entry link",
+        "Confirm the Open 2 schedule before playing"
       ],
       "stream": "trading"
     },
@@ -2220,17 +2220,16 @@
       "effort": 3,
       "deadlineDate": "2026-10-25",
       "deadlineAt": "",
-      "sourceDeadline": "October 25, 2026, 11:59 PM “EST” — daylight-time ambiguity; confirm",
+      "sourceDeadline": "October 25, 2026, 11:59 PM ‘EST’ — passed; original organizer wording has daylight-time ambiguity.",
       "confidence": "Date only",
       "opensOn": "",
       "cycle": "2026",
-      "sourceState": "Application",
-      "sourceNote": "Organizer states registration until October 25 at 11:59 PM EST. New York observes daylight time in October, so the EST wording needs clarification; use a date-only planning marker.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Past cycle",
+      "sourceNote": "Official page rechecked October 27 still displays the expired October 25 registration cutoff; retained as a past-cycle reference.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Watch the organizer for a later cycle",
+        "Check any future fee and travel-support terms before registering"
       ],
       "stream": "trading"
     },
@@ -2257,17 +2256,16 @@
       "effort": 6,
       "deadlineDate": "2026-10-25",
       "deadlineAt": "",
-      "sourceDeadline": "Qualifier ends October 25, 2026; local registration may close earlier",
+      "sourceDeadline": "Qualifier window October 1–25, 2026 — passed; campus and world finals are not new entry cutoffs.",
       "confidence": "Date only",
       "opensOn": "",
       "cycle": "Autumn 2026",
-      "sourceState": "Application",
-      "sourceNote": "Organizer lists the qualifier October 1–25 and the world final December 12. Confirm your local society’s earlier signup cutoff and any hosting requirements.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Past cycle",
+      "sourceNote": "Official page rechecked October 27 retains an ‘open’ banner, but its stated October 1–25 qualifier window has closed; retained as a historical reference.",
+      "checkedOn": "2026-10-27",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Watch the organizer and a local society for a later cycle",
+        "Confirm host, entry and travel arrangements before joining"
       ],
       "stream": "trading"
     },
@@ -15792,6 +15790,44 @@
         "Tailor resume toward audit controls and analytical work"
       ],
       "stream": "internships"
+    },
+    {
+      "id": "sig-discovery-quant-trading-2027",
+      "title": "SIG Discovery Program: Quantitative Trading & Strategy Development",
+      "organization": "Susquehanna International Group (SIG)",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Quantitative trading",
+        "Discovery program",
+        "New York",
+        "Trading careers",
+        "Summer 2028"
+      ],
+      "url": "https://careers.sig.com/predictions/jobs/11148?lang=en-us",
+      "sourceUrl": "https://careers.sig.com/predictions/jobs/11148?lang=en-us",
+      "summary": "Invitation-only multi-day, on-site New York program introducing quantitative trading and strategy development through interactive sessions, assessment challenges and interviews. Event dates are not published.",
+      "eligibility": "Students graduating in winter 2028 or spring 2029, with relevant interest or background in mathematics, applied mathematics, computer science, engineering, physics, statistics, finance or economics. A resume is required; eligible applicants are invited to an online mathematics assessment.",
+      "reward": "Career exposure and a direct pathway to Summer 2028 internships. The official listing does not state travel, accommodation, meals, cash prizes, entry fee or visa/sponsorship support.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "2026-11-16",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications close November 16, 2026; cutoff time and timezone are not stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 Discovery Program",
+      "sourceState": "Application",
+      "sourceNote": "Official SIG career listing verified from the current career-search result October 27. Confirm logistics and funding in the live application before applying.",
+      "checkedOn": "2026-10-27",
+      "suggestedTasks": [
+        "Confirm the graduation window and on-site availability",
+        "Prepare a resume highlighting quantitative work",
+        "Apply and complete the mathematics assessment if invited"
+      ],
+      "stream": "trading"
     }
   ]
 }
