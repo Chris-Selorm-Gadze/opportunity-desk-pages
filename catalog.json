@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 105,
-  "updatedAt": "2026-10-28T23:27:44.568Z",
+  "revision": 106,
+  "updatedAt": "2026-10-28T23:35:27.964Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-28T14:10:40.000Z",
+      "checkedAt": "2026-10-28T23:34:56.522Z",
       "outcome": "error",
-      "summary": "Added five verified U.S. Summer 2027 openings: three Coinbase technology roles and two Citi roles without sponsorship. Rechecked Morgan Stanley’s October 30 date-only cutoff, BlackRock, Millennium and sponsorship-supported Susquehanna engineering. Partial verification: Evercore and Bank of America application access require human checks; Guardian details could not be fully reverified. Preserved prior facts for unavailable sources; excluded filled Brevan Howard listings."
+      "summary": "Added five verified U.S. Summer 2027 roles: CTC software and quant trading, plus JPMorganChase Data & AI and two quantitative research analyst roles. Added Bank of America’s linked hourly pay range; rechecked IMC, Jane Street, Guardian, Millennium and Morgan Stanley’s October 30 cutoff. Preserved JPMorganChase date conflicts and sponsorship exclusions. Partial verification: Evercore application access remains blocked by a human-verification check; prior facts are retained."
     },
     {
       "id": "spreadsheet",
@@ -2584,28 +2584,32 @@
         "Quantitative research",
         "Finance",
         "Python",
-        "New York"
+        "New York",
+        "Financial institution",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Location: US"
       ],
       "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
       "sourceUrl": "https://www.janestreet.com/join-jane-street/position/8498547002/",
-      "summary": "May–August quantitative research internship in New York, working with data, statistical models and trading research.",
-      "eligibility": "Strong mathematical reasoning and programming, especially Python. The posting welcomes varied academic/career backgrounds; confirm intake year, availability and work authorization with recruiting.",
-      "reward": "Paid role. Confirm internship-period compensation and any relocation support; an annual base-salary figure is not total internship earnings.",
+      "summary": "May–August quantitative research internship in New York, developing statistical and machine-learning models for trading. Intake year and exact dates remain unannounced; the general internship program typically lasts 10–12 weeks.",
+      "eligibility": "Strong mathematical reasoning and Python programming; data science or machine-learning experience useful. Most interns are undergraduate or graduate students, but graduates considering a finance career are welcome. No explicit graduation window or role-specific sponsorship commitment is published; confirm work authorization and intake year.",
+      "reward": "Role lists base salary of $300,000 without a stated pay period. Confirm internship proration and relocation support; this figure is not total internship earnings.",
       "value": 4,
       "effort": 7,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Application is available; no fixed closing date published. Apply early and confirm availability.",
+      "sourceDeadline": "No fixed closing date published. The employer FAQ says applications are reviewed on a rolling basis.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "May–August internship · intake year to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "An active official Apply option was verified. No closing date or explicit intake year is stated on this role page. Do not treat job-board expiration dates as employer deadlines.",
-      "checkedOn": "2026-10-23",
+      "sourceNote": "October 28: current New York role and working application form verified. The May–August intake still has no year; existing cycle identity is preserved rather than inventing a 2027 cycle. FAQ says sponsorship varies by office and role, requiring recruiter confirmation, and one application is considered across available roles. FAQ: https://www.janestreet.com/join-jane-street/interviewing/ . Application: https://www.janestreet.com/join-jane-street/apply/8498547002/ .",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
-        "Confirm intake year, work authorization and placement dates",
-        "Prepare a research-focused resume and relevant projects",
-        "Review probability, statistics and coding interview preparation"
+        "Confirm intake year, specific dates and sponsorship for the New York role",
+        "Prepare a research resume and Python/statistics examples",
+        "Review interview guides; one application is considered across roles"
       ],
       "stream": "internships"
     },
@@ -11925,7 +11929,7 @@
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/14418/global-technology-summer-analyst-2027-software-engineer-and-mainframe-analyst-multiple-locations",
       "summary": "10-week technology internship with in-person orientation and office-based team work. Software Engineer and Mainframe Analyst track. Locations: Charlotte, Chicago, Dallas Metro, New York City Metro, Pennington NJ and Phoenix, United States.",
       "eligibility": "Penultimate-year undergraduate or master’s student in CS, computer engineering, information systems or a related field; graduation November 2027–August 2028. Master’s candidates must have no more than zero years of experience. GPA 3.5 preferred; minimum age 18. Role does not specify sponsorship. General US policy allows case-by-case support for some programs, which does not confirm support for this requisition.",
-      "reward": "Compensation amount is not stated on the reviewed role page. Confirm location-specific pay and benefits.",
+      "reward": "For locations covered by the linked campus pay-transparency notice, published pay is $25.00–$45.50 per hour. A housing stipend may be offered, payable within 45 days after starting and subject to withholding and offer terms. Confirm the selected office rate and stipend eligibility; housing is not guaranteed.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "2026-11-07",
@@ -11935,8 +11939,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 27: official software/mainframe description, campus listing and matching registration entry reverified. November 7, 2026 remains date-only; recruiting is explicitly rolling before close. Maximum three US/Canada applications and eight globally per recruitment season. Sponsorship remains unstated for this requisition. Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 28 evening: public description, campus role 14418 and matching registration form verified. November 7 remains date-only. Campus portal states at most three U.S./Canada applications and eight globally per recruitment season. Role-specific sponsorship is unstated; the general policy permits case-by-case consideration only. Linked pay notice: https://bankcampuscareers.tal.net/vx/candidate/cms/transparency_internship . Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12482,8 +12486,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 28: current Chicago Summer 2027 description and complete live application form verified. June 7 start, ten-week duration and September 2027–July 2028 graduation window remain current. One application per role each year; IMC recommends focusing on one role. Immigration questions do not establish sponsorship support. No closing date or salary pay period is stated.",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Confirm sponsorship and published pay units",
         "Choose the strongest role within IMC’s application rules",
@@ -14186,7 +14190,7 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 28: official Boston Summer 2027 role and matching role-specific registration entry reverified. October 30 remains a date-only application deadline; no cutoff time or timezone is published. Review is rolling until filled or the deadline. Sponsorship remains unstated; equal-opportunity wording does not establish support.",
+      "sourceNote": "October 28 evening: official Boston role and matching role-specific registration form reverified. The October 30 date-only cutoff and rolling review remain current; no cutoff timezone is published. Sponsorship remains unstated. Resume and HireVue are required.",
       "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Review work authorization and sponsorship before applying",
@@ -15802,8 +15806,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 27: matching application entry verified. Body/header dates differ; retained the earlier body date without UTC pending clarification. Review is explicitly rolling.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 28 evening: complete official role and matching Start Your Application entry reverified. Body states November 13 at 11:59 PM ET; header lists November 14. Retained the earlier body date without UTC because the discrepancy remains unresolved. Review is rolling and may end earlier. No sponsorship now or later; the $20–$35 pay range still lacks an explicit pay period.",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Confirm work authorization exclusions",
         "Confirm the November 13/14 deadline discrepancy and pay units",
@@ -17385,6 +17389,225 @@
         "Review next milestone: Watch application opening in March 2027"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "ctc-software-engineering-4716932005-2027",
+      "title": "Software Engineering Internship — Summer 2027, Chicago",
+      "organization": "Chicago Trading Company",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-12 to 2028-06",
+        "Software engineering",
+        "Paid",
+        "Housing provided"
+      ],
+      "url": "https://www.chicagotrading.com/early-career-job/?gh_jid=4716932005",
+      "sourceUrl": "https://www.chicagotrading.com/early-career-job/?gh_jid=4716932005",
+      "summary": "Eight-week Chicago engineering internship, mid-June–early August 2027, developing trading and risk software with Java, C++ or Python.",
+      "eligibility": "Bachelor’s/master’s students in CS, computer engineering or a similar technical field, graduating December 2027–June 2028. Must relocate to Chicago and attend the full program. Work-authorization questions are present, but sponsorship support is not stated; confirm before applying.",
+      "reward": "$16,500 per month plus a signing bonus of unstated amount; free shared intern housing in downtown Chicago and breakfast, lunch and snacks. Travel and other meal costs are not stated.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: official Summer 2027 description and complete embedded Greenhouse application verified. One application per position per recruiting cycle; employer recommends focusing on the strongest role. Sponsorship questions and EEO language do not establish support. Monthly compensation is not a total internship award.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Confirm sponsorship and relocation requirements",
+        "Choose the strongest CTC role within the one-application-per-position rule",
+        "Tailor resume and prepare coding examples"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "ctc-quant-trading-4716930005-2027",
+      "title": "Quant Trading Internship — Summer 2027, Chicago",
+      "organization": "Chicago Trading Company",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-12 to 2028-06",
+        "Quantitative trading",
+        "Paid",
+        "Housing provided"
+      ],
+      "url": "https://www.chicagotrading.com/early-career-job/?gh_jid=4716930005",
+      "sourceUrl": "https://www.chicagotrading.com/early-career-job/?gh_jid=4716930005",
+      "summary": "Eight-week Chicago trading internship, mid-June–early August 2027, combining options training, quantitative projects and trading-team work.",
+      "eligibility": "Bachelor’s/master’s students in any major graduating December 2027–June 2028; strong analytical skills and basic programming or willingness to learn Python. Must relocate and attend all eight weeks. Finance experience is not required. Sponsorship and work-authorization support are unstated.",
+      "reward": "$16,500 per month plus a signing bonus of unstated amount; free shared intern housing in downtown Chicago and breakfast, lunch and snacks. Travel and remaining meal expenses are not stated.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: current U.S. Summer 2027 posting and complete embedded Greenhouse form verified. One application per position during the recruiting cycle; choose the strongest role first. The application asks about work authorization without promising sponsorship.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Confirm sponsorship and Chicago attendance",
+        "Choose the strongest CTC role before applying",
+        "Prepare probability, analytical and basic programming examples"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "jpm-data-ai-210773869-2027",
+      "title": "Data & AI Summer Analyst Internship — United States, 2027",
+      "organization": "JPMorganChase",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not offered",
+        "Graduation: 2027-12 to 2028-08",
+        "Data science",
+        "AI",
+        "Data engineering",
+        "Deadline conflict"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "summary": "Summer 2027 data, analytics and AI projects in Chicago, Columbus, Wilmington, Newark, Plano, New York, Jersey City or Palo Alto. Duration, exact dates and remote work are not published.",
+      "eligibility": "Bachelor’s/master’s students in a quantitative or technical field graduating December 2027–August 2028; permanent U.S. work authorization required. Employer explicitly offers no employment-based sponsorship or assistance/signatures for OPT or CPT. Prior work experience is not required.",
+      "reward": "Posting lists base pay/salary of $95,000 for Chicago and $110,000–$115,000 for New York, Jersey City and Palo Alto without a stated pay period. Confirm actual internship rate and proration; these are not internship-total earnings. Other office pay, housing and travel support are unstated.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Program page: November 6, 2026. Direct requisition: Apply Before 11/19/2026, 11:00 PM, without timezone. Conflicting official dates remain unconfirmed.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "October 28: complete live U.S. role and matching email application-entry screen verified. The program directory still says November 6 while the current requisition displays November 19 at 11 PM; do not rely on an extension without clarification. Rolling review is explicit. Directory: https://www.jpmorganchase.com/careers/explore-opportunities/programs/data-analytics-opportunities . FAQ recommends focusing on at most three summer internship programs: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Check permanent work authorization and OPT/CPT exclusions",
+        "Resolve the November 6 versus November 19 date conflict before relying on extra time",
+        "Select programs within the employer’s recommended three-program focus",
+        "Tailor a data/AI resume and follow portal assessment instructions"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "jpm-quant-markets-210774038-2027",
+      "title": "Quantitative Research Markets Summer Analyst — New York, 2027",
+      "organization": "JPMorganChase",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-12 to 2028-08",
+        "Quantitative research",
+        "Trading models",
+        "Timezone conflict"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "summary": "New York Metro Summer 2027 quantitative research in pricing, hedging, algorithmic trading and portfolio risk. Specific duration, dates and remote work are not published.",
+      "eligibility": "Bachelor’s/master’s students at a U.S. college in mathematics, statistics, physics, engineering, CS, data science or machine learning, graduating December 2027–August 2028. Programming and research skills required. Role does not state sponsorship or work-authorization policy; confirm specifically for this requisition.",
+      "reward": "The posting lists $110,000 base pay/salary for New York without stating its pay period. Confirm actual internship rate and proration; this is not a promised internship total. Housing and travel support are not stated.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "2026-11-05",
+      "deadlineAt": "",
+      "sourceDeadline": "Direct requisition: Apply Before 11/05/2026, 11:00 PM, timezone unstated. Program directory: November 6, 2026. Earlier date retained without a UTC cutoff pending timezone clarification.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "October 28: current New York role and matching email application-entry screen verified. Official program directory and requisition differ by a day; timezone remains unresolved, so no exact cutoff is assigned. Required next steps include HackerRank and HireVue; positions may fill earlier. Program source: https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs . FAQ recommends focusing on at most three summer internship programs: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Confirm role-specific work authorization and sponsorship",
+        "Clarify November 5/6 cutoff and apply before the earlier displayed date",
+        "Prepare quantitative research and coding examples",
+        "Complete HackerRank and HireVue when invited"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "jpm-quant-asset-management-210774074-2027",
+      "title": "Quantitative Research Asset Management Summer Analyst — New York, 2027",
+      "organization": "JPMorganChase",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not offered",
+        "Graduation: 2027-12 to 2028-08",
+        "Quantitative research",
+        "Portfolio analytics",
+        "Timezone conflict"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+      "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+      "summary": "New York Summer 2027 quantitative investing and data-science work on portfolios, backtests, models and research infrastructure. Duration, exact dates and remote participation are not stated.",
+      "eligibility": "Bachelor’s/master’s students at a U.S. college in a quantitative, technical, economics or finance field, graduating December 2027–August 2028; Python, C++ or Java. U.S. work authorization required. Employer explicitly offers no employment-based sponsorship or assistance/signatures for OPT or CPT.",
+      "reward": "Posting lists New York base pay/salary of $100,000 without specifying a pay period. Confirm internship rate and proration; this is not total internship earnings. Housing and travel support are unstated.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "2026-11-05",
+      "deadlineAt": "",
+      "sourceDeadline": "Direct requisition: Apply Before 11/05/2026, 11:00 PM, timezone unstated. Program directory: November 6, 2026. Earlier date retained without UTC pending clarification.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "October 28: full current New York role and matching email application-entry screen verified. One-day official date discrepancy remains unresolved. Both HackerRank and HireVue are required if advanced; positions may fill sooner. Program source: https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs . FAQ recommends no more than three summer internship program applications: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Review sponsorship and OPT/CPT exclusions",
+        "Clarify the November 5/6 deadline before relying on the later date",
+        "Prepare portfolio analytics, statistical learning and coding examples",
+        "Complete both required assessments when invited"
+      ],
+      "stream": "internships"
     }
   ]
 }
