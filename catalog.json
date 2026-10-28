@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 101,
-  "updatedAt": "2026-10-28T14:01:09.523Z",
+  "revision": 102,
+  "updatedAt": "2026-10-28T14:11:18.399Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-27T20:07:45.000Z",
+      "checkedAt": "2026-10-28T14:10:40.000Z",
       "outcome": "error",
-      "summary": "Added two verified U.S. Summer 2027 Susquehanna engineering openings with explicit sponsorship and a Guardian audit internship without sponsorship. Marked UBS NY/NJ technology expired/filled. Rechecked D. E. Shaw and Point72 applications and the October 30 Morgan Stanley fixed-income deadline. Partial verification: Evercore requires human verification; Optiver software remains a 404. Preserved prior facts for unavailable sources."
+      "summary": "Added five verified U.S. Summer 2027 openings: three Coinbase technology roles and two Citi roles without sponsorship. Rechecked Morgan Stanley’s October 30 date-only cutoff, BlackRock, Millennium and sponsorship-supported Susquehanna engineering. Partial verification: Evercore and Bank of America application access require human checks; Guardian details could not be fully reverified. Preserved prior facts for unavailable sources; excluded filled Brevan Howard listings."
     },
     {
       "id": "spreadsheet",
@@ -11851,8 +11851,8 @@
       "opensOn": "",
       "cycle": "2027 internship — summer dates to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "October 25: New York requisition REQ-30174 and its Apply Now sign-in entry reverified. Maximum two applications across businesses/offices. Sponsorship support, season and duration remain unconfirmed. The published compensation is an annual package, not internship total pay.",
-      "checkedOn": "2026-10-25",
+      "sourceNote": "October 28: current New York requisition REQ-30174 and its Apply Now sign-in entry reverified. Maximum two applications across businesses/offices. Season, duration and sponsorship remain unstated. December 2027–July 2028 graduation window is explicit. The compensation package is annual, not internship-total pay.",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -12063,8 +12063,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 27: role 11986, current Americas FAQ and matching live application entry reverified. Sponsorship is limited and business-dependent. Role permits one program application/two functions; FAQ permits two applications/three functions within one program and region. Confirm portal limits before another application. Five-calendar-day coding deadline and five-day pre-interview assessment remain required; missed deadlines cause withdrawal. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 28: current 11986 role, Americas FAQ and matching application-entry screen reverified. Sponsorship is limited and business-dependent. Role says one program/two functions; FAQ permits two applications/three functions in one program/region. Confirm portal limits. Coding and pre-interview assessments have five-day deadlines; missed assessments trigger withdrawal and cannot be remedied by reapplying. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Confirm sponsorship and requirements for selected US office/function",
         "Resolve the role/FAQ application-count conflict before submitting another application",
@@ -14186,8 +14186,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "Official role and matching registration entry verified October 27. Current US campus board lists this Boston program. Sponsorship is not inferred from equal-opportunity language.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 28: official Boston Summer 2027 role and matching role-specific registration entry reverified. October 30 remains a date-only application deadline; no cutoff time or timezone is published. Review is rolling until filled or the deadline. Sponsorship remains unstated; equal-opportunity wording does not establish support.",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Review work authorization and sponsorship before applying",
         "Prepare credit-focused resume and financial-modeling examples",
@@ -15719,8 +15719,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 27: current Summer 2027 U.S. role and matching iCIMS email-entry application verified. No fixed closing date or pay period is published. Sponsorship support comes from the role description, not an application question.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 28: current U.S. Summer 2027 role and matching iCIMS email-entry application reverified. The role explicitly offers visa sponsorship and internship housing. No closing date or cash-pay amount is published. Application entry: https://careers-sig.icims.com/jobs/10837/login .",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Confirm work authorization arrangements and internship compensation",
         "Prepare a systems-focused resume and C++ examples",
@@ -16648,6 +16648,214 @@
         "Review next milestone: Notifications mid-April 2027"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "coinbase-audit-analytics-8221238-2027",
+      "title": "Internal Audit Analytics Intern — Summer 2027, New York",
+      "organization": "Coinbase",
+      "category": "Internships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Technology audit",
+        "Data analytics",
+        "Hybrid"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8221238",
+      "sourceUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8221238",
+      "summary": "Twelve-week hybrid New York internship using SQL, Snowflake, ETL validation and AI tooling to test technology and crypto-product controls.",
+      "eligibility": "Role requires current pursuit of a Data Science, CS, Statistics or related degree; the form also asks about recent graduates. SQL, data pipelines and communication skills required. Degree level and graduation window are not specified; confirm any recent-graduate eligibility. Form asks age 18+ and U.S. work authorization. Sponsorship is not stated.",
+      "reward": "USD $50 per hour. Housing, relocation and intern-specific benefits are not established.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published on the reviewed official role or application.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: current official Summer 2027 description and complete matching Greenhouse application verified. Maximum three Coinbase applications within six months. Sponsorship questions do not establish employer support; no commitment or prohibition is published. Hybrid work is tied to the named U.S. office. No fixed closing date or rolling-review claim is published.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Choose roles within Coinbase’s three-applications-in-six-months limit",
+        "Confirm work authorization, sponsorship and office attendance",
+        "Tailor a resume and complete the official application",
+        "Record submission and follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "coinbase-data-engineer-8175459-2027",
+      "title": "Data Engineer Intern — Summer 2027, San Francisco",
+      "organization": "Coinbase",
+      "category": "Internships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Data engineering",
+        "Hybrid"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8175459",
+      "sourceUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8175459",
+      "summary": "Twelve-week hybrid San Francisco internship building data pipelines and cloud infrastructure for analytics and machine-learning workloads.",
+      "eligibility": "Completed or ongoing CS/data-engineering coursework or equivalent experience; Python, SQL, cloud familiarity and architecture knowledge. No specific degree level or graduation range is published. Form asks availability for a potential full-time role before September 2028, age 18+ and work authorization; this is not a guaranteed return offer or graduation cutoff. Sponsorship is unstated.",
+      "reward": "USD $50 per hour. Housing, relocation and intern-specific benefits require confirmation.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published on the reviewed official role or application.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: current official Summer 2027 description and complete matching Greenhouse application verified. Maximum three Coinbase applications within six months. Sponsorship questions do not establish employer support; no commitment or prohibition is published. Hybrid work is tied to the named U.S. office. No fixed closing date or rolling-review claim is published.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Choose roles within Coinbase’s three-applications-in-six-months limit",
+        "Confirm work authorization, sponsorship and office attendance",
+        "Tailor a resume and complete the official application",
+        "Record submission and follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "coinbase-software-engineer-8168315-2027",
+      "title": "Software Engineer Intern — Summer 2027, San Francisco / New York",
+      "organization": "Coinbase",
+      "category": "Internships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not stated",
+        "Software engineering",
+        "Cybersecurity",
+        "Hybrid"
+      ],
+      "url": "https://www.coinbase.com/careers/positions/8168315",
+      "sourceUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8168315",
+      "summary": "Twelve-week hybrid internship: product, institutional, platform and AI teams in San Francisco; Security team in New York. Select a primary team. Remote-first return opportunities are separate from the hybrid internship.",
+      "eligibility": "Programming experience and familiarity with web, mobile, backend or infrastructure work; responsible AI use and problem-solving ability. No enrollment requirement, degree level or graduation window is printed. Form asks potential full-time availability in 2028, age 18+ and work authorization. Sponsorship is unstated.",
+      "reward": "USD $60 per hour. Housing, relocation and intern-specific benefits are not established.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published on the reviewed official role or application.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: current official Summer 2027 description and complete matching Greenhouse application verified. Maximum three Coinbase applications within six months. Sponsorship questions do not establish employer support; no commitment or prohibition is published. Hybrid work is tied to the named U.S. office. No fixed closing date or rolling-review claim is published.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Choose roles within Coinbase’s three-applications-in-six-months limit",
+        "Confirm work authorization, sponsorship and office attendance",
+        "Tailor a resume and complete the official application",
+        "Record submission and follow-up privately"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "citi-app-development-irving-261003288-2027",
+      "title": "Technology Application Development Summer Analyst — Irving, 2027",
+      "organization": "Citi",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance technology",
+        "Sponsorship: Not offered",
+        "Graduation: 2027-12 to 2028-05",
+        "Hybrid"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288/apply",
+      "sourceUrl": "https://jobs.citi.com/job/irving/technology-application-development-summer-analyst-irving-usa-2027/287/102340905344",
+      "summary": "Hybrid software-development internship in Irving, Texas, starting early June 2027. Backend, web/mobile, AI and data assignments vary. Exact duration is not published.",
+      "eligibility": "Bachelor’s in CS, computer engineering, IT, MIS or related technology field; graduation December 2027–May 2028; GPA 3.0 preferred. Technical interviews required. Role excludes employer sponsorship now or later; its work-authorization sentence retains an unfilled country placeholder, while the work location is explicitly Texas.",
+      "reward": "USD $90,000 annual salary stated; separate full-time salary range $80,000–$110,000. These are annual figures, not internship-total earnings. Confirm prorated internship pay.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published on the reviewed official role or application.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: official role and matching Workday Start Your Application entry verified. October 30 is only an anticipated posting-close date; no confirmed application deadline is assigned. Retain the work-authorization template caveat. No application fee is published.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Check the explicit current/future sponsorship exclusion",
+        "Prepare software and algorithm examples",
+        "Confirm internship pay and program length",
+        "Start the matching official application"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "citi-internal-audit-dallas-26951372-2027",
+      "title": "Internal Audit Summer Analyst — Dallas / Irving, 2027",
+      "organization": "Citi",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Location: US",
+        "Summer 2027",
+        "Finance analyst",
+        "Sponsorship: Not offered",
+        "Graduation: 2027-12 to 2028-06",
+        "Internal audit",
+        "Hybrid"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372/apply",
+      "sourceUrl": "https://jobs.citi.com/job/irving/functions-internal-audit-summer-analyst-dallas-usa-2027/287/102161039088",
+      "summary": "Ten-week hybrid internal-audit program in Irving/Dallas, Texas, beginning June 2027; assess governance, risk and controls across business or global functions.",
+      "eligibility": "Bachelor’s graduation December 2027–June 2028; GPA 3.3 preferred. Analytical, communication and teamwork skills; finance experience is helpful. Applicants must not need U.S. work-authorization sponsorship now or at any future time.",
+      "reward": "USD $75,000 annual salary stated; separate full-time salary range $60,000–$110,000. Neither figure is total ten-week internship pay; confirm the prorated amount.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published on the reviewed official role or application.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 28: official role and matching Workday Start Your Application screen verified. The page still lists October 22 as an anticipated posting-close date even though its application entry remains live; this is not an employer-confirmed cutoff or proof of closure.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Review the current/future sponsorship exclusion",
+        "Prepare audit, analytical and controls examples",
+        "Confirm prorated internship pay",
+        "Start the matching official application"
+      ],
+      "stream": "internships"
     }
   ]
 }
