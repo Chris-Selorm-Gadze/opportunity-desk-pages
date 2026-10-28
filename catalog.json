@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 99,
-  "updatedAt": "2026-10-28T12:23:52.922Z",
+  "revision": 100,
+  "updatedAt": "2026-10-28T13:32:46.250Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-28T12:23:36.000Z",
+      "checkedAt": "2026-10-28T13:32:05.000Z",
       "outcome": "success",
-      "summary": "Read 204 spreadsheet opportunities: 0 new, 203 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 215 spreadsheet opportunities: 10 new, 203 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -5901,7 +5901,7 @@
       "sheet": {
         "key": "bacf8e79393bbc9d316d4117bd9beb0b7b890046a985d0e2327d3f0aea24687d",
         "hash": "5f42ed9c453f52562ffe193b6b8806708f2e6499e548bae9ea4901f73c18f23f",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
         "present": true,
         "fields": {
           "title": "APF FRED Scholarship for Emerging Scholars",
@@ -5914,11 +5914,12 @@
           "eligibility": "Undergrad junior/senior enrolled in psychology or counseling, planning an advanced degree in psychology, from a traditionally underrepresented community of color",
           "materials": "Online application, CV/resume, personal statement up to 1,000 words",
           "url": "https://www.apa.org/about/awards/undergraduate-scholarship-opportunity"
-        }
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
       },
       "id": "sheet-apf-fred-scholarship-for-emerging-scholars-bacf8e79393b",
       "title": "APF FRED Scholarship for Emerging Scholars",
-      "organization": "apa.org",
+      "organization": "American Psychological Association / Minority Fellowship Program",
       "category": "Scholarships",
       "levels": [
         "Undergraduate"
@@ -5929,20 +5930,20 @@
       ],
       "url": "https://www.apa.org/about/awards/undergraduate-scholarship-opportunity",
       "sourceUrl": "https://www.apa.org/about/awards/undergraduate-scholarship-opportunity",
-      "summary": "Scholarship. Program dates: 2027. Location / format: Cash. Next milestone: 2027 portal opening TBA",
-      "eligibility": "Undergrad junior/senior enrolled in psychology or counseling, planning an advanced degree in psychology, from a traditionally underrepresented community of color",
-      "reward": "$1,000 scholarship (2 awards per year - very narrow pool)",
+      "summary": "Fund for Racial and Ethnic Diversity scholarship for psychology or counseling undergraduates planning graduate psychology study.",
+      "eligibility": "Junior or senior in good standing in an undergraduate psychology or counseling program; plans advanced psychology study; self-identifies with a traditionally underrepresented community of color. Citizenship rules require confirmation.",
+      "reward": "A current award amount was not confirmed on the organizer page; the older source-reported amount remains secondary.",
       "value": 3,
       "effort": 5,
-      "deadlineDate": "2027-07-31",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027-07-31",
-      "confidence": "Date only",
+      "sourceDeadline": "Page headline: July 31, 2027. How to Apply section: July 31, 2023 at 11:59 p.m. ET. Current application cycle and cutoff are unresolved.",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Intake unconfirmed · APF FRED Scholarship for Emerging Scholars",
       "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceNote": "Official APA page has conflicting 2027 and 2023 deadline wording. Its linked form could not be read. Do not promote July 31, 2027 to a verified cutoff. The new source row uses the full award name; it refers to this existing FRED record and must not create another application cycle.",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Online application, CV/resume, personal statement up to 1,000 words",
@@ -16071,6 +16072,582 @@
         "Review public-video and email-confirmation requirements"
       ],
       "stream": "original"
+    },
+    {
+      "sheet": {
+        "key": "61f66c4d0a63e01a0bea5488146ea41f0cea39b12b044066d952800a3c074cfa",
+        "hash": "5b0be976359cf1ad78407db09210cf74543164b03fbab1e51fb2b734d3c37afb",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "EY/KU National Business Challenge 2027",
+          "category": "University case competition",
+          "deadline": "2026-12-01 (early sign-up; final 2027-02-01)",
+          "milestone": "Early selection 2026-12-15; final teams announced 2027-02-05",
+          "programDates": "2027-03-04 to 2027-03-05",
+          "funding": "$8,000+ cash prizes (1st $2,000; 2nd $1,600; 3rd $1,200; 4th $800; 5th $600; plus 3-5 x $400 awards)",
+          "location": "Lawrence, Kansas; in person",
+          "eligibility": "Undergraduate students, all majors; teams of 4 preferred; max 2 teams per university; no citizenship bar stated (confirm prize-payment rules if needed); travel/hotel not covered (hotel block $159/night); meals during competition provided",
+          "materials": "Online application via KU; team of 4; live case presentation (prompt released Mar 3, 2027)",
+          "url": "https://business.ku.edu/business-career-services/career-resources/bcs-involvement-events/case-competitions/ey-ku-national-challenge"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-ey-ku-national-business-challenge-2027-61f66c4d0a63",
+      "title": "EY/KU National Business Challenge 2027",
+      "organization": "University of Kansas School of Business / EY",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "case",
+        "competition"
+      ],
+      "url": "https://business.ku.edu/business-career-services/career-resources/bcs-involvement-events/case-competitions/ey-ku-national-challenge",
+      "sourceUrl": "https://business.ku.edu/business-career-services/career-resources/bcs-involvement-events/case-competitions/ey-ku-national-challenge",
+      "summary": "Undergraduate business case competition in Lawrence, Kansas, March 4–5, 2027; all majors welcome.",
+      "eligibility": "Four students per team; up to two teams per institution, with the second waitlisted unless space permits. Citizenship and prize-payment restrictions are not stated.",
+      "reward": "More than $8,000 in total prizes. A $200 application fee per team is required: refunded if not selected, applied to nonrefundable registration if accepted. Competition meals provided; arrange and pay for travel and lodging.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Early application deadline: Dec. 1, 2026; final application deadline: Feb. 1, 2027. No cutoff time stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-09-15",
+      "cycle": "2027 · EY/KU National Business Challenge 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027 application form is available at https://deptsec.ku.edu/~business/forms/form/74 . It confirms the $200 team fee omitted from the source report. The displayed deadline is early consideration; final entry remains February 1.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application via KU; team of 4; live case presentation (prompt released Mar 3, 2027)",
+        "Review next milestone: Early selection 2026-12-15; final teams announced 2027-02-05"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a76e5d34a8af0d175bfccf70b541dda8ab49ed8a9afde7afc239610bb9d1c22b",
+        "hash": "e9fe7ca00f79b17ab456222d772396a9774e763f4e3249693aa2f3e6df246aee",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "FIASI-Fordham 7th Annual Student Research Competition on Sustainable Finance in Fixed Income",
+          "category": "Finance research competition",
+          "deadline": "2027-02-08",
+          "milestone": "Decisions before 2027-04-27",
+          "programDates": "Recognition 2027-04-27, New York City",
+          "funding": "Grants up to $5,000, separate undergraduate and postgraduate pools, paid directly to recipients",
+          "location": "Remote submission; recognition in New York City; travel coverage not stated",
+          "eligibility": "Full- and part-time students in business, economics and related programs in the US and overseas; student-faculty co-authorship welcome; submitting student must have significant contribution; no citizenship bar stated",
+          "materials": "Cover page; abstract ≤150 words; research paper ≤60 pages; resume per researcher; email submission to Joanna Kondratowicz at Fordham",
+          "url": "https://fiasi.org/sustainable-finance/student-research-competition-pr/"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-fiasi-fordham-7th-annual-student-research-competition-on-sustaina-a76e5d34a8af",
+      "title": "FIASI-Fordham 7th Annual Student Research Competition on Sustainable Finance in Fixed Income",
+      "organization": "Fixed Income Analysts' Society / Fordham University",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "finance",
+        "research",
+        "competition"
+      ],
+      "url": "https://fiasi.org/sustainable-finance/student-research-competition-pr/",
+      "sourceUrl": "https://fiasi.org/sustainable-finance/student-research-competition-pr/",
+      "summary": "Seventh annual student research competition on sustainable fixed income, including AI infrastructure and transition finance; recognition in New York on April 27, 2027.",
+      "eligibility": "Full- or part-time business, economics and related students worldwide, including undergraduate and postgraduate research. Student-faculty coauthorship permitted; the student must contribute significantly. Research must be independent of employers.",
+      "reward": "Winning and runner-up research may receive grants up to $5,000, paid directly to recipients. Travel coverage and application fees are not stated.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-08",
+      "deadlineAt": "",
+      "sourceDeadline": "Monday, February 8, 2027; no cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · FIASI-Fordham 7th Annual Student Research Competition on Sustainable Finance in Fixed Income",
+      "sourceState": "Application",
+      "sourceNote": "Organizer page and its October 20 launch release confirm the seventh competition and email submission route. Supporting release: https://www.prnewswire.com/news-releases/fiasi-and-fordham-launch-7th-annual-global-student-research-competition-on-sustainable-finance-in-fixed-income-302913312.html . A cover page, abstract up to 150 words, paper up to 60 pages and each researcher’s resume are required.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Cover page; abstract ≤150 words; research paper ≤60 pages; resume per researcher; email submission to Joanna Kondratowicz at Fordham",
+        "Review next milestone: Decisions before 2027-04-27"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "ec28d2a8b1ed921d2791227ab651a9373e8741f2f86aeb5d1d6a14b7e77f4abf",
+        "hash": "40a71f12631d9aff04670a8ac1f80df41d69f87dbbaaf74031a0316ec21f37ae",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "Appraisal Institute 2027 University Valuation Case Challenge",
+          "category": "Finance/business case competition",
+          "deadline": "2027-02-15",
+          "milestone": "Case distributed 2027-02-22; slide deck due 2027-03-17; top 16 announced 2027-04-06",
+          "programDates": "2027-04-26 to 2027-04-27",
+          "funding": "$10,000 cash total (1st $5,000; 2nd $3,000; 3rd $2,000)",
+          "location": "Hyatt Regency, New Orleans, Louisiana; in person; travel coverage not stated",
+          "eligibility": "Teams of four undergraduates plus a faculty or staff advisor from undergraduate real estate programs nationwide; only 16 teams advance. No citizenship rule stated; confirm the institution has an eligible real estate program.",
+          "materials": "Registration; real-world commercial real estate case analysis; slide deck; live semifinal/final presentations",
+          "url": "https://www.appraisalinstitute.org/get-involved/attend-a-meeting-or-event/2027-annual-conference/2027-case-challenge-university-challenge"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-appraisal-institute-2027-university-valuation-case-challenge-ec28d2a8b1ed",
+      "title": "Appraisal Institute 2027 University Valuation Case Challenge",
+      "organization": "Appraisal Institute",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "finance",
+        "business",
+        "case",
+        "competition"
+      ],
+      "url": "https://www.appraisalinstitute.org/get-involved/attend-a-meeting-or-event/2027-annual-conference/2027-case-challenge-university-challenge",
+      "sourceUrl": "https://www.appraisalinstitute.org/get-involved/attend-a-meeting-or-event/2027-annual-conference/2027-case-challenge-university-challenge",
+      "summary": "Commercial real-estate valuation case challenge in New Orleans, April 26–27, 2027.",
+      "eligibility": "Four undergraduate students from an undergraduate real-estate program and one faculty or staff advisor. Sixteen teams advance. Citizenship restrictions are not stated.",
+      "reward": "$10,000 total prizes: $5,000, $3,000 and $2,000. Registration fees, travel and housing coverage require confirmation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-15",
+      "deadlineAt": "",
+      "sourceDeadline": "February 15, 2027 — Registration Deadline. No cutoff time stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-01",
+      "cycle": "2027 · Appraisal Institute 2027 University Valuation Case Challenge",
+      "sourceState": "Application",
+      "sourceNote": "Organizer page and https://info.appraisalinstitute.org/uvcc-2027-registration confirm registration. Case release February 22; slide decks March 17; top sixteen April 6. The registration deadline is distinct from the later competition.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Registration; real-world commercial real estate case analysis; slide deck; live semifinal/final presentations",
+        "Review next milestone: Case distributed 2027-02-22; slide deck due 2027-03-17; top 16 announced 2027-04-06"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "0dd7c506a17c9f273de20d7b455355060c2f9a8beca7e900c51455df8ccc796e",
+        "hash": "a9bad689b22173fcc5cc24d6059f60511030f082a99bbff48348473f870a6c44",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "CBCF Pathways to the C-Suite Summer Internship 2027",
+          "category": "Funded leadership & corporate internship",
+          "deadline": "2026-11-30 23:59 ET",
+          "milestone": "Info session 2026-11-17 18:30 ET",
+          "programDates": "2027-05-24 to 2027-07-23 (move-in May 22)",
+          "funding": "$3,000 stipend + CBCF-provided housing (shared room, required)",
+          "location": "Washington, DC; in person",
+          "eligibility": "Current junior, senior or recent graduate; GPA at least 3.0; age at least 21 by May 22, 2027. U.S. citizenship or permission to work in the U.S. throughout the program is required; applicants must confirm any needed school and immigration authorization for the placement.",
+          "materials": "Two-step General + Conditional applications; 3-min video; 150-word cited essay on a social-justice policy issue; 2 letters of recommendation on letterhead uploaded by applicant; 2-page resume; transcript (unofficial accepted)",
+          "url": "https://cbcfinc.academicworks.com/opportunities/2989"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-cbcf-pathways-to-the-c-suite-summer-internship-2027-0dd7c506a17c",
+      "title": "CBCF Pathways to the C-Suite Summer Internship 2027",
+      "organization": "Congressional Black Caucus Foundation",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "leadership",
+        "corporate",
+        "internship"
+      ],
+      "url": "https://cbcfinc.academicworks.com/opportunities/2989",
+      "sourceUrl": "https://cbcfinc.academicworks.com/opportunities/2989",
+      "summary": "Nine-week, in-person corporate internship, May 24–July 23, 2027, with May 22 move-in. Confirm the assigned corporate office location.",
+      "eligibility": "Current junior, senior or recent graduate; GPA at least 3.0; age 21 by May 22. U.S. citizenship or permission to work for the full program required. No graduate enrollment or classes during the program. Shared CBCF housing is mandatory; other exclusions apply.",
+      "reward": "$3,000 stipend plus CBCF-provided shared housing for nine weeks. Travel support and immigration sponsorship are not stated.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-30",
+      "deadlineAt": "2026-12-01T04:59:00.000Z",
+      "sourceDeadline": "November 30, 2026, at 11:59 p.m. ET.",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-01",
+      "cycle": "2027 · CBCF Pathways to the C-Suite Summer Internship 2027",
+      "sourceState": "Application",
+      "sourceNote": "Live Summer 2027 portal confirms the cutoff. Submit both General and track-specific Conditional applications. Only one Summer 2027 track may be selected. Required materials include a video, cited essay, two uploaded recommendations, resume and transcript. Review former-intern and affiliated-relative exclusions in the portal.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Two-step General + Conditional applications; 3-min video; 150-word cited essay on a social-justice policy issue; 2 letters of recommendation on letterhead uploaded by applicant; 2-page resume; transcript (unofficial accepted)",
+        "Review next milestone: Info session 2026-11-17 18:30 ET"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "9f58f089935d912fb8ac2afbb4e87e1fd7ca75996c529b232bc7819902414449",
+        "hash": "459924dc0eea8ec77f828427264c4031cd93f89590c5a6f73baf4ca568a6ccb7",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "AIAA Foundation Undergraduate Scholarships 2027",
+          "category": "Professional society scholarship",
+          "deadline": "2027-01-31 23:59 ET",
+          "milestone": "Recommendation letters due 2027-02-13 23:59 ET",
+          "programDates": "Award for academic year (no program date)",
+          "funding": "$10,000 awards (Daedalus 88, Thompson Space Technology, Mary W. Jackson, Karman); $5,000 Muellner; $3,000 Digital Avionics awards; $1,500 Space Transportation",
+          "location": "Online; study at student own accredited US institution",
+          "eligibility": "College sophomores/juniors/seniors in science or engineering; must be/become AIAA student member; demonstrated academic interest in award subject area required; no citizenship bar stated on undergraduate pages — confirm in portal",
+          "materials": "Online application (up to 2 awards); transcript; 500-1,000-word career-objectives essay; award-specific prompt where applicable; resume/CV; 2 professional recommendations",
+          "url": "https://aiaa.org/get-involved/university-students/undergraduate-scholarships-graduate-awards/"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-aiaa-foundation-undergraduate-scholarships-2027-9f58f089935d",
+      "title": "AIAA Foundation Undergraduate Scholarships 2027",
+      "organization": "AIAA Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "society",
+        "scholarship"
+      ],
+      "url": "https://aiaa.org/get-involved/university-students/undergraduate-scholarships-graduate-awards/",
+      "sourceUrl": "https://aiaa.org/get-involved/university-students/undergraduate-scholarships-graduate-awards/",
+      "summary": "Undergraduate science and engineering scholarships for study leading toward aerospace careers. The reported 2027 cycle still needs portal confirmation.",
+      "eligibility": "AIAA student membership, at least one completed full-time college semester and usually GPA 3.300; some named awards accept 2.50. Usually U.S.-accredited enrollment; full-time study and award-specific aerospace interests required. Non-U.S. citizens at eligible U.S. schools may apply subject to restrictions.",
+      "reward": "Amounts vary by named award, including $1,500–$10,000 awards. Paid student membership required. Funding is applied through the university and cannot exceed educational expenses with other aid.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Annual rules say January 31, 11:59 p.m. EST; the current 2027 scholarship intake was not established in the public portal. Reference pages disagree between February 13 and 14.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · AIAA Foundation Undergraduate Scholarships 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Annual rules reviewed at https://aiaa.org/get-involved/university-students/undergraduate-scholarships-graduate-awards/eligibility-requirements/ and https://aiaa.org/wp-content/uploads/2025/10/AIAA-Scholarships-and-Awards-FAQ.pdf . The linked portal lists older competitions without a visible current scholarship application. Do not treat the Sheet’s 2027 date or the reference-letter date as confirmed.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application (up to 2 awards); transcript; 500-1,000-word career-objectives essay; award-specific prompt where applicable; resume/CV; 2 professional recommendations",
+        "Review next milestone: Recommendation letters due 2027-02-13 23:59 ET"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "35c1da163bbb19eafa22a30e173548ef81bdde619004072fa637e3bad598fe6f",
+        "hash": "7ac265cb1d6783f9cdc8b6a506fe76f81c9ef21e9fd5df3af495d5df5348d753",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "Bob Sather Memorial Scholarship - 2027 National Ethanol Conference",
+          "category": "Conference travel grant",
+          "deadline": "2027-01-11",
+          "milestone": "Notification date not published",
+          "programDates": "2027-02-15 to 2027-02-17",
+          "funding": "Travel grant: conference registration + hotel + up to $500 airfare; limited number awarded",
+          "location": "Las Vegas, Nevada; in person",
+          "eligibility": "College students (plus RFA Young Professionals Network members, veterans) aspiring to ethanol/renewable-fuels career; no citizenship restriction stated — verify F-1 eligibility in application form",
+          "materials": "Application via RFA-linked form (fields not enumerated on release page — confirm before applying)",
+          "url": "https://ethanolrfa.org/media-and-news/category/news-releases/article/2026/10/renewable-fuels-foundation-seeking-applicants-for-national-ethanol-conference-scholarships"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-bob-sather-memorial-scholarship-2027-national-ethanol-conference-35c1da163bbb",
+      "title": "Bob Sather Memorial Scholarship - 2027 National Ethanol Conference",
+      "organization": "Renewable Fuels Foundation / Renewable Fuels Association",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "grant"
+      ],
+      "url": "https://ethanolrfa.org/media-and-news/category/news-releases/article/2026/10/renewable-fuels-foundation-seeking-applicants-for-national-ethanol-conference-scholarships",
+      "sourceUrl": "https://ethanolrfa.org/media-and-news/category/news-releases/article/2026/10/renewable-fuels-foundation-seeking-applicants-for-national-ethanol-conference-scholarships",
+      "summary": "Robert Sather Memorial Scholarship for the National Ethanol Conference, Las Vegas, February 15–17, 2027.",
+      "eligibility": "Students enrolled in postsecondary education, or foreign students affiliated with the U.S. ethanol industry. Preference for relevant agriculture, economics, marketing or renewable-energy interests. Other tracks serve qualifying young professionals and veterans.",
+      "reward": "Conference registration, hotel, three conference meals and up to $500 airfare reimbursement; estimated $2,000 value. Recipients cover remaining expenses. Limited awards.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Submit all required materials electronically no later than January 11, 2027. No cutoff time stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Bob Sather Memorial Scholarship - 2027 National Ethanol Conference",
+      "sourceState": "Application",
+      "sourceNote": "Current instructions and downloadable application: https://nationalethanolconference.com/for-attendees/view-all/profile/scholarships and https://nationalethanolconference.com/file/27 . Student applicants submit a statement up to 500 words, resume and recommendation by email. This is conference travel support, not unrestricted tuition funding.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via RFA-linked form (fields not enumerated on release page — confirm before applying)",
+        "Review next milestone: Notification date not published"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "193aee45e2eaab8a85df65f2a6395027cf2b7570e19492ce2343c4006dad9b97",
+        "hash": "6fb13bef29bce1b175edb4e6239a36f946ec7394b2342831afb3c470461885aa",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "Health Career Connection Summer 2027 Internships",
+          "category": "Paid summer health internship",
+          "deadline": "2026-12-08 23:59 PST",
+          "milestone": "Info webinars Oct 29, Nov 17, Dec 1, 2026",
+          "programDates": "Summer 2027, 10 consecutive weeks full-time",
+          "funding": "Paid educational stipend (amount not confirmed on official page)",
+          "location": "U.S. placements across published regions; in person, remote or hybrid depending on host.",
+          "eligibility": "Undergraduates (4-year/community college) and recent graduates up to 3 years out; graduate students not eligible (except specialized NE/DC programs); all majors encouraged; international students at US schools may apply but HCC/hosts provide no immigration documentation — DSO/CPT check required; no clinical placement/licensure requirement",
+          "materials": "Online application with questions, resume/CV, short essays; HCC interview + host interview",
+          "url": "https://healthcareerconnection.org/students-aspiring-health-professionals/"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-health-career-connection-summer-2027-internships-193aee45e2ea",
+      "title": "Health Career Connection Summer 2027 Internships",
+      "organization": "Health Career Connection",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "health",
+        "internship"
+      ],
+      "url": "https://healthcareerconnection.org/students-aspiring-health-professionals/",
+      "sourceUrl": "https://healthcareerconnection.org/students-aspiring-health-professionals/",
+      "summary": "Ten-week, full-time paid educational internships with U.S. health organizations; in-person, remote and hybrid placements vary by host.",
+      "eligibility": "Undergraduates, including community-college students, and graduates up to three years out; all majors. International students must attend a U.S. school and arrange lawful work/stipend authorization. HCC and hosts do not provide immigration documents or sponsorship.",
+      "reward": "Paid educational stipend; current amount needs confirmation. HCC does not provide housing or local transportation.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-08",
+      "deadlineAt": "2026-12-09T07:59:00.000Z",
+      "sourceDeadline": "Tuesday, December 8, 2026 · 11:59 PM PT.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · Health Career Connection Summer 2027 Internships",
+      "sourceState": "Needs verification",
+      "sourceNote": "The official 2027 registration form publishes this cutoff: https://hcc.tfaforms.net/forms/view/5163209 . Its extracted page mixes “Application Closed,” older-cycle text and current registration instructions, while the main site says 2027 applications are open. Confirm the rendered form accepts registrations before relying on availability; no closure is inferred. Both registration and the resulting full application are required.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application with questions, resume/CV, short essays; HCC interview + host interview",
+        "Review next milestone: Info webinars Oct 29, Nov 17, Dec 1, 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "10e8ec81a3f6bca2dd048512c04aae723f7d87643b67cdc01ffc198be1d5c00d",
+        "hash": "86508b7725926263d07fd1056348f04c4ccb9859cb298e7331c697148f98bbe3",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "UT Southwestern Summer Undergraduate Research Fellowship (SURF) 2027",
+          "category": "Funded research fellowship",
+          "deadline": "2027-02-01",
+          "milestone": "Applications open 2026-11-01",
+          "programDates": "2027-06-01 to 2027-08-06",
+          "funding": "$5,000 stipend (taxable) + housing covered if needed (local hotel + daily transport); travel at own expense",
+          "location": "Dallas, Texas; in person",
+          "eligibility": "Undergraduate science-degree students who have completed freshman year; U.S. citizens or F-1 visa holders. Selection considers Ph.D. or M.D./Ph.D. research career goals. Applicants must confirm any required school work authorization.",
+          "materials": "Online application; transcripts; 2 letters of recommendation",
+          "url": "https://gsbs.utsouthwestern.edu/research-opportunities/surf/"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-ut-southwestern-summer-undergraduate-research-fellowship-surf-202-10e8ec81a3f6",
+      "title": "UT Southwestern Summer Undergraduate Research Fellowship (SURF) 2027",
+      "organization": "UT Southwestern Graduate School of Biomedical Sciences",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://gsbs.utsouthwestern.edu/research-opportunities/surf/",
+      "sourceUrl": "https://gsbs.utsouthwestern.edu/research-opportunities/surf/",
+      "summary": "Ten-week biomedical research fellowship in Dallas, June 1–August 6, 2027, preparing students for Ph.D. or M.D./Ph.D. research.",
+      "eligibility": "Undergraduate science-degree students who have completed freshman year; U.S. citizens or F-1 visa holders. Full ten-week commitment with no courses, jobs, volunteering or vacations. Confirm any required school authorization.",
+      "reward": "$5,000 taxable stipend for ten weeks; housing costs covered if needed. Fellows pay their own travel.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Application for SURF 2027 opens November 1, 2026. The deadline is February 1, 2027; no cutoff time stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · UT Southwestern Summer Undergraduate Research Fellowship (SURF) 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer confirms dates, F-1 eligibility and funding. The linked application login is available at https://apply.utsouthwestern.edu/grad/ ; the announced 2027 opening is still upcoming. Prepare transcripts and two recommendations.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; transcripts; 2 letters of recommendation",
+        "Review next milestone: Applications open 2026-11-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "b4ef2350555e98f38ab8fcdc4489fa9a9cd25bb5a45be20a10846bb2316a0847",
+        "hash": "237367c86c46de5f6a095166a5dae8438981f42dd6892eb94b63ef0d563701de",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "NYU Langone Rusk Rehabilitation Health Career Opportunity Program (HCOP) Summer 2027",
+          "category": "Funded experiential summer program (unpaid)",
+          "deadline": "2026-12-18 (before midnight)",
+          "milestone": "Decisions early March 2027",
+          "programDates": "Three 4-week sessions: 2027-06-01 to 2027-06-25; 2027-06-28 to 2027-07-23; 2027-07-26 to 2027-08-20",
+          "funding": "Free program, no fee; no stipend or pay stated — unpaid experiential program, not a paid internship; housing only mentioned for separate Emergency Medicine variant, do not assume",
+          "location": "New York, NY; in person",
+          "eligibility": "College students, recent graduates, HS seniors 18+; min GPA 3.2; F-1/work authorization NOT stated — confirm with HCOP and DSO before applying; observational, not a clinical placement; no licensure requirement",
+          "materials": "1-page personal statement (≤5,300 chars, PDF); unofficial transcript showing name/school/GPA (PDF); 1-page resume (PDF); optional 1 recommendation letter; emergency-medicine applicants add 500-700-word essay",
+          "url": "https://med.nyu.edu/departments-institutes/rusk-rehabilitation/education/health-career-opportunity-program/application-information"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-nyu-langone-rusk-rehabilitation-health-career-opportunity-program-b4ef2350555e",
+      "title": "NYU Langone Rusk Rehabilitation Health Career Opportunity Program (HCOP) Summer 2027",
+      "organization": "NYU Langone Health / Rusk Rehabilitation",
+      "category": "Career & sales",
+      "levels": [
+        "High school",
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "experiential",
+        "summer",
+        "program",
+        "unpaid"
+      ],
+      "url": "https://med.nyu.edu/departments-institutes/rusk-rehabilitation/education/health-career-opportunity-program/application-information",
+      "sourceUrl": "https://med.nyu.edu/departments-institutes/rusk-rehabilitation/education/health-career-opportunity-program/application-information",
+      "summary": "Unpaid observational health-care program in New York, with four-week Summer 2027 sessions and longer research combinations.",
+      "eligibility": "College students, recent graduates and high-school seniors aged at least 18; minimum GPA 3.2. Work-authorization and citizenship rules require confirmation.",
+      "reward": "Free participation; no salary or stipend. Housing and travel funding are not established.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-18",
+      "deadlineAt": "",
+      "sourceDeadline": "Application materials must be uploaded before midnight on Friday, December 18, 2026. Timezone not stated.",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "2026-09-14",
+      "cycle": "2027 · NYU Langone Rusk Rehabilitation Health Career Opportunity Program (HCOP) Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official indexed 2027 application and program text confirm the date, age/GPA rules and unpaid status. Direct page and application availability could not be checked because the organizer pages repeatedly timed out. Keep availability unverified; do not infer closure. Program overview: https://med.nyu.edu/departments-institutes/rusk-rehabilitation/education/health-career-opportunity-program .",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 1-page personal statement (≤5,300 chars, PDF); unofficial transcript showing name/school/GPA (PDF); 1-page resume (PDF); optional 1 recommendation letter; emergency-medicine applicants add 500-700-word essay",
+        "Review next milestone: Decisions early March 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "defb95af978d42fa797ab2c8ba00eabc9935552cebdef7665891de4f1f82a72d",
+        "hash": "cacfb04fb6d535d9dd4a572f528945bf85e62dae985de9a386296b2c9e4df071",
+        "checkedAt": "2026-10-28T13:32:05.000Z",
+        "present": true,
+        "fields": {
+          "title": "Pitt Public Health Undergraduate Scholars Program (PHUSP) Summer 2027",
+          "category": "Funded public-health scholars program",
+          "deadline": "2027-01-31 23:59 ET",
+          "milestone": "Notifications mid-April 2027",
+          "programDates": "2027-06-07 to 2027-08-01",
+          "funding": "$3,400 stipend + round-trip transport to Pittsburgh + meal support + on-campus housing + travel to APHA Annual Meeting Philadelphia",
+          "location": "Pittsburgh, Pennsylvania; in person, residential",
+          "eligibility": "Undergraduates who have completed at least two years at a four-year institution, or eligible recent graduates; GPA at least 2.7 and a public-health career interest. U.S. citizens or permanent residents only. Current Pitt BSPH students excluded; participation permitted once.",
+          "materials": "Online application (must complete in one sitting); unofficial transcripts combined in one PDF; 2 recommendation letters (≥1 academic, to phusp@pitt.edu by deadline); 1-2-page resume; 3 essays ≤200 words each; 10-15-min Zoom interview; generative AI prohibited for essays",
+          "url": "https://www.publichealth.pitt.edu/academics/other-undergraduate-opportunities/pitt-public-health-undergraduate-scholars-program-3"
+        },
+        "verifiedAt": "2026-10-28T13:32:05.000Z"
+      },
+      "id": "sheet-pitt-public-health-undergraduate-scholars-program-phusp-summer-20-defb95af978d",
+      "title": "Pitt Public Health Undergraduate Scholars Program (PHUSP) Summer 2027",
+      "organization": "University of Pittsburgh School of Public Health",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "public",
+        "health",
+        "scholars",
+        "program"
+      ],
+      "url": "https://www.publichealth.pitt.edu/academics/other-undergraduate-opportunities/pitt-public-health-undergraduate-scholars-program-3",
+      "sourceUrl": "https://www.publichealth.pitt.edu/academics/other-undergraduate-opportunities/pitt-public-health-undergraduate-scholars-program-3",
+      "summary": "Eight-week residential public-health program in Pittsburgh, June 7–August 1, 2027, with experiential placements and mentorship.",
+      "eligibility": "U.S. citizens or permanent residents; GPA at least 2.7. At least two years of four-year undergraduate study, or a qualifying Summer 2025–Spring 2026 graduate of a four- or two-year college. Current Pitt BSPH students are excluded.",
+      "reward": "$3,400 stipend, round-trip transportation to Pittsburgh, meal support, campus housing and travel to the APHA meeting in Philadelphia.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "2027-02-01T04:59:00.000Z",
+      "sourceDeadline": "Open November 1, 2026; close at 11:59 p.m. Eastern Time on January 31, 2027.",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · Pitt Public Health Undergraduate Scholars Program (PHUSP) Summer 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Organizer application and program pages confirm the upcoming opening, deadline, citizenship restriction and support: https://www.publichealth.pitt.edu/academics/other-undergraduate-opportunities/pitt-public-health-undergraduate-scholars-program . Application must be completed in one sitting; prepare transcripts, two recommendations, resume and three essays.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application (must complete in one sitting); unofficial transcripts combined in one PDF; 2 recommendation letters (≥1 academic, to phusp@pitt.edu by deadline); 1-2-page resume; 3 essays ≤200 words each; 10-15-min Zoom interview; generative AI prohibited for essays",
+        "Review next milestone: Notifications mid-April 2027"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
