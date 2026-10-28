@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 100,
-  "updatedAt": "2026-10-28T13:32:46.250Z",
+  "revision": 101,
+  "updatedAt": "2026-10-28T14:01:09.523Z",
   "streams": [
     {
       "id": "internships",
@@ -27,9 +27,9 @@
     {
       "id": "travel",
       "label": "Sponsored travel & leadership",
-      "checkedAt": "2026-10-27T16:23:28.265Z",
+      "checkedAt": "2026-10-28T14:01:08.855Z",
       "outcome": "success",
-      "summary": "Rechecked existing travel leads and four original deadlines within 30 days against organizer sources. No new verified fully sponsored travel opportunity or material change found; existing eligibility, fees, coverage and exclusions remain labeled."
+      "summary": "Rechecked existing travel leads and five original deadlines within 30 days against organizer sources. No new verified fully sponsored travel opportunity or material change found; existing eligibility, fees, coverage and exclusions remain labeled."
     }
   ],
   "opportunities": [
