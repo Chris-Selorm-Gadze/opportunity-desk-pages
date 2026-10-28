@@ -71,7 +71,7 @@ Each opportunity has these required fields and an optional validated `sheet` pro
 | suggestedTasks | Array of generic application checklist titles; no completion states or personal due dates |
 | stream | original, travel, trading, internships or spreadsheet (preserve original on original links) |
 
-Never include `notes`, `stage`, `fit`, `eligibilityStatus`, `targetDate`, `followUpDate`, `pinned`, personal task completions, settings, credentials or identity. The app rejects malformed catalogs and preserves the saved workspace. It merges updated source facts only when the viewer has not edited them; conflicts remain visible for review. It never replaces application progress or deletes missing records.
+Never include `notes`, `stage`, `fit`, `eligibilityStatus`, `targetDate`, `followUpDate`, `pinned`, `priorityOrder`, personal task completions, settings, credentials or identity. The app rejects malformed catalogs and preserves the saved workspace. It merges updated source facts only when the viewer has not edited them; conflicts remain visible for review. It never replaces application progress or deletes missing records.
 
 ## Internship research
 
