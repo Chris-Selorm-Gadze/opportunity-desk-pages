@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 102,
-  "updatedAt": "2026-10-28T14:11:18.399Z",
+  "revision": 103,
+  "updatedAt": "2026-10-28T14:38:56.567Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-28T13:32:05.000Z",
+      "checkedAt": "2026-10-28T14:36:08.000Z",
       "outcome": "success",
-      "summary": "Read 215 spreadsheet opportunities: 10 new, 203 matched to tracked records, 1 source records changed, 0 no longer listed."
+      "summary": "Read 224 spreadsheet opportunities: 9 new, 213 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -14669,22 +14669,22 @@
     {
       "sheet": {
         "key": "9cdc6324540316c79b366c64a46b1d4ded9b32e53b99a3a20409786ac87d5257",
-        "hash": "621bc425fe14e4e1892b147c2205c27dd966af6f593a090ada654f80733a3778",
-        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "hash": "83e0e147fde887dbab9935ba1f39fbe92b77497bdc5711f96d7a77c6b7161f82",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
         "present": true,
         "fields": {
           "title": "Boyce Thompson Institute Plant Science REU 2027",
           "category": "Fully funded undergraduate summer research",
-          "deadline": "2027 deadline TBA (applications open end October 2026)",
-          "milestone": "Check official portal at end of Oct 2026",
+          "deadline": "2027 deadline TBA (applications OPEN 2026-11-01, confirmed on organizer site)",
+          "milestone": "Application opens November 1, 2026 (not late October)",
           "programDates": "2027-06-02 to 2027-08-06",
           "funding": "$7,000 stipend + $850 meal allowance + free Cornell-campus housing + $700 travel allowance + free local bus pass",
           "location": "Ithaca, NY; in person",
-          "eligibility": "Source reports US citizens, permanent residents or lawful refugees only; undergraduates enrolled through the program, age 18+, GPA at least 2.75. Confirm current NSF/USDA funding eligibility when the application opens.",
+          "eligibility": "U.S. citizens, permanent residents or lawful refugees ONLY; F-1 ineligible; undergraduate enrolled through program, age 18+, GPA >=2.75; no extensive research experience needed; funded NSF/USDA",
           "materials": "2027 portal application materials TBA; likely research interest, academic record, recommendation; verify on opening",
           "url": "https://reu.btiscience.org/"
         },
-        "verifiedAt": "2026-10-27T16:37:38.192Z"
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
       },
       "id": "sheet-boyce-thompson-institute-plant-science-reu-2027-9cdc63245403",
       "title": "Boyce Thompson Institute Plant Science REU 2027",
@@ -14710,13 +14710,13 @@
       "effort": 5,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "2027 deadline not yet confirmed. Organizer says applications open at the end of October 2026.",
+      "sourceDeadline": "Applications for 2027 open November 1, 2026. No application closing date is published.",
       "confidence": "Unknown",
-      "opensOn": "",
+      "opensOn": "2026-11-01",
       "cycle": "2027 · Boyce Thompson Institute Plant Science REU 2027",
       "sourceState": "Upcoming",
-      "sourceNote": "Reviewed the 2027 homepage and Who Should Apply page. Separate Plant Genome and Programmable Plant Systems applications use NSF ETAP; verify the relevant program entry before applying.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 28: rendered official home page confirms the November 1 opening and June 2–August 6 program dates. This corrects the earlier late-October opening estimate. Application opening is not a closing deadline. Previously reviewed eligibility and funding are preserved; only opening/date information was rechecked in this sync.",
+      "checkedOn": "2026-10-28",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: 2027 portal application materials TBA; likely research interest, academic record, recommendation; verify on opening",
@@ -16856,6 +16856,535 @@
         "Start the matching official application"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "c9fb3e6955596ff6185fb35ed0e4e261f2e12cb04b4426109d7416c413ce5f1c",
+        "hash": "419e84739bdfcddfca3b71735a23a54483f03f2145164cfd321346e59d6a7d6f",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "Simons HBCU Centers of Excellence 2027 — institutional grants",
+          "category": "HBCU institutional STEM research grant",
+          "deadline": "2026-11-12 12:00 ET (LOI)",
+          "milestone": "Invited full application 2027-02-09 12:00 ET",
+          "programDates": "2027-09-01 to 2032-08-31",
+          "funding": "Up to $1.5M/year × 5 = $7.5M per center; up to 2 centers; institutional research grant (NOT personal award)",
+          "location": "HBCU host; multi-institution collaboration encouraged",
+          "eligibility": "Accredited HBCU host; tenured PhD PI with scholarly track record; minimum 3 faculty, 2 graduate students, 2 postdocs; no student direct applications; individual citizenship restriction not specified",
+          "materials": "Faculty-led LOI with ambitious computational/theoretical research vision, student engagement and regional hub plan; full application by invitation",
+          "url": "https://www.simonsfoundation.org/funding/simons-centers-of-excellence-at-historically-black-colleges-and-universities-2027/"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-simons-hbcu-centers-of-excellence-2027-institutional-grants-c9fb3e695559",
+      "title": "Simons HBCU Centers of Excellence 2027 — institutional grants",
+      "organization": "Simons Foundation",
+      "category": "Grants & funding",
+      "levels": [
+        "Organization",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hbcu",
+        "institutional",
+        "stem",
+        "research",
+        "grant"
+      ],
+      "url": "https://www.simonsfoundation.org/funding/simons-centers-of-excellence-at-historically-black-colleges-and-universities-2027/",
+      "sourceUrl": "https://www.simonsfoundation.org/funding/simons-centers-of-excellence-at-historically-black-colleges-and-universities-2027/",
+      "summary": "Institutional grants supporting HBCU computational, theoretical and data-driven STEM research centers, September 2027–August 2032. Students cannot apply directly.",
+      "eligibility": "Accredited HBCU host, led by a tenured Ph.D. principal investigator. Center includes at least three faculty, two graduate students and two postdocs. Applicant is the institution; foundation employee restrictions apply. Individual citizenship conditions require confirmation.",
+      "reward": "Up to $1.5 million per year for five years, including 20% indirect costs, for up to two centers. Final-year funding depends on review. Institutional research support, not personal scholarship money.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-12",
+      "deadlineAt": "2026-11-12T17:00:00.000Z",
+      "sourceDeadline": "LOI: November 12, 2026, 12 p.m. (noon) Eastern time. Invited full applications: February 9, 2027, noon Eastern.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
+      "cycle": "2027 · Simons HBCU Centers of Excellence 2027 — institutional grants",
+      "sourceState": "Application",
+      "sourceNote": "Current 2027 RFA confirms the two-stage application through Simons Award Manager: https://sam.simonsfoundation.org/ . The principal investigator submits the LOI; full proposals require invitation. Funding is competitive and awarded to the HBCU institution.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Faculty-led LOI with ambitious computational/theoretical research vision, student engagement and regional hub plan; full application by invitation",
+        "Review next milestone: Invited full application 2027-02-09 12:00 ET"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "bc98ca67a1222d0da5a1d4ddbca00c5dd9dee58fae5e9843a886acb23dce0174",
+        "hash": "ffdf6d3717a54b8e2bbe78fcaec14fed82babfb42c1216a49dbd6443c9dccb26",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "Simons HBCU Faculty Fellowship 2027",
+          "category": "HBCU faculty research institutional fellowship",
+          "deadline": "2026-11-12 12:00 ET (LOI)",
+          "milestone": "Invited full application 2027-02-09 12:00 ET",
+          "programDates": "2027-09-01 to 2032-08-31",
+          "funding": "Up to $320K/year ×5 = $1.6M per HBCU; up to 5 institutions; institutional teaching buyout/research grant",
+          "location": "HBCU institution; faculty research",
+          "eligibility": "Institution nominates up to 4 junior tenure-track faculty in math, neuroscience, physics, ecology/evolution; senior mentor and ≥50% teaching buyout; student benefit indirect; nationality restriction not specified",
+          "materials": "Institutional LOI 0.5p overview, 0.5p fields, 0.5-1p fellow profiles, 0.5p mentoring, 0.5p commitment; full proposal by invitation",
+          "url": "https://www.simonsfoundation.org/funding/simons-historically-black-colleges-and-universities-faculty-fellowship-2027/"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-simons-hbcu-faculty-fellowship-2027-bc98ca67a122",
+      "title": "Simons HBCU Faculty Fellowship 2027",
+      "organization": "Simons Foundation",
+      "category": "Research programs",
+      "levels": [
+        "Organization",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hbcu",
+        "faculty",
+        "research",
+        "institutional",
+        "fellowship"
+      ],
+      "url": "https://www.simonsfoundation.org/funding/simons-historically-black-colleges-and-universities-faculty-fellowship-2027/",
+      "sourceUrl": "https://www.simonsfoundation.org/funding/simons-historically-black-colleges-and-universities-faculty-fellowship-2027/",
+      "summary": "HBCU institutional faculty-fellowship support for junior tenure-track researchers, September 2027–August 2032. Student benefits are indirect.",
+      "eligibility": "Accredited HBCU nominates up to four junior tenure-track faculty in mathematics, neuroscience, physics or ecology/evolution. Senior mentoring and at least 50% protected research time required. A senior institutional leader submits; this is not a direct student application.",
+      "reward": "Up to $320,000 per year over five years ($1.6 million per institution), including 20% indirect costs, for up to five HBCUs. Supports teaching buyout and research; not personal student scholarship funds.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-12",
+      "deadlineAt": "2026-11-12T17:00:00.000Z",
+      "sourceDeadline": "LOI: November 12, 2026, 12 p.m. (noon) Eastern time. Full application deadline: February 9, 2027; invitation required.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
+      "cycle": "2027 · Simons HBCU Faculty Fellowship 2027",
+      "sourceState": "Application",
+      "sourceNote": "Current 2027 RFA confirms the institutional nomination process and SAM route: https://sam.simonsfoundation.org/ . Preserve faculty and institutional restrictions; no student eligibility or citizenship benefit is inferred.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Institutional LOI 0.5p overview, 0.5p fields, 0.5-1p fellow profiles, 0.5p mentoring, 0.5p commitment; full proposal by invitation",
+        "Review next milestone: Invited full application 2027-02-09 12:00 ET"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c710e6ab251b9bd50e94b37728cf2859c39feb2b3913215113fe01b19b490dd1",
+        "hash": "a52bebb67572d35181fe64e137c931429abf40ae168e41ce47a9f440812db1c7",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "Louisiana Sea Grant UROP 2027",
+          "category": "Louisiana undergraduate research / faculty-directed grant",
+          "deadline": "2026-12-10 23:59 CT",
+          "milestone": "Faculty-led proposal now",
+          "programDates": "2027-03 to 2027-12",
+          "funding": "Up to $10,000 per project to faculty for student wages, supplies and necessary travel; ~2-3 projects funded",
+          "location": "Louisiana universities; research benefits coastal Louisiana",
+          "eligibility": "Full-time Louisiana college undergraduate with faculty mentor; faculty MUST apply; no published citizenship restriction; F-1 student wages require DSO/work authorization check; federal grant rules check",
+          "materials": "3-page narrative + data management plan, student role, budget, mentor application; final written research report; IRB/IACUC if applicable",
+          "url": "https://advance.louisiana.edu/news-events/news/20261022/louisiana-sea-grant%E2%80%99s-lsg-undergraduate-research-opportunities-program-0"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-louisiana-sea-grant-urop-2027-c710e6ab251b",
+      "title": "Louisiana Sea Grant UROP 2027",
+      "organization": "Louisiana Sea Grant College Program",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "louisiana",
+        "undergraduate",
+        "research",
+        "faculty",
+        "directed",
+        "grant"
+      ],
+      "url": "https://advance.louisiana.edu/news-events/news/20261022/louisiana-sea-grant%E2%80%99s-lsg-undergraduate-research-opportunities-program-0",
+      "sourceUrl": "https://advance.louisiana.edu/news-events/news/20261022/louisiana-sea-grant%E2%80%99s-lsg-undergraduate-research-opportunities-program-0",
+      "summary": "Faculty-directed Louisiana undergraduate research on marine and coastal resource issues, March–December 2027.",
+      "eligibility": "Faculty mentors of full-time undergraduates at Louisiana colleges or universities submit the proposal. Research must benefit Louisiana coastal communities or ecosystems. Students help develop the proposal but cannot submit it. Citizenship and any required employment authorization need confirmation.",
+      "reward": "Up to $10,000 per project paid to the faculty-led project for student wages, supplies and necessary travel; roughly two or three projects expected. This is not a $10,000 personal award.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-10",
+      "deadlineAt": "2026-12-11T05:59:00.000Z",
+      "sourceDeadline": "December 10, 2026, at 11:59 p.m. CST.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · Louisiana Sea Grant UROP 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official university funding notice confirms the 2027 cycle, cutoff and faculty-only submission through https://laseagrant.infoready4.com/ . Proposal narrative is limited to three pages; budget, student role and data-management requirements apply.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 3-page narrative + data management plan, student role, budget, mentor application; final written research report; IRB/IACUC if applicable",
+        "Review next milestone: Faculty-led proposal now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "f4c64499f5083e442d7a4067de5cbbd5b2e5188fdfe1511c751883fa65c4c9fd",
+        "hash": "d701886feff97dcdb9b0d90da81bcc9c023eea376f834dfbe41c2b7bebca7fc8",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "Colorado State ARIDS Agricultural Biology REEU 2027",
+          "category": "Paid summer agricultural research + extension",
+          "deadline": "2027-02-15",
+          "milestone": "Request two recommendations and verify F-1 eligibility",
+          "programDates": "2027-06-01 to 2027-07-23",
+          "funding": "$5,800 stipend + lodging + meals + travel reimbursement",
+          "location": "Colorado State University Fort Collins; 8 weeks",
+          "eligibility": "Undergraduates enrolled at US colleges/universities; citizenship restriction not stated on organizer page; F-1 eligibility/work authorization must be confirmed; agriculture and pest-management interests",
+          "materials": "Application document, short research statements, unofficial transcript, two recommendations; combine PDF and email; final research presentation",
+          "url": "https://agsci.colostate.edu/agbio/ipm/reeu-information/"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-colorado-state-arids-agricultural-biology-reeu-2027-f4c64499f508",
+      "title": "Colorado State ARIDS Agricultural Biology REEU 2027",
+      "organization": "Colorado State University Department of Agricultural Biology",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "agricultural",
+        "research",
+        "extension"
+      ],
+      "url": "https://agsci.colostate.edu/agbio/ipm/reeu-information/",
+      "sourceUrl": "https://agsci.colostate.edu/agbio/ipm/reeu-information/",
+      "summary": "Eight-week ARIDS undergraduate research and extension program in Fort Collins, June 1–July 23, 2027, focused on agriculture and pest management.",
+      "eligibility": "Undergraduates currently enrolled in U.S. colleges or universities with relevant research interests. The organizer does not state a citizenship restriction; international-student eligibility and any paid-work authorization must be confirmed.",
+      "reward": "$5,800 stipend, lodging and meals, plus reimbursement for travel to and from CSU. Reimbursement caps and timing are not published.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Email application by February 15, 2027. No cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Colorado State ARIDS Agricultural Biology REEU 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official page confirms dates, support and email submission with research statements, transcripts and two recommendations in one PDF. The linked application document redirects to Microsoft sign-in, so access to the required document remains unverified. No closure is inferred; confirm access before preparing the complete submission.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application document, short research statements, unofficial transcript, two recommendations; combine PDF and email; final research presentation",
+        "Review next milestone: Request two recommendations and verify F-1 eligibility"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "e4f9eccd1419f3d2e134cda9fd23915deb286d9442e8de0f237025656fb80db9",
+        "hash": "18bedfc5ff95316825a546d9e006532f63f14ef0d75b7a717105b72c75e793ca",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "CAMFT Educational Foundation Scholarships and Grant 2026-27",
+          "category": "Mental health / counselor professional scholarships",
+          "deadline": "2026-11-27",
+          "milestone": "One application only; awards distributed April 2027",
+          "programDates": "2027-04 awards",
+          "funding": "Five scholarships × $4,000; one discretionary grant up to $2,500; cash educational awards (not clinical licensure)",
+          "location": "California marriage and family therapy training/licensure pathways",
+          "eligibility": "Qualifying MFT training/unpaid internship or California licensure-aligned grad program/AMFT; NOT undergraduate general psychology; CAMFT membership not required; citizenship/F-1 not specified; clinical placement and licensure must independently comply",
+          "materials": "Select ONE award; online application with training, need, service/professional commitment; verify portal specifics",
+          "url": "https://www.camft.org/scholarships"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-camft-educational-foundation-scholarships-and-grant-2026-27-e4f9eccd1419",
+      "title": "CAMFT Educational Foundation Scholarships and Grant 2026-27",
+      "organization": "California Association of Marriage and Family Therapists Educational Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Graduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "mental",
+        "health",
+        "counselor",
+        "professional",
+        "scholarships"
+      ],
+      "url": "https://www.camft.org/scholarships",
+      "sourceUrl": "https://www.camft.org/scholarships",
+      "summary": "MFT professional-training scholarships and a discretionary professional-development grant, with awards distributed April 2027.",
+      "eligibility": "Award-specific MFT advanced training, unpaid internship, qualifying degree or California licensure pathway; not general undergraduate aid. Many awards require continued eligibility after April 1, 2027. Only one award application allowed; applying to several disqualifies all. Lifetime maximum two awards. Membership is optional; immigration rules unstated.",
+      "reward": "Five scholarships of $4,000 each and one discretionary grant up to $2,500. The grant supports the profession rather than personal gain.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-27",
+      "deadlineAt": "",
+      "sourceDeadline": "November 27, 2026. No cutoff time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026–2027 · CAMFT Educational Foundation Scholarships and Grant 2026-27",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official organizer page confirms the date and April 2027 distribution. Its shared Apply Now link redirects to a general active-calls directory without the scholarship form: https://proposalspace.com/calls/d/1946 . Current application access needs verification; do not infer closure from the redirect.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Select ONE award; online application with training, need, service/professional commitment; verify portal specifics",
+        "Review next milestone: One application only; awards distributed April 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "df44a3f33be5163b0efc7d780655d5edc3cbca7dbcf371021224d0c20017b00f",
+        "hash": "5e86615009db94fb9768a2948306fdecb70a00eb2cd4700d917efe9093a0129c",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "IBNS 2027 Behavioral Neuroscience Student Travel Awards + Pre-Review",
+          "category": "Professional society conference travel/mentorship",
+          "deadline": "2026-12-11 (award); 2026-11-06 (pre-review)",
+          "milestone": "Pre-review by Nov 6; full application Dec 11",
+          "programDates": "2027-06-21 to 2027-06-25 Nassau Bahamas",
+          "funding": "Free conference registration + partial travel reimbursement (amount individualized) + mentorship; NOT full trip; upfront expenses required",
+          "location": "Bahamas conference; international travel",
+          "eligibility": "Undergrad, master's, PhD, postdoc IBNS members (pre-review does not require membership); first-author poster + oral blitz; international applicants encouraged; visa/travel and F-1 reentry checks; not clinical placement",
+          "materials": "≤2500-character first-author abstract, CV, 1000-char personal and inclusion statements, recommendation, single PDF; pre-review optional",
+          "url": "https://www.ibnsconnect.org/travel-awards"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-ibns-2027-behavioral-neuroscience-student-travel-awards-pre-revie-df44a3f33be5",
+      "title": "IBNS 2027 Behavioral Neuroscience Student Travel Awards + Pre-Review",
+      "organization": "International Behavioral Neuroscience Society",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "society",
+        "conference",
+        "travel",
+        "mentorship"
+      ],
+      "url": "https://www.ibnsconnect.org/travel-awards",
+      "sourceUrl": "https://www.ibnsconnect.org/travel-awards",
+      "summary": "Partial travel support and mentorship for the June 21–25, 2027 IBNS meeting in Nassau, Bahamas. Optional application pre-review closes November 6, 2026.",
+      "eligibility": "Undergraduate, graduate or qualifying postdoctoral IBNS members; first-author poster and oral blitz required, plus attendance for the entire meeting. One award per training level. Membership is not required for pre-review but is required for the travel award. Confirm immigration and travel permissions separately.",
+      "reward": "Free conference registration and partial travel reimbursement, amount based on estimated travel costs. Supplemental and upfront funds are required; the full trip is not funded.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Travel Award Pre-Review Program: November 6, 2026. Travel Award: December 11, 2026. No cutoff times stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · IBNS 2027 Behavioral Neuroscience Student Travel Awards + Pre-Review",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official 2027 award and pre-review deadlines confirmed. Linked member-portal forms could not be read; verify access before applying. Membership approval takes time. The page also retains an outdated February 2026 notification sentence; no notification date is assigned from that stale text.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: ≤2500-character first-author abstract, CV, 1000-char personal and inclusion statements, recommendation, single PDF; pre-review optional",
+        "Review next milestone: Pre-review by Nov 6; full application Dec 11"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c709c8364a2a42e08012dd6ffbe3f2e4f18a3b94f86dfbbbb033ec0dfab575f9",
+        "hash": "0744e38df37085a7955ee4f6640bbf11c011e2425d17d15bb14b4e6790205a17",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "Cognitive Neuroscience Society 2027 Student/Postdoc Travel Award",
+          "category": "Professional society conference travel",
+          "deadline": "2026-11-03",
+          "milestone": "Must submit 2027 CNS poster abstract before travel award application",
+          "programDates": "2027 CNS Annual Meeting Boston (date see organizer)",
+          "funding": "$500 cash stipend collected at onsite registration; offsets travel/registration only; lodging/meals not covered",
+          "location": "Boston, MA in person",
+          "eligibility": "Current paid CNS student/postdoc member; first author and in-person presenter of submitted poster; citizenship not specified; international students may apply if member; no clinical licensure",
+          "materials": "Submitted poster abstract title, ≤500-word personal statement, faculty advisor support letter, online application",
+          "url": "https://www.cogneurosociety.org/travel-award/"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-cognitive-neuroscience-society-2027-student-postdoc-travel-award-c709c8364a2a",
+      "title": "Cognitive Neuroscience Society 2027 Student/Postdoc Travel Award",
+      "organization": "Cognitive Neuroscience Society",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "society",
+        "conference",
+        "travel"
+      ],
+      "url": "https://www.cogneurosociety.org/travel-award/",
+      "sourceUrl": "https://www.cogneurosociety.org/travel-award/",
+      "summary": "Competitive $500 travel award for an in-person poster presenter at the CNS 2027 meeting in Boston.",
+      "eligibility": "Current paid CNS student or postdoc member who is first author and in-person presenter of a submitted CNS 2027 poster. Submit the poster abstract before the travel-award application. Citizenship is not specified; confirm any travel requirements.",
+      "reward": "$500 USD collected at the onsite registration desk to offset travel and registration. Paid membership, conference costs and remaining travel expenses are not fully funded.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-03",
+      "deadlineAt": "",
+      "sourceDeadline": "November 3, 2026. No cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-05",
+      "cycle": "2027 · Cognitive Neuroscience Society 2027 Student/Postdoc Travel Award",
+      "sourceState": "Application",
+      "sourceNote": "Current 2027 award page and working form verified: https://www.cogneurosociety.org/travel-award-application/ . Requires the submitted abstract title, personal statement up to 500 words and advisor support letter. Award recipients must attend and present in person; this is not full-trip sponsorship.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Submitted poster abstract title, ≤500-word personal statement, faculty advisor support letter, online application",
+        "Review next milestone: Must submit 2027 CNS poster abstract before travel award application"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "3beb47fc97b65306a744ff02299167dad354988f238e7e1e92097137eb33d158",
+        "hash": "1a9a048eaa5b65464e5e242b13bc8a91d9c70fefa9b7e97796475d76ce2515cf",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "WVU Neuroscience Undergraduate Research Opportunity (NURO) 2027",
+          "category": "Paid summer behavioral/neuroscience research",
+          "deadline": "2027-01-31",
+          "milestone": "Apply now; arrange two references",
+          "programDates": "2027-05-31 to 2027-07-30",
+          "funding": "$5,000 research stipend + double-room housing + competitive travel support on request; meals not confirmed",
+          "location": "West Virginia University Morgantown",
+          "eligibility": "Completed 2nd or 3rd year US-college undergraduates, GPA ≥3.0; US citizens or permanent residents ONLY; F-1 ineligible; 6 places max",
+          "materials": "Application, CV, 2 references submitted by referees, official transcript (unofficial temporary placeholder); poster presentation",
+          "url": "https://medicine.hsc.wvu.edu/neuroscience/about-us/training-and-internships/neuroscience-undergraduate-research-opportunity-nuro/"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-wvu-neuroscience-undergraduate-research-opportunity-nuro-2027-3beb47fc97b6",
+      "title": "WVU Neuroscience Undergraduate Research Opportunity (NURO) 2027",
+      "organization": "West Virginia University Department of Neuroscience",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "behavioral",
+        "neuroscience",
+        "research"
+      ],
+      "url": "https://medicine.hsc.wvu.edu/neuroscience/about-us/training-and-internships/neuroscience-undergraduate-research-opportunity-nuro/",
+      "sourceUrl": "https://medicine.hsc.wvu.edu/neuroscience/about-us/training-and-internships/neuroscience-undergraduate-research-opportunity-nuro/",
+      "summary": "Research-intensive NURO program in Morgantown, May 31–July 30, 2027, with up to six undergraduate places.",
+      "eligibility": "U.S. citizens or permanent residents enrolled at a U.S. college, after second or third undergraduate year; GPA at least 3.0. Relevant biology, neuroscience, engineering or psychology preparation. International F-1 status alone does not satisfy the citizenship rule.",
+      "reward": "$5,000 research stipend and double-room residence-hall accommodation; competitive travel support available on request. Meals are not confirmed.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "January 31, 2027. No cutoff time or timezone stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · WVU Neuroscience Undergraduate Research Opportunity (NURO) 2027",
+      "sourceState": "Application",
+      "sourceNote": "Current official 2027 page and linked application form verified. Resume/CV, official transcript and two recommendations are required; unofficial transcripts may temporarily hold a place. Recommendations must be submitted by referees, not applicants.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application, CV, 2 references submitted by referees, official transcript (unofficial temporary placeholder); poster presentation",
+        "Review next milestone: Apply now; arrange two references"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "ea1c3a557b5ee83dfa3f88bda66c4371102641f3e8abeb5a91daf9a4c5ffc0e8",
+        "hash": "0590ce8589635b1ed5dc7fe4042b6ed8e03e56ed65b85ae5188da2e094536d08",
+        "checkedAt": "2026-10-28T14:36:08.000Z",
+        "present": true,
+        "fields": {
+          "title": "National Summer Undergraduate Research Project (NSURP) 2027 — virtual",
+          "category": "Paid remote summer research",
+          "deadline": "2027 deadline TBA (applications open March 2027)",
+          "milestone": "Watch application opening in March 2027",
+          "programDates": "2027-06-07 to 2027-07-30",
+          "funding": "$5,000 participant stipend; fully virtual (no housing/travel/meals provided)",
+          "location": "Remote / full-time 40h per week",
+          "eligibility": "Undergraduates across US matched to worldwide research mentors; specific nationality/F-1 eligibility not published; F-1 must confirm remote paid work authorization with DSO",
+          "materials": "2027 application requirements not yet published; full-time mentored research, webinars, virtual presentation",
+          "url": "https://nsurp.org/"
+        },
+        "verifiedAt": "2026-10-28T14:36:08.000Z"
+      },
+      "id": "sheet-national-summer-undergraduate-research-project-nsurp-2027-virtual-ea1c3a557b5e",
+      "title": "National Summer Undergraduate Research Project (NSURP) 2027 — virtual",
+      "organization": "National Summer Undergraduate Research Project",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "remote",
+        "summer",
+        "research"
+      ],
+      "url": "https://nsurp.org/",
+      "sourceUrl": "https://nsurp.org/",
+      "summary": "Eight-week, fully virtual biomedical research program, June 7–July 30, 2027, matching U.S.-based undergraduate participants with mentors worldwide.",
+      "eligibility": "Undergraduate STEM/biomedical-science students from across the U.S.; full-time 40 hours weekly. The 2027 citizenship, immigration and detailed application rules are not published; confirm eligibility and paid remote-work authorization.",
+      "reward": "$5,000 participant stipend for eight weeks. Virtual program; housing, meals and travel are not provided.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications open March 2027. Exact opening day and application closing date are not announced.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · National Summer Undergraduate Research Project (NSURP) 2027 — virtual",
+      "sourceState": "Upcoming",
+      "sourceNote": "Current organizer site confirms the 2027 return, dates, virtual format and stipend. March is an opening month, not a closing date; no exact opensOn day is invented. This is a future application lead, not an application currently accepting submissions.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 2027 application requirements not yet published; full-time mentored research, webinars, virtual presentation",
+        "Review next milestone: Watch application opening in March 2027"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
