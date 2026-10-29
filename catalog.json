@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 120,
-  "updatedAt": "2026-10-29T14:25:19.100Z",
+  "revision": 121,
+  "updatedAt": "2026-10-29T16:40:48.339Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-29T12:56:54.000Z",
+      "checkedAt": "2026-10-29T16:40:33.000Z",
       "outcome": "success",
-      "summary": "Read 224 spreadsheet opportunities: 0 new, 222 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 241 spreadsheet opportunities: 15 new, 223 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -1179,6 +1179,24 @@
       "stream": "original"
     },
     {
+      "sheet": {
+        "key": "4379379e05c1d6f002df337e07fb539172d16c4b24b6925f37b175f0abec2166",
+        "hash": "11f3494587584f4b52172226770ce1f8236ed66a17a2df0a2fb27a965a268d2b",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "UT MD Anderson CPRIT CURE Summer Undergraduate Program 2027",
+          "category": "Paid summer cancer research / undergraduate",
+          "deadline": "2027-01-13 23:59 CST",
+          "milestone": "Applications open 2026-11-16; request two references now",
+          "programDates": "2027-06-07 to 2027-08-13, 10 weeks",
+          "funding": "Up to $7,200 taxable wages/stipend; includes housing/living/travel budget; no separate allowances",
+          "location": "In person; Houston, TX, full-time 40h/week",
+          "eligibility": "Undergraduates completing their first, second or third year by June 2027; computing, mathematics and physics students are encouraged. International students reportedly may apply with appropriate visa coverage and employment authorization. The program does not offer academic/internship credit; verify authorization requirements.",
+          "materials": "Official transcript; research-interest statement (experience not mandatory); 2 recommendations, at least one science/math professor",
+          "url": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/cprit-cure.html"
+        }
+      },
       "id": "cprit",
       "title": "CPRIT CURE Summer Undergraduate Program",
       "organization": "UT MD Anderson Cancer Center",
@@ -1188,7 +1206,8 @@
       ],
       "tags": [
         "Health",
-        "Research"
+        "Research",
+        "Spreadsheet"
       ],
       "url": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/cprit-cure.html",
       "sourceUrl": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/cprit-cure.html",
@@ -17993,6 +18012,871 @@
         "Complete application and save receipt"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "f4ec13e3372da24e430d37f88353b726d19986a9d8a06cc599b7924480c16a6c",
+        "hash": "cded50f1c7db21df59f0ce186f49f7069e1fda8e649ff38ec4aaa281c409c7bb",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "NBA HBCU Fellowship 2027",
+          "category": "Paid summer internship / HBCU leadership fellowship",
+          "deadline": "2026-11-30 23:59 PST (opens 2026-11-09)",
+          "milestone": "Orientation 2027-06-02 to 2027-06-04",
+          "programDates": "2027-06-07 to 2027-08-13 (10 weeks)",
+          "funding": "Paid 10-week internship; travel to internship location and housing provided (pay amount not stated on page)",
+          "location": "In person, NBA/WNBA teams, NBA League Office, or NBPA",
+          "eligibility": "HBCU undergraduate and graduate students; priority to sophomores, juniors, seniors, graduating seniors and graduate students; age 18+ by June 2, 2027; full-time availability. Source reports eligibility for students authorized to work in the U.S., including F-1 students with eligible CPT/OPT. Confirm current program and employment-authorization requirements.",
+          "materials": "Application to chosen job function(s); unofficial HBCU transcript (GPA collected but not a qualification requirement)",
+          "url": "https://mlt.org/nba-hbcu-fellowship/"
+        }
+      },
+      "id": "sheet-nba-hbcu-fellowship-2027-f4ec13e3372d",
+      "title": "NBA HBCU Fellowship 2027",
+      "organization": "mlt.org",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "internship",
+        "hbcu",
+        "leadership",
+        "fellowship"
+      ],
+      "url": "https://mlt.org/nba-hbcu-fellowship/",
+      "sourceUrl": "https://mlt.org/nba-hbcu-fellowship/",
+      "summary": "Paid summer internship / HBCU leadership fellowship. Program dates: 2027-06-07 to 2027-08-13 (10 weeks). Location / format: In person, NBA/WNBA teams, NBA League Office, or NBPA. Next milestone: Orientation 2027-06-02 to 2027-06-04",
+      "eligibility": "HBCU undergraduate and graduate students; priority to sophomores, juniors, seniors, graduating seniors and graduate students; age 18+ by June 2, 2027; full-time availability. Source reports eligibility for students authorized to work in the U.S., including F-1 students with eligible CPT/OPT. Confirm current program and employment-authorization requirements.",
+      "reward": "Paid 10-week internship; travel to internship location and housing provided (pay amount not stated on page)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-30 23:59 PST (opens 2026-11-09)",
+      "confidence": "Date only",
+      "opensOn": "2026-11-09",
+      "cycle": "2027 · NBA HBCU Fellowship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application to chosen job function(s); unofficial HBCU transcript (GPA collected but not a qualification requirement)",
+        "Review next milestone: Orientation 2027-06-02 to 2027-06-04"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "77305001d1ff8c82a3de3913a36fcac5e58a194bbb6654c3b338b800fb6f173b",
+        "hash": "5fef97dfd695d052dc3e43b6636360d2471078cee1755c2c97fcccde9b3e5df8",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "Caltech SURF 2027 (campus program)",
+          "category": "Funded fellowship / research",
+          "deadline": "2027-02-22 (all materials + recommendations due same day; opens 2026-11-01)",
+          "milestone": "Secure a Caltech faculty mentor agreement BEFORE submitting; award announcements 2027-04-01",
+          "programDates": "10 weeks, starts 2027-06-15 (must begin by 2027-07-12)",
+          "funding": "Paid 10-week fellowship; dollar amount NOT restated on official application page (secondary summary $8,354); housing paid by student, not included",
+          "location": "In person, Pasadena, CA",
+          "eligibility": "Continuing undergraduates, including visiting and international students, for the Caltech campus program. SURF at JPL has separate citizenship/permanent-residency restrictions. Confirm employment authorization for paid research and the current mentor and recommendation requirements.",
+          "materials": "Online application; student-written research proposal; unofficial transcript (visiting students); 2 confidential recommendations (1+ faculty; Caltech mentor writes separate evaluation)",
+          "url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information"
+        }
+      },
+      "id": "sheet-caltech-surf-2027-campus-program-77305001d1ff",
+      "title": "Caltech SURF 2027 (campus program)",
+      "organization": "sfp.caltech.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "fellowship",
+        "research"
+      ],
+      "url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
+      "sourceUrl": "https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information",
+      "summary": "Funded fellowship / research. Program dates: 10 weeks, starts 2027-06-15 (must begin by 2027-07-12). Location / format: In person, Pasadena, CA. Next milestone: Secure a Caltech faculty mentor agreement BEFORE submitting; award announcements 2027-04-01",
+      "eligibility": "Continuing undergraduates, including visiting and international students, for the Caltech campus program. SURF at JPL has separate citizenship/permanent-residency restrictions. Confirm employment authorization for paid research and the current mentor and recommendation requirements.",
+      "reward": "Paid 10-week fellowship; dollar amount NOT restated on official application page (secondary summary $8,354); housing paid by student, not included",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-22",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-22 (all materials + recommendations due same day; opens 2026-11-01)",
+      "confidence": "Date only",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · Caltech SURF 2027 (campus program)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; student-written research proposal; unofficial transcript (visiting students); 2 confidential recommendations (1+ faculty; Caltech mentor writes separate evaluation)",
+        "Review next milestone: Secure a Caltech faculty mentor agreement BEFORE submitting; award announcements 2027-04-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "34e184e63ad5747ae22d8c22b3fc0bcbcb864b7ec36033512d11dcfffec33aed",
+        "hash": "ebacd16b377885ef073a2a9bce7a82de939cf9fb9c4634ec7878980d0c60cc4b",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "National FFA Scholarship Program 2026-27",
+          "category": "Agriculture scholarship",
+          "deadline": "January 14, 2027 in the reported timeline; January 15 in page text. Conflicting dates remain unconfirmed. Reported opening November 1, 2026.",
+          "milestone": "Winner/non-winner notification 2027-04-22; funds distributed 2027-07-15",
+          "programDates": "2027-28 academic year",
+          "funding": "Pool nearly $2.5M; Tractor Supply FFA Future Leaders: 54 x $10,000 (four-year) and 92 x $5,000 (trade/two-year); individual sponsor awards $1,000-$10,000",
+          "location": "Online; US trade schools, two-year and four-year institutions",
+          "eligibility": "High-school senior FFA members or FFA alumni in college pursuing trade, vocational or degree study. Sponsor-specific eligibility and citizenship restrictions vary; current award requirements need verification.",
+          "materials": "Single online application via FFA/Kaleidoscope (transcript; sponsor-specific items vary)",
+          "url": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/"
+        }
+      },
+      "id": "sheet-national-ffa-scholarship-program-2026-27-34e184e63ad5",
+      "title": "National FFA Scholarship Program 2026-27",
+      "organization": "ffa.org",
+      "category": "Scholarships",
+      "levels": [
+        "High school"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "agriculture",
+        "scholarship"
+      ],
+      "url": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/",
+      "sourceUrl": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/",
+      "summary": "Agriculture scholarship. Program dates: 2027-28 academic year. Location / format: Online; US trade schools, two-year and four-year institutions. Next milestone: Winner/non-winner notification 2027-04-22; funds distributed 2027-07-15",
+      "eligibility": "High-school senior FFA members or FFA alumni in college pursuing trade, vocational or degree study. Sponsor-specific eligibility and citizenship restrictions vary; current award requirements need verification.",
+      "reward": "Pool nearly $2.5M; Tractor Supply FFA Future Leaders: 54 x $10,000 (four-year) and 92 x $5,000 (trade/two-year); individual sponsor awards $1,000-$10,000",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: January 14, 2027 in the reported timeline; January 15 in page text. Conflicting dates remain unconfirmed. Reported opening November 1, 2026.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026–2027 · National FFA Scholarship Program 2026-27",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Single online application via FFA/Kaleidoscope (transcript; sponsor-specific items vary)",
+        "Review next milestone: Winner/non-winner notification 2027-04-22; funds distributed 2027-07-15"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "56779f3d30a4131faf9b05fd750526a52ec4b0f2d7a4a28761251c9a87d03982",
+        "hash": "0210659a2237b223d2d69bf958a905374a86993597ffca895bc0c24506207dc4",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "FNSNA 2027 Undergraduate Scholarship Program",
+          "category": "Healthcare / nursing scholarship",
+          "deadline": "2027-01-11 23:59 PM",
+          "milestone": "Apply by 2027-01-11",
+          "programDates": "2027 academic year",
+          "funding": "Awards up to $10,000 (general awards historically $1,000-$7,500; varies by sponsor track)",
+          "location": "Online; US state-approved nursing programs",
+          "eligibility": "Undergraduate students in eligible state-approved nursing programs, generally with at least six credits per semester. Academic achievement, need and nursing/community-health involvement are considered. Membership and citizenship rules vary by scholarship track; confirm the selected track.",
+          "materials": "Online application; official transcript (per program guidance); track-specific items vary",
+          "url": "https://www.linkedin.com/company/the-foundation-of-the-national-student-nurses-association-incorporated/"
+        }
+      },
+      "id": "sheet-fnsna-2027-undergraduate-scholarship-program-56779f3d30a4",
+      "title": "FNSNA 2027 Undergraduate Scholarship Program",
+      "organization": "linkedin.com",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "healthcare",
+        "nursing",
+        "scholarship"
+      ],
+      "url": "https://www.linkedin.com/company/the-foundation-of-the-national-student-nurses-association-incorporated/",
+      "sourceUrl": "https://www.linkedin.com/company/the-foundation-of-the-national-student-nurses-association-incorporated/",
+      "summary": "Healthcare / nursing scholarship. Program dates: 2027 academic year. Location / format: Online; US state-approved nursing programs. Next milestone: Apply by 2027-01-11",
+      "eligibility": "Undergraduate students in eligible state-approved nursing programs, generally with at least six credits per semester. Academic achievement, need and nursing/community-health involvement are considered. Membership and citizenship rules vary by scholarship track; confirm the selected track.",
+      "reward": "Awards up to $10,000 (general awards historically $1,000-$7,500; varies by sponsor track)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-11 23:59 PM",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · FNSNA 2027 Undergraduate Scholarship Program",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; official transcript (per program guidance); track-specific items vary",
+        "Review next milestone: Apply by 2027-01-11"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "781cec6444ab3a18c52bc9ebf05a83633c999f7284ba4708805ce5c59016861a",
+        "hash": "615171e1d289c89d1c044699209d1f7914a72a774918cc202150f9fe52ac9329",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "SIAM CSE27 Building Engagement (SHI) funded participant",
+          "category": "Professional development; funded STEM event participation",
+          "deadline": "2026-11-09 (opened 2026-10-12)",
+          "milestone": "Notification timing not stated on page",
+          "programDates": "2027-02-21 to 2027-02-26",
+          "funding": "Travel funding + conference registration + some meals (amount not stated)",
+          "location": "In person, Pittsburgh, PA",
+          "eligibility": "STEM participants at all levels; students are welcome. Research presentation opportunities are described but are not reported as mandatory. Citizenship restrictions require verification. This Sustainable Horizons Institute program is distinct from SIAM conference travel awards.",
+          "materials": "Application via Linklings portal linked on SHI page",
+          "url": "https://shinstitute.org/be-at-siam-cse27/"
+        },
+        "verifiedAt": "2026-10-29T16:40:33.000Z"
+      },
+      "id": "sheet-siam-cse27-building-engagement-shi-funded-participant-781cec6444ab",
+      "title": "SIAM CSE27 Building Engagement (SHI) funded participant",
+      "organization": "Sustainable Horizons Institute",
+      "category": "Conferences & networking",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "development",
+        "funded",
+        "stem",
+        "event",
+        "participation"
+      ],
+      "url": "https://shinstitute.org/be-at-siam-cse27/",
+      "sourceUrl": "https://shinstitute.org/be-at-siam-cse27/",
+      "summary": "Funded participation in the SIAM CSE27 conference in Pittsburgh, Pennsylvania, February 21–26, 2027, with mentoring and career-development activities.",
+      "eligibility": "STEM participants from varied backgrounds; students are welcome. In-person participation includes daily Guided Affinity Group meetings and a required end-of-week presentation. Research-presentation opportunities are separate. Citizenship restrictions are not stated; confirm eligibility before applying.",
+      "reward": "Travel funding, conference registration and some meals. Amounts, caps, covered travel items and reimbursement procedures are not published; confirm remaining costs.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-09",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications Deadline is November 09, 2026! The application portal also lists Monday, November 9, 2026; no cutoff time or timezone is published.",
+      "confidence": "Date only",
+      "opensOn": "2026-10-12",
+      "cycle": "Intake unconfirmed · SIAM CSE27 Building Engagement (SHI) funded participant",
+      "sourceState": "Application",
+      "sourceNote": "October 29: organizer announcement and current SHI Building Engagement 2027 submission site verified. Funding is limited to the stated items. Application entry: https://ssl.linklings.net/conferences/SHInstitute/",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via Linklings portal linked on SHI page",
+        "Review next milestone: Notification timing not stated on page"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "bb357546bd332b2ba5e43225394042af03a122ef9b62305d78696f19317a46e9",
+        "hash": "43efbdc48aa903f9fc3f683dd85fba071813ee091e9a316272f1ecfe402952d8",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "Microsoft Imagine Cup 2027",
+          "category": "University competition / startup prize (multi-month competition, NOT a hackathon)",
+          "deadline": "Not officially confirmed: 2027-02-28 appears only on a reported staging page, not verified on the live program page.",
+          "milestone": "Expert review/judging, then Regional Finals spring 2027, then World Championship 2027 (dates TBA)",
+          "programDates": "Regional Finals spring 2027; World Championship 2027 (date/location TBA)",
+          "funding": "Launch path $50,000; Scale path $100,000 (World Champion); Regional Finals: $15,000/$5,000/$1,000; regional finalists win trips; Azure credits on registration; mentorship",
+          "location": "Virtual early rounds; in-person Regional Finals and World Championship",
+          "eligibility": "Reported eligibility: enrolled students age 18+, teams of up to four, using at least two Microsoft AI services. Verify current rules, solution requirements and country eligibility on the live competition site.",
+          "materials": "Application via Award Force (startup, solution, traction, vision); MVP; pitch through successive rounds",
+          "url": "https://imaginecup.microsoft.com/en-us/compete/howitworks"
+        },
+        "verifiedAt": "2026-10-29T16:40:33.000Z"
+      },
+      "id": "sheet-microsoft-imagine-cup-2027-bb357546bd33",
+      "title": "Microsoft Imagine Cup 2027",
+      "organization": "Microsoft",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "competition",
+        "startup",
+        "prize",
+        "multi",
+        "month"
+      ],
+      "url": "https://imaginecup.microsoft.com/en-us/compete/howitworks",
+      "sourceUrl": "https://imaginecup.microsoft.com/en-us/compete/howitworks",
+      "summary": "Student startup competition with Launch and Scale paths for projects using Microsoft AI technology.",
+      "eligibility": "Reported eligibility: enrolled students age 18+, teams of up to four, using at least two Microsoft AI services. Verify current rules, solution requirements and country eligibility on the live competition site.",
+      "reward": "Published prizes: USD $50,000 for the Launch winner and USD $100,000 for the Scale winner. Track-specific funding limits and full competition rules apply; awards are competitive.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application cutoff confirmed on the live how-it-works page. The spreadsheet reports February 28, 2027 from a staging page; that date remains unconfirmed.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · Microsoft Imagine Cup 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "October 29: live organizer page confirms Launch and Scale prizes but not the reported staging-page deadline. Keep the cutoff unconfirmed pending current official rules and an application entry.",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via Award Force (startup, solution, traction, vision); MVP; pitch through successive rounds",
+        "Review next milestone: Expert review/judging, then Regional Finals spring 2027, then World Championship 2027 (dates TBA)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c22c4a9039ea03343c37859f7094d14c7403bd7154045deec182e6d25de7e755",
+        "hash": "6d7b141b1ba3ea805ee698329e3c03189c24459a265b05c21d7774678ae6bb93",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "EO Global Student Entrepreneur Awards (GSEA) 2027",
+          "category": "University competition / startup prize",
+          "deadline": "Varies by local chapter (official apply page: deadlines shown when you select your competition on portal; other US chapters running events Nov 2026, so local deadline may be near)",
+          "milestone": "Local competition, then US National, then Global Finals",
+          "programDates": "2027 season; Global Finals date TBA",
+          "funding": "Local prizes vary (e.g. EO New Jersey winner $5,000 + services + year of mentoring); global finalists compete for share of $100,000",
+          "location": "Local, then national, then global; in-person pitches",
+          "eligibility": "Undergraduate or graduate student business owners/founders age 30 or younger who are principally responsible for the business. Reported requirements include six months of operation plus at least $500 revenue or $1,000 investment. Confirm current rules and local competition requirements.",
+          "materials": "Online application via EO portal; business plan; short video pitch (per prior cycles)",
+          "url": "https://eonetwork.org/GSEA/Apply"
+        }
+      },
+      "id": "sheet-eo-global-student-entrepreneur-awards-gsea-2027-c22c4a9039ea",
+      "title": "EO Global Student Entrepreneur Awards (GSEA) 2027",
+      "organization": "eonetwork.org",
+      "category": "Startup competitions",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "competition",
+        "startup",
+        "prize"
+      ],
+      "url": "https://eonetwork.org/GSEA/Apply",
+      "sourceUrl": "https://eonetwork.org/GSEA/Apply",
+      "summary": "University competition / startup prize. Program dates: 2027 season; Global Finals date TBA. Location / format: Local, then national, then global; in-person pitches. Next milestone: Local competition, then US National, then Global Finals",
+      "eligibility": "Undergraduate or graduate student business owners/founders age 30 or younger who are principally responsible for the business. Reported requirements include six months of operation plus at least $500 revenue or $1,000 investment. Confirm current rules and local competition requirements.",
+      "reward": "Local prizes vary (e.g. EO New Jersey winner $5,000 + services + year of mentoring); global finalists compete for share of $100,000",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Varies by local chapter (official apply page: deadlines shown when you select your competition on portal; other US chapters running events Nov 2026, so local deadline may be near)",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · EO Global Student Entrepreneur Awards (GSEA) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application via EO portal; business plan; short video pitch (per prior cycles)",
+        "Review next milestone: Local competition, then US National, then Global Finals"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "63c1616fe080540f382451a6ba235fd048a42f45e0cd34259f80a88600d1c01f",
+        "hash": "666e9b79057a08ce6cb36a771aaeba8a5f0fa2c97902de25cd79a15c7f598299",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "New Orleans Entrepreneur Week (NOEW) 2027 - speaker/programming proposal",
+          "category": "Entrepreneurship speaking proposal / professional development",
+          "deadline": "2026-11-20 23:59 CT",
+          "milestone": "Rolling review after submission",
+          "programDates": "2027-03-08 to 2027-03-13; Summit 2027-03-11 to 2027-03-12 at Loyola, New Orleans",
+          "funding": "None - speaking slot and ecosystem exposure only (sales pitches/product demos explicitly excluded)",
+          "location": "In person, New Orleans, LA",
+          "eligibility": "Entrepreneurs and ecosystem partners may propose sessions. Verify proposal requirements and speaker eligibility; this is a programming opportunity rather than a scholarship or grant.",
+          "materials": "One proposal per session idea (topic, relevance, speaker qualifications)",
+          "url": "https://www.myneworleans.com/new-orleans-entrepreneur-week-announces-2027-dates/"
+        }
+      },
+      "id": "sheet-new-orleans-entrepreneur-week-noew-2027-speaker-programming-propo-63c1616fe080",
+      "title": "New Orleans Entrepreneur Week (NOEW) 2027 - speaker/programming proposal",
+      "organization": "myneworleans.com",
+      "category": "Conferences & networking",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "entrepreneurship",
+        "speaking",
+        "proposal",
+        "professional",
+        "development"
+      ],
+      "url": "https://www.myneworleans.com/new-orleans-entrepreneur-week-announces-2027-dates/",
+      "sourceUrl": "https://www.myneworleans.com/new-orleans-entrepreneur-week-announces-2027-dates/",
+      "summary": "Entrepreneurship speaking proposal / professional development. Program dates: 2027-03-08 to 2027-03-13; Summit 2027-03-11 to 2027-03-12 at Loyola, New Orleans. Location / format: In person, New Orleans, LA. Next milestone: Rolling review after submission",
+      "eligibility": "Entrepreneurs and ecosystem partners may propose sessions. Verify proposal requirements and speaker eligibility; this is a programming opportunity rather than a scholarship or grant.",
+      "reward": "None - speaking slot and ecosystem exposure only (sales pitches/product demos explicitly excluded)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-20 23:59 CT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · New Orleans Entrepreneur Week (NOEW) 2027 - speaker/programming proposal",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: One proposal per session idea (topic, relevance, speaker qualifications)",
+        "Review next milestone: Rolling review after submission"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "0b8926015d8ebb50b2a227b08ba97280230f68d1d8f6f9b34878291cfd8b9adf",
+        "hash": "4dea09b12b171cd614f945c903bb8fb44d853c80e8bd11d9ce8677b01e114df1",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "Taco Bell Foundation Live Mas Scholarship 2027",
+          "category": "Scholarship (passion-based, no GPA/test scores)",
+          "deadline": "2027-01-05 17:00 PST",
+          "milestone": "Selection Jan-Apr 2027; notifications on/about 2027-04-27",
+          "programDates": "Scholarship; renewable up to 3 times",
+          "funding": "$5,000, $10,000, or $25,000 scholarship; $13M+ awarded this cycle",
+          "location": "Online application; US",
+          "eligibility": "Reported eligibility: ages 16–26 and prospective/current students in accredited postsecondary education, without GPA/test-score requirements. Legal U.S. residency is required; confirm the exact residency definition and current terms before applying.",
+          "materials": "2-minute video OR 250-500-word essay on passion, community, intended impact; no recommendation letters",
+          "url": "https://tacobellfoundation.org/live-mas-scholarship/"
+        }
+      },
+      "id": "sheet-taco-bell-foundation-live-mas-scholarship-2027-0b8926015d8e",
+      "title": "Taco Bell Foundation Live Mas Scholarship 2027",
+      "organization": "tacobellfoundation.org",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarship",
+        "passion",
+        "based",
+        "test",
+        "scores"
+      ],
+      "url": "https://tacobellfoundation.org/live-mas-scholarship/",
+      "sourceUrl": "https://tacobellfoundation.org/live-mas-scholarship/",
+      "summary": "Scholarship (passion-based, no GPA/test scores). Program dates: Scholarship; renewable up to 3 times. Location / format: Online application; US. Next milestone: Selection Jan-Apr 2027; notifications on/about 2027-04-27",
+      "eligibility": "Reported eligibility: ages 16–26 and prospective/current students in accredited postsecondary education, without GPA/test-score requirements. Legal U.S. residency is required; confirm the exact residency definition and current terms before applying.",
+      "reward": "$5,000, $10,000, or $25,000 scholarship; $13M+ awarded this cycle",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-05",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-05 17:00 PST",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Taco Bell Foundation Live Mas Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 2-minute video OR 250-500-word essay on passion, community, intended impact; no recommendation letters",
+        "Review next milestone: Selection Jan-Apr 2027; notifications on/about 2027-04-27"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c37b5362feed9eae4f4f82d10745049bc070ba4fd787fe33b373688857a3e3b5",
+        "hash": "0ed712b685598f07de39fb1dbc273d44bc3d2f1aa87691a9f3823d0a8267f7dd",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "Therapist Impact Fund: NextGen Scholarship 2027 (BetterHelp / Bold.org)",
+          "category": "Mental health / education scholarship",
+          "deadline": "2027-01-31",
+          "milestone": "Apply before Jan 31; recipients announced Mar 8, 2027",
+          "programDates": "2027-28 education",
+          "funding": "5 awards x $10,000 = $50,000 total; tuition-directed scholarship, not wages",
+          "location": "Online; U.S. academic institutions",
+          "eligibility": "Undergraduate or graduate students with GPA 3.3+ from underrepresented communities pursuing psychology, therapy, social work or related study and interested in women’s mental health. Confirm current degree, identity, residency and institutional-payment requirements.",
+          "materials": "Resume, transcript, 400-600-word response addressing path to mental health care, unwritten rules affecting women, and future of access",
+          "url": "https://bold.org/scholarships/nextgen-therapist/"
+        }
+      },
+      "id": "sheet-therapist-impact-fund-nextgen-scholarship-2027-betterhelp-bold-or-c37b5362feed",
+      "title": "Therapist Impact Fund: NextGen Scholarship 2027 (BetterHelp / Bold.org)",
+      "organization": "bold.org",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "mental",
+        "health",
+        "education",
+        "scholarship"
+      ],
+      "url": "https://bold.org/scholarships/nextgen-therapist/",
+      "sourceUrl": "https://bold.org/scholarships/nextgen-therapist/",
+      "summary": "Mental health / education scholarship. Program dates: 2027-28 education. Location / format: Online; U.S. academic institutions. Next milestone: Apply before Jan 31; recipients announced Mar 8, 2027",
+      "eligibility": "Undergraduate or graduate students with GPA 3.3+ from underrepresented communities pursuing psychology, therapy, social work or related study and interested in women’s mental health. Confirm current degree, identity, residency and institutional-payment requirements.",
+      "reward": "5 awards x $10,000 = $50,000 total; tuition-directed scholarship, not wages",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-31",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Therapist Impact Fund: NextGen Scholarship 2027 (BetterHelp / Bold.org)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Resume, transcript, 400-600-word response addressing path to mental health care, unwritten rules affecting women, and future of access",
+        "Review next milestone: Apply before Jan 31; recipients announced Mar 8, 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "85c220878f0cd6aafa0235d50a280578e654e5b86f4d3843c03a3908d66cbed9",
+        "hash": "6be4dc53243fb8776a27739e414a1a73746fe9c6c66453f59d3098bc19c2e5a3",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "UT MD Anderson ITERT-STEP Translational Molecular Pathology Summer Research 2027",
+          "category": "Paid summer biomedical research / undergraduate",
+          "deadline": "2027-01-13 23:59 CST",
+          "milestone": "Application portal opens 2026-11-16",
+          "programDates": "2027-06-07 to 2027-08-13, 10 weeks",
+          "funding": "Up to $7,200 pre-tax wages at $18/hour; no additional housing/travel/meals allowances",
+          "location": "In person; Houston, TX, 40h/week",
+          "eligibility": "Undergraduates enrolled at a U.S. institution who have completed at least one college year. Source reports F-1/J-1 eligibility subject to proper authorization. No course credit is offered; verify employment authorization and current program rules.",
+          "materials": "Official transcripts, research-experience/interest statement, 2 recommendations (one from science/math professor)",
+          "url": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/itert-summer-program.html"
+        }
+      },
+      "id": "sheet-ut-md-anderson-itert-step-translational-molecular-pathology-summe-85c220878f0c",
+      "title": "UT MD Anderson ITERT-STEP Translational Molecular Pathology Summer Research 2027",
+      "organization": "mdanderson.org",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "biomedical",
+        "research",
+        "undergraduate"
+      ],
+      "url": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/itert-summer-program.html",
+      "sourceUrl": "https://www.mdanderson.org/education-training/research-training/early-career-pathway-programs/summer-research-programs/programs/itert-summer-program.html",
+      "summary": "Paid summer biomedical research / undergraduate. Program dates: 2027-06-07 to 2027-08-13, 10 weeks. Location / format: In person; Houston, TX, 40h/week. Next milestone: Application portal opens 2026-11-16",
+      "eligibility": "Undergraduates enrolled at a U.S. institution who have completed at least one college year. Source reports F-1/J-1 eligibility subject to proper authorization. No course credit is offered; verify employment authorization and current program rules.",
+      "reward": "Up to $7,200 pre-tax wages at $18/hour; no additional housing/travel/meals allowances",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-13",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-13 23:59 CST",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · UT MD Anderson ITERT-STEP Translational Molecular Pathology Summer Research 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Official transcripts, research-experience/interest statement, 2 recommendations (one from science/math professor)",
+        "Review next milestone: Application portal opens 2026-11-16"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "744080ff33a155eb5c2297b5e8788bded9ce4dcf8dc958737fb06ebbfc3dbe5d",
+        "hash": "dcba94857bd07b78fc9b4007c68fa8f6a778a0722c1b2ef99c650d8b7b6f7f23",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "American Psychological Foundation Roy Scrivner Memorial Research Grant 2027",
+          "category": "Psychology / mental health research grant",
+          "deadline": "2026-11-25",
+          "milestone": "2027 APF portal opens 2026-11-01 (confirm program-year application in portal)",
+          "programDates": "2027 project period, per approved proposal",
+          "funding": "One $9,500 restricted research grant, not general tuition scholarship",
+          "location": "Research conducted at applicant institution; no travel/housing included unless in approved budget",
+          "eligibility": "Advanced graduate students with faculty supervision and a demonstrated commitment to research on LGBTQIA+ families. This is not an undergraduate scholarship. Verify nationality, payment and restricted-research requirements.",
+          "materials": "Project proposal, timeline, detailed budget/justification, CV, advisor recommendation",
+          "url": "https://apf.apa.org/funding/scrivner-grant/"
+        }
+      },
+      "id": "sheet-american-psychological-foundation-roy-scrivner-memorial-research--744080ff33a1",
+      "title": "American Psychological Foundation Roy Scrivner Memorial Research Grant 2027",
+      "organization": "apf.apa.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "psychology",
+        "mental",
+        "health",
+        "research",
+        "grant"
+      ],
+      "url": "https://apf.apa.org/funding/scrivner-grant/",
+      "sourceUrl": "https://apf.apa.org/funding/scrivner-grant/",
+      "summary": "Psychology / mental health research grant. Program dates: 2027 project period, per approved proposal. Location / format: Research conducted at applicant institution; no travel/housing included unless in approved budget. Next milestone: 2027 APF portal opens 2026-11-01 (confirm program-year application in portal)",
+      "eligibility": "Advanced graduate students with faculty supervision and a demonstrated commitment to research on LGBTQIA+ families. This is not an undergraduate scholarship. Verify nationality, payment and restricted-research requirements.",
+      "reward": "One $9,500 restricted research grant, not general tuition scholarship",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-25",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-25",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · American Psychological Foundation Roy Scrivner Memorial Research Grant 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Project proposal, timeline, detailed budget/justification, CV, advisor recommendation",
+        "Review next milestone: 2027 APF portal opens 2026-11-01 (confirm program-year application in portal)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "56450eedae7917e4acaccea4bce8166f904f14801a5c0d4c0881fca599de5b6c",
+        "hash": "3efa488c26faa619c1280433978f256a11afbc51ca57bcc3b21b795f5b6263ba",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "LSU Gulf Scholars Program — Cohort 5 Summer 2027",
+          "category": "Paid regional undergraduate research / civic / sustainability",
+          "deadline": "2026-11-01 23:59 CT",
+          "milestone": "URGENT apply this week; project matching spring 2027",
+          "programDates": "2027-05-24 to 2027-08-09 in-person availability; 10-week summer research",
+          "funding": "$15/hour up to 40 hours/week for 10 weeks (up to $6,000 gross if full 400h); no housing",
+          "location": "In person; Baton Rouge, LA",
+          "eligibility": "Full-time LSU undergraduates only, GPA 2.5+, good academic standing and expected graduation in Fall 2027 or later. Students at other universities are ineligible. Confirm current employment-authorization requirements.",
+          "materials": "Online application; program-specific questions (verify form), then faculty-matched Gulf Impact Project",
+          "url": "https://lsu.edu/our/funding/gulf_scholars_program.php"
+        },
+        "verifiedAt": "2026-10-29T16:40:33.000Z"
+      },
+      "id": "sheet-lsu-gulf-scholars-program-cohort-5-summer-2027-56450eedae79",
+      "title": "LSU Gulf Scholars Program — Cohort 5 Summer 2027",
+      "organization": "Louisiana State University",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "regional",
+        "undergraduate",
+        "research",
+        "civic",
+        "sustainability"
+      ],
+      "url": "https://lsu.edu/our/funding/gulf_scholars_program.php",
+      "sourceUrl": "https://lsu.edu/our/funding/gulf_scholars_program.php",
+      "summary": "LSU-only faculty-mentored summer research and creative projects about the Gulf South. Ten-week projects require in-person availability in Baton Rouge from May 24 to August 9, 2027.",
+      "eligibility": "Full-time LSU undergraduates in good standing, GPA 2.5 or higher, graduating Fall 2027 or later. Students at other institutions are ineligible.",
+      "reward": "USD $15 per hour during summer participation. Housing is not provided. The reviewed page does not specify paid weekly hours or a total award.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Application information for Cohort 5, Summer 2027 coming soon. No confirmed application cutoff is published; the spreadsheet’s November 1 date remains unverified.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · LSU Gulf Scholars Program — Cohort 5 Summer 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "October 29: organizer page still says Cohort 5 application details are coming soon. The reported November 1 deadline is not supported by the reviewed page; no closure is inferred.",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; program-specific questions (verify form), then faculty-matched Gulf Impact Project",
+        "Review next milestone: URGENT apply this week; project matching spring 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c574d94b5055f922f2af6ab6b5b12d26719c7c6bbcd77485ec22877ac4a2e038",
+        "hash": "abe1e831667c70d5c28fbc7cd9010ca72b3ae41536949d8965300320fbd55605",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "AONL Foundation Leadership Lab Nurse Manager Scholarship 2027",
+          "category": "Nurse manager scholarship for leadership training",
+          "deadline": "2026-12-04",
+          "milestone": "Award notices 2027-01-11",
+          "programDates": "2027-02-11 to 2027-07-22, six-month leadership program",
+          "funding": "Scholarship toward Leadership Lab participation; amount/coverage NOT disclosed; not cash stipend; no travel/housing/meals coverage confirmed",
+          "location": "U.S. nurse managers; blended leadership training",
+          "eligibility": "AONL-member nurse managers with employer support, financial need and a U.S./territory location. Priority is reported for small, rural, critical-access, nonprofit or government organizations. Confirm current participation and employment requirements.",
+          "materials": "Resume, applicant information, signed supervisor recommendation/support letter detailing need, commitment and attendance",
+          "url": "https://foundation.aonl.org/scholarships/leadershiplab"
+        }
+      },
+      "id": "sheet-aonl-foundation-leadership-lab-nurse-manager-scholarship-2027-c574d94b5055",
+      "title": "AONL Foundation Leadership Lab Nurse Manager Scholarship 2027",
+      "organization": "foundation.aonl.org",
+      "category": "Scholarships",
+      "levels": [
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "nurse",
+        "manager",
+        "scholarship",
+        "leadership",
+        "training"
+      ],
+      "url": "https://foundation.aonl.org/scholarships/leadershiplab",
+      "sourceUrl": "https://foundation.aonl.org/scholarships/leadershiplab",
+      "summary": "Nurse manager scholarship for leadership training. Program dates: 2027-02-11 to 2027-07-22, six-month leadership program. Location / format: U.S. nurse managers; blended leadership training. Next milestone: Award notices 2027-01-11",
+      "eligibility": "AONL-member nurse managers with employer support, financial need and a U.S./territory location. Priority is reported for small, rural, critical-access, nonprofit or government organizations. Confirm current participation and employment requirements.",
+      "reward": "Scholarship toward Leadership Lab participation; amount/coverage NOT disclosed; not cash stipend; no travel/housing/meals coverage confirmed",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-04",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-04",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · AONL Foundation Leadership Lab Nurse Manager Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Resume, applicant information, signed supervisor recommendation/support letter detailing need, commitment and attendance",
+        "Review next milestone: Award notices 2027-01-11"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7cf577e6293449f59084364471792582b102ab01ca7ea4b9d59b62e98142de6a",
+        "hash": "477b70f04f1d725deb84c9fcdb122961560676cb1353e3fef70f06b1818092f5",
+        "checkedAt": "2026-10-29T16:40:33.000Z",
+        "present": true,
+        "fields": {
+          "title": "APA APAGS Student Diversity Initiative Award — Institutional Excellence in Graduate Training 2026",
+          "category": "Institutional psychology/mental-health education grant",
+          "deadline": "2026-11-18 23:59 ET",
+          "milestone": "One $2,500 grant paid to institution by Jan 2027",
+          "programDates": "2027 institutional initiative",
+          "funding": "One $2,500 institutional program grant for direct project costs; not student stipend",
+          "location": "U.S. and potentially other qualifying psychology institutions; verify",
+          "eligibility": "Eligible applicants are psychology departments, doctoral programs, diversity committees or doctoral internship programs. Applications require participation by an APAGS graduate student member and faculty/supervisor. This is an institutional award, not an individual undergraduate award.",
+          "materials": "Up to 3-page proposal, 1-page detailed budget, faculty/administrative support letter or co-signature",
+          "url": "https://www.apa.org/about/awards/apags-student-diversity.html"
+        }
+      },
+      "id": "sheet-apa-apags-student-diversity-initiative-award-institutional-excell-7cf577e62934",
+      "title": "APA APAGS Student Diversity Initiative Award — Institutional Excellence in Graduate Training 2026",
+      "organization": "apa.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "institutional",
+        "psychology",
+        "mental",
+        "health",
+        "education",
+        "grant"
+      ],
+      "url": "https://www.apa.org/about/awards/apags-student-diversity.html",
+      "sourceUrl": "https://www.apa.org/about/awards/apags-student-diversity.html",
+      "summary": "Institutional psychology/mental-health education grant. Program dates: 2027 institutional initiative. Location / format: U.S. and potentially other qualifying psychology institutions; verify. Next milestone: One $2,500 grant paid to institution by Jan 2027",
+      "eligibility": "Eligible applicants are psychology departments, doctoral programs, diversity committees or doctoral internship programs. Applications require participation by an APAGS graduate student member and faculty/supervisor. This is an institutional award, not an individual undergraduate award.",
+      "reward": "One $2,500 institutional program grant for direct project costs; not student stipend",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-18",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-18 23:59 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2026 · APA APAGS Student Diversity Initiative Award — Institutional Excellence in Graduate Training 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Up to 3-page proposal, 1-page detailed budget, faculty/administrative support letter or co-signature",
+        "Review next milestone: One $2,500 grant paid to institution by Jan 2027"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
