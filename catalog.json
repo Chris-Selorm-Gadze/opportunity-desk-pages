@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 122,
-  "updatedAt": "2026-10-29T17:53:20.038Z",
+  "revision": 123,
+  "updatedAt": "2026-10-29T18:22:23.542Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-29T16:23:52.000Z",
+      "checkedAt": "2026-10-29T18:21:38.000Z",
       "outcome": "success",
-      "summary": "Added 9 story-spotted opportunities from @zero2sudo (Oct 29, 2026), excluding the new-grad Glean role per Selorm's instruction. All are marked Needs verification: story links are the source for now and official postings, deadlines, and eligibility must be verified before applying."
+      "summary": "Added 2 story-spotted opportunities from @zero2sudo (Oct 29, 2026): Tesla Data Engineer Intern and the Ramp Hackathon event. Both are marked Needs verification: story links are the source for now and official postings, deadlines, and eligibility must be verified before applying. The 11 image-only stories from the same check have no readable caption and were not added as named opportunities."
     },
     {
       "id": "spreadsheet",
@@ -19177,6 +19177,76 @@
         "Review next milestone: One $2,500 grant paid to institution by Jan 2027"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "zero2sudo-tesla-data-engineer-intern",
+      "title": "Data Engineer Intern",
+      "organization": "Tesla",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018737619806318750",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Data engineer internship as named on the story.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization; the story alone does not confirm these.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Tesla Data Engineer Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 29, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-ramp-hackathon",
+      "title": "Hackathon",
+      "organization": "Ramp",
+      "category": "Conferences & networking",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/highlights/17939927526384396/?story_media_id=4018746701466912963",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Hackathon leading to interviews as named on the story; an event, not a job posting.",
+      "eligibility": "Check the event page for registration, date, and eligibility.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Ramp Hackathon",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 29, 2026. The story link is the source for now; the official event page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
     }
   ]
 }
