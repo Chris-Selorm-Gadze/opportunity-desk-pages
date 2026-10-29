@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 125,
-  "updatedAt": "2026-10-29T19:41:14.004Z",
+  "revision": 126,
+  "updatedAt": "2026-10-29T20:14:56.201Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-29T18:21:38.000Z",
+      "checkedAt": "2026-10-29T20:14:52.385Z",
       "outcome": "success",
-      "summary": "Added 2 story-spotted opportunities from @zero2sudo (Oct 29, 2026): Tesla Data Engineer Intern and the Ramp Hackathon event. Both are marked Needs verification: story links are the source for now and official postings, deadlines, and eligibility must be verified before applying. The 11 image-only stories from the same check have no readable caption and were not added as named opportunities."
+      "summary": "Added Two Sigma’s New York Summer 2027 quantitative research internship ($5,800/week) and verified its existing software lead ($4,325/week). Corrected three Coinbase roles to conditional internship sponsorship using the official FAQ. Rechecked Morgan Stanley’s October 30 cutoff, Bank of America’s November 7 cutoff, BlackRock and Millennium limits, and Evercore’s role-specific entry; Evercore’s board deadline remains unconfirmed."
     },
     {
       "id": "spreadsheet",
@@ -11874,8 +11874,8 @@
       "opensOn": "",
       "cycle": "2027 internship — summer dates to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "October 28: current New York requisition REQ-30174 and its Apply Now sign-in entry reverified. Maximum two applications across businesses/offices. Season, duration and sponsorship remain unstated. December 2027–July 2028 graduation window is explicit. The compensation package is annual, not internship-total pay.",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: current New York requisition REQ-30174, full role description and Apply Now sign-in entry reverified. Maximum two applications across businesses and offices. December 2027–July 2028 graduation window and expected GPA 3.5+ remain explicit. Internship season, duration and sponsorship are unstated. Published compensation is an estimated annual package, not total internship pay.",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11911,13 +11911,13 @@
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "No closing date printed on the direct role page; current job board does not list this requisition. Deadline remains unconfirmed.",
+      "sourceDeadline": "No closing date is published on the direct role description; the current student-board deadline could not be verified.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 24: New York role and role-specific registration/login entry remain available. The current live student board did not list requisition 3280; indexed board snippets are not a verified deadline. No closure inferred from board absence. Requires valid US work authorization; no visa sponsorship. This is wealth management. Board: https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "October 29 afternoon: official New York wealth-management description and requisition-specific registration entry remain accessible. The current student board requires a human verification check, so no indexed board deadline is promoted to a confirmed cutoff. No closure is inferred. Requires U.S. work authorization and offers no visa sponsorship. Application entry: https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/3280/apply/en-GB",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11958,8 +11958,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 28 evening: public description, campus role 14418 and matching registration form verified. November 7 remains date-only. Campus portal states at most three U.S./Canada applications and eight globally per recruitment season. Role-specific sponsorship is unstated; the general policy permits case-by-case consideration only. Linked pay notice: https://bankcampuscareers.tal.net/vx/candidate/cms/transparency_internship . Campus source: https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418-Global-Technology-Summer-Analyst-2027-Software-Engineer-and-Mainframe-Analyst/en-GB",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: official role 14418, campus description, pay notice and matching registration entry reverified. November 7 remains date-only. Campus portal limits applications to three across U.S./Canada and eight globally per season. Role-specific sponsorship remains unstated. Pay notice: https://bankcampuscareers.tal.net/vx/candidate/cms/transparency_internship . Application entry: https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418/apply/en-GB",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12086,12 +12086,12 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 28: current 11986 role, Americas FAQ and matching application-entry screen reverified. Sponsorship is limited and business-dependent. Role says one program/two functions; FAQ permits two applications/three functions in one program/region. Confirm portal limits. Coding and pre-interview assessments have five-day deadlines; missed assessments trigger withdrawal and cannot be remedied by reapplying. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: official role, Americas FAQ and matching 11986 application-entry screen reverified. Sponsorship remains limited and business-dependent. Role allows one program/two functions; FAQ allows two applications/three functions in one program and region. Confirm portal limits before another application. Assessments are due within five days; Software Engineering and Analytics & Modeling require separate coding tests when both are selected. Missed assessments cause withdrawal without reapplication. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
-        "Confirm sponsorship and requirements for selected US office/function",
-        "Resolve the role/FAQ application-count conflict before submitting another application",
-        "Complete required assessments within five calendar days",
+        "Confirm sponsorship for the selected U.S. office and function",
+        "Resolve the role/FAQ application-count discrepancy before another application",
+        "Complete assessments within five days; submit separate coding tests for Software Engineering and Analytics & Modeling if both are selected",
         "Record submission and assessment dates privately"
       ],
       "stream": "internships"
@@ -14209,8 +14209,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 28 evening: official Boston role and matching role-specific registration form reverified. The October 30 date-only cutoff and rolling review remain current; no cutoff timezone is published. Sponsorship remains unstated. Resume and HireVue are required.",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: official Boston description and the role-specific registration entry reverified. The published October 30 date-only deadline remains current; resume and HireVue are required and review is rolling until filled or the deadline. No cutoff time, timezone or sponsorship policy is stated. Application entry: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20903/apply/en-GB",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Review work authorization and sponsorship before applying",
         "Prepare credit-focused resume and financial-modeling examples",
@@ -16677,7 +16677,7 @@
         "Location: US",
         "Summer 2027",
         "Finance technology",
-        "Sponsorship: Not stated",
+        "Sponsorship: Conditional",
         "Technology audit",
         "Data analytics",
         "Hybrid"
@@ -16685,8 +16685,8 @@
       "url": "https://www.coinbase.com/careers/positions/8221238",
       "sourceUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8221238",
       "summary": "Twelve-week hybrid New York internship using SQL, Snowflake, ETL validation and AI tooling to test technology and crypto-product controls.",
-      "eligibility": "Role requires current pursuit of a Data Science, CS, Statistics or related degree; the form also asks about recent graduates. SQL, data pipelines and communication skills required. Degree level and graduation window are not specified; confirm any recent-graduate eligibility. Form asks age 18+ and U.S. work authorization. Sponsorship is not stated.",
-      "reward": "USD $50 per hour. Housing, relocation and intern-specific benefits are not established.",
+      "eligibility": "Currently pursuing a Data Science, CS, Statistics or related degree; application also asks about recent graduates. SQL, ETL and communication skills required. Degree level and graduation window unspecified; confirm recent-graduate eligibility. Form asks age 18+ and work authorization. Intern FAQ permits sponsorship for international candidates living in the U.S. and Canadian citizens residing in Canada, subject to approval for the internship only.",
+      "reward": "USD $50 per hour. Program advertises housing stipends for required hybrid work; amount and eligibility need confirmation.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "",
@@ -16696,11 +16696,11 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 28: current official Summer 2027 description and complete matching Greenhouse application verified. Maximum three Coinbase applications within six months. Sponsorship questions do not establish employer support; no commitment or prohibition is published. Hybrid work is tied to the named U.S. office. No fixed closing date or rolling-review claim is published.",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: current Summer 2027 role and complete matching Greenhouse application reverified. Maximum three applications within six months. Sponsorship classification corrected using the employer’s internship FAQ, not application questions. Hybrid attendance remains tied to the named U.S. office. FAQ: https://www.coinbase.com/careers/internships",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
-        "Choose roles within Coinbase’s three-applications-in-six-months limit",
-        "Confirm work authorization, sponsorship and office attendance",
+        "Choose roles within the three-applications-in-six-months limit",
+        "Confirm the visa assessment and required office attendance with the recruiter if applicable",
         "Tailor a resume and complete the official application",
         "Record submission and follow-up privately"
       ],
@@ -16719,15 +16719,15 @@
         "Location: US",
         "Summer 2027",
         "Finance technology",
-        "Sponsorship: Not stated",
+        "Sponsorship: Conditional",
         "Data engineering",
         "Hybrid"
       ],
       "url": "https://www.coinbase.com/careers/positions/8175459",
       "sourceUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8175459",
       "summary": "Twelve-week hybrid San Francisco internship building data pipelines and cloud infrastructure for analytics and machine-learning workloads.",
-      "eligibility": "Completed or ongoing CS/data-engineering coursework or equivalent experience; Python, SQL, cloud familiarity and architecture knowledge. No specific degree level or graduation range is published. Form asks availability for a potential full-time role before September 2028, age 18+ and work authorization; this is not a guaranteed return offer or graduation cutoff. Sponsorship is unstated.",
-      "reward": "USD $50 per hour. Housing, relocation and intern-specific benefits require confirmation.",
+      "eligibility": "CS/data-engineering coursework or equivalent experience; Python, SQL, cloud and architecture knowledge. No fixed degree level or graduation range. Form asks potential full-time availability before September 2028, age 18+ and work authorization; this is not a guaranteed offer or graduation cutoff. Intern FAQ permits sponsorship for international candidates living in the U.S. and Canadian citizens residing in Canada, subject to approval for the internship only.",
+      "reward": "USD $50 per hour. Program advertises housing stipends for required hybrid work; amount and eligibility need confirmation.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "",
@@ -16737,11 +16737,11 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 28: current official Summer 2027 description and complete matching Greenhouse application verified. Maximum three Coinbase applications within six months. Sponsorship questions do not establish employer support; no commitment or prohibition is published. Hybrid work is tied to the named U.S. office. No fixed closing date or rolling-review claim is published.",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: current Summer 2027 role and complete matching Greenhouse application reverified. Maximum three applications within six months. Sponsorship classification corrected using the employer’s internship FAQ, not application questions. Hybrid attendance remains tied to the named U.S. office. FAQ: https://www.coinbase.com/careers/internships",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
-        "Choose roles within Coinbase’s three-applications-in-six-months limit",
-        "Confirm work authorization, sponsorship and office attendance",
+        "Choose roles within the three-applications-in-six-months limit",
+        "Confirm the visa assessment and required office attendance with the recruiter if applicable",
         "Tailor a resume and complete the official application",
         "Record submission and follow-up privately"
       ],
@@ -16760,7 +16760,7 @@
         "Location: US",
         "Summer 2027",
         "Finance technology",
-        "Sponsorship: Not stated",
+        "Sponsorship: Conditional",
         "Software engineering",
         "Cybersecurity",
         "Hybrid"
@@ -16768,8 +16768,8 @@
       "url": "https://www.coinbase.com/careers/positions/8168315",
       "sourceUrl": "https://job-boards.greenhouse.io/embed/job_app?for=coinbase&token=8168315",
       "summary": "Twelve-week hybrid internship: product, institutional, platform and AI teams in San Francisco; Security team in New York. Select a primary team. Remote-first return opportunities are separate from the hybrid internship.",
-      "eligibility": "Programming experience and familiarity with web, mobile, backend or infrastructure work; responsible AI use and problem-solving ability. No enrollment requirement, degree level or graduation window is printed. Form asks potential full-time availability in 2028, age 18+ and work authorization. Sponsorship is unstated.",
-      "reward": "USD $60 per hour. Housing, relocation and intern-specific benefits are not established.",
+      "eligibility": "Programming experience, problem solving, responsible AI use and web, mobile, backend or infrastructure knowledge. No enrollment requirement, degree level or graduation window stated. Form asks potential full-time availability in 2028, age 18+ and work authorization. Intern FAQ permits sponsorship for international candidates living in the U.S. and Canadian citizens residing in Canada, subject to approval for the internship only.",
+      "reward": "USD $60 per hour. Program advertises housing stipends for required hybrid work; amount and eligibility need confirmation.",
       "value": 4,
       "effort": 6,
       "deadlineDate": "",
@@ -16779,11 +16779,11 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 28: current official Summer 2027 description and complete matching Greenhouse application verified. Maximum three Coinbase applications within six months. Sponsorship questions do not establish employer support; no commitment or prohibition is published. Hybrid work is tied to the named U.S. office. No fixed closing date or rolling-review claim is published.",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29 afternoon: current Summer 2027 role and complete matching Greenhouse application reverified. Maximum three applications within six months. Sponsorship classification corrected using the employer’s internship FAQ, not application questions. Hybrid attendance remains tied to the named U.S. office. FAQ: https://www.coinbase.com/careers/internships",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
-        "Choose roles within Coinbase’s three-applications-in-six-months limit",
-        "Confirm work authorization, sponsorship and office attendance",
+        "Choose roles within the three-applications-in-six-months limit",
+        "Confirm the visa assessment and required office attendance with the recruiter if applicable",
         "Tailor a resume and complete the official application",
         "Record submission and follow-up privately"
       ],
@@ -17797,36 +17797,43 @@
     },
     {
       "id": "zero2sudo-two-sigma-swe-intern",
-      "title": "SWE Intern",
+      "title": "Software Engineering Internship — Summer 2027, New York",
       "organization": "Two Sigma",
       "category": "Internships",
       "levels": [
-        "Undergraduate"
+        "Undergraduate",
+        "Graduate"
       ],
       "tags": [
-        "zero2sudo",
-        "Instagram story"
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Software engineering",
+        "Paid",
+        "Hybrid"
       ],
-      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
-      "sourceUrl": "https://www.instagram.com/zero2sudo",
-      "summary": "Software engineer internship as listed in the Oct 28 recap of Oct 27 story drops.",
-      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
-      "reward": "Not stated on the story; check the official posting.",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+      "sourceUrl": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+      "summary": "Ten-week Summer 2027 software engineering internship at the Soho, New York City office, developing data, cloud or trading infrastructure. Teams are assigned before the start. General hybrid policy is described; fully remote participation is not confirmed.",
+      "eligibility": "Technical or quantitative bachelor’s, master’s or PhD studies; programming and systems experience. Internship FAQ accepts undergraduates entering junior or senior year. No finance background required. No exact graduation window or sponsorship policy is published; confirm work authorization.",
+      "reward": "Base pay USD $4,325 per week at bachelor’s, master’s and PhD levels. The internship FAQ provides corporate housing for the program and relocation support; confirm arrangements. Other compensation or benefits may apply.",
       "value": 3,
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "sourceDeadline": "No closing date published; apply early.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Oct 2026 story drop: Two Sigma SWE Intern",
-      "sourceState": "Needs verification",
-      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
-      "checkedOn": "2026-10-28",
+      "sourceState": "Open listing",
+      "sourceNote": "October 29 afternoon: official Summer 2027 requisition 14016, New York location, ten-week duration, weekly pay and matching job-specific login/create-profile entry reverified. No closing date is published; sponsorship remains unstated. Application entry: https://careers.twosigma.com/careers/Login?jobId=14016 . Housing and relocation source: https://www.twosigma.com/careers/internships/",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
-        "Find the official posting and verify eligibility",
-        "Check the deadline and location",
-        "Complete application and save receipt"
+        "Confirm work authorization and sponsorship requirements",
+        "Prepare resume highlighting systems and programming projects",
+        "Apply through the official role and complete requested assessments"
       ],
       "stream": "internships"
     },
@@ -19245,6 +19252,49 @@
         "Find the official posting and verify eligibility",
         "Check the deadline and location",
         "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "two-sigma-quant-research-13945-2027",
+      "title": "Quantitative Researcher Internship — Summer 2027, New York",
+      "organization": "Two Sigma",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Quantitative research",
+        "Machine learning",
+        "Paid",
+        "Hybrid"
+      ],
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+      "sourceUrl": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+      "summary": "Ten-week Summer 2027 research internship at Two Sigma’s Soho, New York City office. Develop investment models, analyze data and test quantitative ideas with a mentor. General hybrid policy is described; fully remote participation is not confirmed.",
+      "eligibility": "Bachelor’s through doctorate students in a technical or quantitative discipline, with approximately one year remaining in their program. Requires programming ability and an in-depth research project using real-world data. Finance background is not required. No exact graduation dates or work-authorization/sponsorship commitment is published; confirm these requirements.",
+      "reward": "Base pay USD $5,800 per week at bachelor’s, master’s and PhD levels. The internship FAQ provides corporate housing for the program and relocation support; confirm arrangements. Other compensation or benefits may apply.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 29 afternoon: official Summer 2027 requisition 13945, New York location, ten-week duration, weekly pay and matching job-specific login/create-profile entry reverified. No closing date is published; sponsorship remains unstated. Application entry: https://careers.twosigma.com/careers/Login?jobId=13945 . Housing and relocation source: https://www.twosigma.com/careers/internships/",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Check degree timing and work-authorization requirements",
+        "Prepare a research example using real-world data",
+        "Apply through the official role and prepare for quantitative interviews"
       ],
       "stream": "internships"
     }
