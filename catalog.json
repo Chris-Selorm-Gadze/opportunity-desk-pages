@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "revision": 108,
-  "updatedAt": "2026-10-29T00:38:58.643Z",
+  "updatedAt": "2026-10-29T00:30:57.257Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-28T23:34:56.522Z",
-      "outcome": "error",
-      "summary": "Added five verified U.S. Summer 2027 roles: CTC software and quant trading, plus JPMorganChase Data & AI and two quantitative research analyst roles. Added Bank of America’s linked hourly pay range; rechecked IMC, Jane Street, Guardian, Millennium and Morgan Stanley’s October 30 cutoff. Preserved JPMorganChase date conflicts and sponsorship exclusions. Partial verification: Evercore application access remains blocked by a human-verification check; prior facts are retained."
+      "checkedAt": "2026-10-29T00:30:39.000Z",
+      "outcome": "success",
+      "summary": "Added 11 story-spotted opportunities from @zero2sudo (Oct 28, 2026), excluding new-grad roles per Selorm's instruction. All are marked Needs verification: story links are the source for now and official postings, deadlines, and eligibility must be verified before applying."
     },
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-29T00:38:06.630Z",
+      "checkedAt": "2026-10-28T23:37:50.159Z",
       "outcome": "success",
       "summary": "Read 224 spreadsheet opportunities: 0 new, 222 matched to tracked records, 0 source records changed, 0 no longer listed."
     },
@@ -17606,6 +17606,391 @@
         "Clarify the November 5/6 deadline before relying on the later date",
         "Prepare portfolio analytics, statistical learning and coding examples",
         "Complete both required assessments when invited"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-jpmorgan-ml-rl-intern",
+      "title": "ML / RL Intern",
+      "organization": "JPMorganChase",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018072758994832289",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Machine learning / reinforcement learning internship as named on the story.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization; the story alone does not confirm these.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: JPMorgan ML / RL Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-sephora-ai-intern",
+      "title": "Applied AI & Automation Intern",
+      "organization": "Sephora",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018075544230812642",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "AI internship as named on the story; a Summer 2027 Applied AI & Automation Intern listing describes a 10-week programme, June 14 - August 20, 2027.",
+      "eligibility": "Check the official posting; a Summer 2027 listing states graduating in 2027 or 2028 and U.S. residence/work requirements.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Sephora AI Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-ibm-early-career-pm",
+      "title": "Early Career PM",
+      "organization": "IBM",
+      "category": "Career & sales",
+      "levels": [
+        "Early career"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018174761330944912",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Early-career product manager role as named on the story; a product role, not a software engineering internship.",
+      "eligibility": "Check the official posting for degree, location, and whether it is a full-time early-career role rather than an internship.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: IBM Early Career PM",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-linkedin-underclassman-internship",
+      "title": "Underclassman Internship",
+      "organization": "LinkedIn",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018204136205971010",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Underclassman internship as named on the story, described as similar to Microsoft Explore / Nvidia Ignite.",
+      "eligibility": "Story describes an underclassman programme; check class-standing requirements on the official posting before applying.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: LinkedIn Underclassman Internship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-trillium-trading-virtual-event",
+      "title": "Virtual Event",
+      "organization": "Trillium Trading",
+      "category": "Conferences & networking",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018069560057798011",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Virtual event as named on the story; an event, not a job posting.",
+      "eligibility": "Check the event page for registration, date, and eligibility.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Trillium Trading Virtual Event",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-two-sigma-swe-intern",
+      "title": "SWE Intern",
+      "organization": "Two Sigma",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Software engineer internship as listed in the Oct 28 recap of Oct 27 story drops.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Two Sigma SWE Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-nvidia-systems-swe-intern",
+      "title": "Systems SWE Intern",
+      "organization": "Nvidia",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Systems software engineer internship as listed in the Oct 28 recap of Oct 27 story drops.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Nvidia Systems SWE Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-tiktok-security-swe-intern",
+      "title": "Security SWE Intern",
+      "organization": "TikTok",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Security software engineer internship as listed in the Oct 28 recap of Oct 27 story drops.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: TikTok Security SWE Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-neuralink-swe",
+      "title": "SWE",
+      "organization": "Neuralink",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Software engineer role as listed in the Oct 28 recap of Oct 27 story drops; the story does not state whether it is an internship or a full-time role.",
+      "eligibility": "Verify the role level (intern vs full-time), degree level, location, and work authorization on the official posting.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Neuralink SWE",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-qualcomm-swe-intern",
+      "title": "SWE Intern",
+      "organization": "Qualcomm",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Software engineer internship as listed in the Oct 28 recap of Oct 27 story drops.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Qualcomm SWE Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-micron-ai-engineer-platform-intern",
+      "title": "AI Engineer Platform Intern",
+      "organization": "Micron",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "AI engineer platform internship as listed in the Oct 28 recap of Oct 27 story drops.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Micron AI Engineer Platform Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-28",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
       ],
       "stream": "internships"
     }
