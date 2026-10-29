@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 121,
-  "updatedAt": "2026-10-29T16:40:48.339Z",
+  "revision": 122,
+  "updatedAt": "2026-10-29T16:42:25.979Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-29T00:30:39.000Z",
-      "outcome": "success",
-      "summary": "Added 11 story-spotted opportunities from @zero2sudo (Oct 28, 2026), excluding new-grad roles per Selorm's instruction. All are marked Needs verification: story links are the source for now and official postings, deadlines, and eligibility must be verified before applying."
+      "checkedAt": "2026-10-29T15:36:35Z",
+      "outcome": "error",
+      "summary": "Verified two Two Sigma Summer 2027 New York roles and replaced an unverified software story lead with official details. Rechecked Morgan Stanley Boston’s October 30 date-only deadline and BlackRock’s live application, limited sponsorship and conflicting application-count guidance. Partial review: Evercore requires human verification; Bank of America and LSEG application entries could not be rechecked. Retry incomplete checks next run."
     },
     {
       "id": "spreadsheet",
@@ -11911,13 +11911,13 @@
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "No closing date printed on the direct role page; current job board does not list this requisition. Deadline remains unconfirmed.",
+      "sourceDeadline": "No closing date published on the direct role description; current application entry needs verification.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
-      "sourceState": "Open listing",
-      "sourceNote": "October 24: New York role and role-specific registration/login entry remain available. The current live student board did not list requisition 3280; indexed board snippets are not a verified deadline. No closure inferred from board absence. Requires valid US work authorization; no visa sponsorship. This is wealth management. Board: https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
-      "checkedOn": "2026-10-24",
+      "sourceState": "Needs verification",
+      "sourceNote": "October 29: the official role description still identifies a ten-week New York program for junior undergraduates in the Class of 2028, requiring valid U.S. work authorization with no visa sponsorship. Live access to the role and current student board stops at a human-verification challenge, so the application entry could not be reverified today. Retained as Needs verification; no closure is inferred. Last successful application-entry check was October 24. Board: https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -12086,8 +12086,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 28: current 11986 role, Americas FAQ and matching application-entry screen reverified. Sponsorship is limited and business-dependent. Role says one program/two functions; FAQ permits two applications/three functions in one program/region. Confirm portal limits. Coding and pre-interview assessments have five-day deadlines; missed assessments trigger withdrawal and cannot be remedied by reapplying. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29: current requisition 11986, Americas FAQ and matching application-entry screen reverified. Role says one program/two functions; FAQ permits two applications/three functions within one program and one region. Confirm the portal limit before adding an application. Pre-interview and coding assessments have five-day deadlines; Software Engineering and Analytics & Modeling use separate coding tests. Missed tests trigger withdrawal; reapplication cannot reset them. Sponsorship remains limited and business-dependent. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Confirm sponsorship and requirements for selected US office/function",
         "Resolve the role/FAQ application-count conflict before submitting another application",
@@ -14209,8 +14209,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 28 evening: official Boston role and matching role-specific registration form reverified. The October 30 date-only cutoff and rolling review remain current; no cutoff timezone is published. Sponsorship remains unstated. Resume and HireVue are required.",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 29: official Boston posting and matching role-specific registration entry reverified. The published wording remains “Application deadline 10/30/2026”; no cutoff time or timezone is supplied. Rolling review can end earlier if filled. Resume and HireVue are required. Sponsorship is unstated. Application entry: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20903/apply/en-GB",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
         "Review work authorization and sponsorship before applying",
         "Prepare credit-focused resume and financial-modeling examples",
@@ -17805,36 +17805,43 @@
     },
     {
       "id": "zero2sudo-two-sigma-swe-intern",
-      "title": "SWE Intern",
+      "title": "Software Engineering Internship — Summer 2027, New York",
       "organization": "Two Sigma",
       "category": "Internships",
       "levels": [
-        "Undergraduate"
+        "Undergraduate",
+        "Graduate"
       ],
       "tags": [
-        "zero2sudo",
-        "Instagram story"
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Software engineering",
+        "Paid",
+        "Hybrid"
       ],
-      "url": "https://www.instagram.com/stories/zero2sudo/4018057476353523984",
-      "sourceUrl": "https://www.instagram.com/zero2sudo",
-      "summary": "Software engineer internship as listed in the Oct 28 recap of Oct 27 story drops.",
-      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization.",
-      "reward": "Not stated on the story; check the official posting.",
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+      "sourceUrl": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-Summer-2027/14016",
+      "summary": "Ten-week Summer 2027 software engineering internship at the Soho, New York City office, developing data, cloud or trading infrastructure. Teams are assigned before the start. General hybrid policy is described; fully remote participation is not confirmed.",
+      "eligibility": "Studying toward a technical or quantitative bachelor’s, master’s or PhD; strong programming and large-scale systems experience. Finance experience is not required. No specific graduation window, citizenship, work-authorization or sponsorship policy is published; confirm authorization and sponsorship before applying.",
+      "reward": "Base pay USD $4,325 per week for bachelor’s, master’s and PhD candidates; other compensation or benefits may apply. Housing and relocation coverage are not stated.",
       "value": 3,
       "effort": 6,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "sourceDeadline": "No closing date published; apply early.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Oct 2026 story drop: Two Sigma SWE Intern",
-      "sourceState": "Needs verification",
-      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 28, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
-      "checkedOn": "2026-10-28",
+      "sourceState": "Open listing",
+      "sourceNote": "October 29: official Summer 2027 requisition 14016 appears on the current early-career board. Full role details and its job-specific login/create-profile entry were verified. Replaces the unverified story URL while retaining this record’s original discovery cycle. Application entry: https://careers.twosigma.com/careers/Login?jobId=14016",
+      "checkedOn": "2026-10-29",
       "suggestedTasks": [
-        "Find the official posting and verify eligibility",
-        "Check the deadline and location",
-        "Complete application and save receipt"
+        "Confirm work authorization and sponsorship requirements",
+        "Prepare resume highlighting systems and programming projects",
+        "Apply through the official role and complete requested assessments"
       ],
       "stream": "internships"
     },
@@ -18877,6 +18884,49 @@
         "Review next milestone: One $2,500 grant paid to institution by Jan 2027"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "two-sigma-quant-research-13945-2027",
+      "title": "Quantitative Researcher Internship — Summer 2027, New York",
+      "organization": "Two Sigma",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Quantitative research",
+        "Machine learning",
+        "Paid",
+        "Hybrid"
+      ],
+      "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+      "sourceUrl": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+      "summary": "Ten-week Summer 2027 research internship at Two Sigma’s Soho, New York City office. Develop investment models, analyze data and test quantitative ideas with a mentor. General hybrid policy is described; fully remote participation is not confirmed.",
+      "eligibility": "Bachelor’s through doctorate students in a technical or quantitative discipline, with approximately one year remaining in their program. Requires programming ability and an in-depth research project using real-world data. Finance background is not required. No exact graduation dates or work-authorization/sponsorship commitment is published; confirm these requirements.",
+      "reward": "Base pay USD $5,800 per week for bachelor’s, master’s and PhD candidates; other compensation or benefits may apply. Housing and relocation coverage are not stated.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No closing date published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 29: official requisition 13945 is listed on the current early-career board; full description and matching job-specific login/create-profile entry verified. No application cutoff is published. Application entry: https://careers.twosigma.com/careers/Login?jobId=13945",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Check degree timing and work-authorization requirements",
+        "Prepare a research example using real-world data",
+        "Apply through the official role and prepare for quantitative interviews"
+      ],
+      "stream": "internships"
     }
   ]
 }
