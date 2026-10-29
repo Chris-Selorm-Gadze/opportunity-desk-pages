@@ -81,6 +81,8 @@ const aliasRules=[[/\bilaunch\b/i,'ilaunch'],[/\be.fest\b(?!.*development)/i,'ef
 function matchRow(rows,row,key){
  const prior=rows.find(o=>o.sheet?.key===key);if(prior)return prior;
  const candidates=rows.filter(o=>o.sourceState!=='Directory'&&sameCycle(row.title,o.cycle+' '+o.title));
+ const named=candidates.filter(o=>words(o.title)===words(row.title)||words(o.sheet?.fields.title||'')===words(row.title));
+ if(named.length===1)return named[0];
  for(const [pattern,id] of aliasRules)if(pattern.test(row.title)){const x=candidates.find(o=>o.id===id);if(x)return x;}
  const exact=candidates.filter(o=>link(o.url)===link(row.url));
  const useful=exact.filter(o=>similarity(row.title,o.title)>=.35||!o.sheet&&exact.length===1);
