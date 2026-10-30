@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 137,
-  "updatedAt": "2026-10-30T18:14:14.395Z",
+  "revision": 138,
+  "updatedAt": "2026-10-30T18:19:36.927Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-30T00:27:00.000Z",
+      "checkedAt": "2026-10-30T18:19:33.404Z",
       "outcome": "success",
-      "summary": "Added 1 story-spotted opportunity from @zero2sudo (Oct 29, 2026): Cloudflare PM Intern. It is marked Needs verification: the story link is the source for now and the official posting, deadline, and eligibility must be verified before applying. The 11 image-only stories from the same check have no readable caption and were not added as named opportunities."
+      "summary": "Added DRW’s Chicago Summer 2027 software and venture-capital internships, plus Citadel’s U.S. engineering listing with its intake year explicitly unconfirmed. Reverified Morgan Stanley’s October 30 date-only cutoff and Bank of America, BlackRock and Millennium application limits. Evercore and Optiver application availability remains unverified; no closure inferred."
     },
     {
       "id": "spreadsheet",
@@ -2821,8 +2821,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Needs verification",
-      "sourceNote": "October 27: direct Chicago software internship route still displays an official 404, while an indexed official description remains available. Application availability is unverified; retained as Needs verification without inferring closure. Previous sponsorship wording does not prove an active application. Board: https://www.optiver.com/join-us/jobs/?location=chicago",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 30: official job-ID route 8604760002 and the former Chicago application route both return 404. Current application availability remains unverified; no closure is inferred. Earlier employer sponsorship wording is retained as historical evidence, not proof of an active opening. Job-ID route: https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Check graduation window (Dec 2027–Jun 2028) and the 8-month re-apply rule",
         "Tailor resume toward C++/Python/Java systems work",
@@ -11874,8 +11874,8 @@
       "opensOn": "",
       "cycle": "2027 internship — summer dates to confirm",
       "sourceState": "Open listing",
-      "sourceNote": "October 29 afternoon: current New York requisition REQ-30174, full role description and Apply Now sign-in entry reverified. Maximum two applications across businesses and offices. December 2027–July 2028 graduation window and expected GPA 3.5+ remain explicit. Internship season, duration and sponsorship are unstated. Published compensation is an estimated annual package, not total internship pay.",
-      "checkedOn": "2026-10-29",
+      "sourceNote": "October 30: current New York REQ-30174 description and Apply Now sign-in entry reverified. Maximum two applications across businesses/offices; graduation December 2027–July 2028 and expected GPA 3.5+ remain explicit. Season, duration and sponsorship are unstated. The $183,000–$220,000 estimate is an annual compensation package, not total internship pay.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11915,9 +11915,9 @@
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Summer 2027",
-      "sourceState": "Open listing",
-      "sourceNote": "October 29 afternoon: official New York wealth-management description and requisition-specific registration entry remain accessible. The current student board requires a human verification check, so no indexed board deadline is promoted to a confirmed cutoff. No closure is inferred. Requires U.S. work authorization and offers no visa sponsorship. Application entry: https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/3280/apply/en-GB",
-      "checkedOn": "2026-10-29",
+      "sourceState": "Needs verification",
+      "sourceNote": "October 30: official New York description still states Class of 2028, ten weeks and no visa sponsorship. Browser access to the role/application is now behind a human-verification check, so the application entry could not be reverified. Last working registration entry was checked October 29. Current availability and board deadline need confirmation; no closure or indexed deadline is inferred.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Review degree, work authorization and sponsorship requirements",
         "Tailor resume to this requisition",
@@ -11958,8 +11958,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 29 afternoon: official role 14418, campus description, pay notice and matching registration entry reverified. November 7 remains date-only. Campus portal limits applications to three across U.S./Canada and eight globally per season. Role-specific sponsorship remains unstated. Pay notice: https://bankcampuscareers.tal.net/vx/candidate/cms/transparency_internship . Application entry: https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418/apply/en-GB",
-      "checkedOn": "2026-10-29",
+      "sourceNote": "October 30: official campus role, pay notice and matching registration entry reverified. November 7 remains date-only; rolling recruitment is explicit. Limits remain three U.S./Canada applications and eight globally per recruitment season. Sponsorship for this requisition is unstated. Pay notice: https://bankcampuscareers.tal.net/vx/candidate/cms/transparency_internship . Application entry: https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14418/apply/en-GB",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Choose tracks within the three US/Canada application limit",
         "Review role-specific work authorization and sponsorship restrictions",
@@ -12086,8 +12086,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 29 afternoon: official role, Americas FAQ and matching 11986 application-entry screen reverified. Sponsorship remains limited and business-dependent. Role allows one program/two functions; FAQ allows two applications/three functions in one program and region. Confirm portal limits before another application. Assessments are due within five days; Software Engineering and Analytics & Modeling require separate coding tests when both are selected. Missed assessments cause withdrawal without reapplication. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
-      "checkedOn": "2026-10-29",
+      "sourceNote": "October 30: official role, Americas FAQ and matching 11986 application-entry screen reverified. Limited business-dependent sponsorship remains conditional. Role permits one program/two functions; FAQ permits two applications/three functions in one program and region. Confirm portal limits. Five-day assessments remain required; Software Engineering and Analytics & Modeling use separate coding tests. Missing assessments causes withdrawal without reapplication. FAQ: https://careers.blackrock.com/en/candidate-faqs-americas",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Confirm sponsorship for the selected U.S. office and function",
         "Resolve the role/FAQ application-count discrepancy before another application",
@@ -14209,8 +14209,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 29 afternoon: official Boston description and the role-specific registration entry reverified. The published October 30 date-only deadline remains current; resume and HireVue are required and review is rolling until filled or the deadline. No cutoff time, timezone or sponsorship policy is stated. Application entry: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20903/apply/en-GB",
-      "checkedOn": "2026-10-29",
+      "sourceNote": "October 30: official Boston description and matching requisition-specific registration entry reverified. Published wording remains Application deadline 10/30/2026; no cutoff time or timezone is given. Resume and HireVue are required, with rolling review until filled or the deadline. Sponsorship remains unstated. Application entry: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/20903/apply/en-GB",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Review work authorization and sponsorship before applying",
         "Prepare credit-focused resume and financial-modeling examples",
@@ -19330,6 +19330,133 @@
         "Find the official posting and verify eligibility",
         "Check the deadline and location",
         "Complete application and save receipt"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "drw-software-developer-chicago-7992936-2027",
+      "title": "Software Developer Internship — Summer 2027, Chicago",
+      "organization": "DRW",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not stated",
+        "Graduation: 2027-12 to 2028-06",
+        "Software engineering",
+        "Trading systems",
+        "Risk technology",
+        "Housing provided"
+      ],
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+      "sourceUrl": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+      "summary": "Ten-week Summer 2027 internship in Chicago developing trading and risk software with senior technologists. The named placement is Chicago; remote participation is not stated.",
+      "eligibility": "Bachelor’s, master’s or PhD in CS, computer engineering, physics, mathematics, machine learning or related science; graduation December 2027–June 2028. C++, Python or Java, algorithms and systems skills expected. Form asks about U.S. authorization and sponsorship; no support commitment or prohibition is published for this role.",
+      "reward": "Published annual base salary USD $225,000; this is not ten-week internship pay. Furnished housing near the office is provided. Confirm the internship rate, proration and relocation arrangements.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published. Employer internship page states applications are reviewed on a rolling basis.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 30: official Chicago description and complete matching Greenhouse application verified. Transcript upload is required. Additional U.S. location preferences in the form do not change this posting’s Chicago placement. Recruiting policy: https://www.drw.com/work-at-drw/interns",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Confirm work authorization and sponsorship before applying",
+        "Prepare a systems-focused resume and current transcript",
+        "Complete the official application and prepare for technical assessment"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "drw-venture-capital-chicago-7993004-2027",
+      "title": "Venture Capital Analyst Internship — Summer 2027, Chicago",
+      "organization": "DRW",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not offered",
+        "Graduation: 2027-12 to 2028-06",
+        "Venture capital",
+        "Fintech investing",
+        "Housing provided"
+      ],
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7993004",
+      "sourceUrl": "https://www.drw.com/work-at-drw/listings/venture-capital-analyst-intern-3467348",
+      "summary": "Ten-week Summer 2027 Chicago placement researching financial and enterprise technology investments, modeling deals and preparing investment presentations. Remote work is not stated.",
+      "eligibility": "Bachelor’s studies in finance, business administration, economics, accounting or liberal arts; graduation December 2027–June 2028; GPA 3.5/4.0 minimum or equivalent. Excel, PowerPoint and analytical communication skills. Must have U.S. work authorization without sponsorship.",
+      "reward": "Published annual base salary USD $80,000; this is not total ten-week pay. Furnished housing near the office is provided. Confirm actual internship compensation and relocation costs.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No fixed closing date published. Employer internship page states applications are reviewed on a rolling basis.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "October 30: official Summer 2027 Chicago description and complete matching application verified. The role explicitly excludes sponsorship. Form requires a transcript, GPA, motivation response and a separate cover-letter upload. Recruiting policy: https://www.drw.com/work-at-drw/interns",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Confirm the no-sponsorship requirement",
+        "Prepare resume, cover letter and current transcript",
+        "Write a venture-investing motivation response and apply through the official form"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "citadel-software-engineer-intern-us-current",
+      "title": "Software Engineer Internship — U.S. offices, intake year unconfirmed",
+      "organization": "Citadel",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Sponsorship: Not stated",
+        "Software engineering",
+        "Paid",
+        "Intake year unconfirmed"
+      ],
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "sourceUrl": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "summary": "Eleven-week engineering internship in New York, Miami, Greenwich or Houston. The form offers June–August and other seasonal preferences, with no intake year stated; Summer 2027 is unconfirmed. Remote eligibility is not published.",
+      "eligibility": "Bachelor’s, master’s or PhD in CS, computer engineering or related fields; strong programming, probability/statistics and communication. No graduation window stated. Form asks about sponsorship without committing to support; confirm work authorization and the intake year.",
+      "reward": "USD $4,500–$5,800 per week. Interns may also qualify for a sign-on bonus, housing stipend or accommodation, company travel and onsite benefits; confirm offer-specific coverage.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date published on the reviewed official role or form.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Current listing · intake year unconfirmed",
+      "sourceState": "Open listing",
+      "sourceNote": "October 30: official U.S. role and complete application form opened and verified. No year-specific 2027 claim or graduation tag is inferred. Form includes a 150–300-word candidate response; sponsorship questions are not evidence of support.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Confirm intake year and sponsorship for the chosen U.S. office",
+        "Prepare resume and a 150–300-word candidate response",
+        "Choose office and interview-language preferences before applying"
       ],
       "stream": "internships"
     }
