@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 141,
-  "updatedAt": "2026-10-30T19:18:35.666Z",
+  "revision": 142,
+  "updatedAt": "2026-10-30T20:03:29.017Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-30T18:19:33.404Z",
+      "checkedAt": "2026-10-30T20:03:05.274Z",
       "outcome": "success",
-      "summary": "Added DRW’s Chicago Summer 2027 software and venture-capital internships, plus Citadel’s U.S. engineering listing with its intake year explicitly unconfirmed. Reverified Morgan Stanley’s October 30 date-only cutoff and Bank of America, BlackRock and Millennium application limits. Evercore and Optiver application availability remains unverified; no closure inferred."
+      "summary": "Added HRT’s New York Summer 2027 data-science internship and GCM Grosvenor’s Chicago ARS research internship, with sponsorship restrictions explicit. Refreshed JPMorganChase, IMC, HRT and Akuna application checks. JPMorgan’s Data & AI directory now reports November 20 versus November 19 on the requisition; no timezone is inferred. Morgan Stanley’s October 30 entry and Bank of America, BlackRock and Millennium limits were rechecked; Evercore availability remains unverified."
     },
     {
       "id": "spreadsheet",
@@ -12579,8 +12579,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "Official role and live application verified October 30. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Confirm sponsorship and published pay units",
         "Choose the strongest role within IMC’s application rules",
@@ -12664,8 +12664,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and live application verified October 24. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "Official role and live application verified October 30. Sponsorship questions do not establish support. One application per role per year; IMC recommends choosing the best-fitting role. No published closing date.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Confirm sponsorship and published pay units",
         "Choose the strongest role within IMC’s application rules",
@@ -12705,8 +12705,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "Official role and embedded live application verified October 24. Only the identified US offices are included here; foreign offices have separate pay and requirements. Sponsorship questions are not affirmative support. HRT permits only ONE role application and considers it for other openings; choose carefully. Graduation source: https://www.hudsonrivertrading.com/student-opportunities/",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "Official role and embedded live application verified October 30. Only the identified US offices are included here; foreign offices have separate pay and requirements. Sponsorship questions are not affirmative support. HRT permits only ONE role application and considers it for other openings; choose carefully. Graduation source: https://www.hudsonrivertrading.com/student-opportunities/",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Choose ONE HRT role before applying",
         "Confirm US office, sponsorship and dates",
@@ -14070,8 +14070,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Open listing",
-      "sourceNote": "October 27: official Chicago Summer 2027 role and matching embedded application 8021481 reverified. Form explicitly offers sponsorship to qualified candidates when legally possible; day-one US authorization is required. Only one Quant/Tech preference per season; Trading applications separately allowed. PDF resume required.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "October 30: official Chicago Summer 2027 role and matching embedded application 8021481 reverified. Form explicitly offers sponsorship to qualified candidates when legally possible; day-one US authorization is required. Only one Quant/Tech preference per season; Trading applications separately allowed. PDF resume required.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Choose one Akuna Quant/Tech preference for this recruiting season",
         "Confirm work authorization, sponsorship and internship dates",
@@ -17538,7 +17538,7 @@
         "Data science",
         "AI",
         "Data engineering",
-        "Deadline conflict"
+        "Official date discrepancy"
       ],
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
       "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
@@ -17547,18 +17547,18 @@
       "reward": "Posting lists base pay/salary of $95,000 for Chicago and $110,000–$115,000 for New York, Jersey City and Palo Alto without a stated pay period. Confirm actual internship rate and proration; these are not internship-total earnings. Other office pay, housing and travel support are unstated.",
       "value": 4,
       "effort": 8,
-      "deadlineDate": "",
+      "deadlineDate": "2026-11-19",
       "deadlineAt": "",
-      "sourceDeadline": "Program page: November 6, 2026. Direct requisition: Apply Before 11/19/2026, 11:00 PM, without timezone. Conflicting official dates remain unconfirmed.",
-      "confidence": "Unknown",
+      "sourceDeadline": "Direct requisition: Apply Before 11/19/2026, 11:00 PM, timezone unstated. Current program directory: November 20, 2026. Earlier displayed date retained for planning; no UTC cutoff assigned.",
+      "confidence": "Timezone unconfirmed",
       "opensOn": "",
       "cycle": "Summer 2027",
-      "sourceState": "Needs verification",
-      "sourceNote": "October 28: complete live U.S. role and matching email application-entry screen verified. The program directory still says November 6 while the current requisition displays November 19 at 11 PM; do not rely on an extension without clarification. Rolling review is explicit. Directory: https://www.jpmorganchase.com/careers/explore-opportunities/programs/data-analytics-opportunities . FAQ recommends focusing on at most three summer internship programs: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
-      "checkedOn": "2026-10-28",
+      "sourceState": "Application",
+      "sourceNote": "October 30: full U.S. role and matching email application entry reverified. The official directory now lists November 20, replacing its prior November 6 report; the requisition still displays November 19 at 11 PM. The one-day discrepancy remains unresolved. Permanent U.S. work authorization and no sponsorship/OPT/CPT support remain explicit. Directory: https://www.jpmorganchase.com/careers/explore-opportunities/programs/data-analytics-opportunities . FAQ recommends focusing on no more than three summer programs: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Check permanent work authorization and OPT/CPT exclusions",
-        "Resolve the November 6 versus November 19 date conflict before relying on extra time",
+        "Clarify the November 19/20 discrepancy and plan around the earlier displayed date",
         "Select programs within the employer’s recommended three-program focus",
         "Tailor a data/AI resume and follow portal assessment instructions"
       ],
@@ -17598,8 +17598,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 28: current New York role and matching email application-entry screen verified. Official program directory and requisition differ by a day; timezone remains unresolved, so no exact cutoff is assigned. Required next steps include HackerRank and HireVue; positions may fill earlier. Program source: https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs . FAQ recommends focusing on at most three summer internship programs: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 30: current New York role and matching email application-entry screen verified. Official program directory and requisition differ by a day; timezone remains unresolved, so no exact cutoff is assigned. Required next steps include HackerRank and HireVue; positions may fill earlier. Program source: https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs . FAQ recommends focusing on at most three summer internship programs: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Confirm role-specific work authorization and sponsorship",
         "Clarify November 5/6 cutoff and apply before the earlier displayed date",
@@ -17642,8 +17642,8 @@
       "opensOn": "",
       "cycle": "Summer 2027",
       "sourceState": "Application",
-      "sourceNote": "October 28: full current New York role and matching email application-entry screen verified. One-day official date discrepancy remains unresolved. Both HackerRank and HireVue are required if advanced; positions may fill sooner. Program source: https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs . FAQ recommends no more than three summer internship program applications: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
-      "checkedOn": "2026-10-28",
+      "sourceNote": "October 30: full current New York role and matching email application-entry screen verified. One-day official date discrepancy remains unresolved. Both HackerRank and HireVue are required if advanced; positions may fill sooner. Program source: https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs . FAQ recommends no more than three summer internship program applications: https://www.jpmorganchase.com/careers/how-we-hire/faqs .",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Review sponsorship and OPT/CPT exclusions",
         "Clarify the November 5/6 deadline before relying on the later date",
@@ -20434,6 +20434,88 @@
         "Confirm covered travel arrangements if selected"
       ],
       "stream": "original"
+    },
+    {
+      "id": "hrt-data-scientist-new-york-2027",
+      "title": "Data Scientist Internship — Summer 2027, New York",
+      "organization": "Hudson River Trading",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance technology",
+        "Location: US",
+        "Summer 2027",
+        "Graduation: 2028",
+        "Sponsorship: Not stated",
+        "Data science",
+        "Python"
+      ],
+      "url": "https://www.hudsonrivertrading.com/hrt-job/data-scientist-intern-2027-3/",
+      "sourceUrl": "https://www.hudsonrivertrading.com/hrt-job/data-scientist-intern-2027-3/",
+      "summary": "New York Summer 2027 work on trading data: validation, feature extraction and Python analysis. Duration, exact dates and remote eligibility are unstated.",
+      "eligibility": "Full-time STEM students; Python data-analysis skills, careful data investigation and communication. The student-program page specifies 2028 graduates. U.S. work authorization and sponsorship must be confirmed; application questions do not establish support.",
+      "reward": "New York base pay $5,800 per week, plus a signing bonus, company-paid housing and meals. Confirm payment and housing terms.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date is published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and complete embedded application verified October 30. New York option only; other countries have separate terms. HRT accepts ONE role application and considers it for other openings; return offers are office-specific. Graduation/cycle source: https://www.hudsonrivertrading.com/student-opportunities/",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Choose ONE HRT role before applying",
+        "Confirm New York sponsorship and dates",
+        "Prepare Python data-project examples and application documents"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "gcm-grosvenor-ars-research-chicago-7992997003-2027",
+      "title": "ARS Research Summer Internship — Summer 2027, Chicago",
+      "organization": "GCM Grosvenor",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Financial institution",
+        "Finance analyst",
+        "Location: US",
+        "Summer 2027",
+        "Sponsorship: Not offered",
+        "Alternative investments",
+        "Investment research"
+      ],
+      "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7992997003",
+      "sourceUrl": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/7992997003",
+      "summary": "Ten-week Chicago internship analyzing hedge-fund managers, alternative strategies and investment due diligence. Exact dates and remote eligibility are unstated.",
+      "eligibility": "Junior/third-year BA/BS students in finance, economics, accounting or a related field; strong academics, Excel and communication. Current U.S. authorization without employer sponsorship now or in the future is required. Applicants needing future sponsorship after OPT/CPT or J-1 are explicitly ineligible. Some late nights/weekends may be needed.",
+      "reward": "Chicago annual pay range $70,000–$72,000, not ten-week internship earnings. Interns are excluded from health insurance, paid leave and 401(k) benefits; confirm actual prorated pay and any other support.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "No application closing date is published; apply early.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Official role and full live application verified October 30. No fixed cutoff or rolling-review policy is stated. Required resume upload and application questions are available. No visa sponsorship now or in the future.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Review current and future work-authorization restrictions",
+        "Prepare a resume and alternative-investment research examples",
+        "Confirm actual internship pay and Chicago work arrangements"
+      ],
+      "stream": "internships"
     }
   ]
 }
