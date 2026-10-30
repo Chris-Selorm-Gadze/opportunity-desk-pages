@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 139,
-  "updatedAt": "2026-10-30T18:27:29.541Z",
+  "revision": 140,
+  "updatedAt": "2026-10-30T19:11:08.560Z",
   "streams": [
     {
       "id": "internships",
@@ -117,28 +117,29 @@
       "tags": [
         "Sales",
         "Business",
-        "Spreadsheet"
+        "Spreadsheet",
+        "Funding: Travel and lodging",
+        "Postponed"
       ],
-      "url": "https://insightglobal.com/sales-competition/#update",
-      "sourceUrl": "https://insightglobal.com/sales-competition/#update",
-      "summary": "Sales role-play competition and training in Atlanta, January 6–7, 2027.",
-      "eligibility": "College juniors and seniors in the U.S. and Canada; any major. Sales experience is not required.",
-      "reward": "$60,000 total prizes; travel covered",
+      "url": "https://insightglobal.com/sales-competition/",
+      "sourceUrl": "https://insightglobal.com/sales-competition/",
+      "summary": "Atlanta sales role-play competition postponed from January to fall 2027. Applications are closed until new dates are announced.",
+      "eligibility": "Published rules describe undergraduate juniors/seniors in any major, age 18+/local majority, legal residents of the U.S./DC or Canada excluding Quebec, with required SSN/SIN. Recheck rules when the event reopens.",
+      "reward": "Published benefits include airfare and hotel for invited competitors; applying is free. Advertised individual prizes are $30,000, $20,000 and $10,000 ($60,000 total). Reconfirm all terms after postponement.",
       "value": 4,
       "effort": 7,
-      "deadlineDate": "2026-11-09",
+      "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Nov 9, 2026 · time and timezone not stated",
-      "confidence": "Date only",
+      "sourceDeadline": "Applications are closed during postponement; new fall 2027 dates and application cutoff have not been announced.",
+      "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027",
-      "sourceState": "Application",
-      "sourceNote": "The published close is a date only. Confirm the exact cutoff in the application rules.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official October 30 check found a postponement notice and explicit closed-application FAQ. The old November 9 footer remains but is superseded by the current update. Preserve the 2027 record while monitoring reopening.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Check official rules",
-        "Complete application",
-        "Keep submission receipt"
+        "Watch for the new fall 2027 dates and reopened application",
+        "Recheck eligibility and funding when the new rules are posted"
       ],
       "stream": "original"
     },
@@ -1763,29 +1764,32 @@
         "Graduate"
       ],
       "tags": [
-        "Daily discovery",
-        "Finance"
+        "Finance",
+        "Cash prizes",
+        "Paid registration",
+        "Algorithmic trading"
       ],
       "url": "https://fsc.stevens.edu/hftc/",
       "sourceUrl": "https://fsc.stevens.edu/hftc/",
       "summary": "Global algorithmic trading challenge on the simulated SHIFT platform, March–May 2027.",
       "eligibility": "Teams of one to four undergraduates or graduate students at accredited universities; Python and GitHub skills required.",
-      "reward": "$5,000 total prize pool; current page lists a $250 per-team registration fee. Travel funding not confirmed.",
+      "reward": "Application is free. Selected teams pay $250 by March 8. Total cash pool is $4,800: teams in places 1–5 receive $1,800/$1,200/$900/$600/$300 respectively. No travel funding stated.",
       "value": 3,
       "effort": 30,
-      "deadlineDate": "2027-01-31",
+      "deadlineDate": "2027-02-15",
       "deadlineAt": "",
-      "sourceDeadline": "January 31, 2027; cutoff time/timezone not specified",
+      "sourceDeadline": "Apply by February 15, 2027; cutoff time/timezone unstated. Assessment due February 24; selected-team registration/fee due March 8.",
       "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027",
       "sourceState": "Application",
-      "sourceNote": "Organizer currently lists $250/team, correcting the earlier scheduled search’s $300 claim. Confirm fee in the registration form; application deadline has no time/timezone.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Official October 30 check replaces the earlier January 31 cutoff and $5,000 pool. Distinguishes free application from paid team registration after selection.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Form a team of one to four students with Python/GitHub skills",
+        "Apply by February 15",
+        "Complete the technical assessment by February 24",
+        "If selected, register and pay $250 by March 8"
       ],
       "stream": "trading"
     },
@@ -1834,29 +1838,31 @@
         "Undergraduate"
       ],
       "tags": [
-        "Daily discovery",
-        "Finance"
+        "Finance",
+        "Quantitative research",
+        "Funding: Full attendance",
+        "New York"
       ],
-      "url": "https://www.citadel.com/careers/programs-and-events/discover-citadel/",
-      "sourceUrl": "https://www.citadel.com/careers/programs-and-events/discover-citadel/",
-      "summary": "Two-day exploration of quantitative research, software engineering and trading. U.S. event in New York.",
-      "eligibility": "First- or second-year undergraduates graduating December 2028–June 2030; U.S./Canada-based students considered for U.S. event. Résumé with GPA required.",
-      "reward": "Funded program reported by earlier search; confirm current U.S. travel, hotel and meal terms in the program terms.",
+      "url": "https://www.citadel.com/careers/programs-and-events/discover-citadel/apply/",
+      "sourceUrl": "https://www.citadel.com/careers/programs-and-events/discover-citadel/apply/",
+      "summary": "Two-day New York introduction to quantitative research, software engineering and trading, in early April 2027. Selected attendees hear by March 12.",
+      "eligibility": "First/second-year undergraduates, age 18+, at universities in the U.S., its territories, DC or Canada, graduating December 2028–June 2030. Resume with cumulative GPA required.",
+      "reward": "Selected attendees receive roundtrip economy airfare from the listed U.S./Canada region, airport transfers, a single hotel room for two nights and meals on the competition day. Benefits are approximately $750 excluding prizes; taxes remain the participant’s responsibility. No application fee is stated.",
       "value": 4,
       "effort": 5,
-      "deadlineDate": "",
+      "deadlineDate": "2027-03-05",
       "deadlineAt": "",
-      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
-      "confidence": "Unknown",
+      "sourceDeadline": "March 5, 2027; cutoff time and timezone not stated.",
+      "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027 · verify current intake",
-      "sourceState": "Needs verification",
-      "sourceNote": "Current organizer page confirms student-year and geographic eligibility but not the earlier March 5, 2027 deadline. The earlier application URL redirects to the homepage. No application deadline is assumed.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Application",
+      "sourceNote": "Live official U.S. application verified October 30, confirming the event, deadline and funding. Funding is for selected attendees; no blanket cash grant or prize amount is promised.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Check graduation and geographic requirements",
+        "Prepare a resume with cumulative GPA",
+        "Apply by March 5 and save confirmation"
       ],
       "stream": "trading"
     },
@@ -1910,26 +1916,25 @@
         "Daily discovery",
         "Finance"
       ],
-      "url": "https://www.premiertradingleague.com/",
-      "sourceUrl": "https://www.premiertradingleague.com/",
-      "summary": "Online simulated futures tournament. The FAQ lists Open 2 play from October 26–November 23; a live finale is listed for Fort Lauderdale on December 11.",
+      "url": "https://help.tradeify.co/en/articles/16829567-premier-trading-league-full-competition-guide",
+      "sourceUrl": "https://help.tradeify.co/en/articles/16829567-premier-trading-league-full-competition-guide",
+      "summary": "Simulated futures tournament; Open 2 matches run October 26–November 19 and the Florida finale is December 11. Registration is closed.",
       "eligibility": "KYC verification; one entry per person and household; restricted-country rules apply. Finalists must be legally able to travel to the U.S.; no visa sponsorship.",
-      "reward": "Free entry and a simulated $50,000 account. The organizer advertises $1,000,000 in total cash rewards, including a $300,000 prize pool for each Open and a $180,000 overall first prize; these are pools/awards, not guaranteed individual payment. Optional resets cost $25 or $49. The organizer promotes an all-inclusive Florida finale; verify finalist travel coverage and exclusions in the terms.",
+      "reward": "Entry was free; optional nonrefundable resets are $25/$50 in the guide. Season cash pool: $1,000,000, including $300,000 per Open and $400,000 at the finale; champion $180,000. Eight trader finalists receive covered travel/accommodation. Rise/KYC rules apply.",
       "value": 3,
       "effort": 20,
-      "deadlineDate": "",
-      "deadlineAt": "",
-      "sourceDeadline": "The official current page has an active ‘Enter for FREE’ link and states Open 2 runs October 26–November 23, 2026; it does not publish a registration cutoff.",
-      "confidence": "Unknown",
-      "opensOn": "",
+      "deadlineDate": "2026-10-25",
+      "deadlineAt": "2026-10-26T03:59:00Z",
+      "sourceDeadline": "Open 2 registration closed October 25, 2026, 11:59 PM ET.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
       "cycle": "2026 Open 2",
-      "sourceState": "Open listing",
-      "sourceNote": "Official current page checked October 27. Its FAQ says Open 2 ends November 23, while a leaderboard section says November 19; confirm the schedule and terms before playing.",
-      "checkedOn": "2026-10-27",
+      "sourceState": "Past cycle",
+      "sourceNote": "Corrected October 30: detailed official rules prohibit mid-league entry. A promotional signup link did not establish late registration. Guide match dates differ from some promotional-page dates; registration cutoff is explicit.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Review eligibility, cash-prize and reset terms",
-        "Register through the official free-entry link",
-        "Confirm the Open 2 schedule before playing"
+        "Watch for a future cycle",
+        "Check detailed registration rules before entering"
       ],
       "stream": "trading"
     },
@@ -2157,29 +2162,31 @@
         "Graduate"
       ],
       "tags": [
-        "Daily discovery",
-        "Finance"
+        "Finance",
+        "Cash prizes",
+        "Free entry",
+        "Online"
       ],
       "url": "https://predictionscup.com/",
-      "sourceUrl": "https://predictionscup.com/",
-      "summary": "Free university-student prediction-market simulation using contest-only currency. Competition ends November 4, 2026 at noon ET.",
+      "sourceUrl": "https://predictionscup.com/rules/",
+      "summary": "Free online student forecasting and simulated trading on U.S. midterm elections. Entry after the October 1 start is explicitly allowed; participation ends November 4.",
       "eligibility": "University students who have reached the age of majority in listed eligible jurisdictions, including the U.S.; detailed regional exclusions apply.",
-      "reward": "$30,000 first prize, $5,000 second and $2,500 third under the official rules. No entry fee.",
+      "reward": "Individual awards up to $30,000/$5,000/$2,500 ($37,500 total), subject to jurisdiction restrictions and tie-sharing. No purchase, deposit or entry fee. Trading uses valueless virtual currency.",
       "value": 4,
       "effort": 10,
-      "deadlineDate": "",
-      "deadlineAt": "",
-      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
-      "confidence": "Unknown",
-      "opensOn": "",
+      "deadlineDate": "2026-11-04",
+      "deadlineAt": "2026-11-04T17:00:00Z",
+      "sourceDeadline": "Accounts can be created during the competition; all trades must arrive before November 4, 2026, 12:00 PM Eastern Standard Time.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
       "cycle": "October–November 2026",
-      "sourceState": "Needs verification",
-      "sourceNote": "Organizer confirms the competition end timestamp, not a separate registration cutoff. Verify whether late registration remains possible. The event end is not used as an application deadline.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Application",
+      "sourceNote": "Official rules sections 5–6 rechecked October 30 explicitly permit late entry. This participation end is usable because entry throughout the period is confirmed, not inferred from event dates.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Check student, residence, age and tax-ID requirements",
+        "Create and activate one free account",
+        "Read the rules and trade before November 4 noon EST"
       ],
       "stream": "trading"
     },
@@ -5556,38 +5563,41 @@
       },
       "id": "sheet-hansen-leadership-institute-2027-d4f819be0a0e",
       "title": "Hansen Leadership Institute 2027",
-      "organization": "hansenleadershipinstitute.awardsplatform.com",
+      "organization": "Hansen Leadership Institute / Fred J. Hansen Foundation",
       "category": "Travel & leadership",
       "levels": [
-        "Graduate"
+        "Undergraduate",
+        "Graduate",
+        "Early career"
       ],
       "tags": [
         "Spreadsheet",
-        "fully",
-        "funded",
-        "leadership",
-        "fellowship"
+        "Leadership",
+        "Funding: Full attendance",
+        "International airfare",
+        "United States"
       ],
       "url": "https://hansenleadershipinstitute.awardsplatform.com/",
-      "sourceUrl": "https://hansenleadershipinstitute.awardsplatform.com/",
-      "summary": "Fully funded leadership fellowship. Program dates: 2027-06-29 to 2027-07-20. Location / format: University of San Diego, CA; in person. Next milestone: Applications open now",
-      "eligibility": "Ages 20-25 on July 1, 2027; completed at least 1 year of college (or 2025/2026 graduate); demonstrated leadership potential; interest in international relations/diplomacy/economic development; all nationalities",
-      "reward": "Fully funded: round-trip airfare, health insurance, free accommodation, full meals, transportation, program materials, city tours",
+      "sourceUrl": "https://hansenleadershipinstitute.org/apply-now/",
+      "summary": "Three-week international leadership program, June 29–July 20, 2027. Full attendance is required; the host provides University of San Diego visa documentation.",
+      "eligibility": "Age 20–25 on July 1, 2027; at least one completed college/university year. Applicants no longer enrolled must have graduated in 2025 or 2026. U.S. and international application tracks have different cutoffs.",
+      "reward": "The foundation covers international airfare, room and board, and program costs. Passport expenses and personal spending remain the participant’s responsibility. Visa documentation and paid SEVIS-fee confirmation are provided; airfare booking/payment method and any separate visa-fee handling should be confirmed.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2027-01-15",
-      "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027-03-15 (U.S. students); 2027-01-15 (international)",
-      "confidence": "Date only",
+      "deadlineAt": "2027-01-16T07:55:00Z",
+      "sourceDeadline": "International applicants: January 15, 2027, 11:55 PM Pacific Time, including references. U.S. applicants: March 15, 2027, 11:55 PM Pacific Time.",
+      "confidence": "Exact time",
       "opensOn": "",
       "cycle": "2027 · Hansen Leadership Institute 2027",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "Official application and FAQ verified October 30. Corrects the graduate-only label: undergraduates with a completed year qualify. Primary funding text does not separately confirm every item in the older spreadsheet, such as health insurance.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Full online application incl. transcripts and recommendation forms (application not reviewed until 100% complete)",
-        "Review next milestone: Applications open now"
+        "Check the age/study rules and correct country track",
+        "Arrange academic references",
+        "Submit all materials by the applicable cutoff",
+        "Confirm covered travel arrangements if selected"
       ],
       "stream": "spreadsheet"
     },
@@ -8459,36 +8469,38 @@
       },
       "id": "sheet-ppia-junior-summer-institute-2027-4ea4ec8594d3",
       "title": "PPIA Junior Summer Institute 2027",
-      "organization": "ppiaprogram.org",
+      "organization": "Public Policy & International Affairs Program",
       "category": "Travel & leadership",
       "levels": [
         "Undergraduate"
       ],
       "tags": [
         "Spreadsheet",
-        "funded",
-        "policy",
-        "fellowship"
+        "Public policy",
+        "Funded coursework",
+        "Housing covered",
+        "Travel coverage unconfirmed"
       ],
       "url": "https://www.ppiaprogram.org",
-      "sourceUrl": "https://www.ppiaprogram.org",
-      "summary": "Funded policy fellowship. Program dates: Summer 2027, Harvard/Princeton/Michigan policy schools. Location / format: HBCU/undergrads",
-      "eligibility": "Undergrad juniors graduating Dec 2027 or May–Aug 2028; all majors; international students at US institutions may apply to the Princeton site",
-      "reward": "Fully funded: graduate-level coursework, on-campus housing + most meals, books/materials, summer stipend + at least $5,000 grad-school scholarship + fee waivers",
+      "sourceUrl": "https://www.ppiaprogram.org/JSI",
+      "summary": "Six-week Summer 2027 public-policy preparation program at Harvard, Princeton or Michigan. The current official application is open.",
+      "eligibility": "College juniors graduating December 2027 or May–August 2028. Confirm citizenship/residency and institution-specific eligibility in the full application; the program overview does not resolve all restrictions.",
+      "reward": "The organizer describes a fully funded summer with coursework, on-campus housing, books/materials and a summer stipend. The current overview does not establish airfare, all meals, stipend amount or each site’s travel arrangements; confirm before treating it as a fully paid trip.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2026-11-06",
-      "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-11-06 23:59 ET",
-      "confidence": "Date only",
+      "deadlineAt": "2026-11-07T04:59:00Z",
+      "sourceDeadline": "November 6, 2026, 11:59 PM EST.",
+      "confidence": "Exact time",
       "opensOn": "",
       "cycle": "2027 · PPIA Junior Summer Institute 2027",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027 PPIA overview and live submission listing checked October 30. Graduation window and exact cutoff confirmed; Harvard’s detail page returned HTTP 403 and Princeton’s page still described 2026, so site-specific travel coverage remains unverified.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Online application, resume, multi-part personal statement, transcripts, 2 recs, financial info (~8–10 hrs)"
+        "Check the chosen site’s eligibility and travel coverage",
+        "Arrange required references and records",
+        "Apply by November 6 at 11:59 PM EST"
       ],
       "stream": "spreadsheet"
     },
@@ -12756,7 +12768,7 @@
       "tags": [
         "Quantitative research",
         "Trading",
-        "Sponsored travel",
+        "Funding: Full attendance",
         "Florida"
       ],
       "url": "https://voloridge.com/jobs/voloridgeinvestmentmanagement/4328356009",
@@ -12773,12 +12785,12 @@
       "opensOn": "",
       "cycle": "January 2027",
       "sourceState": "Application",
-      "sourceNote": "Official Voloridge listing reviewed October 24, 2026. Funding is for selected participants, not an automatic award to every applicant. Program dates, travel, hotel and meal/incidental stipend are explicit.",
-      "checkedOn": "2026-10-24",
+      "sourceNote": "Official live application rechecked October 30; the October 31 cutoff is unchanged. Recommendation must be program-specific, signed and on university letterhead as a PDF. Voloridge arranges covered travel/hotel and a meal/incidental stipend for 20 selected participants.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
-        "Confirm eligibility and availability for January 11–14",
-        "Request a faculty recommendation",
-        "Apply through the organizer and save confirmation"
+        "Confirm eligibility and January 11–14 availability",
+        "Request a signed program-specific faculty recommendation on university letterhead",
+        "Submit the application and letter before October 31"
       ],
       "stream": "trading"
     },
@@ -20269,6 +20281,159 @@
         "Review next milestone: Apply early — selection committees review by ranked site"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "st-gallen-global-ideas-2027",
+      "title": "St. Gallen Symposium Global Ideas Competition 2027",
+      "organization": "International Students’ Committee, St. Gallen Symposium",
+      "category": "Conferences & networking",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Switzerland",
+        "Graduate only",
+        "Funding: Full attendance",
+        "Visa costs excluded",
+        "Cash prizes"
+      ],
+      "url": "https://symposium.org/initiatives/global-ideas-competition/",
+      "sourceUrl": "https://symposium.org/initiatives/global-ideas-competition/",
+      "summary": "Compete for a funded place at the April 27–29, 2027 symposium in Switzerland. Submit a 1,000-word solution brief and three-minute video; top 100 qualify.",
+      "eligibility": "Master’s/postgraduate students in any field, born 1997 or later, enrolled on February 1. Bachelor’s students generally excluded; documented graduate-equivalent honors study may qualify.",
+      "reward": "Selected participants receive free attendance, booked flights/trains, airport/local transport, student-flat lodging and board. Visa fees, pocket money, some arrival/departure meals and extensions are excluded. Three winners share CHF20,000; individual allocations are not published.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "2027-02-02T11:59:00Z",
+      "sourceDeadline": "1 February 2027, 11:59 p.m. last time zone (UTC-12).",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "56th Symposium / 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official page and current portal verified October 30. Organizer books travel; this is selected-participant support. Visa and incidental exclusions remain explicit.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Confirm graduate enrollment and age eligibility",
+        "Prepare the anonymous brief, video and enrollment proof",
+        "Declare all auxiliary/AI tools as required",
+        "Submit by the published UTC-12 cutoff"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "peci-student-attendance-scholarship-2027",
+      "title": "PECI 2027 Student Attendance Scholarship — opening watch",
+      "organization": "IEEE Power and Energy Conference at Illinois",
+      "category": "Conferences & networking",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Engineering",
+        "Illinois",
+        "Funding: Full attendance",
+        "Application link outdated"
+      ],
+      "url": "https://www.peciproduction.web.illinois.edu/students.php",
+      "sourceUrl": "https://www.peciproduction.web.illinois.edu/students.php",
+      "summary": "Student support for the 2027 engineering conference in Urbana, Illinois. Current support page announces 2027 scholarships, but its application link still points to a closed 2026 form.",
+      "eligibility": "Scholarship is aimed at first-time and underrepresented students; specific 2027 degree/geographic rules need confirmation. A faculty recommendation is encouraged, not required.",
+      "reward": "Selected scholarship recipients have travel to/from the conference, hotels, meals and registration covered. Award caps and prepaid versus reimbursement arrangements are not published.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "The 2027 deadline is announced as forthcoming; the linked closed 2026 form is not a current application.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "PECI 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official support/location pages and linked form checked October 30. Do not use the old February 27, 2026 cutoff or claim 2027 applications are open.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Watch for the corrected 2027 scholarship form",
+        "Confirm degree, geographic and travel-payment rules",
+        "Request a faculty recommendation if helpful"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "aiaa-rising-stars-aviation-ascend-2027",
+      "title": "AIAA Rising Stars 2027 — AVIATION / ASCEND",
+      "organization": "American Institute of Aeronautics and Astronautics",
+      "category": "Conferences & networking",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Aerospace",
+        "Funding: Capped travel",
+        "Registration and hotel covered",
+        "Opening December 2026"
+      ],
+      "url": "https://aiaa.org/get-involved/university-students/rising-stars-program/",
+      "sourceUrl": "https://aiaa.org/get-involved/university-students/rising-stars-program/",
+      "summary": "Undergraduate access program for ASCEND (May 18–20, Washington DC) or AVIATION (June 7–11, San Diego). Applications open in December 2026; no exact opening day given.",
+      "eligibility": "Undergraduates age 18+ at accredited institutions with aerospace interest, who have not previously attended an AIAA forum. Program aims to support underrepresented students.",
+      "reward": "Selected students receive capped roundtrip economy airfare, host-hotel accommodation and conference registration/networking access. Airfare cap, meals and payment method are not published; not verified as zero-out-of-pocket attendance.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications open December 2026; deadline and exact opening day unannounced.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 AVIATION / ASCEND",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official page checked October 30. Kept as a capped-funding upcoming option, with full-cost coverage unconfirmed.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Check first-time attendance and undergraduate rules",
+        "Watch for December applications and exact airfare cap",
+        "Prepare four short responses, transcript and 30-second video"
+      ],
+      "stream": "original"
+    },
+    {
+      "id": "citadel-womens-datathon-2027",
+      "title": "Citadel Women’s Datathon 2027 — Miami",
+      "organization": "Citadel / Citadel Securities",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Data science",
+        "Miami",
+        "Funding: Full attendance",
+        "Women",
+        "Cash prizes"
+      ],
+      "url": "https://www.citadel.com/careers/programs-and-events/datathons/apply-womens-datathon/",
+      "sourceUrl": "https://www.citadel.com/td-terms/",
+      "summary": "In-person team data-analysis competition in Miami, early February 2027. Live application; selected applicants hear by January 19.",
+      "eligibility": "Women-focused program. Application lists undergraduates 18+, in good standing at U.S./territories/DC or Canadian universities, graduating December 2028–June 2030. Overview instead says December 2027–June 2029; confirm this conflict and participation criteria.",
+      "reward": "Linked terms provide selected attendees return economy airfare, airport transfers, single hotel rooms and competition-day meals. Taxes/other costs remain personal. Team prizes of $10,000/$2,500/$2,500 are split equally among teammates. No application fee stated; confirm arrangements at enrollment.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "",
+      "sourceDeadline": "January 11, 2027; cutoff time/timezone not stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 Women’s Datathon",
+      "sourceState": "Application",
+      "sourceNote": "Official application, overview and linked terms verified October 30. Resume/assessment required. Funding supports selected participants; conflicting graduation windows remain labeled.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Confirm graduation and participation criteria",
+        "Apply with a resume by January 11",
+        "Complete the required assessment",
+        "Confirm covered travel arrangements if selected"
+      ],
+      "stream": "original"
     }
   ]
 }
