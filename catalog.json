@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 130,
-  "updatedAt": "2026-10-30T00:00:06.968Z",
+  "revision": 131,
+  "updatedAt": "2026-10-30T00:25:34.250Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-29T20:14:52.385Z",
+      "checkedAt": "2026-10-30T00:27:00.000Z",
       "outcome": "success",
-      "summary": "Added Two Sigma’s New York Summer 2027 quantitative research internship ($5,800/week) and verified its existing software lead ($4,325/week). Corrected three Coinbase roles to conditional internship sponsorship using the official FAQ. Rechecked Morgan Stanley’s October 30 cutoff, Bank of America’s November 7 cutoff, BlackRock and Millennium limits, and Evercore’s role-specific entry; Evercore’s board deadline remains unconfirmed."
+      "summary": "Added 1 story-spotted opportunity from @zero2sudo (Oct 29, 2026): Cloudflare PM Intern. It is marked Needs verification: the story link is the source for now and the official posting, deadline, and eligibility must be verified before applying. The 11 image-only stories from the same check have no readable caption and were not added as named opportunities."
     },
     {
       "id": "spreadsheet",
@@ -19295,6 +19295,41 @@
         "Check degree timing and work-authorization requirements",
         "Prepare a research example using real-world data",
         "Apply through the official role and prepare for quantitative interviews"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "zero2sudo-cloudflare-pm-intern",
+      "title": "PM Intern",
+      "organization": "Cloudflare",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "zero2sudo",
+        "Instagram story"
+      ],
+      "url": "https://www.instagram.com/stories/zero2sudo/4018948805814629661",
+      "sourceUrl": "https://www.instagram.com/zero2sudo",
+      "summary": "Product manager internship as named on the story.",
+      "eligibility": "Check the official posting for degree level, class standing, location, and work authorization; the story alone does not confirm these.",
+      "reward": "Not stated on the story; check the official posting.",
+      "value": 3,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Not stated on the story; verify on the official posting before applying.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Oct 2026 story drop: Cloudflare PM Intern",
+      "sourceState": "Needs verification",
+      "sourceNote": "Spotted on @zero2sudo Instagram story Oct 29, 2026. The story link is the source for now; the official application page, deadline, and eligibility have not yet been verified, so verify them before applying.",
+      "checkedOn": "2026-10-29",
+      "suggestedTasks": [
+        "Find the official posting and verify eligibility",
+        "Check the deadline and location",
+        "Complete application and save receipt"
       ],
       "stream": "internships"
     }
