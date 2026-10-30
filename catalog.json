@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 138,
-  "updatedAt": "2026-10-30T18:19:36.927Z",
+  "revision": 139,
+  "updatedAt": "2026-10-30T18:27:29.541Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-30T05:07:38.000Z",
+      "checkedAt": "2026-10-30T18:25:48.000Z",
       "outcome": "success",
-      "summary": "Read 241 spreadsheet opportunities: 0 new, 238 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 256 spreadsheet opportunities: 14 new, 239 matched to tracked records, 2 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -5319,7 +5319,7 @@
       "sheet": {
         "key": "d16c069a7d0c7ba03218ca8b9393d742e5adb8d5039bd69fca23ce1d089d3cd7",
         "hash": "d64ef02b3e64bfb8d47fefdd9184dc785d397ede1ab4822d65499d301268982d",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
         "present": true,
         "fields": {
           "title": "NSBE Fall Scholarships",
@@ -5332,7 +5332,8 @@
           "eligibility": "Active NSBE collegiate members; awards span undergrad years 1-4; some awards open to non-U.S. citizens, others U.S. citizen/permanent resident only",
           "materials": "NSBE membership renewal, GPA verification, completed profile, per-scholarship applications",
           "url": "https://nsbe.org/scholarships/"
-        }
+        },
+        "verifiedAt": "2026-10-30T18:25:48.000Z"
       },
       "id": "sheet-nsbe-fall-scholarships-d16c069a7d0c",
       "title": "NSBE Fall Scholarships",
@@ -5350,19 +5351,19 @@
       "url": "https://nsbe.org/scholarships/",
       "sourceUrl": "https://nsbe.org/scholarships/",
       "summary": "Fall 2026 scholarship cycle is announced as opening soon; current applications and individual closing dates are not yet confirmed.",
-      "eligibility": "Active paid NSBE membership and GPA verification are required, with award-specific major, class-year and region limits. Some awards accept non-U.S. citizens, including listed Intel and Fulfilling the Legacy awards; others require U.S. citizenship or permanent residence.",
-      "reward": "Award amounts vary. Current examples list Intel at $5,000 and Fulfilling the Legacy at $500. Membership costs and award-specific restrictions must be reviewed.",
+      "eligibility": "Paid membership, eligible STEM study and the award's GPA, class-year, region, school and residency rules apply. Some listed awards accept non-U.S. citizens; others require U.S. citizenship or permanent residence. Eligibility must be checked for each award.",
+      "reward": "Amounts vary by sponsor. Confirm the award, membership cost and current application rules.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "Official page: Fall 2026 Scholarship Cycle will open soon. No confirmed application closing date.",
+      "sourceDeadline": "The official page says the Fall 2026 scholarship cycle will open soon; no application closing date is published there. The February 26, 2027 date concerns GPA verification.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "Intake unconfirmed · NSBE Fall Scholarships",
       "sourceState": "Upcoming",
-      "sourceNote": "Organizer page reviewed. The spreadsheet’s December 11 date is unconfirmed. GPA-verification window ending February 26, 2027 is not a scholarship application deadline. Retain source comparison without promising an open application.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "Official page reviewed October 30. Its opening-soon notice conflicts with the spreadsheet's December 11 date; that report remains visible for comparison. GPA verification is a prerequisite, not an application cutoff. The application service could not be inspected; current availability needs confirmation.",
+      "checkedOn": "2026-10-30",
       "suggestedTasks": [
         "Check the official page for the Fall 2026 opening",
         "Review paid membership and GPA verification",
@@ -10359,6 +10360,24 @@
       "stream": "travel"
     },
     {
+      "sheet": {
+        "key": "77d0bd3c27cb3f18925c5e19deb62df254b7783a306060928cfec3e7a9ab1703",
+        "hash": "3d555ce55321fcf27394193baa7b259a3b42ea04016a62aa120133cedf02e7c1",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "Catherine Hinman Memorial Fellowship — Summer 2027",
+          "category": "Paid policy research fellowship",
+          "deadline": "2027-01-09 (rolling review from Nov 2026 — earlier applications read earlier)",
+          "milestone": "Rolling review begins Nov 2026",
+          "programDates": "Late May-early Aug 2027, 8-10 weeks full-time (40 hrs/week), in-person Washington, DC",
+          "funding": "$5,000 stipend (half at start, half on completion) + round-trip travel from anywhere in the US + student/intern housing arranged and covered",
+          "location": "In-person at Silverado Policy Accelerator's Washington, DC office; capstone research project presented to the Silverado team",
+          "eligibility": "Graduate students or undergraduate seniors in 4+1 programs, with economics, applied-science or international-affairs backgrounds and limited prior Washington experience. Appropriate work authorization is required; the source reports F-1 applicants may qualify independently or through school, and Silverado does not sponsor. Background check and I-9 required.",
+          "materials": "Resume/CV; unofficial transcripts (undergrad and grad to date); cover letter (why the fellowship is a game-changer + fit with a Silverado policy area); optional writing sample",
+          "url": "https://silverado.org/hinmanfellowship/"
+        }
+      },
       "id": "hinman-fellowship-2027",
       "title": "Catherine Hinman Memorial Fellowship — Summer 2027",
       "organization": "Silverado Policy Accelerator",
@@ -10372,7 +10391,8 @@
         "Economics",
         "International affairs",
         "Washington DC",
-        "Fully funded"
+        "Fully funded",
+        "Spreadsheet"
       ],
       "url": "https://silverado.org/hinmanfellowship/",
       "sourceUrl": "https://silverado.org/hinmanfellowship/",
@@ -19459,6 +19479,796 @@
         "Choose office and interview-language preferences before applying"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "f7943b18167370430dbe49d45b8b77c5e6eb1fe218c776b62c6dedbef5c52337",
+        "hash": "b98badca21b67248887567361ee4e7cb2d68e41bfa95900512244ef217b599ce",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "University of Rochester Laboratory for Laser Energetics Undergraduate Summer Research 2027",
+          "category": "Funded undergraduate research",
+          "deadline": "2027-02-15",
+          "milestone": "Applications open 2026-11-01",
+          "programDates": "2027-05-17 to 2027-07-30",
+          "funding": "$7,500 stipend + free housing + up to $2,000 round-trip travel reimbursement",
+          "location": "Rochester NY; in person",
+          "eligibility": "Students enrolled at accredited U.S. colleges with relevant science, engineering, mathematics or computer-science coursework. Non-U.S. citizens require Department of Energy clearance. Confirm any required school and work authorization; research stipends are not LLE employment.",
+          "materials": "CV, unofficial transcript, short research interest/motivation response",
+          "url": "https://www.lle.rochester.edu/education/undergraduate-program/"
+        },
+        "verifiedAt": "2026-10-30T18:25:48.000Z"
+      },
+      "id": "sheet-university-of-rochester-laboratory-for-laser-energetics-undergrad-f7943b181673",
+      "title": "University of Rochester Laboratory for Laser Energetics Undergraduate Summer Research 2027",
+      "organization": "University of Rochester Laboratory for Laser Energetics",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "undergraduate",
+        "research"
+      ],
+      "url": "https://www.lle.rochester.edu/education/undergraduate-program/",
+      "sourceUrl": "https://www.lle.rochester.edu/education/undergraduate-program/",
+      "summary": "Eleven-week summer research in Rochester, May 17–July 30, 2027. Current application availability needs confirmation.",
+      "eligibility": "Students at accredited U.S. colleges with relevant science, engineering, mathematics or computer-science coursework; full-time participation required. Non-U.S. citizens require Department of Energy clearance. Confirm any school and work authorization.",
+      "reward": "$7,500 research stipend, free campus housing and possible travel reimbursement up to $1,000 each way for eligible non-Rochester students. Stipend participants are not LLE employees.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "The summer FAQ lists November 1, 2026–February 15, 2027; the same page labels summer applications closed and links a Spring 2027 form. Confirm the summer opening.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · University of Rochester Laboratory for Laser Energetics Undergraduate Summer Research 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official page reviewed October 30. Conflicting summer availability and a separate spring form prevent a confirmed summer cutoff or open-application claim.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: CV, unofficial transcript, short research interest/motivation response",
+        "Review next milestone: Applications open 2026-11-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "debad46258757035d18e344400bc32fccc15e54129fd5b96c3ed4c2812699c20",
+        "hash": "9fd737238d7f3ca740a5d32dae6b401025999080f59db6febbd949b5bedbd8d5",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "TMCF Enterprise Access HBCU Scholarship 2027-28",
+          "category": "HBCU undergraduate scholarship",
+          "deadline": "2027-01-08 23:59 ET",
+          "milestone": "Open now",
+          "programDates": "2027-28 academic year",
+          "funding": "81 awards up to $15,000 each; tuition/fees educational scholarship",
+          "location": "US TMCF member HBCUs; no travel",
+          "eligibility": "Full-time undergraduate freshmen through seniors at eligible TMCF member schools during 2027–28; GPA at least 2.75, demonstrated financial need and 2027–28 FAFSA on file. U.S. citizenship or legal permanent residence required.",
+          "materials": "TMCF student profile/general application; 2-minute impact video; FAFSA",
+          "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-enterprise-access-hbcu-scholarship/"
+        },
+        "verifiedAt": "2026-10-30T18:25:48.000Z"
+      },
+      "id": "sheet-tmcf-enterprise-access-hbcu-scholarship-2027-28-debad4625875",
+      "title": "TMCF Enterprise Access HBCU Scholarship 2027-28",
+      "organization": "Thurgood Marshall College Fund / Enterprise Mobility Foundation",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hbcu",
+        "undergraduate",
+        "scholarship"
+      ],
+      "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-enterprise-access-hbcu-scholarship/",
+      "sourceUrl": "https://tmcf.org/open-scholarships/2027-2028-tmcf-enterprise-access-hbcu-scholarship/",
+      "summary": "Need-based undergraduate scholarship at eligible TMCF member HBCUs for the 2027–28 academic year.",
+      "eligibility": "Full-time freshmen through seniors at eligible TMCF member schools; all majors; GPA at least 2.75, financial need and 2027–28 FAFSA on file by selection. U.S. citizenship or legal permanent residence required.",
+      "reward": "81 scholarships of up to $15,000 for verifiable tuition and usual fees, split between fall 2027 and spring 2028.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-08",
+      "deadlineAt": "2027-01-09T04:59:00.000Z",
+      "sourceDeadline": "January 8, 2027, at 11:59 p.m. EST (Eastern Standard Time).",
+      "confidence": "Exact time",
+      "opensOn": "2026-08-03",
+      "cycle": "2027–2028 · TMCF Enterprise Access HBCU Scholarship 2027-28",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027–28 award page and its linked TMCF portal sign-in reviewed October 30. A two-minute impact video is required. Portal access needs an account; no application submitted.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: TMCF student profile/general application; 2-minute impact video; FAFSA",
+        "Review next milestone: Open now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "3e0a968a0736ed8ec1f998ec5bd3431dd9ee04bcd6ab56a1ac28ba8f00d670ad",
+        "hash": "c08383b2bad90b4b82c41dd447fb6577b0fa4646c1b9899eed00a41fec682636",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "TMCF MolsonCoors Scholarship 2027-28",
+          "category": "HBCU undergraduate scholarship",
+          "deadline": "2027-01-08 23:59 ET",
+          "milestone": "Open now",
+          "programDates": "2027-28 academic year",
+          "funding": "6 awards up to $8,200 each; tuition/fees educational scholarship",
+          "location": "US TMCF member HBCUs; no travel",
+          "eligibility": "Full-time undergraduate freshmen through seniors at eligible TMCF member schools during 2027–28; GPA at least 3.0, demonstrated financial need and 2027–28 FAFSA on file. U.S. citizenship or legal permanent residence required.",
+          "materials": "TMCF student profile/general application; 2-minute impact video (same prompt as Enterprise)",
+          "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-molsoncoors-scholarship/"
+        },
+        "verifiedAt": "2026-10-30T18:25:48.000Z"
+      },
+      "id": "sheet-tmcf-molsoncoors-scholarship-2027-28-3e0a968a0736",
+      "title": "TMCF MolsonCoors Scholarship 2027-28",
+      "organization": "Thurgood Marshall College Fund / MolsonCoors",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hbcu",
+        "undergraduate",
+        "scholarship"
+      ],
+      "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-molsoncoors-scholarship/",
+      "sourceUrl": "https://tmcf.org/open-scholarships/2027-2028-tmcf-molsoncoors-scholarship/",
+      "summary": "Need-based undergraduate scholarship at eligible TMCF member schools for the 2027–28 academic year.",
+      "eligibility": "Full-time freshmen through seniors at eligible TMCF member schools; all majors; GPA at least 3.0, financial need and 2027–28 FAFSA on file by selection. U.S. citizenship or legal permanent residence required.",
+      "reward": "Six scholarships of up to $8,200 for verifiable tuition and usual fees; single fall 2027 payment.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-08",
+      "deadlineAt": "2027-01-09T04:59:00.000Z",
+      "sourceDeadline": "January 8, 2027, at 11:59 p.m. EST (Eastern Standard Time).",
+      "confidence": "Exact time",
+      "opensOn": "2026-08-03",
+      "cycle": "2027–2028 · TMCF MolsonCoors Scholarship 2027-28",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027–28 award page and linked TMCF portal sign-in reviewed October 30. A two-minute impact video is required. Portal access needs an account; no application submitted.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: TMCF student profile/general application; 2-minute impact video (same prompt as Enterprise)",
+        "Review next milestone: Open now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "11621d4bed642fc9c7dbf047bcd713a6925bf125b1d57bff22445a20b703684d",
+        "hash": "186094594aa7ef36d50b70d55125f24aee138a05fcfcbd143e32b72eb796455d",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "APF Visionary Grants 2027",
+          "category": "Mental health research/innovation grant",
+          "deadline": "2027-04-02",
+          "milestone": "2027 APF portal opens 2026-11-01",
+          "programDates": "Project schedule per proposal",
+          "funding": "10 grants up to $20,000; restricted project grant",
+          "location": "International eligible where US diplomatic relations; project based; travel only if allowable in approved budget",
+          "eligibility": "Applicants affiliated with an educational/scientific institution, nonprofit or qualifying government entity, with capacity and relevant research/intervention expertise to carry out the project. Confirm institutional, participation, payment and authorization requirements.",
+          "materials": "Project proposal, timeline, detailed budget/justification, CV, nonprofit IRS letter if applicable",
+          "url": "https://ampsychfdn.org/funding/visionary-grants/"
+        }
+      },
+      "id": "sheet-apf-visionary-grants-2027-11621d4bed64",
+      "title": "APF Visionary Grants 2027",
+      "organization": "ampsychfdn.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Organization"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "mental",
+        "health",
+        "research",
+        "innovation",
+        "grant"
+      ],
+      "url": "https://ampsychfdn.org/funding/visionary-grants/",
+      "sourceUrl": "https://ampsychfdn.org/funding/visionary-grants/",
+      "summary": "Mental health research/innovation grant. Program dates: Project schedule per proposal. Location / format: International eligible where US diplomatic relations; project based; travel only if allowable in approved budget. Next milestone: 2027 APF portal opens 2026-11-01",
+      "eligibility": "Applicants affiliated with an educational/scientific institution, nonprofit or qualifying government entity, with capacity and relevant research/intervention expertise to carry out the project. Confirm institutional, participation, payment and authorization requirements.",
+      "reward": "10 grants up to $20,000; restricted project grant",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-04-02",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-04-02",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · APF Visionary Grants 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Project proposal, timeline, detailed budget/justification, CV, nonprofit IRS letter if applicable",
+        "Review next milestone: 2027 APF portal opens 2026-11-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "0d5b5a6b63ac2fe232b9f925b19c4d0f1d99d9ad1fe74a4c176ba5be52207049",
+        "hash": "a0ad20f951f19a6174dcbd77da8aac0c57844622ffd4c3f0b4d7193c1fab8767",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "NIH NIA Start-Up Challenge and Accelerator 2027",
+          "category": "Startup cash prizes + accelerator",
+          "deadline": "2027-01-15 23:59 ET",
+          "milestone": "Submissions open 2026-12-01; webinar 2026-12-03 13:00 ET",
+          "programDates": "Stage 1 accelerator June-Nov 2027; Stage 2 awards Jan 2028",
+          "funding": "Up to $994,000 total: up to 21 x $24,000 Stage 1, up to 7 x $70,000 Stage 2; cash prizes",
+          "location": "Mostly virtual; 2 in-person events; registration covered; travel/housing/meals self-funded",
+          "eligibility": "Individuals must be US citizen/PR to win cash; non-US citizens may join qualifying teams but cannot receive monetary prize; US-incorporated primary US business can apply; team lead US citizen/PR; intent to form SBIR/STTR eligible US-owned company by 2027-11-01; 18+",
+          "materials": "Science-driven aging technology concept, market differentiation and commercial strategy; initial portal details Dec 1; finalists one-page impact plan + 7-min pitch",
+          "url": "https://www.nih.gov/challenges/2027-nia-start-challenge-accelerator"
+        }
+      },
+      "id": "sheet-nih-nia-start-up-challenge-and-accelerator-2027-0d5b5a6b63ac",
+      "title": "NIH NIA Start-Up Challenge and Accelerator 2027",
+      "organization": "nih.gov",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "cash",
+        "prizes",
+        "accelerator"
+      ],
+      "url": "https://www.nih.gov/challenges/2027-nia-start-challenge-accelerator",
+      "sourceUrl": "https://www.nih.gov/challenges/2027-nia-start-challenge-accelerator",
+      "summary": "Startup cash prizes + accelerator. Program dates: Stage 1 accelerator June-Nov 2027; Stage 2 awards Jan 2028. Location / format: Mostly virtual; 2 in-person events; registration covered; travel/housing/meals self-funded. Next milestone: Submissions open 2026-12-01; webinar 2026-12-03 13:00 ET",
+      "eligibility": "Individuals must be US citizen/PR to win cash; non-US citizens may join qualifying teams but cannot receive monetary prize; US-incorporated primary US business can apply; team lead US citizen/PR; intent to form SBIR/STTR eligible US-owned company by 2027-11-01; 18+",
+      "reward": "Up to $994,000 total: up to 21 x $24,000 Stage 1, up to 7 x $70,000 Stage 2; cash prizes",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-15 23:59 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · NIH NIA Start-Up Challenge and Accelerator 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Science-driven aging technology concept, market differentiation and commercial strategy; initial portal details Dec 1; finalists one-page impact plan + 7-min pitch",
+        "Review next milestone: Submissions open 2026-12-01; webinar 2026-12-03 13:00 ET"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "3c902aa253fb2b641246366bbb6c09dd6b3e3233cdea668b3394e56e6d85adb9",
+        "hash": "ddca6c808dc764010fdd97a6146dfa0d395ae4420782aa20c92b3a6b88b4efa3",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "APS Early Career Scholar Travel Award 2027",
+          "category": "Psychology professional conference travel award",
+          "deadline": "2026-12-16 17:00 ET",
+          "milestone": "Applications open now",
+          "programDates": "APS convention 2027-05-27 to 2027-05-30 Seattle",
+          "funding": "Conference registration + up to 3 hotel nights; no guaranteed airfare/meals",
+          "location": "Seattle WA; in person",
+          "eligibility": "PhD 2020 or later; APS member at least 2 of prior 4 years and active now; no explicit citizenship restriction; not for undergraduates or master's students",
+          "materials": "300-word contributions, 200-word inclusion, 200-word convention goals, 150-word funding statement",
+          "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/financial-assistance"
+        }
+      },
+      "id": "sheet-aps-early-career-scholar-travel-award-2027-3c902aa253fb",
+      "title": "APS Early Career Scholar Travel Award 2027",
+      "organization": "psychologicalscience.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Early career"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "psychology",
+        "professional",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/financial-assistance",
+      "sourceUrl": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/financial-assistance",
+      "summary": "Psychology professional conference travel award. Program dates: APS convention 2027-05-27 to 2027-05-30 Seattle. Location / format: Seattle WA; in person. Next milestone: Applications open now",
+      "eligibility": "PhD 2020 or later; APS member at least 2 of prior 4 years and active now; no explicit citizenship restriction; not for undergraduates or master's students",
+      "reward": "Conference registration + up to 3 hotel nights; no guaranteed airfare/meals",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-16",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-16 17:00 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · APS Early Career Scholar Travel Award 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 300-word contributions, 200-word inclusion, 200-word convention goals, 150-word funding statement",
+        "Review next milestone: Applications open now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "60a02780f05eff9db6f838e1a00cb7c2409f1225fd7f012846b3cc4aef7b2252",
+        "hash": "9b9bda2516f359e2cb33720d85e11fbf4fe4c7bea1a1c6c18d0fbc17a9e6c271",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "Verizon Small Business Digital Ready $10,000 National Grant 2026",
+          "category": "Startup prize / small-business grant",
+          "deadline": "Monthly selections through Dec 2026; apply ASAP (final decisions Jan 12, 2027)",
+          "milestone": "Complete 2 free courses/events to unlock the grant application",
+          "programDates": "Monthly selections Jun-Dec 2026",
+          "funding": "$10,000 cash grant (10 per month, non-repayable, not equity)",
+          "location": "Online, US-wide",
+          "eligibility": "For-profit small-business owners age 18 or older based in the United States, Puerto Rico or U.S. Virgin Islands. Confirm current business, award-payment and participation requirements, including any applicable work authorization.",
+          "materials": "Free Digital Ready account; complete any 2 free courses/events; then ~30-min grant application (no edits accepted after filing)",
+          "url": "https://digitalready.verizonwireless.com/funding/details"
+        }
+      },
+      "id": "sheet-verizon-small-business-digital-ready-10-000-national-grant-2026-60a02780f05e",
+      "title": "Verizon Small Business Digital Ready $10,000 National Grant 2026",
+      "organization": "digitalready.verizonwireless.com",
+      "category": "Grants & funding",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "prize",
+        "small",
+        "business",
+        "grant"
+      ],
+      "url": "https://digitalready.verizonwireless.com/funding/details",
+      "sourceUrl": "https://digitalready.verizonwireless.com/funding/details",
+      "summary": "Startup prize / small-business grant. Program dates: Monthly selections Jun-Dec 2026. Location / format: Online, US-wide. Next milestone: Complete 2 free courses/events to unlock the grant application",
+      "eligibility": "For-profit small-business owners age 18 or older based in the United States, Puerto Rico or U.S. Virgin Islands. Confirm current business, award-payment and participation requirements, including any applicable work authorization.",
+      "reward": "$10,000 cash grant (10 per month, non-repayable, not equity)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Monthly selections through Dec 2026; apply ASAP (final decisions Jan 12, 2027)",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2026 · Verizon Small Business Digital Ready $10,000 National Grant 2026",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Free Digital Ready account; complete any 2 free courses/events; then ~30-min grant application (no edits accepted after filing)",
+        "Review next milestone: Complete 2 free courses/events to unlock the grant application"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "0a1c30f3202fa93494caa3191357280b0775d94df03af0a811be59354ce47c40",
+        "hash": "fc9329d2bf352ef69f1513365910b301586441d76875626e0fa54ba97b7128da",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "PDMA Global Student Innovation Challenge 2027",
+          "category": "University competition",
+          "deadline": "2027-06-01",
+          "milestone": "Submission portal opens early Dec 2026",
+          "programDates": "Finals at PDMA Ignite Innovation Summit & JPIM Research Forum (2027 dates TBA)",
+          "funding": "$2,500 first / $1,500 second / $1,000 third + finalist travel stipend + 1-year PDMA student membership per team member",
+          "location": "Online submission; in-person finals presentation",
+          "eligibility": "Undergraduate or graduate student teams whose work was developed while enrolled within the previous calendar year; advising professor required. Projects must be student-owned rather than owned by corporations or third parties. Citizenship restrictions are not stated; verify current competition rules.",
+          "materials": "Original product/service/software concept submission: unique value proposition, evidence of demand, mockup or embodiment",
+          "url": "https://www.pdma.org/page/student-innovation-challenge"
+        }
+      },
+      "id": "sheet-pdma-global-student-innovation-challenge-2027-0a1c30f3202f",
+      "title": "PDMA Global Student Innovation Challenge 2027",
+      "organization": "pdma.org",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "competition"
+      ],
+      "url": "https://www.pdma.org/page/student-innovation-challenge",
+      "sourceUrl": "https://www.pdma.org/page/student-innovation-challenge",
+      "summary": "University competition. Program dates: Finals at PDMA Ignite Innovation Summit & JPIM Research Forum (2027 dates TBA). Location / format: Online submission; in-person finals presentation. Next milestone: Submission portal opens early Dec 2026",
+      "eligibility": "Undergraduate or graduate student teams whose work was developed while enrolled within the previous calendar year; advising professor required. Projects must be student-owned rather than owned by corporations or third parties. Citizenship restrictions are not stated; verify current competition rules.",
+      "reward": "$2,500 first / $1,500 second / $1,000 third + finalist travel stipend + 1-year PDMA student membership per team member",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-06-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-06-01",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · PDMA Global Student Innovation Challenge 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Original product/service/software concept submission: unique value proposition, evidence of demand, mockup or embodiment",
+        "Review next milestone: Submission portal opens early Dec 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "9f70978999b4d8aab4a6d7410244bb9fced5b174524994b3d5ad1b95d98dea30",
+        "hash": "a1678c5f90512a9504b106e688cab56c178862869f294d104e7c0b0ea91a08f7",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "Name That LLM: Identify the Model Behind the Text (Kaggle)",
+          "category": "Legitimate task-based cash bounty (Kaggle leaderboard competition, NOT a hackathon)",
+          "deadline": "2027-01-06 23:59 UTC",
+          "milestone": "Build a baseline classifier notebook now",
+          "programDates": "Runs online through Jan 6, 2027",
+          "funding": "$50,000 pool: ten $5,000 prizes",
+          "location": "Online, Kaggle; solo or teams up to 5",
+          "eligibility": "Source reports worldwide participation subject to age/parental-consent requirements, sanctions and competition rules. No student-only restriction. Winners must complete applicable identity and tax verification; confirm current prize eligibility and terms.",
+          "materials": "Kaggle notebook predicting which of 18 frontier LLMs (Anthropic, Google, Moonshot AI, OpenAI, Qwen, ZAI) wrote each passage; scored by balanced accuracy on hidden test data via private leaderboard",
+          "url": "https://www.kaggle.com/competitions/name-that-llm/"
+        }
+      },
+      "id": "sheet-name-that-llm-identify-the-model-behind-the-text-kaggle-9f70978999b4",
+      "title": "Name That LLM: Identify the Model Behind the Text (Kaggle)",
+      "organization": "kaggle.com",
+      "category": "Finance & bounties",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "legitimate",
+        "task",
+        "based",
+        "cash",
+        "bounty",
+        "kaggle",
+        "leaderboard"
+      ],
+      "url": "https://www.kaggle.com/competitions/name-that-llm/",
+      "sourceUrl": "https://www.kaggle.com/competitions/name-that-llm/",
+      "summary": "Legitimate task-based cash bounty (Kaggle leaderboard competition, NOT a hackathon). Program dates: Runs online through Jan 6, 2027. Location / format: Online, Kaggle; solo or teams up to 5. Next milestone: Build a baseline classifier notebook now",
+      "eligibility": "Source reports worldwide participation subject to age/parental-consent requirements, sanctions and competition rules. No student-only restriction. Winners must complete applicable identity and tax verification; confirm current prize eligibility and terms.",
+      "reward": "$50,000 pool: ten $5,000 prizes",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-06",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-06 23:59 UTC",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Name That LLM: Identify the Model Behind the Text (Kaggle)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Kaggle notebook predicting which of 18 frontier LLMs (Anthropic, Google, Moonshot AI, OpenAI, Qwen, ZAI) wrote each passage; scored by balanced accuracy on hidden test data via private leaderboard",
+        "Review next milestone: Build a baseline classifier notebook now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a699bda38e27214a468eb8c26f8feba7d469eacc6523b3a7a56ee331c5937434",
+        "hash": "07a7b99ad7557882df0721bf194e10e40c8ae14c58b1f842fd5412124f1ee4ff",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "SPA Convention Scholarships 2027",
+          "category": "Professional society / conference travel award",
+          "deadline": "2026-11-22",
+          "milestone": "If awarded, register by Jan 13, 2027 11:59 PM ET or owe the outstanding balance",
+          "programDates": "2027 SPA Convention and Workshops (dates on convention page)",
+          "funding": "Student $430; Diversity up to $1,025; Early-Career $640 (complimentary member early-bird registration + one hotel night + reimbursable expenses)",
+          "location": "In-person convention",
+          "eligibility": "Students or professionals in personality assessment. Undergraduate eligibility is not explicit; confirm the selected award's membership, academic-level, residency and funding requirements. This is a convention attendance award.",
+          "materials": "Application form (materials not itemized on scholarships page); one scholarship per applicant max",
+          "url": "https://www.personality.org/scholarships"
+        }
+      },
+      "id": "sheet-spa-convention-scholarships-2027-a699bda38e27",
+      "title": "SPA Convention Scholarships 2027",
+      "organization": "personality.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "society",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://www.personality.org/scholarships",
+      "sourceUrl": "https://www.personality.org/scholarships",
+      "summary": "Professional society / conference travel award. Program dates: 2027 SPA Convention and Workshops (dates on convention page). Location / format: In-person convention. Next milestone: If awarded, register by Jan 13, 2027 11:59 PM ET or owe the outstanding balance",
+      "eligibility": "Students or professionals in personality assessment. Undergraduate eligibility is not explicit; confirm the selected award's membership, academic-level, residency and funding requirements. This is a convention attendance award.",
+      "reward": "Student $430; Diversity up to $1,025; Early-Career $640 (complimentary member early-bird registration + one hotel night + reimbursable expenses)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-22",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-22",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · SPA Convention Scholarships 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application form (materials not itemized on scholarships page); one scholarship per applicant max",
+        "Review next milestone: If awarded, register by Jan 13, 2027 11:59 PM ET or owe the outstanding balance"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "18b6a11ab24662e4d726dc7a7c28d77f76e7616692bab32393b581bc9656dcc3",
+        "hash": "8f5c31a449cb69baaef35fb8c1d1a4c82764d32fef26d6832412b9ee4d74d9b7",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "HBCU CONNECT Student Scholarship",
+          "category": "Scholarships",
+          "deadline": "2026-12-01",
+          "milestone": "Winners historically announced ~Dec 20 (confirm this cycle)",
+          "programDates": "2026-27 academic year award",
+          "funding": "$1,000 scholarship (several awards), applied to tuition or books",
+          "location": "Online; any US HBCU",
+          "eligibility": "Students enrolled or planning to enroll at an HBCU within six months of the deadline. Source does not state a GPA minimum or confirm international-student eligibility; verify the current official award and application rules.",
+          "materials": "Online application via hbcuconnect.com/scholarships (essay prompt per listings: why you chose an HBCU and how it helps your goals)",
+          "url": "https://hbcuconnect.com/scholarships"
+        },
+        "verifiedAt": "2026-10-30T18:25:48.000Z"
+      },
+      "id": "sheet-hbcu-connect-student-scholarship-18b6a11ab246",
+      "title": "HBCU CONNECT Student Scholarship",
+      "organization": "HBCU CONNECT",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://hbcuconnect.com/scholarships",
+      "sourceUrl": "https://hbcuconnect.com/scholarships/",
+      "summary": "Spreadsheet scholarship lead; the official link currently opens a scholarship directory, and the specific award and intake need confirmation.",
+      "eligibility": "Students enrolled or planning to enroll at an HBCU within six months of the deadline. Source does not state a GPA minimum or confirm international-student eligibility; verify the current official award and application rules.",
+      "reward": "The spreadsheet reports a $1,000 tuition/books scholarship; current award amount and conditions are unconfirmed.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "December 1, 2026 is a spreadsheet report; the official directory inspected does not confirm that cutoff for this named award.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · HBCU CONNECT Student Scholarship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official directory reviewed October 30. A specific current award form and December 1 deadline were not established; retain as a lead, not a verified open scholarship.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application via hbcuconnect.com/scholarships (essay prompt per listings: why you chose an HBCU and how it helps your goals)",
+        "Review next milestone: Winners historically announced ~Dec 20 (confirm this cycle)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "1dc7a7e65b0885fcdb715284babe4a39ec05dc5446e2483ef40f4eda5941370b",
+        "hash": "f561d8e87740eb0c1cda6fffafeeb8dc8904ca8103f8290a38ee92189dcfd5af",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "VILLAGEx 2027 Accelerator",
+          "category": "Accelerators",
+          "deadline": "2026-11-06 (rolling review — apply early)",
+          "milestone": "Selections by mid-Dec 2026",
+          "programDates": "Four-month hybrid program from Jan 12, 2027; Demo Day before 300+ regional investors",
+          "funding": "No cash prize; mentorship, EIR/IIR support, investor access; graduates eligible for $100,000 Momentum Fund investment opportunity at market terms within 18 months (confirm current terms)",
+          "location": "Hybrid, New Orleans / Gulf South",
+          "eligibility": "Gulf South seed-stage founders with a functional product, team commitment and demonstrated traction. Selection considers strength in at least two published growth, technology, fundraising, market or business-model criteria. Confirm application documents and participation requirements.",
+          "materials": "Founder profile plus pitch deck, financials, and cap table",
+          "url": "https://www.ideavillage.org/villagex"
+        },
+        "verifiedAt": "2026-10-30T18:25:48.000Z"
+      },
+      "id": "sheet-villagex-2027-accelerator-1dc7a7e65b08",
+      "title": "VILLAGEx 2027 Accelerator",
+      "organization": "The Idea Village",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "accelerators"
+      ],
+      "url": "https://www.ideavillage.org/villagex",
+      "sourceUrl": "https://www.ideavillage.org/villagex",
+      "summary": "Four-month Gulf South accelerator offering mentorship, investor preparation and a concluding Demo Day.",
+      "eligibility": "Seed-stage startups with a functional product, committed team and proven sales, users or funding. Selection considers strength in at least two published growth, technology, fundraising, market or business-model criteria.",
+      "reward": "Mentorship, professional resources and investor access. An affiliated alumni investment fund exists; admission does not guarantee an investment. Confirm program and investment terms.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-11-06",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications for the VILLAGEx 2027 cohort close November 6, 2026. No cutoff time or timezone is published.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · VILLAGEx 2027 Accelerator",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official 2027 page confirms the November 6 deadline and rolling review. Its linked founder application loads as a JavaScript form without readable fields in this check; verify the form before preparing a submission.",
+      "checkedOn": "2026-10-30",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Founder profile plus pitch deck, financials, and cap table",
+        "Review next milestone: Selections by mid-Dec 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "37f75b621c54c5425f75fa92cbab3c0d32e30e26409837f9d562f6439d1263a6",
+        "hash": "64642cfad49131bbc9c91a5822453d19a94a170ab501c22c1d64a40fa02d9311",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "CBCF Congressional Summer Internship Program 2027",
+          "category": "Civic/policy programs; leadership programs",
+          "deadline": "2026-11-30 23:59 ET",
+          "milestone": "Info Session #4 Nov 17, 2026 6:30 PM ET; two-step application (General + Conditional) both due by deadline",
+          "programDates": "May 24-Jul 23, 2027 (move-in May 22; office placements Jun 1); in-person Washington, DC",
+          "funding": "$3,000 stipend + CBCF-provided housing (9 weeks); travel not stated",
+          "location": "In-person, Washington, DC, placed in a Congressional Black Caucus Member's office",
+          "eligibility": "Rising sophomores, juniors, seniors or graduates within two years; GPA at least 2.5. U.S. citizenship or permission to work throughout the program required. Applicants must reside in or attend college in a Congressional Black Caucus member's district; verify district eligibility and any required school authorization.",
+          "materials": "General + Conditional online applications; 3-minute video (two reasons for applying); 150-word essay on a social-justice policy issue with cited sources; 2 letters of recommendation (uploaded by applicant, on letterhead, signed); resume (2-page limit); transcript (unofficial accepted)",
+          "url": "https://cbcfinc.academicworks.com/opportunities/2987"
+        }
+      },
+      "id": "sheet-cbcf-congressional-summer-internship-program-2027-37f75b621c54",
+      "title": "CBCF Congressional Summer Internship Program 2027",
+      "organization": "cbcfinc.academicworks.com",
+      "category": "Internships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "civic",
+        "policy",
+        "programs",
+        "leadership"
+      ],
+      "url": "https://cbcfinc.academicworks.com/opportunities/2987",
+      "sourceUrl": "https://cbcfinc.academicworks.com/opportunities/2987",
+      "summary": "Civic/policy programs; leadership programs. Program dates: May 24-Jul 23, 2027 (move-in May 22; office placements Jun 1); in-person Washington, DC. Location / format: In-person, Washington, DC, placed in a Congressional Black Caucus Member's office. Next milestone: Info Session #4 Nov 17, 2026 6:30 PM ET; two-step application (General + Conditional) both due by deadline",
+      "eligibility": "Rising sophomores, juniors, seniors or graduates within two years; GPA at least 2.5. U.S. citizenship or permission to work throughout the program required. Applicants must reside in or attend college in a Congressional Black Caucus member's district; verify district eligibility and any required school authorization.",
+      "reward": "$3,000 stipend + CBCF-provided housing (9 weeks); travel not stated",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-30 23:59 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · CBCF Congressional Summer Internship Program 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: General + Conditional online applications; 3-minute video (two reasons for applying); 150-word essay on a social-justice policy issue with cited sources; 2 letters of recommendation (uploaded by applicant, on letterhead, signed); resume (2-page limit); transcript (unofficial accepted)",
+        "Review next milestone: Info Session #4 Nov 17, 2026 6:30 PM ET; two-step application (General + Conditional) both due by deadline"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "eb1af55b8a903e2ccee0b04d23dbf72a672b96186164b50302ce44ae51a85c7e",
+        "hash": "0012b5851e03ba1e8ebc43c61adab81c8bba2a260c91948b459ce1bec4598831",
+        "checkedAt": "2026-10-30T18:25:48.000Z",
+        "present": true,
+        "fields": {
+          "title": "Breakthrough Teaching Fellowship — Summer 2027",
+          "category": "Paid teaching internship / education fellowship",
+          "deadline": "Early 2027-01-14; Regular 2027-02-25",
+          "milestone": "Apply early — selection committees review by ranked site",
+          "programDates": "Summer 2027, nine-week residency (exact dates vary by affiliate site)",
+          "funding": "Paid summer residency — living stipend (amount varies by site, not published nationally); some sites AmeriCorps-affiliated (one site lists $5,294 living allowance + $1,565.08 Segal AmeriCorps Education Award — do NOT assume for all sites); housing varies by site",
+          "location": "In-person at one of 25 affiliates across the US (applicants rank top locations)",
+          "eligibility": "Currently enrolled undergraduates in any major; education coursework or prior teaching experience is not required. Work-authorization rules vary by affiliate. Some AmeriCorps positions require U.S. citizenship, nationality or lawful permanent residence; confirm site-specific eligibility and authorization.",
+          "materials": "Online application including ranking of preferred affiliate sites; further supplemental materials per the application portal (not itemized on overview page)",
+          "url": "https://breakthroughcollaborative.org/apply-fellow/"
+        }
+      },
+      "id": "sheet-breakthrough-teaching-fellowship-summer-2027-eb1af55b8a90",
+      "title": "Breakthrough Teaching Fellowship — Summer 2027",
+      "organization": "breakthroughcollaborative.org",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "teaching",
+        "internship",
+        "education",
+        "fellowship"
+      ],
+      "url": "https://breakthroughcollaborative.org/apply-fellow/",
+      "sourceUrl": "https://breakthroughcollaborative.org/apply-fellow/",
+      "summary": "Paid teaching internship / education fellowship. Program dates: Summer 2027, nine-week residency (exact dates vary by affiliate site). Location / format: In-person at one of 25 affiliates across the US (applicants rank top locations). Next milestone: Apply early — selection committees review by ranked site",
+      "eligibility": "Currently enrolled undergraduates in any major; education coursework or prior teaching experience is not required. Work-authorization rules vary by affiliate. Some AmeriCorps positions require U.S. citizenship, nationality or lawful permanent residence; confirm site-specific eligibility and authorization.",
+      "reward": "Paid summer residency — living stipend (amount varies by site, not published nationally); some sites AmeriCorps-affiliated (one site lists $5,294 living allowance + $1,565.08 Segal AmeriCorps Education Award — do NOT assume for all sites); housing varies by site",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-14",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Early 2027-01-14; Regular 2027-02-25",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Breakthrough Teaching Fellowship — Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application including ranking of preferred affiliate sites; further supplemental materials per the application portal (not itemized on overview page)",
+        "Review next milestone: Apply early — selection committees review by ranked site"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
