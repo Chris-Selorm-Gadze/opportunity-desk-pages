@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 136,
-  "updatedAt": "2026-10-30T05:07:56.461Z",
+  "revision": 137,
+  "updatedAt": "2026-10-30T18:14:14.395Z",
   "streams": [
     {
       "id": "internships",
@@ -27,9 +27,9 @@
     {
       "id": "travel",
       "label": "Sponsored travel & leadership",
-      "checkedAt": "2026-10-28T14:01:08.855Z",
-      "outcome": "success",
-      "summary": "Rechecked existing travel leads and five original deadlines within 30 days against organizer sources. No new verified fully sponsored travel opportunity or material change found; existing eligibility, fees, coverage and exclusions remain labeled."
+      "checkedAt": "2026-10-30T18:14:13.692Z",
+      "outcome": "error",
+      "summary": "Partial source failure: current web research could not be completed in this run. Existing public facts were preserved; no new or changed opportunities were published."
     }
   ],
   "opportunities": [
