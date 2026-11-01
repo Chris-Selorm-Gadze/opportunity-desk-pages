@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 146,
-  "updatedAt": "2026-10-30T22:28:00.074Z",
+  "revision": 147,
+  "updatedAt": "2026-11-01T23:14:02.827Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-10-30T22:27:49.000Z",
+      "checkedAt": "2026-11-01T23:13:35.000Z",
       "outcome": "success",
-      "summary": "Read 256 spreadsheet opportunities: 0 new, 253 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 287 spreadsheet opportunities: 31 new, 253 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -13126,22 +13126,22 @@
     {
       "sheet": {
         "key": "5c48b3e5ff25b19c1b62de048b0a95591d2f8c19fa93927ee26a53fb542640bd",
-        "hash": "b2610a3d1a769d53325a2ead0423e22bba385d0811a7ec342421a4b8c22ad8f4",
-        "checkedAt": "2026-10-27T16:37:38.192Z",
+        "hash": "840149982182842debd3808322ef93a91a38285d37020cdb91bbdfc4334df667",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
         "present": true,
         "fields": {
           "title": "UChicago Data Science Institute Summer Lab 2027",
           "category": "Paid interdisciplinary undergraduate research",
           "deadline": "2027 deadline TBA (2027 application expected fall 2026)",
           "milestone": "Watch 2027 application opening",
-          "programDates": "2027 program dates NOT YET published on current official landing page (prior June 14-Aug 6 2027 dates unconfirmed)",
-          "funding": "$5,600 stipend + free optional college housing",
+          "programDates": "2027-06-14 to 2027-08-06 (confirmed on official 2027 FAQ)",
+          "funding": "$5,600 stipend + free optional college housing (confirmed official 2027 FAQ)",
           "location": "Chicago, IL / in person",
           "eligibility": "College undergraduates returning Fall 2027; international F-1 students eligible with U.S. work authorization; no prior research required",
           "materials": "Application statements + optional recommendation (confirm 2027 form)",
           "url": "https://datascience.uchicago.edu/education/summerlab/"
         },
-        "verifiedAt": "2026-10-27T16:37:38.192Z"
+        "verifiedAt": "2026-11-01T23:13:35.000Z"
       },
       "id": "sheet-uchicago-data-science-institute-summer-lab-2027-5c48b3e5ff25",
       "title": "UChicago Data Science Institute Summer Lab 2027",
@@ -13159,21 +13159,21 @@
         "research"
       ],
       "url": "https://datascience.uchicago.edu/education/summerlab/",
-      "sourceUrl": "https://datascience.uchicago.edu/education/summerlab/",
-      "summary": "Data Science Summer Lab research program in Chicago. The current page says the 2026 program concluded and asks visitors to check back for the 2027 application. Confirmed 2027 dates are not yet published.",
-      "eligibility": "The program serves undergraduates and Chicago high-school students. Confirm the 2027-specific eligibility and work-authorization rules when the application is published.",
-      "reward": "Current page does not establish 2027 stipend or housing terms. Earlier funding figures require confirmation for the new cycle.",
+      "sourceUrl": "https://datascience.uchicago.edu/education/summerlab/faq/",
+      "summary": "Eight-week, in-person data science research in Chicago, June 14–August 6, 2027. The FAQ now supplies 2027 dates; the landing page and linked application still contain 2026 information.",
+      "eligibility": "Undergraduates returning to college in Fall 2027, including international students with U.S. work authorization; graduate students excluded. High-school applicants must be Chicago-area residents able to commute. No previous research required; programming familiarity preferred. Confirm current application requirements.",
+      "reward": "2027 FAQ: $5,600 stipend for eight weeks; optional college-student housing provided free. Housing is unavailable to minors and high-school participants.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "",
       "deadlineAt": "",
-      "sourceDeadline": "2027 application deadline not published on the current organizer page.",
+      "sourceDeadline": "2027 application cutoff unconfirmed; FAQ and application still show older cycles.",
       "confidence": "Unknown",
       "opensOn": "",
       "cycle": "2027 · UChicago Data Science Institute Summer Lab 2027",
       "sourceState": "Upcoming",
-      "sourceNote": "October 27 review found no confirmed 2027 session dates or application cutoff. Earlier June 14–August 6 dates and funding claims are no longer presented as verified 2027 facts. Source reports remain available for comparison.",
-      "checkedOn": "2026-10-27",
+      "sourceNote": "Reviewed the current FAQ, landing page and linked application. FAQ confirms 2027 session/funding, but its deadline section has stale years and the application page remains for Summer 2026. No confirmed 2027 cutoff or current-cycle application entry established.",
+      "checkedOn": "2026-11-01",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Application statements + optional recommendation (confirm 2027 form)",
@@ -20831,6 +20831,1745 @@
         "Complete application and save receipt"
       ],
       "stream": "internships"
+    },
+    {
+      "sheet": {
+        "key": "5d753e24780cc74391121e099f9a4bca6911b02ff8f0f87036fb17781f8b67a2",
+        "hash": "d6f29583e2fc56f0228f43d374a3c2ab146f84a4c0b39ae9c2916476a39a5e65",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Indiana University STEM Summer Scholars Institute (STEM SSI) 2027",
+          "category": "HBCU/MSI funded summer research",
+          "deadline": "2027-01-15 23:59 ET",
+          "milestone": "Applications open late Oct 2026; faculty lab descriptions early Nov",
+          "programDates": "2027-06-06 to 2027-07-30",
+          "funding": "Up to $4,000 stipend; 8 weeks housing + meal card; group meals; graduate application fee waiver",
+          "location": "Bloomington, IN; residential",
+          "eligibility": "Current undergraduate at U.S. minority-serving institution incl HBCU; 3.0 GPA; rising juniors/seniors prioritized; international students explicitly eligible; F-1 CPT/OPT authorization must be confirmed; no specific university nomination noted",
+          "materials": "Online application + selected faculty lab(s) + two faculty recommendation letters",
+          "url": "https://stem.indiana.edu/infoforstudents/howtoapply/index.html"
+        }
+      },
+      "id": "sheet-indiana-university-stem-summer-scholars-institute-stem-ssi-2027-5d753e24780c",
+      "title": "Indiana University STEM Summer Scholars Institute (STEM SSI) 2027",
+      "organization": "stem.indiana.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "hbcu",
+        "funded",
+        "summer",
+        "research"
+      ],
+      "url": "https://stem.indiana.edu/infoforstudents/howtoapply/index.html",
+      "sourceUrl": "https://stem.indiana.edu/infoforstudents/howtoapply/index.html",
+      "summary": "HBCU/MSI funded summer research. Program dates: 2027-06-06 to 2027-07-30. Location / format: Bloomington, IN; residential. Next milestone: Applications open late Oct 2026; faculty lab descriptions early Nov",
+      "eligibility": "Current undergraduate at U.S. minority-serving institution incl HBCU; 3.0 GPA; rising juniors/seniors prioritized; international students explicitly eligible; F-1 CPT/OPT authorization must be confirmed; no specific university nomination noted",
+      "reward": "Up to $4,000 stipend; 8 weeks housing + meal card; group meals; graduate application fee waiver",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-15 23:59 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Indiana University STEM Summer Scholars Institute (STEM SSI) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application + selected faculty lab(s) + two faculty recommendation letters",
+        "Review next milestone: Applications open late Oct 2026; faculty lab descriptions early Nov"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "ec9e4ed7454ebcecebb37091a39b4c0051c78875e5203af68ad57ade2c832d4a",
+        "hash": "d02b7f026ad9994482fdba3e1b495a37c557dde38c856e9670babc10139c57f0",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "University of Washington Institute for Protein Design Summer Research 2027",
+          "category": "Paid interdisciplinary summer research",
+          "deadline": "2027-01-10 23:59 PT",
+          "milestone": "Applications open 2026-11-02",
+          "programDates": "2027-06-21 to 2027-08-20",
+          "funding": "$3,200/month for nine-week full-time program; program-funded apartment-style housing; travel/meals not confirmed",
+          "location": "Seattle, WA; in-person 40 hours/week",
+          "eligibility": "Full-time undergraduates at UW or elsewhere; 18+; sophomores/juniors prioritized; returning to school in fall; international students explicitly welcome; English proficiency after selection; work authorization/visa pathway to verify",
+          "materials": "Resume, one-page personal statement, unofficial transcript, graphical abstract plus one-page explanation of a listed paper, one recommendation",
+          "url": "https://www.ipd.uw.edu/undergraduate-research/"
+        },
+        "verifiedAt": "2026-11-01T23:13:35.000Z"
+      },
+      "id": "sheet-university-of-washington-institute-for-protein-design-summer-rese-ec9e4ed7454e",
+      "title": "University of Washington Institute for Protein Design Summer Research 2027",
+      "organization": "University of Washington Institute for Protein Design",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "interdisciplinary",
+        "summer",
+        "research"
+      ],
+      "url": "https://www.ipd.uw.edu/undergraduate-research/",
+      "sourceUrl": "https://www.ipd.uw.edu/undergraduate-research/",
+      "summary": "Nine weeks of full-time computational or experimental protein-design research in Seattle, June 21–August 20, 2027. The official summer application opens November 2, 2026.",
+      "eligibility": "Full-time undergraduates at UW or other institutions, age 18 or older; sophomores/juniors prioritized. Must return to fall classes. International students welcome; selected candidates need English-proficiency evidence and must complete the applicable authorization/visa process.",
+      "reward": "$3,200 per month during the nine-week program, with apartment-style housing covered. Travel and meal support are not established.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-10",
+      "deadlineAt": "2027-01-11T07:59:00Z",
+      "sourceDeadline": "Sunday, January 10, 2027 at 11:59PM PST",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-02",
+      "cycle": "2027 · University of Washington Institute for Protein Design Summer Research 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "The official page currently labels the summer application closed ahead of its November 2 opening. Deadline and 2027 session are expressly published; this is Upcoming, not a verified currently open application. A separate academic-year Baker/King lab program has different rules.",
+      "checkedOn": "2026-11-01",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Resume, one-page personal statement, unofficial transcript, graphical abstract plus one-page explanation of a listed paper, one recommendation",
+        "Review next milestone: Applications open 2026-11-02"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a7965ccf70a0afdab6b7d06be0f3a193c902e9602c06d0453c8876ac96cb4e0d",
+        "hash": "8a1c15e9c76d927b8678db103ecc1503e95b9e1d5782b55fb4a5113f4c581b36",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "UC Berkeley Vision Science Undergraduate Research (ViSUR) 2027",
+          "category": "Funded psychology and neuroscience summer research",
+          "deadline": "2027-01-24",
+          "milestone": "Applications open 2026-10-26",
+          "programDates": "2027-06-01 to 2027-07-31",
+          "funding": "$5,000 stipend plus provided housing and travel; meals/registration not specified",
+          "location": "Berkeley, CA; 8-week residential",
+          "eligibility": "U.S. citizen, permanent resident, or DACA recipient; full-time U.S. college undergrad rising sophomore/junior/non-graduating senior; interested in Berkeley PhD; F-1 ineligible under published eligibility; some page wording still references 2025/26",
+          "materials": "CV, 500-word statement of purpose, two academic recommendations",
+          "url": "https://vision.berkeley.edu/research/visur/"
+        }
+      },
+      "id": "sheet-uc-berkeley-vision-science-undergraduate-research-visur-2027-a7965ccf70a0",
+      "title": "UC Berkeley Vision Science Undergraduate Research (ViSUR) 2027",
+      "organization": "vision.berkeley.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "psychology",
+        "neuroscience",
+        "summer",
+        "research"
+      ],
+      "url": "https://vision.berkeley.edu/research/visur/",
+      "sourceUrl": "https://vision.berkeley.edu/research/visur/",
+      "summary": "Funded psychology and neuroscience summer research. Program dates: 2027-06-01 to 2027-07-31. Location / format: Berkeley, CA; 8-week residential. Next milestone: Applications open 2026-10-26",
+      "eligibility": "U.S. citizen, permanent resident, or DACA recipient; full-time U.S. college undergrad rising sophomore/junior/non-graduating senior; interested in Berkeley PhD; F-1 ineligible under published eligibility; some page wording still references 2025/26",
+      "reward": "$5,000 stipend plus provided housing and travel; meals/registration not specified",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-24",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-24",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · UC Berkeley Vision Science Undergraduate Research (ViSUR) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: CV, 500-word statement of purpose, two academic recommendations",
+        "Review next milestone: Applications open 2026-10-26"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "76eaea6f02baf3e82e0f21d2ce1bb45d65de58423647b6b5edb08f008bdfb517",
+        "hash": "1890f8c6937b6b21eefd593cc8924ba93a474147b15c8cc1c4a40bad356b4b91",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "DOE Science Undergraduate Laboratory Internships (SULI) Summer 2027",
+          "category": "Federal paid summer research",
+          "deadline": "2027-01-06 17:00 ET",
+          "milestone": "Application workshop 2026-11-04 14:00 ET; letters due with application",
+          "programDates": "Summer 2027, ~10 weeks; host site dates vary",
+          "funding": "$650/week (~$6,500/10 weeks), housing support varies by lab, eligible domestic round-trip travel reimbursement; meals not separately guaranteed",
+          "location": "17 DOE national laboratories; in-person",
+          "eligibility": "U.S. citizen or lawful permanent resident only; F-1 ineligible; 18+, GPA >=3.0, at least 1 matriculated semester, >=6 STEM credits and >=12 total undergraduate credits; recent grads within 2 years may qualify",
+          "materials": "Online application with essays and lab interests, all transcripts, two recommendations",
+          "url": "https://science.osti.gov/wdts/suli"
+        }
+      },
+      "id": "sheet-doe-science-undergraduate-laboratory-internships-suli-summer-2027-76eaea6f02ba",
+      "title": "DOE Science Undergraduate Laboratory Internships (SULI) Summer 2027",
+      "organization": "science.osti.gov",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "federal",
+        "paid",
+        "summer",
+        "research"
+      ],
+      "url": "https://science.osti.gov/wdts/suli",
+      "sourceUrl": "https://science.osti.gov/wdts/suli",
+      "summary": "Federal paid summer research. Program dates: Summer 2027, ~10 weeks; host site dates vary. Location / format: 17 DOE national laboratories; in-person. Next milestone: Application workshop 2026-11-04 14:00 ET; letters due with application",
+      "eligibility": "U.S. citizen or lawful permanent resident only; F-1 ineligible; 18+, GPA >=3.0, at least 1 matriculated semester, >=6 STEM credits and >=12 total undergraduate credits; recent grads within 2 years may qualify",
+      "reward": "$650/week (~$6,500/10 weeks), housing support varies by lab, eligible domestic round-trip travel reimbursement; meals not separately guaranteed",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-06",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-06 17:00 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · DOE Science Undergraduate Laboratory Internships (SULI) Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application with essays and lab interests, all transcripts, two recommendations",
+        "Review next milestone: Application workshop 2026-11-04 14:00 ET; letters due with application"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "5d65a8cd7de4c763886fd45035111f22993279329ccbe22e8753411319d398b8",
+        "hash": "c05fd7ab224011b331aeb839a3f98da4037eb46b48bccd2dd7377c07e5d4f3dc",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Wake Forest CALIBIR Summer Research Internship 2027",
+          "category": "Funded summer research",
+          "deadline": "2027-01-29",
+          "milestone": "Decisions from mid-Feb 2027; notified by early Apr 2027",
+          "programDates": "2027-05-25 to 2027-07-30 (10 weeks)",
+          "funding": "Hourly pay (rate not stated) + shared-apartment housing for non-locals; travel NOT covered",
+          "location": "Winston-Salem, NC; in person",
+          "eligibility": "Undergrad or master's actively enrolled at US institution, 18+, 2+ semesters, GPA 3.0+ recommended; F-1/J-1 international students at US schools explicitly eligible but limited spots due to grant eligibility — confirm CPT/OPT with DSO",
+          "materials": "1-page personal statement + resume/CV + transcript(s) + 1 academic/professional reference (letter optional, encouraged)",
+          "url": "https://school.wakehealth.edu/research/institutes-and-centers/center-for-artificial-intelligence-research/calibir-summer-research-internship"
+        }
+      },
+      "id": "sheet-wake-forest-calibir-summer-research-internship-2027-5d65a8cd7de4",
+      "title": "Wake Forest CALIBIR Summer Research Internship 2027",
+      "organization": "school.wakehealth.edu",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "summer",
+        "research"
+      ],
+      "url": "https://school.wakehealth.edu/research/institutes-and-centers/center-for-artificial-intelligence-research/calibir-summer-research-internship",
+      "sourceUrl": "https://school.wakehealth.edu/research/institutes-and-centers/center-for-artificial-intelligence-research/calibir-summer-research-internship",
+      "summary": "Funded summer research. Program dates: 2027-05-25 to 2027-07-30 (10 weeks). Location / format: Winston-Salem, NC; in person. Next milestone: Decisions from mid-Feb 2027; notified by early Apr 2027",
+      "eligibility": "Undergrad or master's actively enrolled at US institution, 18+, 2+ semesters, GPA 3.0+ recommended; F-1/J-1 international students at US schools explicitly eligible but limited spots due to grant eligibility — confirm CPT/OPT with DSO",
+      "reward": "Hourly pay (rate not stated) + shared-apartment housing for non-locals; travel NOT covered",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-29",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-29",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Wake Forest CALIBIR Summer Research Internship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 1-page personal statement + resume/CV + transcript(s) + 1 academic/professional reference (letter optional, encouraged)",
+        "Review next milestone: Decisions from mid-Feb 2027; notified by early Apr 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "fb0feea68fa5343937edc523c685d7f3d75c2edeb09725b9af55ae5f554a7039",
+        "hash": "fc148a21024e24a176bc083e831a2bfa050e53cb9555faa38d6c335ec43a8765",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Towson StarTUp Accelerator 2027",
+          "category": "Startup accelerator (fellowship)",
+          "deadline": "2027-03-07",
+          "milestone": "Applications open 2026-11-02; info sessions Nov 12, Nov 18, Dec 2",
+          "programDates": "June–July 2027 (8 weeks)",
+          "funding": "$10,000 equity-free stipend + coaching, workspace, showcase",
+          "location": "Baltimore, MD (StarTUp at the Armory); in person",
+          "eligibility": "Early-stage founders; open to Towson affiliates AND broader community entrepreneurs; primary founder must fully participate in required in-person programming; no F-1/international statement — DSO check before applying",
+          "materials": "Application form only (25–35 min)",
+          "url": "https://www.towson.edu/startup/programs/community-entrepreneurship/accelerator/"
+        },
+        "verifiedAt": "2026-11-01T23:13:35.000Z"
+      },
+      "id": "sheet-towson-startup-accelerator-2027-fb0feea68fa5",
+      "title": "Towson StarTUp Accelerator 2027",
+      "organization": "Towson University StarTUp",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "accelerator",
+        "fellowship"
+      ],
+      "url": "https://www.towson.edu/startup/programs/community-entrepreneurship/accelerator/",
+      "sourceUrl": "https://www.towson.edu/startup/programs/community-entrepreneurship/accelerator/apply.html",
+      "summary": "Eight-week, in-person venture-building fellowship at the StarTUp at the Armory in Baltimore, June–July 2027.",
+      "eligibility": "Early-stage solo founders or teams from Towson or the broader community with initial customer discovery or market evidence. The primary founder must participate in required in-person programming and milestone activities. Citizenship and work-authorization conditions are not stated.",
+      "reward": "$10,000 equity-free stipend, coaching, workspace and a mandatory showcase; additional payment requirements provided upon acceptance. Travel/housing support not established.",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2027-03-07",
+      "deadlineAt": "",
+      "sourceDeadline": "Apply by March 7, 2027; cutoff time and timezone not published.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-02",
+      "cycle": "2027 · Towson StarTUp Accelerator 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official application page confirms November 2, 2026 opening and March 7, 2027 closing date. Program expectations require substantial venture work and normally two to three programming days weekly; current status remains Upcoming before opening.",
+      "checkedOn": "2026-11-01",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application form only (25–35 min)",
+        "Review next milestone: Applications open 2026-11-02; info sessions Nov 12, Nov 18, Dec 2"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "defa4c887eeea435c3bfff9b59a28d31480114f5ee595ccbfc1ef2a824a58157",
+        "hash": "d1b6e5a34ce9ecc322fe45fd7e5a078fe9d462b76997821a7a10756249bd680f",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Hello Tomorrow Global Challenge (12th edition)",
+          "category": "Deep-tech startup competition",
+          "deadline": "2026-11-30",
+          "milestone": "Deep Tech Pioneers notified end Jan–early Feb 2027; finalists mid-Mar 2027",
+          "programDates": "Grand Finals June 2–3, 2027, Hello Tomorrow Summit, Amsterdam",
+          "funding": "€200,000 equity investment (DeepBright Ventures) for grand winner — NOT a grant; track winners get coaching + investor intros; ~800 Deep Tech Pioneers get Summit/Investor Day access",
+          "location": "Online application; finals Amsterdam (travel/accommodation NOT covered)",
+          "eligibility": "Team of 2+; early-stage through Series B; must be based on new technology/scientific discovery/complex engineering with proof of concept/prototype/scientific validation; not a subsidiary/spinoff; incorporation not required to apply but required before funds transfer; no citizenship restriction stated",
+          "materials": "Online application; finalists add 1-page summary + pitch deck",
+          "url": "https://hello-tomorrow.org/faq-global-challenge/"
+        }
+      },
+      "id": "sheet-hello-tomorrow-global-challenge-12th-edition-defa4c887eee",
+      "title": "Hello Tomorrow Global Challenge (12th edition)",
+      "organization": "hello-tomorrow.org",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "deep",
+        "tech",
+        "startup",
+        "competition"
+      ],
+      "url": "https://hello-tomorrow.org/faq-global-challenge/",
+      "sourceUrl": "https://hello-tomorrow.org/faq-global-challenge/",
+      "summary": "Deep-tech startup competition. Program dates: Grand Finals June 2–3, 2027, Hello Tomorrow Summit, Amsterdam. Location / format: Online application; finals Amsterdam (travel/accommodation NOT covered). Next milestone: Deep Tech Pioneers notified end Jan–early Feb 2027; finalists mid-Mar 2027",
+      "eligibility": "Team of 2+; early-stage through Series B; must be based on new technology/scientific discovery/complex engineering with proof of concept/prototype/scientific validation; not a subsidiary/spinoff; incorporation not required to apply but required before funds transfer; no citizenship restriction stated",
+      "reward": "€200,000 equity investment (DeepBright Ventures) for grand winner — NOT a grant; track winners get coaching + investor intros; ~800 Deep Tech Pioneers get Summit/Investor Day access",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-11-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-30",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Hello Tomorrow Global Challenge (12th edition)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application; finalists add 1-page summary + pitch deck",
+        "Review next milestone: Deep Tech Pioneers notified end Jan–early Feb 2027; finalists mid-Mar 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "93112f2e8d53964def56d58ca9920bf3ce74474b6f13b8230ae0526604d33fb8",
+        "hash": "856d3d54e96a908c7fd2ffa48de7a021ab0cc6aa63badf4d7a4acf3a73d8f214",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "University of Maryland BSOS Summer Research Initiative (SRI) 2027",
+          "category": "Funded summer research (psych track)",
+          "deadline": "2027-02-10",
+          "milestone": "Letters of recommendation due 2027-03-01 (grace period; Feb 10 strongly encouraged)",
+          "programDates": "2027-06-01 to 2027-07-23 (arrive May 29; 8 weeks)",
+          "funding": "$4,000 stipend (pre-tax) + on-campus group housing + round-trip travel + weekday group dinners + program-activity expenses",
+          "location": "College Park, MD; 8 weeks in person",
+          "eligibility": "Rising juniors/seniors preferred, full-time at accredited 4-yr US institution, 3.0+ GPA, basic stats/methods course, interest in doctoral study in behavioral/social sciences incl. Psychology; OFFICIAL PAGE REQUIRES US citizen or permanent resident — F-1 INELIGIBLE (aggregator claiming no citizenship bar is contradicted by official page)",
+          "materials": "BTAA SROP application + transcript + BSOS SRI supplemental application (up to 3 department + 3 faculty preferences, expanded personal statement, CV) + 2 recommendations",
+          "url": "https://bsos.umd.edu/diversity/summer-research-initiative"
+        }
+      },
+      "id": "sheet-university-of-maryland-bsos-summer-research-initiative-sri-2027-93112f2e8d53",
+      "title": "University of Maryland BSOS Summer Research Initiative (SRI) 2027",
+      "organization": "bsos.umd.edu",
+      "category": "Research programs",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "summer",
+        "research",
+        "psych",
+        "track"
+      ],
+      "url": "https://bsos.umd.edu/diversity/summer-research-initiative",
+      "sourceUrl": "https://bsos.umd.edu/diversity/summer-research-initiative",
+      "summary": "Funded summer research (psych track). Program dates: 2027-06-01 to 2027-07-23 (arrive May 29; 8 weeks). Location / format: College Park, MD; 8 weeks in person. Next milestone: Letters of recommendation due 2027-03-01 (grace period; Feb 10 strongly encouraged)",
+      "eligibility": "Rising juniors/seniors preferred, full-time at accredited 4-yr US institution, 3.0+ GPA, basic stats/methods course, interest in doctoral study in behavioral/social sciences incl. Psychology; OFFICIAL PAGE REQUIRES US citizen or permanent resident — F-1 INELIGIBLE (aggregator claiming no citizenship bar is contradicted by official page)",
+      "reward": "$4,000 stipend (pre-tax) + on-campus group housing + round-trip travel + weekday group dinners + program-activity expenses",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-10",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-10",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · University of Maryland BSOS Summer Research Initiative (SRI) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: BTAA SROP application + transcript + BSOS SRI supplemental application (up to 3 department + 3 faculty preferences, expanded personal statement, CV) + 2 recommendations",
+        "Review next milestone: Letters of recommendation due 2027-03-01 (grace period; Feb 10 strongly encouraged)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "88ba9048d37564db97378c5404a7f640d53410660359a02ab2b2591b0994d94a",
+        "hash": "d386634261988fea1cea3bc10de0ddd5906e172b4b4722f9916864dbaaf56f0c",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "NYC Urban Fellows Program 2027-2028",
+          "category": "Civic/policy fellowship",
+          "deadline": "2027-01-11 18:00 EST",
+          "milestone": "Finalists notified late Feb 2027; fellows notified early Apr 2027",
+          "programDates": "2027-09-07 to 2028-05-12 (9 months)",
+          "funding": "$37,355 taxable stipend + health insurance (no dental/vision); housing NOT included, no relocation",
+          "location": "New York, NY; in person at city agencies",
+          "eligibility": "Bachelor’s degree received Spring 2025–Spring 2027. Work authorization must cover the entire program; source reports no visa sponsorship and no citizenship requirement. Confirm current rules.",
+          "materials": "Online application + unofficial transcript + 1-page resume + 2 essays (750 words max each) + 3 references (1 supervisor), letters by deadline",
+          "url": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page"
+        }
+      },
+      "id": "sheet-nyc-urban-fellows-program-2027-2028-88ba9048d375",
+      "title": "NYC Urban Fellows Program 2027-2028",
+      "organization": "nyc.gov",
+      "category": "Travel & leadership",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "civic",
+        "policy",
+        "fellowship"
+      ],
+      "url": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page",
+      "sourceUrl": "https://www.nyc.gov/site/dcas/employment/internship-and-fellowships-nyc-urban-fellows.page",
+      "summary": "Civic/policy fellowship. Program dates: 2027-09-07 to 2028-05-12 (9 months). Location / format: New York, NY; in person at city agencies. Next milestone: Finalists notified late Feb 2027; fellows notified early Apr 2027",
+      "eligibility": "Bachelor’s degree received Spring 2025–Spring 2027. Work authorization must cover the entire program; source reports no visa sponsorship and no citizenship requirement. Confirm current rules.",
+      "reward": "$37,355 taxable stipend + health insurance (no dental/vision); housing NOT included, no relocation",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-11 18:00 EST",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027–2028 · NYC Urban Fellows Program 2027-2028",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application + unofficial transcript + 1-page resume + 2 essays (750 words max each) + 3 references (1 supervisor), letters by deadline",
+        "Review next milestone: Finalists notified late Feb 2027; fellows notified early Apr 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "4a0e3d7a75c50cf5a23c308f381560d5a46988f85d227fb7ed4e739b82ec0889",
+        "hash": "d434415ca7f001e82cbfb8a46eb8e4e3ddc1952ac14ee46f64b7712a44e103a0",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "OCA National Center Summer Internship Program 2027",
+          "category": "Paid civic/leadership internship",
+          "deadline": "Priority 2026-11-29 23:59 PT; Final 2027-01-03 23:59 PT",
+          "milestone": "Apply by priority deadline Nov 29 for best consideration",
+          "programDates": "2027-06-07 to 2027-08-13 (10 weeks, in person DC)",
+          "funding": "$5,250 pre-tax stipend; convention travel/meals/lodging in Sacramento covered; DC housing NOT covered",
+          "location": "Washington, DC; in person + OCA National Convention Sacramento Jul 28–Aug 2, 2027",
+          "eligibility": "Full-time undergrads (2nd-year+ by start) or recent grads within 1 yr; interest in AANHPI issues; non-citizens eligible ONLY if work-authorized by day 1 (some placements citizen-only); DACA/undocumented need SSN/ITIN",
+          "materials": "Short bio (300 words) + resume (2 pp max) + experience entries + transcript with GPA + 1 short answer (300 words) + 2 essays (500 words max each) + 2 references (no letters)",
+          "url": "https://www.ocanational.org/summer-internship"
+        }
+      },
+      "id": "sheet-oca-national-center-summer-internship-program-2027-4a0e3d7a75c5",
+      "title": "OCA National Center Summer Internship Program 2027",
+      "organization": "ocanational.org",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "civic",
+        "leadership",
+        "internship"
+      ],
+      "url": "https://www.ocanational.org/summer-internship",
+      "sourceUrl": "https://www.ocanational.org/summer-internship",
+      "summary": "Paid civic/leadership internship. Program dates: 2027-06-07 to 2027-08-13 (10 weeks, in person DC). Location / format: Washington, DC; in person + OCA National Convention Sacramento Jul 28–Aug 2, 2027. Next milestone: Apply by priority deadline Nov 29 for best consideration",
+      "eligibility": "Full-time undergrads (2nd-year+ by start) or recent grads within 1 yr; interest in AANHPI issues; non-citizens eligible ONLY if work-authorized by day 1 (some placements citizen-only); DACA/undocumented need SSN/ITIN",
+      "reward": "$5,250 pre-tax stipend; convention travel/meals/lodging in Sacramento covered; DC housing NOT covered",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-29",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Priority 2026-11-29 23:59 PT; Final 2027-01-03 23:59 PT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · OCA National Center Summer Internship Program 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Short bio (300 words) + resume (2 pp max) + experience entries + transcript with GPA + 1 short answer (300 words) + 2 essays (500 words max each) + 2 references (no letters)",
+        "Review next milestone: Apply by priority deadline Nov 29 for best consideration"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "381c34b5ab1d850bd8379b64140f851a2815f28542afc13adf4d9170c0c6c50d",
+        "hash": "44fd523a4dce7c89473f46dc962e37605898b4c38d6c8d90aa949750d229658c",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "ROOT & SHOOT 2027 Travel Awards",
+          "category": "Conference travel award",
+          "deadline": "2026-11-20",
+          "milestone": "Awards support 2027 conferences below",
+          "programDates": "Maize Genetics Mar 11-14, 2027 Chicago; IS-MPMI Jul 18-22, 2027 Jeju, South Korea; ICAR Jul 19-23, 2027 Madison WI; Plant Biology Jul 31-Aug 3, 2027 Albuquerque; Botany Jul 31-Aug 4, 2027 Buffalo",
+          "funding": "Reimbursement up to $3,000 per student/mentor pair ($4,000 international conferences)",
+          "location": "Listed 2027 plant-science conferences",
+          "eligibility": "Current undergrad/grad/recent-grad student + mentor; at least one of pair active member of SACNAS, MANRRS, or AISES; US-based scientists only; non-citizens/PRs attending international conference must affirm legal re-entry ability; visa fees NOT reimbursed; no prior plant research required, abstract encouraged not required",
+          "materials": "Joint student/mentor application (Google form) incl. how attendance impacts academic/professional development",
+          "url": "https://rootandshoot.org/2027travelawards/"
+        }
+      },
+      "id": "sheet-root-shoot-2027-travel-awards-381c34b5ab1d",
+      "title": "ROOT & SHOOT 2027 Travel Awards",
+      "organization": "rootandshoot.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://rootandshoot.org/2027travelawards/",
+      "sourceUrl": "https://rootandshoot.org/2027travelawards/",
+      "summary": "Conference travel award. Program dates: Maize Genetics Mar 11-14, 2027 Chicago; IS-MPMI Jul 18-22, 2027 Jeju, South Korea; ICAR Jul 19-23, 2027 Madison WI; Plant Biology Jul 31-Aug 3, 2027 Albuquerque; Botany Jul 31-Aug 4, 2027 Buffalo. Location / format: Listed 2027 plant-science conferences. Next milestone: Awards support 2027 conferences below",
+      "eligibility": "Current undergrad/grad/recent-grad student + mentor; at least one of pair active member of SACNAS, MANRRS, or AISES; US-based scientists only; non-citizens/PRs attending international conference must affirm legal re-entry ability; visa fees NOT reimbursed; no prior plant research required, abstract encouraged not required",
+      "reward": "Reimbursement up to $3,000 per student/mentor pair ($4,000 international conferences)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-20",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-20",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · ROOT & SHOOT 2027 Travel Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Joint student/mentor application (Google form) incl. how attendance impacts academic/professional development",
+        "Review next milestone: Awards support 2027 conferences below"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7f9fca7d36d7e3ddca7a07342ae0d0636c04cb65a3fe77dfd3141ecc42b1bf63",
+        "hash": "87b6bf93d26f958ff2b18df51d1983a57f28eb27ebb75cf9137506b305f6732a",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "WTS Strategic Partner Scholarships 2027",
+          "category": "Scholarship",
+          "deadline": "2026-12-11",
+          "milestone": "Winners invited to WTS Foundation Gala, Washington DC, May 2027",
+          "programDates": "WTS International Annual Conference May 4-6, 2027, Washington DC",
+          "funding": "Six $5,000 scholarships; winners invited as special guests to gala (travel coverage not stated)",
+          "location": "Washington, DC gala (award presented on stage); study anywhere",
+          "eligibility": "Currently enrolled undergrad or grad, GPA 3.0+, enrolled in transportation-related field (engineering, planning, finance, construction/project management, logistics), plans transportation career; citizenship/work-auth not stated on page",
+          "materials": "Application via Abstract Scorecard portal; strong applications highlight leadership, personal statement, references",
+          "url": "https://www.wtsinternational.org/news/wts-strategic-partner-scholarships"
+        }
+      },
+      "id": "sheet-wts-strategic-partner-scholarships-2027-7f9fca7d36d7",
+      "title": "WTS Strategic Partner Scholarships 2027",
+      "organization": "wtsinternational.org",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarship"
+      ],
+      "url": "https://www.wtsinternational.org/news/wts-strategic-partner-scholarships",
+      "sourceUrl": "https://www.wtsinternational.org/news/wts-strategic-partner-scholarships",
+      "summary": "Scholarship. Program dates: WTS International Annual Conference May 4-6, 2027, Washington DC. Location / format: Washington, DC gala (award presented on stage); study anywhere. Next milestone: Winners invited to WTS Foundation Gala, Washington DC, May 2027",
+      "eligibility": "Currently enrolled undergrad or grad, GPA 3.0+, enrolled in transportation-related field (engineering, planning, finance, construction/project management, logistics), plans transportation career; citizenship/work-auth not stated on page",
+      "reward": "Six $5,000 scholarships; winners invited as special guests to gala (travel coverage not stated)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-11",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · WTS Strategic Partner Scholarships 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via Abstract Scorecard portal; strong applications highlight leadership, personal statement, references",
+        "Review next milestone: Winners invited to WTS Foundation Gala, Washington DC, May 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2b3e274ffd112f319f6a19f90da2fde9dea67aa7e1179b827e4915b5190cdee8",
+        "hash": "d2e20335feb62cb34ac75b9519dca499880b8cd53e775126d64f254377bbc94f",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Certiphi-AACN Scholarship (Fall/Winter cycle)",
+          "category": "Nursing scholarship",
+          "deadline": "2026-11-01 (source reports portal date; exact cutoff time and timezone unconfirmed)",
+          "milestone": "Confirm the current application entry and November 1 deadline.",
+          "programDates": "Fall/winter distribution",
+          "funding": "$5,000 per recipient; PAGE DISCREPANCY: Foundation scholarships page says $15,000 to three students, detail page says $10,000 to two students — confirm count with organizer",
+          "location": "USA; AACN member schools",
+          "eligibility": "Entry-level pre-licensure nursing student at AACN member school, GPA 3.2+; citizenship not stated on detail page",
+          "materials": "500-word essay on contribution to nursing / challenge facing the profession + application via AACN portal",
+          "url": "https://www.aacnnursing.org/foundation/scholarships/certiphi-aacn-scholarship"
+        },
+        "verifiedAt": "2026-11-01T23:13:35.000Z"
+      },
+      "id": "sheet-certiphi-aacn-scholarship-fall-winter-cycle-2b3e274ffd11",
+      "title": "Certiphi-AACN Scholarship (Fall/Winter cycle)",
+      "organization": "American Association of Colleges of Nursing / Certiphi",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "nursing",
+        "scholarship"
+      ],
+      "url": "https://www.aacnnursing.org/foundation/scholarships/certiphi-aacn-scholarship",
+      "sourceUrl": "https://www.aacnnursing.org/foundation/scholarships/certiphi-aacn-scholarship",
+      "summary": "Scholarship for entry-level, pre-licensure nursing students at AACN member schools.",
+      "eligibility": "Actively enrolled, taking classes in an entry-level pre-licensure nursing program at an AACN member school; GPA at least 3.2; U.S. citizen or permanent resident.",
+      "reward": "$5,000 per award. Official page conflicts on award count: opening text states three awards/$15,000, while details state two/$10,000.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Application opens September 1st and closes November 1st; 2026 portal. No cutoff time or timezone published.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Certiphi-AACN Scholarship (Fall/Winter cycle)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Reviewed official criteria and linked 2026 Certiphi scholarship login entry. The organizer states a November 1 close but supplies no cutoff time/timezone. Availability after login is unverified; the public criteria explicitly require citizenship/permanent residence, contrary to the source report.",
+      "checkedOn": "2026-11-01",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 500-word essay on contribution to nursing / challenge facing the profession + application via AACN portal",
+        "Review next milestone: Confirm the current application entry and November 1 deadline."
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a7497c8f8897817ba3bef77216ebe9daf2dd7fa29522c029a8e65422149b442d",
+        "hash": "fb538fe17815438f7c4bf69929eabdfd335980ccd5673fda644d40c28d5826fd",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "NSF NCAR Earth System Science Internship (NESSI) Summer 2027",
+          "category": "Paid climate / earth systems research internship",
+          "deadline": "2027-01-04 09:00 MT",
+          "milestone": "Applications open 2026-11-09",
+          "programDates": "2027-05-17 to 2027-07-30; 11 weeks",
+          "funding": "Paid hourly full-time wage (rate not published); housing provided; travel to/from Boulder covered",
+          "location": "Boulder, CO; on-site 40 h/week",
+          "eligibility": "Undergraduate completing sophomore year or higher at US college; F-1 eligible IF CPT/OPT work authorization obtained; quarter-system students excluded; no explicit GPA floor; work authorization REQUIRED",
+          "materials": "2-page max cover letter addressing 5 prompts, resume/CV, unofficial transcript, reference contacts (no letters)",
+          "url": "https://edec.ucar.edu/students/nessi/FAQs"
+        }
+      },
+      "id": "sheet-nsf-ncar-earth-system-science-internship-nessi-summer-2027-a7497c8f8897",
+      "title": "NSF NCAR Earth System Science Internship (NESSI) Summer 2027",
+      "organization": "edec.ucar.edu",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "climate",
+        "earth",
+        "systems",
+        "research",
+        "internship"
+      ],
+      "url": "https://edec.ucar.edu/students/nessi/FAQs",
+      "sourceUrl": "https://edec.ucar.edu/students/nessi/FAQs",
+      "summary": "Paid climate / earth systems research internship. Program dates: 2027-05-17 to 2027-07-30; 11 weeks. Location / format: Boulder, CO; on-site 40 h/week. Next milestone: Applications open 2026-11-09",
+      "eligibility": "Undergraduate completing sophomore year or higher at US college; F-1 eligible IF CPT/OPT work authorization obtained; quarter-system students excluded; no explicit GPA floor; work authorization REQUIRED",
+      "reward": "Paid hourly full-time wage (rate not published); housing provided; travel to/from Boulder covered",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-04",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-04 09:00 MT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · NSF NCAR Earth System Science Internship (NESSI) Summer 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 2-page max cover letter addressing 5 prompts, resume/CV, unofficial transcript, reference contacts (no letters)",
+        "Review next milestone: Applications open 2026-11-09"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a538bf9bb0a72fb173c1812228473db5ded026022a46115007970931e9c896cd",
+        "hash": "c353029cc9a61105b10e27a6777488ac012e9698f8d7935b3e75ef1f74176a7e",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "UT-Oak Ridge Innovation Institute SMaRT Summer Internship 2027",
+          "category": "Paid interdisciplinary national-lab research internship",
+          "deadline": "2026-11-15 priority; rolling until full",
+          "milestone": "Priority review for applications received by November 15, 2026; accepted until all places are filled.",
+          "programDates": "2027-05-24 to 2027-07-31 (~10 weeks; first week virtual)",
+          "funding": "$7,000 stipend + $250 VolCard credit; UT Knoxville apartment housing; up to $1,200 round-trip travel reimbursement (>50 miles)",
+          "location": "Knoxville, TN / UT-ORNL; on site after virtual week",
+          "eligibility": "US CITIZENS ONLY per Zintellect posting; F-1 ineligible. Rising sophomores, juniors, seniors enrolled in US universities; age 18+; associate/bachelor; ~40 slots; HBCUs represented historically",
+          "materials": "Statement of interest, resume/CV PDF, unofficial transcript, two recommendation letters",
+          "url": "https://www.zintellect.com/Opportunity/Details/UT-ORII-SMARTSUMMER2027"
+        },
+        "verifiedAt": "2026-11-01T23:13:35.000Z"
+      },
+      "id": "sheet-ut-oak-ridge-innovation-institute-smart-summer-internship-2027-a538bf9bb0a7",
+      "title": "UT-Oak Ridge Innovation Institute SMaRT Summer Internship 2027",
+      "organization": "University of Tennessee–Oak Ridge Innovation Institute",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "interdisciplinary",
+        "national",
+        "research",
+        "internship"
+      ],
+      "url": "https://www.zintellect.com/Opportunity/Details/UT-ORII-SMARTSUMMER2027",
+      "sourceUrl": "https://www.zintellect.com/Opportunity/Details/UT-ORII-SMARTSUMMER2027",
+      "summary": "Ten-week SMaRT research internship in Knoxville; approximate dates May 24–July 31, 2027, with the first week virtual. Research areas include cybersecurity, automation, materials and data/AI.",
+      "eligibility": "U.S. citizens only, age 18 or older, pursuing an associate or bachelor’s degree at a U.S. institution and rising sophomore, junior or senior in Fall 2027. Full ten-week attendance required; time off for other programs is not allowed.",
+      "reward": "$7,000 stipend over ten weeks; $250 VolCard credit; university apartment housing; round-trip travel reimbursement up to $1,200 for participants living over 50 miles from the host.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Priority given to applications received by November 15, 2026, and first-time participants. Applications accepted until all spots are filled.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · UT-Oak Ridge Innovation Institute SMaRT Summer Internship 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official 2027 opportunity and linked applicant registration entry verified. November 15 is a priority-review date, not a final cutoff; applications continue until all places are filled. No priority cutoff time/timezone supplied. Two recommendations, transcript, statement and PDF CV required.",
+      "checkedOn": "2026-11-01",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Statement of interest, resume/CV PDF, unofficial transcript, two recommendation letters",
+        "Review next milestone: Priority review for applications received by November 15, 2026; accepted until all places are filled."
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "92ca274497371d3d5308610ff6d0a8f4adc37e3c4326d996bf8fb0b6798a8f5f",
+        "hash": "9091b8101ca91c1414beff2e104123fbf35dc0e5e9994a3fc84d0e156dd125a6",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Princeton Neuroscience Institute SYNAPSE Internship 2027",
+          "category": "Funded undergraduate psychology / neuroscience research",
+          "deadline": "2027-02-01 tentative (application process page says Feb 3 anticipated — verify)",
+          "milestone": "Applications open 2026-11-01; federal funding renewal pending",
+          "programDates": "2027-05-31 to 2027-07-30; nine weeks",
+          "funding": "Stipend amount varies, housing + meal plan + travel to/from Princeton provided",
+          "location": "Princeton, NJ; residential; research posters",
+          "eligibility": "Non-Princeton undergraduate; US CITIZEN or PR only; F-1 ineligible; rising 2nd-4th years, interest in neuroscience PhD; low-research-resource colleges encouraged; program contingent on NSF grant renewal",
+          "materials": "Leadership Alliance SR-EIP or NSF ETAP application + separate faculty-lab ranking form; recommendation letters and statements per portal",
+          "url": "https://pni.princeton.edu/apply/undergraduate-summer-interns"
+        },
+        "verifiedAt": "2026-11-01T23:13:35.000Z"
+      },
+      "id": "sheet-princeton-neuroscience-institute-synapse-internship-2027-92ca27449737",
+      "title": "Princeton Neuroscience Institute SYNAPSE Internship 2027",
+      "organization": "Princeton Neuroscience Institute",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "undergraduate",
+        "psychology",
+        "neuroscience",
+        "research"
+      ],
+      "url": "https://pni.princeton.edu/apply/undergraduate-summer-interns",
+      "sourceUrl": "https://pni.princeton.edu/apply/undergraduate-summer-research-programs/application-process",
+      "summary": "Nine-week neuroscience research at Princeton, May 31–July 30, 2027, contingent on renewed federal grant funding.",
+      "eligibility": "Non-Princeton undergraduates who are U.S. citizens or permanent residents and interested in neuroscience graduate study. Current students from the second through fourth undergraduate years are encouraged.",
+      "reward": "Housing, meals and travel to/from Princeton, plus a stipend whose amount varies; no fixed 2027 stipend published.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Conflicting tentative dates: February 1, 2027 (overview) and February 3, 2027 (application process). Confirm final cutoff.",
+      "confidence": "Unknown",
+      "opensOn": "2026-11-01",
+      "cycle": "2027 · Princeton Neuroscience Institute SYNAPSE Internship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official pages conflict: overview calls February 1 tentative, while application-process page anticipates February 3. Neither establishes a confirmed cutoff. Apply through Leadership Alliance SR-EIP or NSF ETAP plus a separate faculty-ranking form; program remains subject to funding renewal.",
+      "checkedOn": "2026-11-01",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Leadership Alliance SR-EIP or NSF ETAP application + separate faculty-lab ranking form; recommendation letters and statements per portal",
+        "Review next milestone: Applications open 2026-11-01; federal funding renewal pending"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "4f3f2ae28787fe6b8cd19b5534eef5e7cc97522af25a131a2bf84dd4482925ab",
+        "hash": "8648ba7d277ce008625b4c6728ad088ce293d7ced83477367f07f7c4d3f564a4",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "APA Interdisciplinary Minority Fellowship Program (IMFP) 2027",
+          "category": "Graduate fellowship / behavioral-health professional training",
+          "deadline": "2027-01-15",
+          "milestone": "Applications opened 2026-10-01",
+          "programDates": "Award year 2027; specific dates vary by discipline",
+          "funding": "Funded graduate training fellowship; amount not specified on official summary; not a general cash prize",
+          "location": "US graduate programs; travel/housing/meals not guaranteed on official page",
+          "eligibility": "US citizen, PR or noncitizen national; F-1 INELIGIBLE; masters or doctoral psychology, psychiatric nursing, social work, MFT, counseling, addictions; discipline-specific accreditation/licensure conditions (RN license for nursing; CACREP counseling; APA-accredited psychology doctorate); behavioral health service commitment",
+          "materials": "Masters: 1 essay, CV, transcripts, 2 letters; Doctoral: 2 essays, CV, transcripts, advisor + 2 recommendations; GRE if applicable",
+          "url": "https://www.apa.org/about/awards/imfp-fellowship"
+        }
+      },
+      "id": "sheet-apa-interdisciplinary-minority-fellowship-program-imfp-2027-4f3f2ae28787",
+      "title": "APA Interdisciplinary Minority Fellowship Program (IMFP) 2027",
+      "organization": "apa.org",
+      "category": "Research programs",
+      "levels": [
+        "Graduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "graduate",
+        "fellowship",
+        "behavioral",
+        "health",
+        "professional",
+        "training"
+      ],
+      "url": "https://www.apa.org/about/awards/imfp-fellowship",
+      "sourceUrl": "https://www.apa.org/about/awards/imfp-fellowship",
+      "summary": "Graduate fellowship / behavioral-health professional training. Program dates: Award year 2027; specific dates vary by discipline. Location / format: US graduate programs; travel/housing/meals not guaranteed on official page. Next milestone: Applications opened 2026-10-01",
+      "eligibility": "US citizen, PR or noncitizen national; F-1 INELIGIBLE; masters or doctoral psychology, psychiatric nursing, social work, MFT, counseling, addictions; discipline-specific accreditation/licensure conditions (RN license for nursing; CACREP counseling; APA-accredited psychology doctorate); behavioral health service commitment",
+      "reward": "Funded graduate training fellowship; amount not specified on official summary; not a general cash prize",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-15",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · APA Interdisciplinary Minority Fellowship Program (IMFP) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Masters: 1 essay, CV, transcripts, 2 letters; Doctoral: 2 essays, CV, transcripts, advisor + 2 recommendations; GRE if applicable",
+        "Review next milestone: Applications opened 2026-10-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "003aa3981abe8fc510b8e191ce0419f5929dd210dc4e5c58ec632f16aa327ce6",
+        "hash": "95a02ce5a350487cea5bea82aca539b7252073ce73a04318c5f14c7311eba15b",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "SPSSI Applied Social Issues Internship Award 2027",
+          "category": "Psychology + community nonprofit project grant",
+          "deadline": "2027-03-15",
+          "milestone": "Identify local nonprofit/government partner and faculty sponsor now",
+          "programDates": "Project schedule per proposal",
+          "funding": "$300-$2,500 restricted research/organizing costs; intern stipend only in unusual cases",
+          "location": "Flexible community partner location; no travel/housing/meals guaranteed",
+          "eligibility": "College seniors, graduate students or first-year postdocs in psychology/applied social sciences; SPSSI membership required; no citizenship restriction stated; F-1 may require DSO review if paid internship; not for earlier undergrads",
+          "materials": "3-6-page project proposal and budget, resume, faculty sponsor letter, community organization support letter, human-participants protections where applicable",
+          "url": "https://www.apa.org/about/awards/asi-intern"
+        }
+      },
+      "id": "sheet-spssi-applied-social-issues-internship-award-2027-003aa3981abe",
+      "title": "SPSSI Applied Social Issues Internship Award 2027",
+      "organization": "apa.org",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "psychology",
+        "community",
+        "nonprofit",
+        "project",
+        "grant"
+      ],
+      "url": "https://www.apa.org/about/awards/asi-intern",
+      "sourceUrl": "https://www.apa.org/about/awards/asi-intern",
+      "summary": "Psychology + community nonprofit project grant. Program dates: Project schedule per proposal. Location / format: Flexible community partner location; no travel/housing/meals guaranteed. Next milestone: Identify local nonprofit/government partner and faculty sponsor now",
+      "eligibility": "College seniors, graduate students or first-year postdocs in psychology/applied social sciences; SPSSI membership required; no citizenship restriction stated; F-1 may require DSO review if paid internship; not for earlier undergrads",
+      "reward": "$300-$2,500 restricted research/organizing costs; intern stipend only in unusual cases",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-03-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-03-15",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · SPSSI Applied Social Issues Internship Award 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 3-6-page project proposal and budget, resume, faculty sponsor letter, community organization support letter, human-participants protections where applicable",
+        "Review next milestone: Identify local nonprofit/government partner and faculty sponsor now"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "9546c2405c9b7752a5f1e1802d2717177f85f6fc5994b4431428e765af573ade",
+        "hash": "4abad0bb0090781bbf09f3af693558147ae2d3ef48c4c5831edbff8b1df9ae08",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Wisconsin Invitational Consulting Case Competition 2027",
+          "category": "Undergraduate strategy case competition",
+          "deadline": "2027-02-15",
+          "milestone": "Applications open 2027-01-11; case released Mar 11",
+          "programDates": "2027-04-09 to 2027-04-10",
+          "funding": "Team cash prizes: $4,000 first, $3,000 second, $2,000 third, $1,000 fourth; 2 hotel rooms for one night + all event meals; travel not funded",
+          "location": "Madison, WI; in-person; up to 20 teams",
+          "eligibility": "Teams of 4 undergraduate business or consulting students; career-center staff contact mandatory; no citizenship restriction published; F-1 prize tax/DSO classification to verify; university must coordinate",
+          "materials": "4 resumes combined PDF, contact details, staff contact, 2 short-answer team questions; selected teams submit case presentation by Apr 8",
+          "url": "https://business.wisc.edu/event/wisconsin-invitational-consulting-case-competition-2027/"
+        }
+      },
+      "id": "sheet-wisconsin-invitational-consulting-case-competition-2027-9546c2405c9b",
+      "title": "Wisconsin Invitational Consulting Case Competition 2027",
+      "organization": "business.wisc.edu",
+      "category": "Career & sales",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "undergraduate",
+        "strategy",
+        "case",
+        "competition"
+      ],
+      "url": "https://business.wisc.edu/event/wisconsin-invitational-consulting-case-competition-2027/",
+      "sourceUrl": "https://business.wisc.edu/event/wisconsin-invitational-consulting-case-competition-2027/",
+      "summary": "Undergraduate strategy case competition. Program dates: 2027-04-09 to 2027-04-10. Location / format: Madison, WI; in-person; up to 20 teams. Next milestone: Applications open 2027-01-11; case released Mar 11",
+      "eligibility": "Teams of 4 undergraduate business or consulting students; career-center staff contact mandatory; no citizenship restriction published; F-1 prize tax/DSO classification to verify; university must coordinate",
+      "reward": "Team cash prizes: $4,000 first, $3,000 second, $2,000 third, $1,000 fourth; 2 hotel rooms for one night + all event meals; travel not funded",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-15",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Wisconsin Invitational Consulting Case Competition 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: 4 resumes combined PDF, contact details, staff contact, 2 short-answer team questions; selected teams submit case presentation by Apr 8",
+        "Review next milestone: Applications open 2027-01-11; case released Mar 11"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "b6ca10a3d187709eff68595b39dd2cd44e1cbbcc9b599bf08dbc50087296e5f8",
+        "hash": "74d9a15ad90b6b667b69068a7adeb0f9ee2bb74fcf1dd29739a208e86d91cd7c",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "INSEAD AI Founder Sprint 2027",
+          "category": "Accelerator",
+          "deadline": "2026-12-01 11:59pm GMT+8",
+          "milestone": "Selected founders notified early Jan 2027",
+          "programDates": "2027-01-27 to 2027-04-02 + Demo Days",
+          "funding": "Free program, no equity; partner perks (AWS, Google Cloud, NVIDIA, Stripe, Carta, Notion, HubSpot); Demo Day non-dilutive prizes (amount not stated on official page)",
+          "location": "Fully virtual",
+          "eligibility": "Early-stage founders worldwide 18+; no INSEAD or academic affiliation; need not be AI-native; no citizenship bar stated; DSO check prudent (program, not employment)",
+          "materials": "Founder application (vision/motivation, commitment to engage); ~2-5 hrs/week during program",
+          "url": "https://venture-lab.ai/sprint2027"
+        }
+      },
+      "id": "sheet-insead-ai-founder-sprint-2027-b6ca10a3d187",
+      "title": "INSEAD AI Founder Sprint 2027",
+      "organization": "venture-lab.ai",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "accelerator"
+      ],
+      "url": "https://venture-lab.ai/sprint2027",
+      "sourceUrl": "https://venture-lab.ai/sprint2027",
+      "summary": "Accelerator. Program dates: 2027-01-27 to 2027-04-02 + Demo Days. Location / format: Fully virtual. Next milestone: Selected founders notified early Jan 2027",
+      "eligibility": "Early-stage founders worldwide 18+; no INSEAD or academic affiliation; need not be AI-native; no citizenship bar stated; DSO check prudent (program, not employment)",
+      "reward": "Free program, no equity; partner perks (AWS, Google Cloud, NVIDIA, Stripe, Carta, Notion, HubSpot); Demo Day non-dilutive prizes (amount not stated on official page)",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-12-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-01 11:59pm GMT+8",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · INSEAD AI Founder Sprint 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Founder application (vision/motivation, commitment to engage); ~2-5 hrs/week during program",
+        "Review next milestone: Selected founders notified early Jan 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "cbe7211b99d25d695d16a3b83ed24e2088fb522485ad789c24f07439b7d62682",
+        "hash": "eb1929296601bafe26be96ba81f04f584313ecc201cbfeedc4d9a190e61ed9f6",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "SMU Cox FinTech Accelerator (MassChallenge)",
+          "category": "Accelerator",
+          "deadline": "2026-11-19",
+          "milestone": "Cohort announced early Feb 2027",
+          "programDates": "Mid-Feb to mid-Jun 2027, hybrid",
+          "funding": "Equity-free program; no cash prize stated; mentorship + SMU FinTech Showcase",
+          "location": "Hybrid; 3 in-person intensives in Dallas TX, travel at startup expense; consistent founder/senior-exec participation required",
+          "eligibility": "Pre-seed through Series A fintech startups with evidence of early product-market fit. A founder or senior executive must participate consistently, including required Dallas intensives at the startup’s expense. Source does not state citizenship restrictions; confirm participation and funding terms.",
+          "materials": "MassChallenge startup profile + application; two review rounds; 16-week curriculum if selected",
+          "url": "https://masschallenge.org/smu-cox-fintech-accelerator/"
+        }
+      },
+      "id": "sheet-smu-cox-fintech-accelerator-masschallenge-cbe7211b99d2",
+      "title": "SMU Cox FinTech Accelerator (MassChallenge)",
+      "organization": "masschallenge.org",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "accelerator"
+      ],
+      "url": "https://masschallenge.org/smu-cox-fintech-accelerator/",
+      "sourceUrl": "https://masschallenge.org/smu-cox-fintech-accelerator/",
+      "summary": "Accelerator. Program dates: Mid-Feb to mid-Jun 2027, hybrid. Location / format: Hybrid; 3 in-person intensives in Dallas TX, travel at startup expense; consistent founder/senior-exec participation required. Next milestone: Cohort announced early Feb 2027",
+      "eligibility": "Pre-seed through Series A fintech startups with evidence of early product-market fit. A founder or senior executive must participate consistently, including required Dallas intensives at the startup’s expense. Source does not state citizenship restrictions; confirm participation and funding terms.",
+      "reward": "Equity-free program; no cash prize stated; mentorship + SMU FinTech Showcase",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2026-11-19",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-19",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · SMU Cox FinTech Accelerator (MassChallenge)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: MassChallenge startup profile + application; two review rounds; 16-week curriculum if selected",
+        "Review next milestone: Cohort announced early Feb 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "f231bfdefb461243a915392a46280931507793f579d6e1161a582f63da4e52ac",
+        "hash": "8eaa927dbfe5b48f3430d965c450e9f3d945e251ba427fef3d368085df2b19c3",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Arctic Innovation Competition 2027",
+          "category": "University/open idea competition",
+          "deadline": "2027-02-26 11:59pm AKT",
+          "milestone": "Virtual semifinals",
+          "programDates": "Finals 2027-04-17, Fairbanks AK",
+          "funding": "$45,000+ total; Main Division 1st $15,000; four $2,000 kicker prizes (Arctic, sustainability, climate adaptation, Alaska college student)",
+          "location": "Virtual semifinals; finals in person Fairbanks (travel not stated as covered)",
+          "eligibility": "Anyone in North America 18+; ideas need not be Arctic-based; no prototype or business plan required; <5 yrs, <$100k sales, <$50k raised recommended",
+          "materials": "Idea submission (editable until deadline); semifinalist Zoom pitch",
+          "url": "https://www.uaf.edu/news/aic-submissions-open-2027.php"
+        }
+      },
+      "id": "sheet-arctic-innovation-competition-2027-f231bfdefb46",
+      "title": "Arctic Innovation Competition 2027",
+      "organization": "uaf.edu",
+      "category": "Innovation challenges",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "open",
+        "idea",
+        "competition"
+      ],
+      "url": "https://www.uaf.edu/news/aic-submissions-open-2027.php",
+      "sourceUrl": "https://www.uaf.edu/news/aic-submissions-open-2027.php",
+      "summary": "University/open idea competition. Program dates: Finals 2027-04-17, Fairbanks AK. Location / format: Virtual semifinals; finals in person Fairbanks (travel not stated as covered). Next milestone: Virtual semifinals",
+      "eligibility": "Anyone in North America 18+; ideas need not be Arctic-based; no prototype or business plan required; <5 yrs, <$100k sales, <$50k raised recommended",
+      "reward": "$45,000+ total; Main Division 1st $15,000; four $2,000 kicker prizes (Arctic, sustainability, climate adaptation, Alaska college student)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-26",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-26 11:59pm AKT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Arctic Innovation Competition 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Idea submission (editable until deadline); semifinalist Zoom pitch",
+        "Review next milestone: Virtual semifinals"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7875e5934d13ab5c02305998a92cc41e8df012bfa42e4998afa0d706e45d785f",
+        "hash": "c998c5fcd2fea98c80d8d41dd45b5cbfcb4aa4e7eec0ec823dd3ba9504e5f10b",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Lee Kuan Yew Global Business Plan Competition (13th edition)",
+          "category": "Global startup prize competition",
+          "deadline": "2027-03-31",
+          "milestone": "50 finalists to Singapore 2027-09-28 to 2027-10-01",
+          "programDates": "Finals Sep 28-Oct 1 2027, Singapore + Innovation Festival",
+          "funding": "Prize pool S$2.5M+ (~US$2M); per-team breakdown not stated in announcement; finalists flown to Singapore per announcement; USI accelerator + US$10M fund pathway",
+          "location": "Singapore finals; virtual application",
+          "eligibility": "At least one founder currently enrolled in university or graduated within past 5 years; deep-tech/urban/sustainability across 12 areas; no citizenship bar stated",
+          "materials": "Business plan application via official portal",
+          "url": "https://iie.smu.edu.sg/lkygbpc"
+        }
+      },
+      "id": "sheet-lee-kuan-yew-global-business-plan-competition-13th-edition-7875e5934d13",
+      "title": "Lee Kuan Yew Global Business Plan Competition (13th edition)",
+      "organization": "iie.smu.edu.sg",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "global",
+        "startup",
+        "prize",
+        "competition"
+      ],
+      "url": "https://iie.smu.edu.sg/lkygbpc",
+      "sourceUrl": "https://iie.smu.edu.sg/lkygbpc",
+      "summary": "Global startup prize competition. Program dates: Finals Sep 28-Oct 1 2027, Singapore + Innovation Festival. Location / format: Singapore finals; virtual application. Next milestone: 50 finalists to Singapore 2027-09-28 to 2027-10-01",
+      "eligibility": "At least one founder currently enrolled in university or graduated within past 5 years; deep-tech/urban/sustainability across 12 areas; no citizenship bar stated",
+      "reward": "Prize pool S$2.5M+ (~US$2M); per-team breakdown not stated in announcement; finalists flown to Singapore per announcement; USI accelerator + US$10M fund pathway",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "2027-03-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-03-31",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Lee Kuan Yew Global Business Plan Competition (13th edition)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Business plan application via official portal",
+        "Review next milestone: 50 finalists to Singapore 2027-09-28 to 2027-10-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "d193cd138466401aa0cb223e1fe8364248110afc421e1b7b42c65f6cf2df74e9",
+        "hash": "2445e21ec203d5dcb5f3bbaeb47f0e479b046d02475b3bb4a1d7130b6d07e9e3",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "UGA Terry College Stock Pitch Competition 2027",
+          "category": "Finance/business competition",
+          "deadline": "2027-01-15 11:59pm EST",
+          "milestone": "Selected teams notified 2027-01-24",
+          "programDates": "2027-02-18 reception (mandatory) + 2027-02-19 competition, Athens GA",
+          "funding": "1st $3,000; 2nd $2,000; 3rd $1,000; lodging night of Feb 18 provided; travel not stated as covered",
+          "location": "Athens GA, in person",
+          "eligibility": "Teams of 2-4 undergraduates, universities nationally; long/short pitch on US-listed equities >$1B market cap, fundamental research; no citizenship restriction stated",
+          "materials": "Application + PDF presentation by Jan 15; selected teams pitch max 12 min + ~8 min Q&A",
+          "url": "https://www.terry.uga.edu/current-students/student-orgs/smif/stock-pitch-competition/"
+        }
+      },
+      "id": "sheet-uga-terry-college-stock-pitch-competition-2027-d193cd138466",
+      "title": "UGA Terry College Stock Pitch Competition 2027",
+      "organization": "terry.uga.edu",
+      "category": "Finance & bounties",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "finance",
+        "business",
+        "competition"
+      ],
+      "url": "https://www.terry.uga.edu/current-students/student-orgs/smif/stock-pitch-competition/",
+      "sourceUrl": "https://www.terry.uga.edu/current-students/student-orgs/smif/stock-pitch-competition/",
+      "summary": "Finance/business competition. Program dates: 2027-02-18 reception (mandatory) + 2027-02-19 competition, Athens GA. Location / format: Athens GA, in person. Next milestone: Selected teams notified 2027-01-24",
+      "eligibility": "Teams of 2-4 undergraduates, universities nationally; long/short pitch on US-listed equities >$1B market cap, fundamental research; no citizenship restriction stated",
+      "reward": "1st $3,000; 2nd $2,000; 3rd $1,000; lodging night of Feb 18 provided; travel not stated as covered",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-15 11:59pm EST",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · UGA Terry College Stock Pitch Competition 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application + PDF presentation by Jan 15; selected teams pitch max 12 min + ~8 min Q&A",
+        "Review next milestone: Selected teams notified 2027-01-24"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "63ee4fbe8b63c124e95c6ed45838d0963ba4b5bae8962748b2f24f7ec01684d6",
+        "hash": "16134ace65d75c0daf32f4b79ebc7b642bd85f1d514937209e4b2e6c246c3cd2",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Scripps Research SURF 2027",
+          "category": "Paid summer research fellowship",
+          "deadline": "2027-02-01 11:59pm PT",
+          "milestone": "Finalist interviews late Feb; decisions end Mar 2027",
+          "programDates": "2027-06-01 to 2027-08-06, La Jolla CA, in person, 10 weeks",
+          "funding": "$7,200 stipend + travel support + housing",
+          "location": "La Jolla CA, in person, full-time 40 hrs/week",
+          "eligibility": "US-enrolled undergrads GPA 3.0+, not graduated before program; prior research NOT required; F-1 EXPLICITLY eligible with work authorization valid through program (CPT via school international advisor); speak to international office BEFORE applying",
+          "materials": "Application with lab preferences, 1-line goals statement, 2-page personal statement, unofficial transcript, 2 recommendations",
+          "url": "https://education.scripps.edu/undergraduate/summer-research/surf-program/"
+        }
+      },
+      "id": "sheet-scripps-research-surf-2027-63ee4fbe8b63",
+      "title": "Scripps Research SURF 2027",
+      "organization": "education.scripps.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://education.scripps.edu/undergraduate/summer-research/surf-program/",
+      "sourceUrl": "https://education.scripps.edu/undergraduate/summer-research/surf-program/",
+      "summary": "Paid summer research fellowship. Program dates: 2027-06-01 to 2027-08-06, La Jolla CA, in person, 10 weeks. Location / format: La Jolla CA, in person, full-time 40 hrs/week. Next milestone: Finalist interviews late Feb; decisions end Mar 2027",
+      "eligibility": "US-enrolled undergrads GPA 3.0+, not graduated before program; prior research NOT required; F-1 EXPLICITLY eligible with work authorization valid through program (CPT via school international advisor); speak to international office BEFORE applying",
+      "reward": "$7,200 stipend + travel support + housing",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-01 11:59pm PT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Scripps Research SURF 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application with lab preferences, 1-line goals statement, 2-page personal statement, unofficial transcript, 2 recommendations",
+        "Review next milestone: Finalist interviews late Feb; decisions end Mar 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "85e7dd439fa27159084540d4560128f179e9697ed0fe1ffd5827855b74df9b6c",
+        "hash": "443f7dcfdf05c676bd16b198bdc1d9f5230b7f0a15c03395b46d47ac460e2eee",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "UT Health San Antonio Pharmacology SURF 2027",
+          "category": "Paid summer research fellowship",
+          "deadline": "2027-02-18",
+          "milestone": "Program 2027-06-01 to 2027-08-06",
+          "programDates": "2027-06-01 to 2027-08-06, San Antonio TX, full-time 40-60 hrs/week",
+          "funding": "$4,600 stipend (two payments, early Jul + early Aug); on-campus housing NOT available, program helps find housing/roommates",
+          "location": "San Antonio TX, in person",
+          "eligibility": "1st-3rd year undergrads, GPA 3.0+, at least one semester each of college Biology and Chemistry by end Spring 2027; F-1 EXPLICITLY eligible with active F1 visa allowing participation; undergrad lab research only, no clinical placement, no licensure",
+          "materials": "Personal statement <1,000 words, unofficial transcript incl Fall 2026 + Spring 2027 courses, 2 letters (page says one in one place, two in another: prepare two); ends with short oral presentation",
+          "url": "https://lsom.uthscsa.edu/pharmacology/surf/"
+        }
+      },
+      "id": "sheet-ut-health-san-antonio-pharmacology-surf-2027-85e7dd439fa2",
+      "title": "UT Health San Antonio Pharmacology SURF 2027",
+      "organization": "lsom.uthscsa.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "summer",
+        "research",
+        "fellowship"
+      ],
+      "url": "https://lsom.uthscsa.edu/pharmacology/surf/",
+      "sourceUrl": "https://lsom.uthscsa.edu/pharmacology/surf/",
+      "summary": "Paid summer research fellowship. Program dates: 2027-06-01 to 2027-08-06, San Antonio TX, full-time 40-60 hrs/week. Location / format: San Antonio TX, in person. Next milestone: Program 2027-06-01 to 2027-08-06",
+      "eligibility": "1st-3rd year undergrads, GPA 3.0+, at least one semester each of college Biology and Chemistry by end Spring 2027; F-1 EXPLICITLY eligible with active F1 visa allowing participation; undergrad lab research only, no clinical placement, no licensure",
+      "reward": "$4,600 stipend (two payments, early Jul + early Aug); on-campus housing NOT available, program helps find housing/roommates",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-18",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-18",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · UT Health San Antonio Pharmacology SURF 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Personal statement <1,000 words, unofficial transcript incl Fall 2026 + Spring 2027 courses, 2 letters (page says one in one place, two in another: prepare two); ends with short oral presentation",
+        "Review next milestone: Program 2027-06-01 to 2027-08-06"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2f79981e872955fe403b79e05a1d97303649f6ee6b681bfdf96b9e556c0ddc0a",
+        "hash": "5f3d0213ee79a3d705bfa06d6bc5f87b50d3bc07b3c45c4d7ad163754e17a379",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Columbia HBCU Fellowship Program Fall 2027",
+          "category": "Graduate fellowship",
+          "deadline": "2027-01-07 (master final + fellowship; early master decision 2026-11-13)",
+          "milestone": "Decisions mid-Mar 2027",
+          "programDates": "Fall 2027, 3 consecutive semesters",
+          "funding": "Full tuition for 3 semesters + student housing + semesterly stipend (amount not stated) + internship/mentorship",
+          "location": "New York NY, on campus",
+          "eligibility": "Current HBCU seniors or recent HBCU graduates with degrees received in 2025 or later; full-time, on-campus SPS master’s study. Both the master’s and fellowship applications are required. Citizenship and international-student eligibility require organizer confirmation.",
+          "materials": "Full SPS master application + separate fellowship application",
+          "url": "https://sps.columbia.edu/impact/columbia-hbcu-fellowship-program"
+        }
+      },
+      "id": "sheet-columbia-hbcu-fellowship-program-fall-2027-2f79981e8729",
+      "title": "Columbia HBCU Fellowship Program Fall 2027",
+      "organization": "sps.columbia.edu",
+      "category": "Research programs",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "graduate",
+        "fellowship"
+      ],
+      "url": "https://sps.columbia.edu/impact/columbia-hbcu-fellowship-program",
+      "sourceUrl": "https://sps.columbia.edu/impact/columbia-hbcu-fellowship-program",
+      "summary": "Graduate fellowship. Program dates: Fall 2027, 3 consecutive semesters. Location / format: New York NY, on campus. Next milestone: Decisions mid-Mar 2027",
+      "eligibility": "Current HBCU seniors or recent HBCU graduates with degrees received in 2025 or later; full-time, on-campus SPS master’s study. Both the master’s and fellowship applications are required. Citizenship and international-student eligibility require organizer confirmation.",
+      "reward": "Full tuition for 3 semesters + student housing + semesterly stipend (amount not stated) + internship/mentorship",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-07",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-07 (master final + fellowship; early master decision 2026-11-13)",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Columbia HBCU Fellowship Program Fall 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Full SPS master application + separate fellowship application",
+        "Review next milestone: Decisions mid-Mar 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a8ede61a86d3cbb8e152f34b87bf99519e8ac7753f179b7dcce73a45fbc1e1a7",
+        "hash": "a69af9c2ddcf20be3b812239524e8392253a756ac29eb5c06cb5ace0e85cda25",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "NHSC Students to Service Loan Repayment Program (S2S LRP) FY2027",
+          "category": "Educational loan repayment grant",
+          "deadline": "2026-11-19 7:30pm ET",
+          "milestone": "Non-selection notices by 2027-04-15",
+          "programDates": "3 years full-time clinical practice at NHSC-approved HPSA site (score 14+) post-training",
+          "funding": "Up to $120,000 in four annual installments up to $30,000, federal tax-exempt, qualifying educational loans only",
+          "location": "HPSA site per NHSC need; no travel/housing",
+          "eligibility": "Final-year MD/DO, dentistry, PA, NP, nurse-midwifery students ONLY; US citizen or US national REQUIRED (permanent resident card explicitly NOT acceptable); F-1 NOT eligible; graduate/professional only; 3-year service obligation (40+ hrs/week, 45+ weeks/year)",
+          "materials": "Full online application + loan verification + training/graduation proofs; HRSA advises allow ~3 weeks",
+          "url": "https://nhsc.hrsa.gov/loan-repayment/nhsc-students2service-loan-repayment-program"
+        }
+      },
+      "id": "sheet-nhsc-students-to-service-loan-repayment-program-s2s-lrp-fy2027-a8ede61a86d3",
+      "title": "NHSC Students to Service Loan Repayment Program (S2S LRP) FY2027",
+      "organization": "nhsc.hrsa.gov",
+      "category": "Grants & funding",
+      "levels": [
+        "Graduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "educational",
+        "loan",
+        "repayment",
+        "grant"
+      ],
+      "url": "https://nhsc.hrsa.gov/loan-repayment/nhsc-students2service-loan-repayment-program",
+      "sourceUrl": "https://nhsc.hrsa.gov/loan-repayment/nhsc-students2service-loan-repayment-program",
+      "summary": "Educational loan repayment grant. Program dates: 3 years full-time clinical practice at NHSC-approved HPSA site (score 14+) post-training. Location / format: HPSA site per NHSC need; no travel/housing. Next milestone: Non-selection notices by 2027-04-15",
+      "eligibility": "Final-year MD/DO, dentistry, PA, NP, nurse-midwifery students ONLY; US citizen or US national REQUIRED (permanent resident card explicitly NOT acceptable); F-1 NOT eligible; graduate/professional only; 3-year service obligation (40+ hrs/week, 45+ weeks/year)",
+      "reward": "Up to $120,000 in four annual installments up to $30,000, federal tax-exempt, qualifying educational loans only",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-19",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-19 7:30pm ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · NHSC Students to Service Loan Repayment Program (S2S LRP) FY2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Full online application + loan verification + training/graduation proofs; HRSA advises allow ~3 weeks",
+        "Review next milestone: Non-selection notices by 2027-04-15"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "f0e6f402aa57998b66b96a6f5fa39fc2b8d26fd6337453e7272e0f684db0db33",
+        "hash": "596864b252c6ea5f742f6d81f8d316ab828fbaef90124a24e776c403902a016f",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "CACBT 2027 Student Travel Grants + Outstanding Poster Awards",
+          "category": "Conference travel grant + poster prize",
+          "deadline": "2027-01-31 11:59pm EST (poster abstract + grant indication)",
+          "milestone": "Notification 2027-02-23",
+          "programDates": "Conference 2027-05-14 to 2027-05-15, Concordia University, Montreal, in person only",
+          "funding": "Travel grant $300 cash in advance (4 total, 2 reserved Indigenous/racialized students); Outstanding Poster $300 + certificate incl Best Undergraduate Poster; partial support only, presenters pay own travel",
+          "location": "Montreal QC, in person",
+          "eligibility": "Full-time undergraduate or graduate students in a health discipline, including psychology; current CACBT student membership and first authorship of an accepted poster required. Confirm grant eligibility, conference costs and any applicable travel or entry requirements.",
+          "materials": "Poster abstract max 300 words via Fourwaves + grant statement describing contribution; printed poster + electronic upload by May 10 if accepted",
+          "url": "https://www.cacbt.ca/2027-conference"
+        }
+      },
+      "id": "sheet-cacbt-2027-student-travel-grants-outstanding-poster-awards-f0e6f402aa57",
+      "title": "CACBT 2027 Student Travel Grants + Outstanding Poster Awards",
+      "organization": "cacbt.ca",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "grant",
+        "poster",
+        "prize"
+      ],
+      "url": "https://www.cacbt.ca/2027-conference",
+      "sourceUrl": "https://www.cacbt.ca/2027-conference",
+      "summary": "Conference travel grant + poster prize. Program dates: Conference 2027-05-14 to 2027-05-15, Concordia University, Montreal, in person only. Location / format: Montreal QC, in person. Next milestone: Notification 2027-02-23",
+      "eligibility": "Full-time undergraduate or graduate students in a health discipline, including psychology; current CACBT student membership and first authorship of an accepted poster required. Confirm grant eligibility, conference costs and any applicable travel or entry requirements.",
+      "reward": "Travel grant $300 cash in advance (4 total, 2 reserved Indigenous/racialized students); Outstanding Poster $300 + certificate incl Best Undergraduate Poster; partial support only, presenters pay own travel",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-31 11:59pm EST (poster abstract + grant indication)",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · CACBT 2027 Student Travel Grants + Outstanding Poster Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Poster abstract max 300 words via Fourwaves + grant statement describing contribution; printed poster + electronic upload by May 10 if accepted",
+        "Review next milestone: Notification 2027-02-23"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "941100aaabe70da50f975b9c69639991d8c306a5a3e5e8f54fb75f8d6b14ed62",
+        "hash": "1722fc516bb022201778a88f65572f43d2378262b1ec16a87ee04510fe467356",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "Institute for Responsible Citizenship Washington Program",
+          "category": "Civic/leadership fellowship",
+          "deadline": "2027-01-15",
+          "milestone": "Two summers: 2027-06-05 to 2027-07-31 + second summer 2028",
+          "programDates": "Washington DC, 8 weeks each summer",
+          "funding": "Fully funded: residence-hall housing + paid internship (or stipend up to $5,000 if unpaid); $20,000 investment after 10 years per university postings, NOT on current official page: treat as unconfirmed",
+          "location": "Washington DC",
+          "eligibility": "Sophomore standing required; applicants must have completed at least one academic year. First-year students with sophomore credit standing are ineligible under the source report. Historically intended for Black male sophomores; confirm current published criteria and internship work authorization.",
+          "materials": "Application via Institute site (transcripts, college papers, recommendations per past cycles)",
+          "url": "https://www.theinstitute.net/programs/washington"
+        }
+      },
+      "id": "sheet-institute-for-responsible-citizenship-washington-program-941100aaabe7",
+      "title": "Institute for Responsible Citizenship Washington Program",
+      "organization": "theinstitute.net",
+      "category": "Travel & leadership",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "civic",
+        "leadership",
+        "fellowship"
+      ],
+      "url": "https://www.theinstitute.net/programs/washington",
+      "sourceUrl": "https://www.theinstitute.net/programs/washington",
+      "summary": "Civic/leadership fellowship. Program dates: Washington DC, 8 weeks each summer. Location / format: Washington DC. Next milestone: Two summers: 2027-06-05 to 2027-07-31 + second summer 2028",
+      "eligibility": "Sophomore standing required; applicants must have completed at least one academic year. First-year students with sophomore credit standing are ineligible under the source report. Historically intended for Black male sophomores; confirm current published criteria and internship work authorization.",
+      "reward": "Fully funded: residence-hall housing + paid internship (or stipend up to $5,000 if unpaid); $20,000 investment after 10 years per university postings, NOT on current official page: treat as unconfirmed",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-15",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Institute for Responsible Citizenship Washington Program",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via Institute site (transcripts, college papers, recommendations per past cycles)",
+        "Review next milestone: Two summers: 2027-06-05 to 2027-07-31 + second summer 2028"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "c814739e34afec3244c39137724e181e70947982573881ebdd420da418ca435f",
+        "hash": "669ccb1084249b72c6cbe16e2312183020ea54256777bfac01603b0323c470c8",
+        "checkedAt": "2026-11-01T23:13:35.000Z",
+        "present": true,
+        "fields": {
+          "title": "AFA Scholarships 2027",
+          "category": "Agriculture scholarship",
+          "deadline": "2027-03-04",
+          "milestone": "Winners announced early Jun 2027",
+          "programDates": "AFA Leaders Conference, Kansas City (November)",
+          "funding": "$1,600-$3,200 each; 100+ awards via one application; includes Leaders Conference admission (travel NOT covered)",
+          "location": "Kansas City conference; application online",
+          "eligibility": "Graduating high-school seniors and current undergraduates in agriculture or food-related degrees at U.S. four-year institutions, age 17–25 at the conference, intending a food/agriculture/natural-resources career. GPA 2.5 recommended. Citizenship restrictions are not stated; confirm current rules.",
+          "materials": "One online application (work experience, organizational involvement, community service)",
+          "url": "https://www.agfuture.org/scholarships"
+        }
+      },
+      "id": "sheet-afa-scholarships-2027-c814739e34af",
+      "title": "AFA Scholarships 2027",
+      "organization": "agfuture.org",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "agriculture",
+        "scholarship"
+      ],
+      "url": "https://www.agfuture.org/scholarships",
+      "sourceUrl": "https://www.agfuture.org/scholarships",
+      "summary": "Agriculture scholarship. Program dates: AFA Leaders Conference, Kansas City (November). Location / format: Kansas City conference; application online. Next milestone: Winners announced early Jun 2027",
+      "eligibility": "Graduating high-school seniors and current undergraduates in agriculture or food-related degrees at U.S. four-year institutions, age 17–25 at the conference, intending a food/agriculture/natural-resources career. GPA 2.5 recommended. Citizenship restrictions are not stated; confirm current rules.",
+      "reward": "$1,600-$3,200 each; 100+ awards via one application; includes Leaders Conference admission (travel NOT covered)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-03-04",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-03-04",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · AFA Scholarships 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: One online application (work experience, organizational involvement, community service)",
+        "Review next milestone: Winners announced early Jun 2027"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
