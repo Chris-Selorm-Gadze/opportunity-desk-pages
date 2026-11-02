@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 160,
-  "updatedAt": "2026-11-02T13:59:56.377Z",
+  "revision": 161,
+  "updatedAt": "2026-11-02T15:38:34.730Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-02T13:59:33.000Z",
+      "checkedAt": "2026-11-02T15:37:30.000Z",
       "outcome": "success",
-      "summary": "Read 287 spreadsheet opportunities: 0 new, 284 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Read 303 spreadsheet opportunities: 15 new, 285 matched to tracked records, 1 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -3347,6 +3347,24 @@
       "stream": "travel"
     },
     {
+      "sheet": {
+        "key": "24b21f2c2d362720ff9a03e1cc3ecd92304e13b91a3131f1705cc0e2d60083d5",
+        "hash": "049b1d7b769700671f6c3d8813fb6135168e1f0c395e515fd01fa3d595849a99",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Kleiner Perkins Fellows 2027 — Engineering",
+          "category": "Paid engineering internship / portfolio-company fellowship",
+          "deadline": "2027-01-31 23:59 PST",
+          "milestone": "Rolling review, then portfolio-company matching/interviews",
+          "programDates": "Summer 2027, ~10–12 weeks",
+          "funding": "Paid full-time summer placement at KP portfolio company (pay set by host); founder speaker series, workshops, 1,000+ alumni network",
+          "location": "In person, San Francisco Bay Area",
+          "eligibility": "Computer science, engineering, mathematics, physics or related degree background; experience launching a substantial product/project and campus leadership. Source reports an in-person Bay Area summer placement. Confirm host-specific degree, work-authorization and sponsorship rules.",
+          "materials": "Online application; evidence of a product/project launched from scratch",
+          "url": "https://fellows.kleinerperkins.com/"
+        }
+      },
       "id": "kp-fellows-2027",
       "title": "Kleiner Perkins Fellows Program — 2027 Engineering Fellow",
       "organization": "Kleiner Perkins",
@@ -3360,7 +3378,8 @@
         "Engineering",
         "San Francisco Bay Area",
         "Summer 2027",
-        "Rolling applications"
+        "Rolling applications",
+        "Spreadsheet"
       ],
       "url": "https://www.kleinerperkins.com/fellows/",
       "sourceUrl": "https://www.kleinerperkins.com/fellows/",
@@ -22568,6 +22587,839 @@
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: One online application (work experience, organizational involvement, community service)",
         "Review next milestone: Winners announced early Jun 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2b5e62707908b72fe46166f3a66a64706800732c5bf878c0a5c9f6adbd6fbeea",
+        "hash": "63ae8548bd461cd059b21997de602b4798dcec9dd99f86e2a7a881944fd53df3",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Soroptimist Live Your Dream Awards",
+          "category": "Scholarships",
+          "deadline": "2026-11-15",
+          "milestone": "Club judging; recipients announced Feb–Apr 2027",
+          "programDates": "2026–27 award cycle",
+          "funding": "Club ~$1,000; region $3,000–$5,000; federation up to $16,000",
+          "location": "Online application; apply to one local club (or HQ if none nearby)",
+          "eligibility": "Women 18+ who are primary financial supporters of themselves AND dependents, with financial need, enrolled in/accepted to vocational training or undergrad degree; grad students ineligible; prior recipients ineligible; official FAQ: non-US citizens living/working/studying in US eligible if other criteria met",
+          "materials": "Online application incl. financial section; reference via official online form (not a family member)",
+          "url": "https://soroptimist.org/our-work/live-your-dream-awards/"
+        },
+        "verifiedAt": "2026-11-02T15:37:30.000Z"
+      },
+      "id": "sheet-soroptimist-live-your-dream-awards-2b5e62707908",
+      "title": "Soroptimist Live Your Dream Awards",
+      "organization": "Soroptimist International of the Americas",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships"
+      ],
+      "url": "https://soroptimist.org/our-work/live-your-dream-awards/",
+      "sourceUrl": "https://www.soroptimist.org/our-work/live-your-dream-awards/apply-for-the-live-your-dream-awards.html",
+      "summary": "Education awards for women providing primary financial support for themselves and dependents; vocational training and undergraduate study qualify.",
+      "eligibility": "Financial need, enrollment/acceptance in vocational training or an undergraduate degree, residence in a participating country/territory, and no prior award. Graduate degree holders/current graduate students, Soroptimist members, employees and their immediate families are excluded. Written sections must reflect the applicant’s own experiences.",
+      "reward": "Potential combined awards up to $16,000: club awards average $1,000; regional awards $3,000 or $5,000; international awards $10,000. Advancement and funding are competitive.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Organizer lists August 1–November 15 annually. Source reports November 15, 2026; current-cycle cutoff requires confirmation.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Soroptimist Live Your Dream Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Official page lists an annual August 1–November 15 application window and links U.S./Canada application entry. The registration form was unreadable, so current-cycle submission availability and a dated 2026 cutoff were not independently established. The source’s November 15, 2026 report remains visible for comparison.",
+      "checkedOn": "2026-11-02",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application incl. financial section; reference via official online form (not a family member)",
+        "Review next milestone: Club judging; recipients announced Feb–Apr 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "545ca371aac33b18dc150df58c431f1ca395166d261035a2ac66bc27cc6552c4",
+        "hash": "b4b9ec824b422a6e7c0a0a13c0773e73687eedb4fb26dc8cd2b8c10e3180a9ae",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Seasons in Malibu Mental Health Education Scholarship",
+          "category": "Scholarships / psychology & mental health",
+          "deadline": "2026-11-30",
+          "milestone": "Winner announced 2026-12-31",
+          "programDates": "2026–27 academic year",
+          "funding": "$1,500 scholarship",
+          "location": "Online essay competition",
+          "eligibility": "Undergraduate level (also HS students); any major; full-time enrollment; no clinical placement, no licensure (essay award, not training); no citizenship restriction stated — F-1 eligibility NOT confirmed, verify before applying",
+          "materials": "Essay 800–1,500 words answering three questions on the US addiction crisis, consequences, remedies",
+          "url": "https://seasonsmalibu.com/scholarship/"
+        }
+      },
+      "id": "sheet-seasons-in-malibu-mental-health-education-scholarship-545ca371aac3",
+      "title": "Seasons in Malibu Mental Health Education Scholarship",
+      "organization": "seasonsmalibu.com",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships",
+        "psychology",
+        "mental",
+        "health"
+      ],
+      "url": "https://seasonsmalibu.com/scholarship/",
+      "sourceUrl": "https://seasonsmalibu.com/scholarship/",
+      "summary": "Scholarships / psychology & mental health. Program dates: 2026–27 academic year. Location / format: Online essay competition. Next milestone: Winner announced 2026-12-31",
+      "eligibility": "Undergraduate level (also HS students); any major; full-time enrollment; no clinical placement, no licensure (essay award, not training); no citizenship restriction stated — F-1 eligibility NOT confirmed, verify before applying",
+      "reward": "$1,500 scholarship",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-30",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-11-30",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Seasons in Malibu Mental Health Education Scholarship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Essay 800–1,500 words answering three questions on the US addiction crisis, consequences, remedies",
+        "Review next milestone: Winner announced 2026-12-31"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2db09076195419e10270ff9ca8b5461dd2fdc05f00646a5d59072d0675be0268",
+        "hash": "68b00fb03f18c27141553b39e964e862c9944717b6c0be9ef288e38f0c9e4e31",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "USPCE Swine Legacy Scholarship 2027",
+          "category": "Scholarships / agriculture",
+          "deadline": "2026-12-04",
+          "milestone": "Recipients announced at National Pork Industry Forum 2027-03-03 to 2027-03-05, Arlington TX",
+          "programDates": "2027 academic year",
+          "funding": "3 × $5,000 (2 undergrad, 1 grad/professional)",
+          "location": "Online application or email/mail to NPPC; no travel funding stated",
+          "eligibility": "3rd/4th-year undergrads or current/accepted grad or vet students pursuing swine-industry careers; US citizens only — F-1 ineligible",
+          "materials": "Application via NPPC online form (confirm full materials list on page)",
+          "url": "https://nppc.org/uspce-swine-legacy-scholarship/"
+        }
+      },
+      "id": "sheet-uspce-swine-legacy-scholarship-2027-2db090761954",
+      "title": "USPCE Swine Legacy Scholarship 2027",
+      "organization": "nppc.org",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships",
+        "agriculture"
+      ],
+      "url": "https://nppc.org/uspce-swine-legacy-scholarship/",
+      "sourceUrl": "https://nppc.org/uspce-swine-legacy-scholarship/",
+      "summary": "Scholarships / agriculture. Program dates: 2027 academic year. Location / format: Online application or email/mail to NPPC; no travel funding stated. Next milestone: Recipients announced at National Pork Industry Forum 2027-03-03 to 2027-03-05, Arlington TX",
+      "eligibility": "3rd/4th-year undergrads or current/accepted grad or vet students pursuing swine-industry careers; US citizens only — F-1 ineligible",
+      "reward": "3 × $5,000 (2 undergrad, 1 grad/professional)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-04",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-04",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · USPCE Swine Legacy Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via NPPC online form (confirm full materials list on page)",
+        "Review next milestone: Recipients announced at National Pork Industry Forum 2027-03-03 to 2027-03-05, Arlington TX"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "010dba4617b6f877c033106e5e5113f07c603bfecec7a125abcde1c3e36933b3",
+        "hash": "c3391ca4792a5bfb0a4dc92647c85336a59d697ff013cbca45887d7db1861d9a",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Lois Britt Memorial Pork Industry Scholarship 2027",
+          "category": "Scholarships / agriculture",
+          "deadline": "2026-12-11",
+          "milestone": "Recipients announced Jan 2027; recognized at National Pork Industry Forum Mar 3–5, 2027",
+          "programDates": "2027 academic year",
+          "funding": "10 × $2,500",
+          "location": "Online form, email, or mail; no travel funding stated",
+          "eligibility": "Current undergrad in 2-year swine program or 4-year college of agriculture intending pork-industry career; US citizen required — F-1 ineligible; HS students ineligible",
+          "materials": "Cover sheet; brief letter on intended post-graduation pork-industry role; essay ≤750 words on a current/emerging pork-industry issue with practical solutions; 2 reference letters",
+          "url": "https://nppc.org/britt-scholarship/"
+        }
+      },
+      "id": "sheet-lois-britt-memorial-pork-industry-scholarship-2027-010dba4617b6",
+      "title": "Lois Britt Memorial Pork Industry Scholarship 2027",
+      "organization": "nppc.org",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships",
+        "agriculture"
+      ],
+      "url": "https://nppc.org/britt-scholarship/",
+      "sourceUrl": "https://nppc.org/britt-scholarship/",
+      "summary": "Scholarships / agriculture. Program dates: 2027 academic year. Location / format: Online form, email, or mail; no travel funding stated. Next milestone: Recipients announced Jan 2027; recognized at National Pork Industry Forum Mar 3–5, 2027",
+      "eligibility": "Current undergrad in 2-year swine program or 4-year college of agriculture intending pork-industry career; US citizen required — F-1 ineligible; HS students ineligible",
+      "reward": "10 × $2,500",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-11",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-11",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Lois Britt Memorial Pork Industry Scholarship 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Cover sheet; brief letter on intended post-graduation pork-industry role; essay ≤750 words on a current/emerging pork-industry issue with practical solutions; 2 reference letters",
+        "Review next milestone: Recipients announced Jan 2027; recognized at National Pork Industry Forum Mar 3–5, 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "aa99693b4cabf457bcb8efb72c6c68764e9ff648ff317ac0be71ad1dc2d80f58",
+        "hash": "67fa1f57c88a711ba7260de7cf339959a7a4461992b3d96f0ff49b43ae683c20",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Equitable Excellence Scholarship",
+          "category": "Scholarships / education",
+          "deadline": "2026-12-22 15:00 CT",
+          "milestone": "Notification early spring 2027; payment Aug 2027",
+          "programDates": "Fall 2027 enrollment; renewable through bachelor's",
+          "funding": "Up to 100 awards of $5,000/year, renewable up to 3 additional years (up to $20,000 total); plus $500 gift card to recipient's educator of choice",
+          "location": "Online via Scholarship America; US study only",
+          "eligibility": "Current HS seniors at a PUBLIC high school in 50 states/DC/PR (private/home-school ineligible); full-time enrollment at accredited 2-/4-year US college; 2.5+ GPA; demonstrated financial need; recipients attend virtual meet-and-greet + ≥2 professional-development workshops per college year; F-1/international eligibility not stated",
+          "materials": "Transcript; first two pages of most recent IRS Form 1040 (SSNs/bank info blacked out); personal statement on paying it forward",
+          "url": "https://scholarshipamerica.org/scholarship/equitableexcellence/"
+        }
+      },
+      "id": "sheet-equitable-excellence-scholarship-aa99693b4cab",
+      "title": "Equitable Excellence Scholarship",
+      "organization": "scholarshipamerica.org",
+      "category": "Scholarships",
+      "levels": [
+        "High school",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarships",
+        "education"
+      ],
+      "url": "https://scholarshipamerica.org/scholarship/equitableexcellence/",
+      "sourceUrl": "https://scholarshipamerica.org/scholarship/equitableexcellence/",
+      "summary": "Scholarships / education. Program dates: Fall 2027 enrollment; renewable through bachelor's. Location / format: Online via Scholarship America; US study only. Next milestone: Notification early spring 2027; payment Aug 2027",
+      "eligibility": "Current HS seniors at a PUBLIC high school in 50 states/DC/PR (private/home-school ineligible); full-time enrollment at accredited 2-/4-year US college; 2.5+ GPA; demonstrated financial need; recipients attend virtual meet-and-greet + ≥2 professional-development workshops per college year; F-1/international eligibility not stated",
+      "reward": "Up to 100 awards of $5,000/year, renewable up to 3 additional years (up to $20,000 total); plus $500 gift card to recipient's educator of choice",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-22",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-22 15:00 CT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Equitable Excellence Scholarship",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Transcript; first two pages of most recent IRS Form 1040 (SSNs/bank info blacked out); personal statement on paying it forward",
+        "Review next milestone: Notification early spring 2027; payment Aug 2027"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "991cbd7ed69d871136853a92ce456a6ae44e524d9c9e048822167750725de724",
+        "hash": "3abe02a019470bf44b1ac5e1317c5d9fe24d227c2ac5c2e0daff5e1f5943d9ed",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "MLH Fellowship Spring 2027 — Software Engineering",
+          "category": "Software engineering training fellowship",
+          "deadline": "Rolling; source reports applications close a few weeks before the batch. No confirmed fixed cutoff.",
+          "milestone": "Interviews (program coordinator + code talk with mentor), then enrollment",
+          "programDates": "2027-01-25 to 2027-04-16; Mon/Wed/Fri, 20 hrs/week, 12 weeks",
+          "funding": "Need-based educational stipend up to $5,000 (amount not published on official page — verify); real partner project + mentorship",
+          "location": "Remote (ET/PT/GMT/IST business hours)",
+          "eligibility": "Age 18 or older; proficient in at least one programming language; able to commit 20 hours weekly for twelve weeks; residing outside embargoed countries. Open to students and nonstudents. Confirm current participation conditions, stipend availability and classification.",
+          "materials": "Online application (experience + motivation); interviews",
+          "url": "https://fellowship.mlh.com/programs/software-engineering"
+        }
+      },
+      "id": "sheet-mlh-fellowship-spring-2027-software-engineering-991cbd7ed69d",
+      "title": "MLH Fellowship Spring 2027 — Software Engineering",
+      "organization": "fellowship.mlh.com",
+      "category": "Career & sales",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "software",
+        "engineering",
+        "training",
+        "fellowship"
+      ],
+      "url": "https://fellowship.mlh.com/programs/software-engineering",
+      "sourceUrl": "https://fellowship.mlh.com/programs/software-engineering",
+      "summary": "Software engineering training fellowship. Program dates: 2027-01-25 to 2027-04-16; Mon/Wed/Fri, 20 hrs/week, 12 weeks. Location / format: Remote (ET/PT/GMT/IST business hours). Next milestone: Interviews (program coordinator + code talk with mentor), then enrollment",
+      "eligibility": "Age 18 or older; proficient in at least one programming language; able to commit 20 hours weekly for twelve weeks; residing outside embargoed countries. Open to students and nonstudents. Confirm current participation conditions, stipend availability and classification.",
+      "reward": "Need-based educational stipend up to $5,000 (amount not published on official page — verify); real partner project + mentorship",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Rolling; source reports applications close a few weeks before the batch. No confirmed fixed cutoff.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · MLH Fellowship Spring 2027 — Software Engineering",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application (experience + motivation); interviews",
+        "Review next milestone: Interviews (program coordinator + code talk with mentor), then enrollment"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "111a737c93e8f58a18c09e1c9da4ad683abc4791808dea4c4afb0192564b66fa",
+        "hash": "5db890205d40ebf2e24bcb067e73eb041b29b2b742de533435e457cef834cf43",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Global Scaling Challenge 2027 (UNM)",
+          "category": "University competition / business case competition",
+          "deadline": "2027-01-15 (team reservation; first-come first-served, max 20 teams per qualifier, max 2 per school); full student registration by 2027-02-10",
+          "milestone": "Regional challenge case released 2027-02-17; Americas Qualifier 2027-03-05",
+          "programDates": "Qualifiers Mar 2027; Finals 2027-04-02",
+          "funding": "$40,000+ total; regional winner $2,500; finals Gold $7,500 / Silver $5,000 / Bronze $4,000 / 4th $3,000",
+          "location": "Regional qualifiers + finals (confirm 2027 format; 2026 finals ran virtually)",
+          "eligibility": "Open to international student teams; each team needs a designated mentor/faculty lead; no citizenship bar stated",
+          "materials": "Team registration + faculty mentor; live scaling-case solution with 10-min presentation + 10-min Q&A (prior format)",
+          "url": "https://business.unm.edu/global-scaling-challenge/team-registration.html"
+        }
+      },
+      "id": "sheet-global-scaling-challenge-2027-unm-111a737c93e8",
+      "title": "Global Scaling Challenge 2027 (UNM)",
+      "organization": "business.unm.edu",
+      "category": "Innovation challenges",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "university",
+        "competition",
+        "business",
+        "case"
+      ],
+      "url": "https://business.unm.edu/global-scaling-challenge/team-registration.html",
+      "sourceUrl": "https://business.unm.edu/global-scaling-challenge/team-registration.html",
+      "summary": "University competition / business case competition. Program dates: Qualifiers Mar 2027; Finals 2027-04-02. Location / format: Regional qualifiers + finals (confirm 2027 format; 2026 finals ran virtually). Next milestone: Regional challenge case released 2027-02-17; Americas Qualifier 2027-03-05",
+      "eligibility": "Open to international student teams; each team needs a designated mentor/faculty lead; no citizenship bar stated",
+      "reward": "$40,000+ total; regional winner $2,500; finals Gold $7,500 / Silver $5,000 / Bronze $4,000 / 4th $3,000",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-01-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-01-15 (team reservation; first-come first-served, max 20 teams per qualifier, max 2 per school); full student registration by 2027-02-10",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Global Scaling Challenge 2027 (UNM)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Team registration + faculty mentor; live scaling-case solution with 10-min presentation + 10-min Q&A (prior format)",
+        "Review next milestone: Regional challenge case released 2027-02-17; Americas Qualifier 2027-03-05"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a5c83eb5157347298cd08f902cf4f38cf2da14f9d1fed59ca82fe5f6b7049ca8",
+        "hash": "539dd287e41b7cb3e069ecd52835556a96348764812c0cbd6befcda6fce8b138",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Dorm Room Fund",
+          "category": "Startup prizes / student-founder investment",
+          "deadline": "Rolling (apply for funding anytime)",
+          "milestone": "Two student-partner meetings, then regional team pitch; decision within 48 hours of investment-committee pitch",
+          "programDates": "Rolling",
+          "funding": "$90,000–$500,000 first check for 3% of the company; $50M Fund V raised Sep 2026",
+          "location": "Remote application; student-partner diligence",
+          "eligibility": "At least one founder a current student or recent graduate, generally within two years. Sector-agnostic; source reports support from the user-research/demo stage and a U.S.-incorporation requirement. Confirm current company, investment and participation requirements before signing.",
+          "materials": "Funding application + pitch to regional student team",
+          "url": "https://dormroomfund.com/how"
+        }
+      },
+      "id": "sheet-dorm-room-fund-a5c83eb51573",
+      "title": "Dorm Room Fund",
+      "organization": "dormroomfund.com",
+      "category": "Startup competitions",
+      "levels": [
+        "Graduate",
+        "Early career",
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "prizes",
+        "student",
+        "founder",
+        "investment"
+      ],
+      "url": "https://dormroomfund.com/how",
+      "sourceUrl": "https://dormroomfund.com/how",
+      "summary": "Startup prizes / student-founder investment. Program dates: Rolling. Location / format: Remote application; student-partner diligence. Next milestone: Two student-partner meetings, then regional team pitch; decision within 48 hours of investment-committee pitch",
+      "eligibility": "At least one founder a current student or recent graduate, generally within two years. Sector-agnostic; source reports support from the user-research/demo stage and a U.S.-incorporation requirement. Confirm current company, investment and participation requirements before signing.",
+      "reward": "$90,000–$500,000 first check for 3% of the company; $50M Fund V raised Sep 2026",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Rolling (apply for funding anytime)",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Dorm Room Fund",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Funding application + pitch to regional student team",
+        "Review next milestone: Two student-partner meetings, then regional team pitch; decision within 48 hours of investment-committee pitch"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "4547ee58e29937a06551a4cebaadcfc32d59c4b7b552d69a99800858ff5b9025",
+        "hash": "9640741e6d8687705ac6b7bb75e051cb4364aa664cf5b783b8577e77340508e0",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Forum Ventures Accelerator",
+          "category": "Accelerator",
+          "deadline": "Rolling (Forum reviews every application, responds in 2–4 weeks)",
+          "milestone": "Intro calls, then 16-week program",
+          "programDates": "16 weeks, rolling cohorts",
+          "funding": "$100,000 for 7.5% via post-money SAFE + dedicated Managing Director 1:1 weekly; 65% fund-through rate",
+          "location": "Remote (offices NYC/SF/Toronto)",
+          "eligibility": "Pre- or post-MVP B2B SaaS founders with less than $500,000 raised, who have not participated in YC, Techstars or 500. Source describes an AI-native B2B focus. Confirm selection criteria, participation requirements and SAFE/equity terms.",
+          "materials": "Online application (business model, market, traction, team)",
+          "url": "https://www.forumvc.com/for/ai-native-founders"
+        }
+      },
+      "id": "sheet-forum-ventures-accelerator-4547ee58e299",
+      "title": "Forum Ventures Accelerator",
+      "organization": "forumvc.com",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "accelerator"
+      ],
+      "url": "https://www.forumvc.com/for/ai-native-founders",
+      "sourceUrl": "https://www.forumvc.com/for/ai-native-founders",
+      "summary": "Accelerator. Program dates: 16 weeks, rolling cohorts. Location / format: Remote (offices NYC/SF/Toronto). Next milestone: Intro calls, then 16-week program",
+      "eligibility": "Pre- or post-MVP B2B SaaS founders with less than $500,000 raised, who have not participated in YC, Techstars or 500. Source describes an AI-native B2B focus. Confirm selection criteria, participation requirements and SAFE/equity terms.",
+      "reward": "$100,000 for 7.5% via post-money SAFE + dedicated Managing Director 1:1 weekly; 65% fund-through rate",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Rolling (Forum reviews every application, responds in 2–4 weeks)",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Intake unconfirmed · Forum Ventures Accelerator",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application (business model, market, traction, team)",
+        "Review next milestone: Intro calls, then 16-week program"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "2d0e70d2af50081729b959bd3f4c42e623b4bb06ed7d0fb3f680b99034d263de",
+        "hash": "25501fcfc353da4e0b739972b2ebd5d69c680ed58ec9bd4d8078152ea8233584",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Startup World Cup SouthWest Regional Final (TechCon SouthWest 2027)",
+          "category": "Startup pitch competition",
+          "deadline": "Application cutoff not officially confirmed; source reports no published cutoff and a regional event on 2027-01-21.",
+          "milestone": "Selection for the Startup Innovation Showcase",
+          "programDates": "2027-01-21, Eisemann Center, Richardson TX; Grand Finale in San Francisco (2027 date TBA)",
+          "funding": "Regional winner advances to Grand Finale competing for $1,000,000 investment prize; showcase audience of 100+ investors",
+          "location": "In person, Richardson TX (Dallas–Fort Worth); travel not stated as covered",
+          "eligibility": "Startups broadly; no application fee stated for Startup World Cup; no citizenship restriction stated",
+          "materials": "Application via Dealum portal (company profile/pitch)",
+          "url": "https://techconglobal.com/announcements/"
+        }
+      },
+      "id": "sheet-startup-world-cup-southwest-regional-final-techcon-southwest-2027-2d0e70d2af50",
+      "title": "Startup World Cup SouthWest Regional Final (TechCon SouthWest 2027)",
+      "organization": "techconglobal.com",
+      "category": "Startup competitions",
+      "levels": [
+        "Founder"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "startup",
+        "pitch",
+        "competition"
+      ],
+      "url": "https://techconglobal.com/announcements/",
+      "sourceUrl": "https://techconglobal.com/announcements/",
+      "summary": "Startup pitch competition. Program dates: 2027-01-21, Eisemann Center, Richardson TX; Grand Finale in San Francisco (2027 date TBA). Location / format: In person, Richardson TX (Dallas–Fort Worth); travel not stated as covered. Next milestone: Selection for the Startup Innovation Showcase",
+      "eligibility": "Startups broadly; no application fee stated for Startup World Cup; no citizenship restriction stated",
+      "reward": "Regional winner advances to Grand Finale competing for $1,000,000 investment prize; showcase audience of 100+ investors",
+      "value": 3,
+      "effort": 12,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Application cutoff not officially confirmed; source reports no published cutoff and a regional event on 2027-01-21.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · Startup World Cup SouthWest Regional Final (TechCon SouthWest 2027)",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application via Dealum portal (company profile/pitch)",
+        "Review next milestone: Selection for the Startup Innovation Showcase"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "3e82aaff7f13cfd4857c9f90c6c67a266d1d1405b0377980e29fffab28bec3a9",
+        "hash": "1acbdfb0b314333ed0321a04a571c8ce43f7d3dec304b3eae6398bc731aebab5",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "Google Gemma 4 Developer Agent Competition",
+          "category": "AI software competition / cash bounty",
+          "deadline": "Paper Track 2026-11-12 23:59 UTC; main entry/rules acceptance by 2026-11-25 23:59 UTC; final submissions 2026-12-02 23:59 UTC",
+          "milestone": "Accept rules + form team (up to 5) by Nov 25",
+          "programDates": "Online; closes Dec 2, 2026",
+          "funding": "$100,000 cash total — main leaderboard $65,000 ($37,000/$18,000/$10,000); Paper Track $35,000 ($15,000 Best Paper / $10,000 Best New Resource / $10,000 Best New Application)",
+          "location": "Online, Kaggle",
+          "eligibility": "Source reports age 18 or older, worldwide participation subject to sanctions and excluded jurisdictions. Confirm competition rules, local participation requirements and winner identity/tax documentation; no individualized immigration conclusion is established.",
+          "materials": "Kaggle account; submission.zip with agent.yaml (post-train Gemma 4 into an offline coding agent fixing hidden Python bugs, scored by % of patched repos passing tests); optional paper via Kaggle Writeups",
+          "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent/rules"
+        },
+        "verifiedAt": "2026-11-02T15:37:30.000Z"
+      },
+      "id": "sheet-google-gemma-4-developer-agent-competition-3e82aaff7f13",
+      "title": "Google Gemma 4 Developer Agent Competition",
+      "organization": "Google / Google DeepMind",
+      "category": "Finance & bounties",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "software",
+        "competition",
+        "cash",
+        "bounty"
+      ],
+      "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent/rules",
+      "sourceUrl": "https://www.kaggle.com/competitions/gemma-4-developer-agent/overview",
+      "summary": "Online coding-agent competition with a separate optional paper track. Main entry/team deadline November 25; final agents December 2. Paper track closes November 12 and does not require main-track participation.",
+      "eligibility": "Kaggle account; age 18 or local age of majority, subject to the rules’ parental-consent exception; worldwide including U.S. residents except excluded regions/sanctioned persons. Main teams up to five, one daily submission and two final selections. Winners must satisfy licensing, identity and tax-document requirements; no individualized immigration conclusion is established.",
+      "reward": "Advertised combined pool $110,000: $65,000 main leaderboard, $35,000 paper awards and $10,000 small-model bonus. Main rules list $65,000; bonus is described on overview. No purchase required; awards are conditional.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-11-25",
+      "deadlineAt": "2026-11-25T23:59:00Z",
+      "sourceDeadline": "November 12, 2026 optional paper deadline; November 25 entry and team-merger deadline; December 2 final submission. All 11:59 PM UTC.",
+      "confidence": "Exact time",
+      "opensOn": "2026-09-23",
+      "cycle": "Intake unconfirmed · Google Gemma 4 Developer Agent Competition",
+      "sourceState": "Needs verification",
+      "sourceNote": "Read rendered official overview, rules and separate paper-track page. Dates are 23:59 UTC: paper November 12, entry/team November 25, final December 2, 2026. Public entry controls are present; account/rule acceptance and a working verification service are required. No entry was submitted; a reCAPTCHA-service error prevents full entry confirmation.",
+      "checkedOn": "2026-11-02",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Kaggle account; submission.zip with agent.yaml (post-train Gemma 4 into an offline coding agent fixing hidden Python bugs, scored by % of patched repos passing tests); optional paper via Kaggle Writeups",
+        "Review next milestone: Accept rules + form team (up to 5) by Nov 25"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "aaac2e645786ab60f9da7f83c74c58b4cde87c1dbef3342d670bbff40c5d7ed9",
+        "hash": "51f18c5b2c3aba49cbe7d060cb62db0d1aca739d8419e4d0db804cf90e1fe377",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "SWE Society-Selected Scholarships 2027–28",
+          "category": "Scholarship / professional society",
+          "deadline": "Opens 2026-12-01; deadline mid-Feb 2027 — sources conflict (Feb 1 vs Feb 15, 2027); confirm on portal when it opens",
+          "milestone": "Portal opens Dec 1, 2026",
+          "programDates": "2027–28 academic year awards",
+          "funding": "$1,000–$20,000 per award; 330+ scholarships totaling $1.5M+ in 2025–26",
+          "location": "Online application; study at own ABET-accredited institution",
+          "eligibility": "Women/women-identifying students in ABET-accredited engineering, engineering technology, or computing programs, full-time for most awards; SWE membership NOT required; no application fee; citizenship not stated on national page — verify (some SWE section scholarships are citizen-only)",
+          "materials": "Single common application (auto-matches to all eligible society scholarships), transcript, essays, recommendation",
+          "url": "https://swe.org/scholarships/"
+        },
+        "verifiedAt": "2026-11-02T15:37:30.000Z"
+      },
+      "id": "sheet-swe-society-selected-scholarships-2027-28-aaac2e645786",
+      "title": "SWE Society-Selected Scholarships 2027–28",
+      "organization": "Society of Women Engineers",
+      "category": "Scholarships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "scholarship",
+        "professional",
+        "society"
+      ],
+      "url": "https://swe.org/scholarships/",
+      "sourceUrl": "https://swe.org/apply-for-a-swe-scholarship/",
+      "summary": "2027–28 Society-Selected Collegiate/Graduate scholarships. One application considers applicants for eligible society awards; first-year and India programs have separate dates.",
+      "eligibility": "Undergraduates entering sophomore, junior or senior year and graduate students; GPA at least 3.0/4.0. Undergraduate programs must be ABET-accredited in engineering, technology or computer science. Graduate institutions must offer qualifying accredited undergraduate programs. Review gender/identity, full-time enrollment and award-specific restrictions in the current rules.",
+      "reward": "Amounts and renewal terms vary by individual scholarship; current official award list includes separate amounts. Source’s $1,000–$20,000 range is not a guaranteed award.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Collegiate/Graduate Scholars: opens December 1, 2026; deadline February 1, 2027. Time and timezone not published.",
+      "confidence": "Date only",
+      "opensOn": "2026-12-01",
+      "cycle": "2027–2028 · SWE Society-Selected Scholarships 2027–28",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official overview, application page and linked 2027–28 Kaleidoscope interest form agree on December 1 opening and February 1 closing for Collegiate/Graduate Scholars. This resolves the source’s February 1/15 conflict. The current form explicitly collects interest only; it is not the scholarship application. No cutoff time/timezone published.",
+      "checkedOn": "2026-11-02",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Single common application (auto-matches to all eligible society scholarships), transcript, essays, recommendation",
+        "Review next milestone: Portal opens Dec 1, 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "b92db502bbf8a43829839f2874e07cdf76a3eb5ccc1095622f9e83fc7250ab36",
+        "hash": "a67381983208708f3a221ee873748fb3d14669c9b4b429ae18f9f6b9e16d3f5b",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "ASBMB 2027 Annual Meeting Travel Awards",
+          "category": "Conference travel award",
+          "deadline": "2026-12-08 23:59 ET (abstract + travel award application; no extensions)",
+          "milestone": "Presentation notifications by 2027-01-15",
+          "programDates": "2027-04-03 to 2027-04-06, Boston MA",
+          "funding": "Student Chapters Travel Award: reimbursement of qualifying travel expenses up to $500; graduate/postdoc awards expanded for 2027 (~185 total via Future of Discovery Program)",
+          "location": "In person, Boston",
+          "eligibility": "ASBMB member in good standing (dues paid ≥2 business days before applying, dues year Jan–Dec 2027); first-author abstract required; awardees must present at assigned date/time; undergraduate route requires an ACTIVE ASBMB student chapter + faculty-adviser designation (chapter renewal deadline Dec 4, 2026); citizenship not stated — verify for F-1",
+          "materials": "First-author abstract + travel award application in abstract system; Student Chapters applicants add certification form with adviser approval",
+          "url": "https://WWW.ASBMB.ORG/annual-meeting/travel-awards"
+        }
+      },
+      "id": "sheet-asbmb-2027-annual-meeting-travel-awards-b92db502bbf8",
+      "title": "ASBMB 2027 Annual Meeting Travel Awards",
+      "organization": "asbmb.org",
+      "category": "Grants & funding",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://WWW.ASBMB.ORG/annual-meeting/travel-awards",
+      "sourceUrl": "https://WWW.ASBMB.ORG/annual-meeting/travel-awards",
+      "summary": "Conference travel award. Program dates: 2027-04-03 to 2027-04-06, Boston MA. Location / format: In person, Boston. Next milestone: Presentation notifications by 2027-01-15",
+      "eligibility": "ASBMB member in good standing (dues paid ≥2 business days before applying, dues year Jan–Dec 2027); first-author abstract required; awardees must present at assigned date/time; undergraduate route requires an ACTIVE ASBMB student chapter + faculty-adviser designation (chapter renewal deadline Dec 4, 2026); citizenship not stated — verify for F-1",
+      "reward": "Student Chapters Travel Award: reimbursement of qualifying travel expenses up to $500; graduate/postdoc awards expanded for 2027 (~185 total via Future of Discovery Program)",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-08",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-08 23:59 ET (abstract + travel award application; no extensions)",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · ASBMB 2027 Annual Meeting Travel Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: First-author abstract + travel award application in abstract system; Student Chapters applicants add certification form with adviser approval",
+        "Review next milestone: Presentation notifications by 2027-01-15"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "cb019c5170e1a53ac600efea935218071ba2d2a53b072b1e930d2e760a7bc7d5",
+        "hash": "9666eb2b50888931f7c46ca7650ac4d8b1b14933ac6e08c7f5fccc0207f11f62",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "ASM Microbe 2027 Travel Awards",
+          "category": "Conference travel award",
+          "deadline": "2026-12-01 (applications open 2026-10-21)",
+          "milestone": "Notifications mid-Dec 2026",
+          "programDates": "ASM Microbe 2027 (dates/location on ASM page)",
+          "funding": "$1,000 ASM Student and Postdoctoral Travel Award; funds provided after the meeting upon confirmed attendance",
+          "location": "In person, ASM Microbe 2027",
+          "eligibility": "Current ASM member at time of application; abstract required (selected awardees' abstracts auto-accepted for presentation); citizenship not stated — verify for F-1",
+          "materials": "Travel award application + abstract",
+          "url": "https://asm.org/events/asm-microbe/present/travel-awards"
+        }
+      },
+      "id": "sheet-asm-microbe-2027-travel-awards-cb019c5170e1",
+      "title": "ASM Microbe 2027 Travel Awards",
+      "organization": "asm.org",
+      "category": "Grants & funding",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "conference",
+        "travel",
+        "award"
+      ],
+      "url": "https://asm.org/events/asm-microbe/present/travel-awards",
+      "sourceUrl": "https://asm.org/events/asm-microbe/present/travel-awards",
+      "summary": "Conference travel award. Program dates: ASM Microbe 2027 (dates/location on ASM page). Location / format: In person, ASM Microbe 2027. Next milestone: Notifications mid-Dec 2026",
+      "eligibility": "Current ASM member at time of application; abstract required (selected awardees' abstracts auto-accepted for presentation); citizenship not stated — verify for F-1",
+      "reward": "$1,000 ASM Student and Postdoctoral Travel Award; funds provided after the meeting upon confirmed attendance",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-01 (applications open 2026-10-21)",
+      "confidence": "Date only",
+      "opensOn": "2026-10-21",
+      "cycle": "2027 · ASM Microbe 2027 Travel Awards",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Travel award application + abstract",
+        "Review next milestone: Notifications mid-Dec 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "7de84d52d050df08a9ba1c91c0ea0a154851d90fc4e758f2cf234746b098c5da",
+        "hash": "131106b1095fbacbb0d759d64d616caa50041c3070a4ac0611801dbfdf972e4a",
+        "checkedAt": "2026-11-02T15:37:30.000Z",
+        "present": true,
+        "fields": {
+          "title": "CNCF Dan Kohn Scholarship — KubeCon + CloudNativeCon Europe 2027",
+          "category": "Professional societies (conference scholarship)",
+          "deadline": "2027-02-05 23:59 CEST (registration scholarship); notification 2027-02-12",
+          "milestone": "Separate Travel Fund page for Europe 2027 opens late 2026 — watch for it",
+          "programDates": "2027-03-15 to 2027-03-18, Barcelona Spain",
+          "funding": "Complimentary All-Access registration (incl. CNCF-hosted co-located events); TRAVEL NOT COVERED by registration scholarship — separate CNCF Travel Fund (reimbursement after event) exists",
+          "location": "In person, Barcelona",
+          "eligibility": "Applicants from traditionally underrepresented or marginalized groups in technology/open source, active community members, lacking company sponsorship and unable to attend for financial reasons. Confirm current scholarship criteria and applicable travel/entry requirements.",
+          "materials": "Registration scholarship application (SurveyMonkey form); separate travel fund request when Europe 2027 page opens",
+          "url": "https://www.surveymonkey.com/r/KCCNCEU27"
+        }
+      },
+      "id": "sheet-cncf-dan-kohn-scholarship-kubecon-cloudnativecon-europe-2027-7de84d52d050",
+      "title": "CNCF Dan Kohn Scholarship — KubeCon + CloudNativeCon Europe 2027",
+      "organization": "surveymonkey.com",
+      "category": "Scholarships",
+      "levels": [
+        "All levels"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "societies",
+        "conference",
+        "scholarship"
+      ],
+      "url": "https://www.surveymonkey.com/r/KCCNCEU27",
+      "sourceUrl": "https://www.surveymonkey.com/r/KCCNCEU27",
+      "summary": "Professional societies (conference scholarship). Program dates: 2027-03-15 to 2027-03-18, Barcelona Spain. Location / format: In person, Barcelona. Next milestone: Separate Travel Fund page for Europe 2027 opens late 2026 — watch for it",
+      "eligibility": "Applicants from traditionally underrepresented or marginalized groups in technology/open source, active community members, lacking company sponsorship and unable to attend for financial reasons. Confirm current scholarship criteria and applicable travel/entry requirements.",
+      "reward": "Complimentary All-Access registration (incl. CNCF-hosted co-located events); TRAVEL NOT COVERED by registration scholarship — separate CNCF Travel Fund (reimbursement after event) exists",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-05",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-05 23:59 CEST (registration scholarship); notification 2027-02-12",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · CNCF Dan Kohn Scholarship — KubeCon + CloudNativeCon Europe 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Registration scholarship application (SurveyMonkey form); separate travel fund request when Europe 2027 page opens",
+        "Review next milestone: Separate Travel Fund page for Europe 2027 opens late 2026 — watch for it"
       ],
       "stream": "spreadsheet"
     }
