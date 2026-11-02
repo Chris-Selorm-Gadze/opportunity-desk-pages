@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 161,
-  "updatedAt": "2026-11-02T15:38:34.730Z",
+  "revision": 162,
+  "updatedAt": "2026-11-02T16:10:01.325Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-02T15:37:30.000Z",
+      "checkedAt": "2026-11-02T16:09:20.000Z",
       "outcome": "success",
-      "summary": "Read 303 spreadsheet opportunities: 15 new, 285 matched to tracked records, 1 source records changed, 0 no longer listed."
+      "summary": "Read 308 spreadsheet opportunities: 5 new, 300 matched to tracked records, 2 source records changed, 0 no longer listed."
     },
     {
       "id": "trading",
@@ -4101,25 +4101,26 @@
     {
       "sheet": {
         "key": "b31b9b76fa64ec6f090a172f1b99acd625f4390097c3a001d66a51edd77e0461",
-        "hash": "727a5637eb8617698db41d7124c5b85ef1ab0974d1fa7a490ceea0b3ead2184a",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "0982f4f4cb57efbd4275533bb668d3794a7f8aa03b0abd79685a7ce78e2a2426",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
         "present": true,
         "fields": {
           "title": "Stanford Engineering SURF 2027",
           "category": "Research fellowship",
           "deadline": "2027-02-01 23:59 PT",
-          "milestone": "Opens 2026-11-01",
-          "programDates": "Summer 2027, 8 weeks; exact dates TBD",
-          "funding": "$6,000 stipend; registration covered; housing and travel TBD",
-          "location": "Stanford, CA",
-          "eligibility": "US-based full-time non-Stanford undergrads, rising juniors/seniors, GPA 3+, international US-based eligible",
-          "materials": "CV, transcript, statement, recommendation",
+          "milestone": "Applications OPEN since 2026-11-01; virtual info session 2026-11-10",
+          "programDates": "2027-06-21 to 2027-08-13; 8 weeks",
+          "funding": "$6,000 stipend after completion + transportation, housing, meals, registration, and health insurance if needed ALL COVERED",
+          "location": "Stanford, CA; 8-week residential",
+          "eligibility": "Full-time non-Stanford undergrad at US institution, rising junior/non-graduating senior, GPA >=3.0, engineering PhD interest; F-1 students EXPLICITLY eligible with approved CPT; cannot work/take courses during program",
+          "materials": "1-2 page CV, unofficial transcript, 1-2 page statement of purpose, 2 recommendation letters",
           "url": "https://engineering.stanford.edu/SURF"
-        }
+        },
+        "verifiedAt": "2026-11-02T16:09:20.000Z"
       },
       "id": "sheet-stanford-engineering-surf-2027-b31b9b76fa64",
       "title": "Stanford Engineering SURF 2027",
-      "organization": "engineering.stanford.edu",
+      "organization": "Stanford University School of Engineering",
       "category": "Research programs",
       "levels": [
         "Undergraduate"
@@ -4131,49 +4132,50 @@
       ],
       "url": "https://engineering.stanford.edu/SURF",
       "sourceUrl": "https://engineering.stanford.edu/SURF",
-      "summary": "Research fellowship. Program dates: Summer 2027, 8 weeks; exact dates TBD. Location / format: Stanford, CA. Next milestone: Opens 2026-11-01",
-      "eligibility": "US-based full-time non-Stanford undergrads, rising juniors/seniors, GPA 3+, international US-based eligible",
-      "reward": "$6,000 stipend; registration covered; housing and travel TBD",
+      "summary": "Eight-week engineering research at Stanford, June 21–August 13, 2027, with graduate-school preparation and a research symposium.",
+      "eligibility": "Age 18+; full-time non-Stanford undergraduate at a U.S. institution, rising junior or non-graduating senior with at least one term remaining; GPA 3.0+, with stated exceptions. Transfer-year community-college students may qualify conditionally. Engineering-PhD interest required. CPT-approved international students studying and living full-time in the U.S. qualify. No concurrent courses, internship or employment.",
+      "reward": "$6,000 stipend upon successful completion; transportation, housing, meals, summer registration and health insurance if needed covered.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2027-02-01",
-      "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027-02-01 23:59 PT",
-      "confidence": "Date only",
-      "opensOn": "",
+      "deadlineAt": "2027-02-02T07:59:00Z",
+      "sourceDeadline": "Nov 1, 2026 - Feb 1, 2027 @ 11:59pm PT",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-01",
       "cycle": "2027 · Stanford Engineering SURF 2027",
       "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceNote": "Official 2027 session, funding, eligibility and February cutoff verified. The page schedules a November 1 portal opening, but no applicant-entry link was established in this review. Availability remains unverified. Materials: 1–2-page CV and statement, unofficial transcript, two recommendations; optional 500-word community statement. Organizer strongly discourages ChatGPT use.",
+      "checkedOn": "2026-11-02",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
-        "Review required materials: CV, transcript, statement, recommendation",
-        "Review next milestone: Opens 2026-11-01"
+        "Review required materials: 1-2 page CV, unofficial transcript, 1-2 page statement of purpose, 2 recommendation letters",
+        "Review next milestone: Applications OPEN since 2026-11-01; virtual info session 2026-11-10"
       ],
       "stream": "spreadsheet"
     },
     {
       "sheet": {
         "key": "c79a60bb00466680a1d249f1a2dd4f8f7e056996ad94a755da69b8a8da27a91c",
-        "hash": "fed261f00dc04f1733d34e53fe44af4eec21175c2f362447754ad71b1f093efb",
-        "checkedAt": "2026-10-23T01:36:22.000Z",
+        "hash": "2a0e8340bf16f96ec2e6193e140ea3a19be83e3e3a4c35211d7a025978bf5b15",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
         "present": true,
         "fields": {
           "title": "Purdue Engineering SURF 2027",
           "category": "Research fellowship",
-          "deadline": "2026-12-15",
-          "milestone": "Opens early Nov 2026",
-          "programDates": "2027-05-31 to 2027-07-30",
-          "funding": "Paid research; exact stipend not published",
-          "location": "Indiana",
-          "eligibility": "Undergraduates at US and international universities; international deadline Dec 15",
-          "materials": "Application details forthcoming",
-          "url": "https://engineering.purdue.edu/Engr/AboutUs/Research/Research/EURO/students/about-SURF"
-        }
+          "deadline": "2026-12-15 (international applicants); 2027-01-15 priority for others",
+          "milestone": "Opens early Nov 2026; exact portal opening day not confirmed",
+          "programDates": "2027-05-31 to 2027-07-30; remote first week, in-person June 7–July 30",
+          "funding": "$6,500 stipend + $2,500 housing subsidy for non-Purdue students + travel subsidy for eligible off-campus participants (amount not stated); meals not covered separately",
+          "location": "Purdue West Lafayette or Indianapolis, IN; hybrid then residential",
+          "eligibility": "Full-time undergrads at US or international institutions, GPA >=2.8, at least 1 semester completed, at least 1 semester remaining after summer; international applicants eligible to apply, but visa/CPT/work authorization required; no concurrent summer courses",
+          "materials": "CV/resume, unofficial transcript, statement of purpose, 1 recommendation for non-Purdue students, final research report/presentation if selected",
+          "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants"
+        },
+        "verifiedAt": "2026-11-02T16:09:20.000Z"
       },
       "id": "sheet-purdue-engineering-surf-2027-c79a60bb0046",
       "title": "Purdue Engineering SURF 2027",
-      "organization": "engineering.purdue.edu",
+      "organization": "Purdue University College of Engineering",
       "category": "Research programs",
       "levels": [
         "Undergraduate"
@@ -4183,26 +4185,26 @@
         "research",
         "fellowship"
       ],
-      "url": "https://engineering.purdue.edu/Engr/AboutUs/Research/Research/EURO/students/about-SURF",
-      "sourceUrl": "https://engineering.purdue.edu/Engr/AboutUs/Research/Research/EURO/students/about-SURF",
-      "summary": "Research fellowship. Program dates: 2027-05-31 to 2027-07-30. Location / format: Indiana. Next milestone: Opens early Nov 2026",
-      "eligibility": "Undergraduates at US and international universities; international deadline Dec 15",
-      "reward": "Paid research; exact stipend not published",
+      "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants",
+      "sourceUrl": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants",
+      "summary": "Ten-week undergraduate research: May 31–June 4, 2027 remotely, then June 7–July 30 at West Lafayette or Indianapolis. Symposium July 29.",
+      "eligibility": "Full-time bachelor’s students at U.S. or international institutions; GPA 2.8+, one completed term and at least one undergraduate term remaining afterward. No concurrent academic activities/internships. F-1 students at another U.S. institution need school authorization/documentation, such as CPT or pre-completion OPT, before an offer is finalized; Purdue’s F-1 students do not require CPT. Usually first-time participants; repeats require principal-investigator support.",
+      "reward": "$6,500 stipend, paid biweekly; $2,500 housing allowance for non-Purdue students who arrange their own housing. Eligible non-home-campus participants may receive travel subsidy; amount unstated. Additional funding conditions apply. Repeat participants are ineligible for EURO housing/travel subsidies.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2026-12-15",
       "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2026-12-15",
+      "sourceDeadline": "International deadline December 15, 2026; priority deadline January 15, 2027 (rolling after). Cutoff time/timezone not published.",
       "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027 · Purdue Engineering SURF 2027",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official 2027 page and FAQ verified. International deadline December 15; general priority January 15, then rolling. Non-Purdue travel-subsidy applicants must meet January 15. Opening is only early November; no live student application established. CV, transcript, statement and one external-student recommendation required.",
+      "checkedOn": "2026-11-02",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Application details forthcoming",
-        "Review next milestone: Opens early Nov 2026"
+        "Review required materials: CV/resume, unofficial transcript, statement of purpose, 1 recommendation for non-Purdue students, final research report/presentation if selected",
+        "Review next milestone: Opens early Nov 2026; exact portal opening day not confirmed"
       ],
       "stream": "spreadsheet"
     },
@@ -23420,6 +23422,295 @@
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Registration scholarship application (SurveyMonkey form); separate travel fund request when Europe 2027 page opens",
         "Review next milestone: Separate Travel Fund page for Europe 2027 opens late 2026 — watch for it"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "ac1b4fb954f53dc18e7587e20a22aafc9811c0911f0c3a7272964f4592b0184f",
+        "hash": "44652933971f794b5dbe16ad8bc45ad5a979932e5a4e4ebb58168205b82b9c41",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
+        "present": true,
+        "fields": {
+          "title": "UC Berkeley College of Chemistry SURD 2027",
+          "category": "Funded HBCU-accessible undergraduate summer research",
+          "deadline": "2027-02-01 23:59 PT",
+          "milestone": "2027 application OPEN; deadline in live Jotform (opening-date typo on form)",
+          "programDates": "2027-06-07 to 2027-08-13; 10 weeks, 40+ hrs/week",
+          "funding": "$6,000 stipend + room and board + travel up to $600; registration not stated",
+          "location": "Berkeley, CA; residential",
+          "eligibility": "Full-time undergrads at US degree-granting institutions, 18+ by June 1, 2027; rising sophomores onward, no graduating seniors; HBCU students encouraged, no prior research needed; citizenship not listed as restriction; F-1 funding/authorization UNCONFIRMED, contact organizer/DSO",
+          "materials": "Unofficial transcript, ~500-1000 word interest statement, ~500 word experiences statement, research/lab preferences; optional obstacles statement",
+          "url": "https://chemistry.berkeley.edu/dei/programs/surd"
+        },
+        "verifiedAt": "2026-11-02T16:09:20.000Z"
+      },
+      "id": "sheet-uc-berkeley-college-of-chemistry-surd-2027-ac1b4fb954f5",
+      "title": "UC Berkeley College of Chemistry SURD 2027",
+      "organization": "University of California, Berkeley College of Chemistry",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "hbcu",
+        "accessible",
+        "undergraduate",
+        "summer",
+        "research"
+      ],
+      "url": "https://chemistry.berkeley.edu/dei/programs/surd",
+      "sourceUrl": "https://chemistry.berkeley.edu/dei/programs/surd",
+      "summary": "Ten-week chemistry, chemical-biology or chemical/biomolecular-engineering research program in Berkeley, June 7–August 13, 2027; full-time laboratory and mentoring activities.",
+      "eligibility": "Age 18+ by June 1, 2027; full-time undergraduate at a degree-granting U.S./territory institution, rising sophomore or later without graduating before summer. No prior research required. Undocumented students at qualifying U.S. institutions explicitly eligible. International-student funding/work authorization is not established; confirm with organizer. No simultaneous summer courses or other time-intensive activities.",
+      "reward": "$6,000 stipend plus room and board; travel costs covered up to $600.",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "2027-02-02T07:59:00Z",
+      "sourceDeadline": "Application closes February 1, 2027 at 11:59 pm Pacific Time.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2027 · UC Berkeley College of Chemistry SURD 2027",
+      "sourceState": "Application",
+      "sourceNote": "Organizer’s linked 2027 Jotform opens to blank application fields and current eligibility checks; no data entered. Form confirms February 1 at 11:59 p.m. Pacific but has contradictory October 1, 2027 opening text and an old email-help year. Opening date left unset; these inconsistencies do not establish closure.",
+      "checkedOn": "2026-11-02",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Unofficial transcript, ~500-1000 word interest statement, ~500 word experiences statement, research/lab preferences; optional obstacles statement",
+        "Review next milestone: 2027 application OPEN; deadline in live Jotform (opening-date typo on form)"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "1def89c581e06f3413a6094746d62050bff54d2ccb5b3f8445cbfd845eb1a3b1",
+        "hash": "371c921e08697e66d8b5cc17d8f8d9b180f79881632f6e2e019eda93f4735a2d",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
+        "present": true,
+        "fields": {
+          "title": "Washington State University Agriculture in Changing Climate REEU 2027",
+          "category": "Paid agricultural research + extension experience",
+          "deadline": "Application cutoff not officially confirmed; source reports rolling review beginning 2027-02-01.",
+          "milestone": "2027 application survey OPEN; apply before review begins",
+          "programDates": "2027-05-24 to 2027-07-31; ~10 weeks, 40 hrs/week",
+          "funding": "$5,500 stipend + on-campus housing OR up to $220/week off-campus housing support; meals/travel not advertised as covered",
+          "location": "Pullman, WA; in-person with field trips",
+          "eligibility": "Undergraduates from varied institutions and class years; no previous research experience required. The source does not establish citizenship, international-student eligibility or work-authorization conditions; confirm current program requirements.",
+          "materials": "Application through the linked Qualtrics survey; exact questions and required materials need confirmation.",
+          "url": "https://ibc.wsu.edu/undergraduate-summer-research/"
+        }
+      },
+      "id": "sheet-washington-state-university-agriculture-in-changing-climate-reeu--1def89c581e0",
+      "title": "Washington State University Agriculture in Changing Climate REEU 2027",
+      "organization": "ibc.wsu.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "agricultural",
+        "research",
+        "extension",
+        "experience"
+      ],
+      "url": "https://ibc.wsu.edu/undergraduate-summer-research/",
+      "sourceUrl": "https://ibc.wsu.edu/undergraduate-summer-research/",
+      "summary": "Paid agricultural research + extension experience. Program dates: 2027-05-24 to 2027-07-31; ~10 weeks, 40 hrs/week. Location / format: Pullman, WA; in-person with field trips. Next milestone: 2027 application survey OPEN; apply before review begins",
+      "eligibility": "Undergraduates from varied institutions and class years; no previous research experience required. The source does not establish citizenship, international-student eligibility or work-authorization conditions; confirm current program requirements.",
+      "reward": "$5,500 stipend + on-campus housing OR up to $220/week off-campus housing support; meals/travel not advertised as covered",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: Application cutoff not officially confirmed; source reports rolling review beginning 2027-02-01.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "2027 · Washington State University Agriculture in Changing Climate REEU 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Application through the linked Qualtrics survey; exact questions and required materials need confirmation.",
+        "Review next milestone: 2027 application survey OPEN; apply before review begins"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "d3dd2057e4f56c9d84d1a6e83174b290bd2910dd12659084ca54405aed23a319",
+        "hash": "86c7cf1889ab6e9eae25a25f006af06bbd08da5608dd547f45fefb982b2db0c5",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
+        "present": true,
+        "fields": {
+          "title": "Northwestern University SROP 2027",
+          "category": "Paid interdisciplinary undergraduate summer research",
+          "deadline": "2027-02-10 (BTAA portal close); rolling earlier review",
+          "milestone": "1st complete-application review 2026-11-30; early offers Dec 2026",
+          "programDates": "2027-06-14 to 2027-08-06, 8 weeks; first week virtual",
+          "funding": "$6,500 stipend pre-tax incl partial meals + on-campus housing + round-trip domestic transportation + graduate fee waiver",
+          "location": "Evanston, IL; residential after initial virtual week",
+          "eligibility": "US citizen or PR ONLY; F-1 ineligible; current sophomore or junior, GPA >=3.5, interested in Northwestern PhD; all disciplines including psychology/social sciences",
+          "materials": "BTAA application (3 statements, transcript, 2 faculty recommendations) PLUS Northwestern supplemental application",
+          "url": "https://www.tgs.northwestern.edu/success/thoughtful-recruitment/summer-research-opportunity-program/"
+        }
+      },
+      "id": "sheet-northwestern-university-srop-2027-d3dd2057e4f5",
+      "title": "Northwestern University SROP 2027",
+      "organization": "tgs.northwestern.edu",
+      "category": "Research programs",
+      "levels": [
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "paid",
+        "interdisciplinary",
+        "undergraduate",
+        "summer",
+        "research"
+      ],
+      "url": "https://www.tgs.northwestern.edu/success/thoughtful-recruitment/summer-research-opportunity-program/",
+      "sourceUrl": "https://www.tgs.northwestern.edu/success/thoughtful-recruitment/summer-research-opportunity-program/",
+      "summary": "Paid interdisciplinary undergraduate summer research. Program dates: 2027-06-14 to 2027-08-06, 8 weeks; first week virtual. Location / format: Evanston, IL; residential after initial virtual week. Next milestone: 1st complete-application review 2026-11-30; early offers Dec 2026",
+      "eligibility": "US citizen or PR ONLY; F-1 ineligible; current sophomore or junior, GPA >=3.5, interested in Northwestern PhD; all disciplines including psychology/social sciences",
+      "reward": "$6,500 stipend pre-tax incl partial meals + on-campus housing + round-trip domestic transportation + graduate fee waiver",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-10",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-10 (BTAA portal close); rolling earlier review",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · Northwestern University SROP 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: BTAA application (3 statements, transcript, 2 faculty recommendations) PLUS Northwestern supplemental application",
+        "Review next milestone: 1st complete-application review 2026-11-30; early offers Dec 2026"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "28e67bb9370338212e51c5724caee722deea81367e76836bf5b7161f62cba083",
+        "hash": "b2a8f45257bb05a307901dc1376d9f6da5a5c428947a3195004f362767cefab6",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
+        "present": true,
+        "fields": {
+          "title": "UCSF Summer Research Training Program (SRTP) 2027",
+          "category": "Funded summer biomedical and neuroscience research",
+          "deadline": "2027-02-01 23:59 PT",
+          "milestone": "Applications opened 2026-11-01",
+          "programDates": "2027-05-30 to 2027-08-07; up to 10 weeks",
+          "funding": "Package worth >$15,000: stipend (exact cash amount unpublished), housing, round-trip travel, public transit stipend, health insurance",
+          "location": "San Francisco, CA; residential",
+          "eligibility": "Currently enrolled undergrad, >=4 semesters or 6 quarters, pursuing life/health-science PhD, no graduation before summer; US citizen/PR only; DACA/AB540 case-by-case; F-1 ineligible",
+          "materials": "Online application and personal statement, 2 recommendations, transcripts",
+          "url": "https://graduate.ucsf.edu/academics/srtp"
+        }
+      },
+      "id": "sheet-ucsf-summer-research-training-program-srtp-2027-28e67bb93703",
+      "title": "UCSF Summer Research Training Program (SRTP) 2027",
+      "organization": "graduate.ucsf.edu",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "funded",
+        "summer",
+        "biomedical",
+        "neuroscience",
+        "research"
+      ],
+      "url": "https://graduate.ucsf.edu/academics/srtp",
+      "sourceUrl": "https://graduate.ucsf.edu/academics/srtp",
+      "summary": "Funded summer biomedical and neuroscience research. Program dates: 2027-05-30 to 2027-08-07; up to 10 weeks. Location / format: San Francisco, CA; residential. Next milestone: Applications opened 2026-11-01",
+      "eligibility": "Currently enrolled undergrad, >=4 semesters or 6 quarters, pursuing life/health-science PhD, no graduation before summer; US citizen/PR only; DACA/AB540 case-by-case; F-1 ineligible",
+      "reward": "Package worth >$15,000: stipend (exact cash amount unpublished), housing, round-trip travel, public transit stipend, health insurance",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2027-02-01 23:59 PT",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · UCSF Summer Research Training Program (SRTP) 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Online application and personal statement, 2 recommendations, transcripts",
+        "Review next milestone: Applications opened 2026-11-01"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "sheet": {
+        "key": "a011f3738809635c9800fa28eefc439cfaa0fcc2ee54c060100cb7bbeb70bc56",
+        "hash": "904961cc0b535fd99e04971cbe0ab25886abe6e99ba51ed285aa2919ea90dde5",
+        "checkedAt": "2026-11-02T16:09:20.000Z",
+        "present": true,
+        "fields": {
+          "title": "ANNA Nephrology Nursing Foundation ELEVATE Scholarships 2027",
+          "category": "Professional nursing education/certification scholarships",
+          "deadline": "2026-12-31 23:59 ET",
+          "milestone": "Applications opened 2026-10-29; recipients notified 2027-01-22",
+          "programDates": "2027 degree or NNCC certification preparation",
+          "funding": "7 education scholarships of $1,500 each; 10 certification packages valued at $1,450 each (exam fee + review course + up to 20 CE hours); $25,000 committed across 17 awards",
+          "location": "US; education at accredited nursing programs; certification review online; travel/housing/meals not covered",
+          "eligibility": "Practicing nurses advancing from LPN to RN, RN to BSN, or BSN to graduate nursing study; certification applicants pursuing CNN, CDN or CNN-NP. Confirm current membership, licensure, experience, citizenship and other award-specific requirements in the application portal.",
+          "materials": "Apply through official education or certification SmarterSelect portal; detailed form questions inaccessible publicly, confirm membership/licensure/experience and documentation in portal",
+          "url": "https://www.annanurse.org/2027-elevate-scholarships-now-open/"
+        }
+      },
+      "id": "sheet-anna-nephrology-nursing-foundation-elevate-scholarships-2027-a011f3738809",
+      "title": "ANNA Nephrology Nursing Foundation ELEVATE Scholarships 2027",
+      "organization": "annanurse.org",
+      "category": "Scholarships",
+      "levels": [
+        "Graduate",
+        "Professional"
+      ],
+      "tags": [
+        "Spreadsheet",
+        "professional",
+        "nursing",
+        "education",
+        "certification",
+        "scholarships"
+      ],
+      "url": "https://www.annanurse.org/2027-elevate-scholarships-now-open/",
+      "sourceUrl": "https://www.annanurse.org/2027-elevate-scholarships-now-open/",
+      "summary": "Professional nursing education/certification scholarships. Program dates: 2027 degree or NNCC certification preparation. Location / format: US; education at accredited nursing programs; certification review online; travel/housing/meals not covered. Next milestone: Applications opened 2026-10-29; recipients notified 2027-01-22",
+      "eligibility": "Practicing nurses advancing from LPN to RN, RN to BSN, or BSN to graduate nursing study; certification applicants pursuing CNN, CDN or CNN-NP. Confirm current membership, licensure, experience, citizenship and other award-specific requirements in the application portal.",
+      "reward": "7 education scholarships of $1,500 each; 10 certification packages valued at $1,450 each (exam fee + review course + up to 20 CE hours); $25,000 committed across 17 awards",
+      "value": 3,
+      "effort": 5,
+      "deadlineDate": "2026-12-31",
+      "deadlineAt": "",
+      "sourceDeadline": "Spreadsheet reports: 2026-12-31 23:59 ET",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027 · ANNA Nephrology Nursing Foundation ELEVATE Scholarships 2027",
+      "sourceState": "Needs verification",
+      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
+      "checkedOn": "",
+      "suggestedTasks": [
+        "Verify eligibility, costs and the official application deadline",
+        "Review required materials: Apply through official education or certification SmarterSelect portal; detailed form questions inaccessible publicly, confirm membership/licensure/experience and documentation in portal",
+        "Review next milestone: Applications opened 2026-10-29; recipients notified 2027-01-22"
       ],
       "stream": "spreadsheet"
     }
