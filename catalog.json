@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 165,
-  "updatedAt": "2026-11-02T19:09:51.714Z",
+  "revision": 166,
+  "updatedAt": "2026-11-19T18:32:21.354Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-10-27T23:06:36.000Z",
+      "checkedAt": "2026-11-19T18:31:33.000Z",
       "outcome": "success",
-      "summary": "Corrected Tradeify Open 2 from a stale October 25 cutoff to the current free-entry listing (the page lists October 26–November 23 play dates but no registration cutoff). Added SIG’s New York 2027 quantitative-trading Discovery Program. Marked IAQF Industry Day and the Global Market Making Games qualifier as past cycles after their stated October 25 cutoffs."
+      "summary": "Verified three new student-relevant cash competitions on official organizer pages: Codegeist 2026, Draper Data Science 2027 and the Open Agentic Web Challenge."
     },
     {
       "id": "travel",
@@ -23713,6 +23713,123 @@
         "Review next milestone: Applications opened 2026-10-29; recipients notified 2027-01-22"
       ],
       "stream": "spreadsheet"
+    },
+    {
+      "id": "codegeist-2026",
+      "title": "Codegeist 2026",
+      "organization": "Atlassian",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "All levels"
+      ],
+      "tags": [
+        "software engineering",
+        "AI",
+        "apps",
+        "cash prize",
+        "hackathon"
+      ],
+      "url": "https://codegeist2026.devpost.com/",
+      "sourceUrl": "https://codegeist2026.devpost.com/rules",
+      "summary": "Build a working Atlassian Forge app connected to Jira, Confluence, Bitbucket or another eligible Atlassian product. Online submissions close December 22, 2026.",
+      "eligibility": "Individuals at least the age of majority may enter, including students; some jurisdictions are excluded. The app must run on Forge, include a working installation link and a public demo video.",
+      "reward": "$120,000 total cash prizes; three first-place awards of $15,000, three second-place awards of $8,000, three third-place awards of $5,000, plus eligible $1,500 bonus prizes. No purchase or payment required.",
+      "value": 4,
+      "effort": 30,
+      "deadlineDate": "2026-12-22",
+      "deadlineAt": "2026-12-22T20:00:00.000Z",
+      "sourceDeadline": "December 22, 2026 at 12:00 pm Pacific Standard Time",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Verified on Atlassian/Devpost official rules November 19, 2026. The Team 2027 tickets for first-place teams exclude travel.",
+      "checkedOn": "2026-11-19",
+      "suggestedTasks": [
+        "Register on Devpost",
+        "Build a Forge app and prepare an installation link",
+        "Record a demo video under five minutes"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "draper-data-science-business-plan-competition-2027",
+      "title": "Draper Data Science Business Plan Competition 2027",
+      "organization": "UT San Antonio",
+      "category": "Startup competitions",
+      "levels": [
+        "Undergraduate",
+        "Graduate",
+        "Founder"
+      ],
+      "tags": [
+        "data science",
+        "startup",
+        "cash prize",
+        "student"
+      ],
+      "url": "https://utsa.az1.qualtrics.com/jfe/form/SV_3ecQhwEyqEHwZeu",
+      "sourceUrl": "https://caicc.utsa.edu/draper/",
+      "summary": "Student teams pitch for-profit ventures that use data science. Phase I applications close January 3, 2027; finalists present in San Antonio on April 9.",
+      "eligibility": "Teams of 2–6 undergraduate or graduate students at accredited nonprofit colleges in the US, Canada or Mexico need a faculty advisor. Participants must meet country-of-enrollment citizenship or permanent-residence rules and hold a US SSN or ITIN at application to receive prizes. Finalists must attend in person; no visa sponsorship.",
+      "reward": "Up to $100,000 total cash awards, including $35,000 first place, $25,000 second place and $15,000 third place; supplemental awards are discretionary. Travel costs are not stated.",
+      "value": 4,
+      "effort": 30,
+      "deadlineDate": "2027-01-03",
+      "deadlineAt": "",
+      "sourceDeadline": "Phase I applications close January 3, 2027; time not stated",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Verified on UT San Antonio organizer page November 19, 2026. The Qualtrics application page requires JavaScript.",
+      "checkedOn": "2026-11-19",
+      "suggestedTasks": [
+        "Check team and tax-ID eligibility",
+        "Recruit 2–6 student teammates and a faculty advisor",
+        "Prepare the venture proposal PDF"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "open-agentic-web-challenge-2027",
+      "title": "Open Agentic Web Challenge",
+      "organization": "Cognizant",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "All levels"
+      ],
+      "tags": [
+        "AI",
+        "web",
+        "open source",
+        "cash prize",
+        "hackathon"
+      ],
+      "url": "https://cognizant-agenticweb.devpost.com/",
+      "sourceUrl": "https://cognizant-agenticweb.devpost.com/rules",
+      "summary": "Build a publicly accessible agentic website or web component using open web technologies and the challenge specification. Online submissions close January 11, 2027.",
+      "eligibility": "Individuals at least the age of majority may enter, including students, subject to the official geographic exclusions. The project must be publicly accessible and include a working demonstration.",
+      "reward": "$10,000 in cash prizes listed on the official Devpost challenge page; no purchase or payment required.",
+      "value": 4,
+      "effort": 30,
+      "deadlineDate": "2027-01-11",
+      "deadlineAt": "2027-01-11T16:00:00.000Z",
+      "sourceDeadline": "January 11, 2027 at 8:00 am Pacific Standard Time (16:00 UTC)",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2026–2027",
+      "sourceState": "Application",
+      "sourceNote": "Verified on Cognizant/Devpost official challenge and rules November 19, 2026.",
+      "checkedOn": "2026-11-19",
+      "suggestedTasks": [
+        "Register on Devpost",
+        "Read the open agentic web specification",
+        "Build and publish a working demo site"
+      ],
+      "stream": "trading"
     }
   ]
 }
