@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 166,
-  "updatedAt": "2026-11-19T18:32:21.354Z",
+  "revision": 167,
+  "updatedAt": "2026-11-21T15:05:59.306Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-11-19T18:31:33.000Z",
+      "checkedAt": "2026-11-21T15:04:35.000Z",
       "outcome": "success",
-      "summary": "Verified three new student-relevant cash competitions on official organizer pages: Codegeist 2026, Draper Data Science 2027 and the Open Agentic Web Challenge."
+      "summary": "Verified three new cash-prize hackathons and updated the open 2027 Berkeley Trading Competition with its confirmed deadline, prize pool and travel support."
     },
     {
       "id": "travel",
@@ -1975,7 +1975,7 @@
     },
     {
       "id": "berkeley-trading-watch",
-      "title": "Berkeley Trading Competition — next cycle",
+      "title": "Berkeley Trading Competition 2027",
       "organization": "Traders at Berkeley",
       "category": "Finance & bounties",
       "levels": [
@@ -1983,29 +1983,32 @@
         "Graduate"
       ],
       "tags": [
-        "Daily discovery",
-        "Finance"
+        "trading",
+        "quant",
+        "student",
+        "cash prize",
+        "travel support"
       ],
       "url": "https://traders.studentorg.berkeley.edu/competition/",
       "sourceUrl": "https://traders.studentorg.berkeley.edu/competition/",
-      "summary": "Individual trading/research competition held each spring at UC Berkeley.",
-      "eligibility": "U.S.-based undergraduate and graduate students; strong quantitative ability, no prior trading experience required.",
-      "reward": "$20,000 prize pool; transportation support, arranged accommodation, breakfast and lunch for selected participants.",
-      "value": 4,
+      "summary": "Individual trading and quantitative research competition at UC Berkeley on February 27–28, 2027. Applications are open through December 6, 2026.",
+      "eligibility": "US-based undergraduate and graduate students may apply; no prior trading experience required. The organizer targets underclassmen and selects competitors after applications close.",
+      "reward": "$25,000 cash prize pool. Transportation and accommodation are covered for accepted traveling participants; reimbursement details are sent after acceptance. Breakfast and lunch are provided.",
+      "value": 5,
       "effort": 8,
-      "deadlineDate": "",
-      "deadlineAt": "",
-      "sourceDeadline": "Application deadline not confirmed on the current organizer page",
-      "confidence": "Unknown",
+      "deadlineDate": "2026-12-06",
+      "deadlineAt": "2026-12-07T07:59:00.000Z",
+      "sourceDeadline": "December 6, 2026 at 11:59 PM Pacific Standard Time",
+      "confidence": "Exact time",
       "opensOn": "",
       "cycle": "Next spring intake · dates unannounced",
-      "sourceState": "Upcoming",
-      "sourceNote": "Organizer says applications are not open yet. Typical late-November to mid-December timing is historical guidance, not a confirmed current window. Wait for acceptance and travel instructions before booking.",
-      "checkedOn": "2026-10-21",
+      "sourceState": "Application",
+      "sourceNote": "Verified on organizer page November 21, 2026. This entry began as a next-cycle watch; the 2027 application dates are now confirmed. Wait for acceptance and reimbursement instructions before booking travel.",
+      "checkedOn": "2026-11-21",
       "suggestedTasks": [
-        "Confirm eligibility, funding conditions and deadline",
-        "Prepare the required materials",
-        "Apply through the organizer and save confirmation"
+        "Complete the BTC 2027 application",
+        "Prepare a resume highlighting quantitative and coding work",
+        "Save confirmation and wait for selection before booking travel"
       ],
       "stream": "trading"
     },
@@ -23828,6 +23831,120 @@
         "Register on Devpost",
         "Read the open agentic web specification",
         "Build and publish a working demo site"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "kiroween-2026",
+      "title": "Kiroween 2026",
+      "organization": "Amazon Web Services / Kiro",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "All levels"
+      ],
+      "tags": [
+        "software engineering",
+        "AI",
+        "hackathon",
+        "cash prize",
+        "student"
+      ],
+      "url": "https://kiroween.devpost.com/",
+      "sourceUrl": "https://kiroween.devpost.com/rules",
+      "summary": "Build a new working app with Kiro in one of four themed categories. Submit code and a demo online by December 4, 2026.",
+      "eligibility": "Entrants must be at least the age of majority and reside in an eligible jurisdiction. New projects must be built during the October 30–December 4 submission period; teams may have up to three people.",
+      "reward": "$100,000 cash prize pool, including $30,000 first place, $20,000 second place and $10,000 third place. Four $5,000 category prizes and other bonuses; the student-specific award is a subscription, not cash.",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "2026-12-04",
+      "deadlineAt": "2026-12-04T22:00:00.000Z",
+      "sourceDeadline": "December 4, 2026 at 2:00 PM Pacific Standard Time",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Verified on official AWS/Devpost rules November 21, 2026. A project needs visible Kiro usage and a repository containing the /.kiro directory.",
+      "checkedOn": "2026-11-21",
+      "suggestedTasks": [
+        "Register on Devpost",
+        "Build a new Kiro project",
+        "Submit the repository and demo by December 4"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "hetic-ai-agents-for-founders-2026",
+      "title": "AI Agents for Founders Challenge 2026",
+      "organization": "HETIC",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "AI agents",
+        "startup",
+        "student",
+        "cash prize",
+        "hackathon"
+      ],
+      "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+      "sourceUrl": "https://ai-agents-founders-hetic-26.devpost.com/rules",
+      "summary": "Teams build an AI agent that saves founders time while keeping a human decision point. The online submission date is December 18, 2026.",
+      "eligibility": "Higher-education students aged 18 or above from eligible countries; teams of 2–4. Projects must be created during the submission period and use free AI models or free tiers at runtime.",
+      "reward": "€1,000 total cash prizes: €600 grand prize, €250 runner-up and €150 critical-thinking award. Prizes are paid to teams.",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "2026-12-18",
+      "deadlineAt": "",
+      "sourceDeadline": "December 18, 2026; official rules say 5:00 PM Europe/Paris, but the Devpost banner says 11:00 PM CET",
+      "confidence": "Timezone unconfirmed",
+      "opensOn": "",
+      "cycle": "2026",
+      "sourceState": "Application",
+      "sourceNote": "Verified on organizer Devpost rules November 21, 2026. The conflicting cutoff times should be resolved with the organizer; plan to submit before 5:00 PM Europe/Paris.",
+      "checkedOn": "2026-11-21",
+      "suggestedTasks": [
+        "Form a 2–4 student team",
+        "Build an agent using a free model",
+        "Confirm the cutoff time and submit early"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "cosmo-hacks-2026-2027",
+      "title": "Cosmo Hacks 2026",
+      "organization": "Cosmo Hacks",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "student",
+        "hackathon",
+        "cash prize",
+        "software engineering"
+      ],
+      "url": "https://cosmohacks.devpost.com/",
+      "sourceUrl": "https://cosmohacks.devpost.com/rules",
+      "summary": "Free online student hackathon to build technology for student or community life. The build window runs December 19, 2026 through January 18, 2027.",
+      "eligibility": "Students aged 13 or above may enter individually or in teams of up to four; college students compete in a separate division. Projects must be built during the official window and include a public code repository and demo video.",
+      "reward": "$405 confirmed cash prize pool listed on the organizer page, plus sponsor software benefits; additional cash is not guaranteed.",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "2027-01-18",
+      "deadlineAt": "2027-01-18T22:00:00.000Z",
+      "sourceDeadline": "January 18, 2027 at 4:00 PM Central Standard Time",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "2026–2027",
+      "sourceState": "Application",
+      "sourceNote": "Verified on official Devpost rules November 21, 2026. Registration is open now; project work must begin no earlier than December 19.",
+      "checkedOn": "2026-11-21",
+      "suggestedTasks": [
+        "Register for the college division",
+        "Choose a student or community problem",
+        "Begin building on December 19 and submit by January 18"
       ],
       "stream": "trading"
     }
