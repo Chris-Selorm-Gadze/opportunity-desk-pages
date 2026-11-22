@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 167,
-  "updatedAt": "2026-11-21T15:05:59.306Z",
+  "revision": 168,
+  "updatedAt": "2026-11-22T16:00:59.405Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-10-30T20:23:25.000Z",
+      "checkedAt": "2026-11-22T15:46:55.000Z",
       "outcome": "success",
-      "summary": "Added Salesforce AI Labs Internship from @zero2sudo's Oct 30 story, and restored 8 story-spotted internships (NVIDIA, Nintendo, Disney, DocuSign, Workday, Amazon) that were missing from the latest remote catalog. All are marked Needs verification: story links are the source for now and the official posting, deadline, and eligibility must be verified before applying."
+      "summary": "Verified the open 2027 Colorado College Mathematical and Computational Undergraduate Research Experience on the official program and application pages."
     },
     {
       "id": "spreadsheet",
@@ -23947,6 +23947,44 @@
         "Begin building on December 19 and submit by January 18"
       ],
       "stream": "trading"
+    },
+    {
+      "id": "mcure-colorado-college-2027",
+      "title": "Mathematical and Computational Undergraduate Research Experience 2027",
+      "organization": "Colorado College",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "machine learning",
+        "research",
+        "computer science",
+        "paid",
+        "travel support"
+      ],
+      "url": "https://coloradocollege.qualtrics.com/jfe/form/SV_cYhnConMhI72u4m",
+      "sourceUrl": "https://www.coloradocollege.edu/academics/dept/mathcs/mcure/mcure2027.html",
+      "summary": "Eight-week, in-person team research program in Colorado Springs, with a 2027 project on machine learning applied to biological patterns. Applications received by February 15, 2027 receive full consideration.",
+      "eligibility": "Current undergraduates who can contribute to mathematical or computational research; applicants need multivariable calculus and linear algebra coursework, or Python fluency with data-science packages. Interest in biology is preferred.",
+      "reward": "$600 per week for eight weeks, plus room and board; travel reimbursement from the home institution up to $450 and support for travel to a national conference after successful completion.",
+      "value": 4,
+      "effort": 8,
+      "deadlineDate": "2027-02-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications received by February 15, 2027 receive full consideration; time not stated",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "2027",
+      "sourceState": "Application",
+      "sourceNote": "Verified on the Colorado College program page and direct Qualtrics application November 22, 2026. The date is a full-consideration deadline, not an explicit final closing date.",
+      "checkedOn": "2026-11-22",
+      "suggestedTasks": [
+        "Prepare transcript and a 1,000–1,500-word statement",
+        "Request two faculty references",
+        "Submit the official form by February 15"
+      ],
+      "stream": "internships"
     }
   ]
 }
