@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 169,
-  "updatedAt": "2026-11-22T16:16:25.552Z",
+  "revision": 170,
+  "updatedAt": "2026-11-22T16:16:35.107Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-02T19:09:38.000Z",
+      "checkedAt": "2026-11-22T15:46:55.000Z",
       "outcome": "success",
-      "summary": "Read 308 spreadsheet opportunities: 0 new, 305 matched to tracked records, 0 source records changed, 0 no longer listed."
+      "summary": "Rechecked the ETH Zurich 2027 Student Summer Research Fellowship on official pages and corrected its open status and funding details."
     },
     {
       "id": "trading",
@@ -11330,7 +11330,7 @@
       "sourceUrl": "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-apply.html",
       "summary": "Funded fellowships and research. Program dates: Jul 2 – Aug 27, 2027, Zurich, Switzerland. Location / format: Zurich, Switzerland / in-person research",
       "eligibility": "Bachelor’s or master’s students in computer science or a related field, with two years completed by the programme and graduation in the following year or later. Full July–August attendance and working English required. Current ETH students are excluded; confirm travel and immigration arrangements.",
-      "reward": "The spreadsheet reports a stipend and travel/visa reimbursement. Confirm current amounts, payment timing and uncovered costs with the official programme.",
+      "reward": "CHF 4,000 stipend for housing and living costs; ETH also covers travel and visa expenses, with travel costs claimed against receipts at the start of the programme. Housing expenses are deducted from the stipend.",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2026-12-16",
@@ -11339,9 +11339,9 @@
       "confidence": "Exact time",
       "opensOn": "2026-11-01",
       "cycle": "2027 · ETH Zurich Student Summer Research Fellowship 2027",
-      "sourceState": "Upcoming",
-      "sourceNote": "Official application page confirms the November 1–December 16, 2026 window and CET cutoff. The programme page welcomes applicants worldwide except current ETH Zurich students. Specific funding amounts and reimbursement arrangements have not been independently confirmed in this check.",
-      "checkedOn": "2026-10-23",
+      "sourceState": "Application",
+      "sourceNote": "Verified on ETH Zurich official application and FAQ pages November 22, 2026. The November 1–December 16, 2026 application window is open. Applicants apply through SiROP; ETH notes that housing costs are deducted from the stipend.",
+      "checkedOn": "2026-11-22",
       "suggestedTasks": [
         "Verify eligibility, costs and the official application deadline",
         "Review required materials: Europass-format CV, official transcript, 1-page motivation letter (no letters of recommendation required); apply via SiROP portal; possible interview"
