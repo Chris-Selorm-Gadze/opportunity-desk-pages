@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 168,
-  "updatedAt": "2026-11-22T16:00:59.405Z",
+  "revision": 169,
+  "updatedAt": "2026-11-22T16:16:25.552Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-11-21T15:04:35.000Z",
+      "checkedAt": "2026-11-22T15:46:55.000Z",
       "outcome": "success",
-      "summary": "Verified three new cash-prize hackathons and updated the open 2027 Berkeley Trading Competition with its confirmed deadline, prize pool and travel support."
+      "summary": "Verified Immunefi's active rolling Web3 security bug bounty, including published severity-based USDC rewards and reporting rules."
     },
     {
       "id": "travel",
@@ -23985,6 +23985,44 @@
         "Submit the official form by February 15"
       ],
       "stream": "internships"
+    },
+    {
+      "id": "immunefi-platform-bug-bounty-rolling",
+      "title": "Immunefi Platform Bug Bounty",
+      "organization": "Immunefi",
+      "category": "Finance & bounties",
+      "levels": [
+        "Advanced"
+      ],
+      "tags": [
+        "crypto",
+        "security",
+        "bug bounty",
+        "web app",
+        "Solidity"
+      ],
+      "url": "https://immunefi.com/bug-bounty/immunefi/information/",
+      "sourceUrl": "https://immunefi.com/bug-bounty/immunefi/information/",
+      "summary": "Ongoing vulnerability disclosure program for Immunefi's in-scope smart contracts and web applications. Researchers submit a reproducible report through the official bounty page.",
+      "eligibility": "Security researchers outside sanctioned or restricted jurisdictions; a proof of concept is required and KYC applies. Only in-scope, previously unknown vulnerabilities with eligible impacts can earn rewards.",
+      "reward": "USDC rewards: web/app vulnerabilities range from $1,000 low to $10,000 critical; smart-contract vulnerabilities range from $1,000 low to $50,000 critical, subject to impact and program rules.",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Ongoing live bug bounty; no closing date published",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Rolling",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified on Immunefi's live program page November 22, 2026. Rewards require a valid accepted report; maximum figures are not guaranteed.",
+      "checkedOn": "2026-11-22",
+      "suggestedTasks": [
+        "Read the in-scope assets and impacts",
+        "Test only within the published rules",
+        "Submit a reproducible proof of concept if a valid issue is found"
+      ],
+      "stream": "trading"
     }
   ]
 }
