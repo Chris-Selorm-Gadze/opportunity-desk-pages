@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "revision": 170,
-  "updatedAt": "2026-11-22T16:16:35.107Z",
+  "revision": 171,
+  "updatedAt": "2026-11-23T14:59:05.291Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-11-22T15:46:55.000Z",
+      "checkedAt": "2026-11-23T14:58:02.000Z",
       "outcome": "success",
-      "summary": "Verified the open 2027 Colorado College Mathematical and Computational Undergraduate Research Experience on the official program and application pages."
+      "summary": "Verified two open, rolling 2027 software internships for CS students graduating in 2028: PDT Partners and Hasbro/Wizards of the Coast."
     },
     {
       "id": "spreadsheet",
@@ -24023,6 +24023,83 @@
         "Submit a reproducible proof of concept if a valid issue is found"
       ],
       "stream": "trading"
+    },
+    {
+      "id": "pdt-partners-swe-intern-2027",
+      "title": "Summer 2027 Software Engineering Intern",
+      "organization": "PDT Partners",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "software engineering",
+        "quant finance",
+        "trading",
+        "paid",
+        "New York"
+      ],
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "sourceUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "summary": "Ten-week software engineering internship in New York building systems for a quantitative investment manager, including trading data and infrastructure. The employer reviews applications on a rolling basis.",
+      "eligibility": "Current bachelor's, master's or PhD students in CS, computer engineering or another rigorous technical field who are eligible for full-time roles starting in 2028 or 2029. The application asks about US work authorization and sponsorship.",
+      "reward": "$225,000 annualized salary rate stated by employer; total ten-week internship earnings are lower and bonus is excluded.",
+      "value": 5,
+      "effort": 10,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications reviewed on a rolling basis; no fixed closing date stated",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified on PDT Partners' live Greenhouse application November 23, 2026. Salary is an annualized rate, not the total internship pay.",
+      "checkedOn": "2026-11-23",
+      "suggestedTasks": [
+        "Tailor resume to algorithms and systems projects",
+        "Describe interest in quantitative finance",
+        "Apply through the employer form soon"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "hasbro-it-software-internships-2027",
+      "title": "2027 Summer IT & Software Internships",
+      "organization": "Hasbro / Wizards of the Coast",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "software engineering",
+        "data",
+        "AI",
+        "paid",
+        "games"
+      ],
+      "url": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009",
+      "sourceUrl": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009",
+      "summary": "General application for anticipated summer 2027 IT and software projects in Renton, Washington, potentially supporting Hasbro or Wizards of the Coast. Applications are reviewed on a rolling basis from October through March as projects are confirmed.",
+      "eligibility": "Students in CS, software engineering or related degrees who remain enrolled at least one term after the internship. US work authorization is required; the company cannot sponsor a visa for this position. Projects may be hybrid or fully onsite.",
+      "reward": "$44–$46 per hour for the Renton posting; relocation assistance may be available subject to eligibility.",
+      "value": 4,
+      "effort": 6,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Rolling review from October through March as needed; no fixed closing date stated",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Verified on Hasbro's live Greenhouse application November 23, 2026. This is a general talent application, not a guaranteed vacancy or placement.",
+      "checkedOn": "2026-11-23",
+      "suggestedTasks": [
+        "Prepare resume and optional project links",
+        "Confirm US work authorization",
+        "Apply through the Hasbro posting soon"
+      ],
+      "stream": "internships"
     }
   ]
 }
