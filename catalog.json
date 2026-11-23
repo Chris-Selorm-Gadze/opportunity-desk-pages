@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 171,
-  "updatedAt": "2026-11-23T14:59:05.291Z",
+  "revision": 172,
+  "updatedAt": "2026-11-23T14:59:14.877Z",
   "streams": [
     {
       "id": "internships",
@@ -20,9 +20,9 @@
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-11-22T15:46:55.000Z",
+      "checkedAt": "2026-11-23T14:58:02.000Z",
       "outcome": "success",
-      "summary": "Verified Immunefi's active rolling Web3 security bug bounty, including published severity-based USDC rewards and reporting rules."
+      "summary": "Corrected Yale Trading Competition's live December 4 application deadline and updated Cosmo Hacks' confirmed cash prize pool to $700."
     },
     {
       "id": "travel",
@@ -1813,15 +1813,15 @@
       "reward": "Travel reimbursement to/from New Haven and organizer-arranged hotel for participants outside Yale.",
       "value": 4,
       "effort": 5,
-      "deadlineDate": "2026-11-20",
-      "deadlineAt": "2026-11-21T04:59:00Z",
-      "sourceDeadline": "November 20, 2026, 11:59 PM ET",
+      "deadlineDate": "2026-12-04",
+      "deadlineAt": "2026-12-05T04:59:00.000Z",
+      "sourceDeadline": "December 4, 2026 at 11:59 PM Eastern Time",
       "confidence": "Exact time",
       "opensOn": "",
       "cycle": "2027 event / fall 2026 applications",
       "sourceState": "Application",
-      "sourceNote": "Student-run organizer confirms November 20, 11:59 PM ET for the 2027 event; the intake opens October 2026. Reimbursement details and limits should be checked after acceptance.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "Verified on the organizer's current 2027 competition page November 23, 2026. The previously listed November 20 cutoff is superseded by the current December 4 cutoff. Travel reimbursement and hotel details are communicated after selection.",
+      "checkedOn": "2026-11-23",
       "suggestedTasks": [
         "Confirm eligibility, funding conditions and deadline",
         "Prepare the required materials",
@@ -23929,7 +23929,7 @@
       "sourceUrl": "https://cosmohacks.devpost.com/rules",
       "summary": "Free online student hackathon to build technology for student or community life. The build window runs December 19, 2026 through January 18, 2027.",
       "eligibility": "Students aged 13 or above may enter individually or in teams of up to four; college students compete in a separate division. Projects must be built during the official window and include a public code repository and demo video.",
-      "reward": "$405 confirmed cash prize pool listed on the organizer page, plus sponsor software benefits; additional cash is not guaranteed.",
+      "reward": "$700 confirmed cash prize pool stated in the organizer's event description, plus sponsor software benefits. The larger Devpost headline combines cash with non-cash benefits and should not be treated as a cash amount.",
       "value": 4,
       "effort": 20,
       "deadlineDate": "2027-01-18",
@@ -23939,8 +23939,8 @@
       "opensOn": "",
       "cycle": "2026–2027",
       "sourceState": "Application",
-      "sourceNote": "Verified on official Devpost rules November 21, 2026. Registration is open now; project work must begin no earlier than December 19.",
-      "checkedOn": "2026-11-21",
+      "sourceNote": "Verified on the official Devpost event page November 23, 2026. The confirmed cash pool increased from $405 to $700. Registration is open now; project work must begin no earlier than December 19.",
+      "checkedOn": "2026-11-23",
       "suggestedTasks": [
         "Register for the college division",
         "Choose a student or community problem",
