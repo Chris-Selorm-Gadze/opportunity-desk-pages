@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 172,
-  "updatedAt": "2026-11-23T14:59:14.877Z",
+  "revision": 173,
+  "updatedAt": "2026-11-24T15:07:49.000Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-22T15:46:55.000Z",
+      "checkedAt": "2026-11-24T15:07:49.000Z",
       "outcome": "success",
-      "summary": "Rechecked the ETH Zurich 2027 Student Summer Research Fellowship on official pages and corrected its open status and funding details."
+      "summary": "Verified two funded 2027 computer science and AI REUs opening in December: Northeastern HEART and Illinois NCSA FoDOMMaT."
     },
     {
       "id": "trading",
@@ -24100,6 +24100,82 @@
         "Apply through the Hasbro posting soon"
       ],
       "stream": "internships"
+    },
+    {
+      "id": "northeastern-heart-reu-2027",
+      "title": "Northeastern HEART Embodied AI and Robotics REU 2027",
+      "organization": "Northeastern University Khoury College of Computer Sciences",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "AI",
+        "Robotics",
+        "Research",
+        "Funded",
+        "Boston"
+      ],
+      "url": "https://www.khoury.northeastern.edu/undergraduate-research/home-embodied-ai-and-robot-technology-heart-reu-site/home-embodied-ai-and-robot-technology-heart-reu-site-application-process/",
+      "sourceUrl": "https://www.khoury.northeastern.edu/undergraduate-research/home-embodied-ai-and-robot-technology-heart-reu-site/",
+      "summary": "In-person summer research in embodied AI and home robotics at Northeastern's NUHome Lab, June 7–August 13, 2027. Applications open in December 2026.",
+      "eligibility": "U.S. citizens or permanent residents enrolled at a university; must remain a student through the program and have no other summer commitments. Open to undergraduate CS students graduating May 2028.",
+      "reward": "Stipend (amount not stated), meals, Northeastern dorm housing, and limited travel support to Boston.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications due February 1, 2027; references due February 6, 2027. Cutoff time not stated.",
+      "confidence": "Date only",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Official Northeastern program and application-process pages checked November 24, 2026. Application opens sometime in December 2026; exact day and stipend amount are not stated.",
+      "checkedOn": "2026-11-24",
+      "suggestedTasks": [
+        "Prepare resume and unofficial transcript",
+        "Choose robotics and AI projects",
+        "Request two references before applications open in December"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "illinois-ncsa-fodommat-reu-2027",
+      "title": "Illinois NCSA FoDOMMaT Machine Learning REU 2027",
+      "organization": "University of Illinois National Center for Supercomputing Applications",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Machine learning",
+        "Open source",
+        "Research",
+        "Funded",
+        "Illinois"
+      ],
+      "url": "https://etap.nsf.gov/award/7619/opportunity/11763",
+      "sourceUrl": "https://reu.ncsa.illinois.edu/",
+      "summary": "Ten-week residential research program building and applying open-source machine learning tools at NCSA, May 24–July 30, 2027. Applications open December 15, 2026.",
+      "eligibility": "U.S. citizens or permanent residents, age 18+ by program start, enrolled in an associate or bachelor's program and in good standing; Python development experience and some ML exposure required. Any undergraduate major or year.",
+      "reward": "$700 per week for 10 weeks, paid housing, meal plan, and one round trip to campus.",
+      "value": 5,
+      "effort": 5,
+      "deadlineDate": "2027-02-15",
+      "deadlineAt": "",
+      "sourceDeadline": "Online application December 15, 2026 through February 15, 2027; cutoff time not stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-12-15",
+      "cycle": "Summer 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "NCSA official 2027 page checked November 24, 2026; direct NSF ETAP opportunity link supplied by organizer. Offers made on a rolling basis after applications open.",
+      "checkedOn": "2026-11-24",
+      "suggestedTasks": [
+        "Prepare a Python and ML project summary",
+        "Gather resume, transcript, personal statement and one reference",
+        "Apply through NSF ETAP after December 15"
+      ],
+      "stream": "spreadsheet"
     }
   ]
 }
