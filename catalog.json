@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 173,
-  "updatedAt": "2026-11-24T15:07:49.000Z",
+  "revision": 174,
+  "updatedAt": "2026-11-25T15:04:29.000Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-24T15:07:49.000Z",
+      "checkedAt": "2026-11-25T15:04:29.000Z",
       "outcome": "success",
-      "summary": "Verified two funded 2027 computer science and AI REUs opening in December: Northeastern HEART and Illinois NCSA FoDOMMaT."
+      "summary": "Verified two new funded 2027 AI research programs at USC and Arizona, and confirmed Purdue SURF applications are open."
     },
     {
       "id": "trading",
@@ -4174,7 +4174,7 @@
           "materials": "CV/resume, unofficial transcript, statement of purpose, 1 recommendation for non-Purdue students, final research report/presentation if selected",
           "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants"
         },
-        "verifiedAt": "2026-11-02T16:09:20.000Z"
+        "verifiedAt": "2026-11-25T15:04:29.000Z"
       },
       "id": "sheet-purdue-engineering-surf-2027-c79a60bb0046",
       "title": "Purdue Engineering SURF 2027",
@@ -4188,9 +4188,9 @@
         "research",
         "fellowship"
       ],
-      "url": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants",
+      "url": "https://engineering.purdue.edu/Engr/Research/EURO/SURF",
       "sourceUrl": "https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants",
-      "summary": "Ten-week undergraduate research: May 31–June 4, 2027 remotely, then June 7–July 30 at West Lafayette or Indianapolis. Symposium July 29.",
+      "summary": "Open 2027 ten-week paid engineering research fellowship at Purdue West Lafayette or Indianapolis; remote first week, then on campus June 7–July 30.",
       "eligibility": "Full-time bachelor’s students at U.S. or international institutions; GPA 2.8+, one completed term and at least one undergraduate term remaining afterward. No concurrent academic activities/internships. F-1 students at another U.S. institution need school authorization/documentation, such as CPT or pre-completion OPT, before an offer is finalized; Purdue’s F-1 students do not require CPT. Usually first-time participants; repeats require principal-investigator support.",
       "reward": "$6,500 stipend, paid biweekly; $2,500 housing allowance for non-Purdue students who arrange their own housing. Eligible non-home-campus participants may receive travel subsidy; amount unstated. Additional funding conditions apply. Repeat participants are ineligible for EURO housing/travel subsidies.",
       "value": 3,
@@ -4201,13 +4201,13 @@
       "confidence": "Date only",
       "opensOn": "",
       "cycle": "2027 · Purdue Engineering SURF 2027",
-      "sourceState": "Upcoming",
-      "sourceNote": "Official 2027 page and FAQ verified. International deadline December 15; general priority January 15, then rolling. Non-Purdue travel-subsidy applicants must meet January 15. Opening is only early November; no live student application established. CV, transcript, statement and one external-student recommendation required.",
-      "checkedOn": "2026-11-02",
+      "sourceState": "Application",
+      "sourceNote": "Official Purdue 2027 applicant page and live application form checked November 25, 2026. International deadline December 15; other applicants have a January 15 priority deadline, with rolling review after.",
+      "checkedOn": "2026-11-25",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: CV/resume, unofficial transcript, statement of purpose, 1 recommendation for non-Purdue students, final research report/presentation if selected",
-        "Review next milestone: Opens early Nov 2026; exact portal opening day not confirmed"
+        "Prepare resume, unofficial transcript and statement of purpose",
+        "Request one recommendation if not a Purdue student",
+        "Apply by January 15 for priority consideration"
       ],
       "stream": "spreadsheet"
     },
@@ -24174,6 +24174,84 @@
         "Prepare a Python and ML project summary",
         "Gather resume, transcript, personal statement and one reference",
         "Apply through NSF ETAP after December 15"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "usc-ict-reu-2027",
+      "title": "USC Institute for Creative Technologies REU 2027",
+      "organization": "University of Southern California Institute for Creative Technologies",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "AI",
+        "Interactive media",
+        "Computer graphics",
+        "Research",
+        "Funded",
+        "Los Angeles"
+      ],
+      "url": "https://etap.nsf.gov/award/7696/opportunity/12262",
+      "sourceUrl": "https://ict.usc.edu/reu/",
+      "summary": "Ten-week summer research in AI, interactive virtual experiences, games and human-computer interaction at USC ICT in Los Angeles, June 1–August 5, 2027.",
+      "eligibility": "U.S. citizens or permanent residents enrolled in an undergraduate program who will not complete their degree before the summer program; CS and other relevant majors welcome.",
+      "reward": "$8,650 total across stipend, meals and transportation allowance; free shared university housing; up to $600 travel reimbursement for students living at least 95 miles from Los Angeles.",
+      "value": 5,
+      "effort": 5,
+      "deadlineDate": "2027-01-27",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications close January 27, 2027; cutoff time not stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-09",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "USC ICT official 2027 REU page checked November 25, 2026; its Apply Now button links to this NSF ETAP opportunity.",
+      "checkedOn": "2026-11-25",
+      "suggestedTasks": [
+        "Choose and rank AI or interactive-media research projects",
+        "Prepare transcript and personal statement",
+        "Ask a faculty member for a reference and apply by January 27"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "arizona-arise-ai-reu-2027",
+      "title": "University of Arizona ARISE Efficient AI REU 2027",
+      "organization": "University of Arizona School of Electrical, Computing and Software Engineering",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "AI",
+        "Machine learning",
+        "Computer systems",
+        "Research",
+        "Funded",
+        "Tucson"
+      ],
+      "url": "https://etap.nsf.gov/award/8641/opportunity/12317",
+      "sourceUrl": "https://engineering.arizona.edu/ARISE",
+      "summary": "Paid ten-week AI research program in Tucson, May 31–August 6, 2027, spanning AI applications, efficient algorithms and hardware systems.",
+      "eligibility": "U.S. citizens, nationals or permanent residents; full-time undergraduates with GPA 3.0+ in CS, ECE or related fields. Rising juniors and seniors preferred; prior research experience not required.",
+      "reward": "Paid stipend (amount not stated), furnished on-campus housing and meal plan.",
+      "value": 5,
+      "effort": 5,
+      "deadlineDate": "2027-02-07",
+      "deadlineAt": "2027-02-08T04:59:00Z",
+      "sourceDeadline": "February 7, 2027 at 11:59 PM ET.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "University of Arizona ARISE official program and ECSE announcement checked November 25, 2026. The announcement's Apply button leads to this NSF ETAP opportunity; stipend amount not stated.",
+      "checkedOn": "2026-11-25",
+      "suggestedTasks": [
+        "Prepare resume, transcripts and a statement about efficient AI",
+        "Request one or two academic references",
+        "Submit through NSF ETAP by February 7"
       ],
       "stream": "spreadsheet"
     }
