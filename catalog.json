@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 174,
-  "updatedAt": "2026-11-25T15:04:29.000Z",
+  "revision": 175,
+  "updatedAt": "2026-11-26T17:32:01.000Z",
   "streams": [
     {
       "id": "internships",
@@ -13,9 +13,9 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-25T15:04:29.000Z",
+      "checkedAt": "2026-11-26T17:32:01.000Z",
       "outcome": "success",
-      "summary": "Verified two new funded 2027 AI research programs at USC and Arizona, and confirmed Purdue SURF applications are open."
+      "summary": "Added three funded CS and AI research programs at USC, RIT and CMU; corrected William & Mary's stock-pitch deadline to December 11."
     },
     {
       "id": "trading",
@@ -367,7 +367,8 @@
           "eligibility": "3–4 undergraduate students from same university; faculty/staff advisor; universities worldwide; citizenship/F-1 prize rules not explicitly confirmed",
           "materials": "Team resumes; advisor details; 1-page stock recommendation; later pitch",
           "url": "https://mason.wm.edu/boehly-center/events-news/bianca-caragliano-stock-pitch/"
-        }
+        },
+        "verifiedAt": "2026-11-26T17:32:01.000Z"
       },
       "id": "stock",
       "title": "Bianca Caragliano Stock Pitch",
@@ -381,28 +382,26 @@
         "Pitch",
         "Spreadsheet"
       ],
-      "url": "https://mason.wm.edu/boehly-center/events-news/bianca-caragliano-stock-pitch/",
+      "url": "https://wmsas.qualtrics.com/jfe/form/SV_eh8i0MTL8EzJnoO",
       "sourceUrl": "https://mason.wm.edu/boehly-center/events-news/bianca-caragliano-stock-pitch/",
-      "summary": "Global stock-pitch event for undergraduate teams, April 9–10, 2027.",
+      "summary": "Global undergraduate team stock-pitch competition at William & Mary, April 9–10, 2027; $8,500 total cash awards.",
       "eligibility": "Teams of 3–4 undergraduates from the same university, with a staff or faculty advisor; all majors and years welcome.",
-      "reward": "$8,500 total cash awards",
+      "reward": "$8,500 total cash awards; up to $1,000 domestic or $3,000 international team travel reimbursement, two hotel rooms and four meals for accepted teams.",
       "value": 4,
       "effort": 16,
-      "deadlineDate": "2026-11-20",
+      "deadlineDate": "2026-12-11",
       "deadlineAt": "",
-      "sourceDeadline": "Nov 20, 2026 · time and timezone not stated",
+      "sourceDeadline": "Organizer extended the 2027 team registration deadline to Friday, December 11, 2026; cutoff time not stated.",
       "confidence": "Date only",
       "opensOn": "2026-10-05",
       "cycle": "2027",
       "sourceState": "Application",
-      "sourceNote": "Rolling review. Selected teams must accept by January 15, 2027. Confirm exact registration cutoff.",
-      "checkedOn": "2026-10-21",
+      "sourceNote": "William & Mary official 2027 competition page checked November 26, 2026. Team registration deadline was extended to December 11. Teams need 3–4 undergraduates from one university, an advisor and a one-page stock-buy summary. Official page links to the listed registration form.",
+      "checkedOn": "2026-11-26",
       "suggestedTasks": [
-        "Form 3–4 person team",
-        "Secure staff/faculty advisor",
-        "Collect resumes",
-        "Write one-page stock executive summary",
-        "Submit team registration"
+        "Form a 3–4 person team and secure a faculty or staff advisor",
+        "Write a one-page stock-buy executive summary",
+        "Submit the team registration by December 11"
       ],
       "stream": "original"
     },
@@ -24252,6 +24251,121 @@
         "Prepare resume, transcripts and a statement about efficient AI",
         "Request one or two academic references",
         "Submit through NSF ETAP by February 7"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "usc-robotics-autonomous-systems-reu-2027",
+      "title": "USC Robotics and Autonomous Systems REU 2027",
+      "organization": "University of Southern California Department of Computer Science",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Robotics",
+        "AI",
+        "Machine learning",
+        "Research",
+        "Funded",
+        "Los Angeles"
+      ],
+      "url": "https://forms.gle/E2PnfZbE6pN4FwmD9",
+      "sourceUrl": "https://www.cs.usc.edu/REU/",
+      "summary": "Ten-week CS research program in robotics, autonomous systems and machine learning at USC, May 24–July 30, 2027. Projects include socially assistive robots and vision-language-action systems.",
+      "eligibility": "U.S. citizens or permanent residents currently enrolled in an undergraduate program who have not completed their degree before summer 2027. CS and engineering students welcome; project-specific programming skills vary.",
+      "reward": "$6,200 stipend plus housing and meal compensation.",
+      "value": 5,
+      "effort": 5,
+      "deadlineDate": "2027-01-10",
+      "deadlineAt": "",
+      "sourceDeadline": "January 10, 2027; cutoff time not stated.",
+      "confidence": "Date only",
+      "opensOn": "2026-11-23",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "USC Department of Computer Science 2027 program page checked November 26, 2026; its current application button links to the listed form.",
+      "checkedOn": "2026-11-26",
+      "suggestedTasks": [
+        "Rank three robotics research projects",
+        "Prepare resume, transcripts and one-page statement",
+        "Ask a faculty member to send a recommendation and submit by January 10"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "rit-stem-education-reu-2027",
+      "title": "RIT STEM Education Research REU 2027",
+      "organization": "Rochester Institute of Technology Center for Advancing Scholarship to Transform Learning",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "AI",
+        "STEM education",
+        "Research",
+        "Funded",
+        "Rochester"
+      ],
+      "url": "https://etap.nsf.gov/award/8531/opportunity/12034",
+      "sourceUrl": "https://www.rit.edu/castle/research-experience-undergraduates",
+      "summary": "Nine-week residential research program on STEM education, with projects on AI in learning and quantum education, May 30–July 30, 2027.",
+      "eligibility": "Current undergraduates majoring in a STEM discipline, or education majors with a STEM minor, who will not graduate before December 1, 2027; U.S. citizens, nationals or permanent residents.",
+      "reward": "$7,000 stipend, summer housing, travel support, and a paid remote spring preparation session.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-01-27",
+      "deadlineAt": "2027-01-28T04:59:00Z",
+      "sourceDeadline": "January 27, 2027 at 11:59 PM ET.",
+      "confidence": "Exact time",
+      "opensOn": "2026-10-01",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Official RIT 2027 REU page checked November 26, 2026; direct NSF ETAP application linked there.",
+      "checkedOn": "2026-11-26",
+      "suggestedTasks": [
+        "Choose two AI or computing education projects",
+        "Request two recommendations",
+        "Submit NSF ETAP application by January 27"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "cmu-reuse-software-engineering-2027",
+      "title": "CMU REUSE Software Engineering Research 2027",
+      "organization": "Carnegie Mellon University Software and Societal Systems Department",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Software engineering",
+        "Research",
+        "Security",
+        "Funded",
+        "Pittsburgh"
+      ],
+      "url": "https://www.cmu.edu/scs/s3d/reuse/index.html",
+      "sourceUrl": "https://www.cmu.edu/scs/s3d/reuse/index.html",
+      "summary": "Ten-week summer software engineering research program at CMU, June 1–August 6, 2027. Topics include developer tools, security, program analysis and software repair; applications open in early December.",
+      "eligibility": "Undergraduates at U.S. institutions, or U.S. citizens/nationals/permanent residents studying abroad, graduating November 2027 or later and age 18+ by program start. Student-visa holders at U.S. schools may need CPT or OPT.",
+      "reward": "$7,000 stipend, $1,400 meal allowance, campus housing and travel to Pittsburgh.",
+      "value": 5,
+      "effort": 5,
+      "deadlineDate": "2027-01-28",
+      "deadlineAt": "2027-01-29T04:59:00Z",
+      "sourceDeadline": "January 28, 2027 at 11:59 PM EST.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "CMU official 2027 REUSE page checked November 26, 2026. Applications are due January 28 and expected to open in early December; the direct form is not yet posted.",
+      "checkedOn": "2026-11-26",
+      "suggestedTasks": [
+        "Prepare software engineering research interests and transcript",
+        "Sign up on CMU's page for the opening notice",
+        "Apply when the form opens in December"
       ],
       "stream": "spreadsheet"
     }
