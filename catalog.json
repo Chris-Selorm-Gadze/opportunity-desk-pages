@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 175,
-  "updatedAt": "2026-11-26T17:32:01.000Z",
+  "revision": 176,
+  "updatedAt": "2026-11-27T14:57:11.000Z",
   "streams": [
     {
       "id": "internships",
@@ -13,16 +13,16 @@
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-26T17:32:01.000Z",
+      "checkedAt": "2026-11-27T14:57:11.000Z",
       "outcome": "success",
-      "summary": "Added three funded CS and AI research programs at USC, RIT and CMU; corrected William & Mary's stock-pitch deadline to December 11."
+      "summary": "Added Cornell's funded AI materials research program and verified UGA's 2027 stock-pitch application and deadline."
     },
     {
       "id": "trading",
       "label": "Trading & finance",
-      "checkedAt": "2026-11-23T14:58:02.000Z",
+      "checkedAt": "2026-11-27T14:57:11.000Z",
       "outcome": "success",
-      "summary": "Corrected Yale Trading Competition's live December 4 application deadline and updated Cosmo Hacks' confirmed cash prize pool to $700."
+      "summary": "Added Apart Research's free $5,000 cash AI security hackathon, closing December 6."
     },
     {
       "id": "travel",
@@ -22165,7 +22165,8 @@
           "eligibility": "Teams of 2-4 undergraduates, universities nationally; long/short pitch on US-listed equities >$1B market cap, fundamental research; no citizenship restriction stated",
           "materials": "Application + PDF presentation by Jan 15; selected teams pitch max 12 min + ~8 min Q&A",
           "url": "https://www.terry.uga.edu/current-students/student-orgs/smif/stock-pitch-competition/"
-        }
+        },
+        "verifiedAt": "2026-11-27T14:57:11.000Z"
       },
       "id": "sheet-uga-terry-college-stock-pitch-competition-2027-d193cd138466",
       "title": "UGA Terry College Stock Pitch Competition 2027",
@@ -22180,26 +22181,26 @@
         "business",
         "competition"
       ],
-      "url": "https://www.terry.uga.edu/current-students/student-orgs/smif/stock-pitch-competition/",
+      "url": "https://forms.gle/MWQLAAJifusHEzkSA",
       "sourceUrl": "https://www.terry.uga.edu/current-students/student-orgs/smif/stock-pitch-competition/",
-      "summary": "Finance/business competition. Program dates: 2027-02-18 reception (mandatory) + 2027-02-19 competition, Athens GA. Location / format: Athens GA, in person. Next milestone: Selected teams notified 2027-01-24",
-      "eligibility": "Teams of 2-4 undergraduates, universities nationally; long/short pitch on US-listed equities >$1B market cap, fundamental research; no citizenship restriction stated",
+      "summary": "University of Georgia stock-pitch competition for teams of two to four undergraduates from any university, February 18–19, 2027.",
+      "eligibility": "Teams of 2–4 enrolled undergraduate students; in-person attendance in Athens, Georgia required. Submit a PDF long or short pitch on a U.S.-listed equity with market capitalization above $1 billion.",
       "reward": "1st $3,000; 2nd $2,000; 3rd $1,000; lodging night of Feb 18 provided; travel not stated as covered",
       "value": 3,
       "effort": 5,
       "deadlineDate": "2027-01-15",
-      "deadlineAt": "",
-      "sourceDeadline": "Spreadsheet reports: 2027-01-15 11:59pm EST",
-      "confidence": "Date only",
+      "deadlineAt": "2027-01-16T04:59:00Z",
+      "sourceDeadline": "January 15, 2027 at 11:59 PM EST.",
+      "confidence": "Exact time",
       "opensOn": "",
       "cycle": "2027 · UGA Terry College Stock Pitch Competition 2027",
-      "sourceState": "Needs verification",
-      "sourceNote": "Imported from the connected spreadsheet. Organizer details have not been independently confirmed. Any listed date is a planning marker; confirm the cutoff, funding, fees and eligibility before applying.",
-      "checkedOn": "",
+      "sourceState": "Application",
+      "sourceNote": "UGA Terry College official 2027 page checked November 27, 2026. It confirms the open application, January 15 cutoff, $3,000/$2,000/$1,000 awards, mandatory in-person attendance and one night of lodging.",
+      "checkedOn": "2026-11-27",
       "suggestedTasks": [
-        "Verify eligibility, costs and the official application deadline",
-        "Review required materials: Application + PDF presentation by Jan 15; selected teams pitch max 12 min + ~8 min Q&A",
-        "Review next milestone: Selected teams notified 2027-01-24"
+        "Form a team of two to four undergraduates",
+        "Prepare a PDF pitch on a U.S.-listed equity",
+        "Submit the team application by January 15"
       ],
       "stream": "spreadsheet"
     },
@@ -24366,6 +24367,85 @@
         "Prepare software engineering research interests and transcript",
         "Sign up on CMU's page for the opening notice",
         "Apply when the form opens in December"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "apart-threat-intelligence-modelling-hackathon-2026",
+      "title": "Apart Threat Intelligence and Threat Modelling Hackathon 2026",
+      "organization": "Apart Research and Security Level 5",
+      "category": "Innovation challenges",
+      "levels": [
+        "Undergraduate",
+        "Early career",
+        "Professional"
+      ],
+      "tags": [
+        "AI",
+        "Cybersecurity",
+        "Hackathon",
+        "Cash prize",
+        "Remote"
+      ],
+      "url": "https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+      "sourceUrl": "https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+      "summary": "Free online December 4–6 research hackathon using LLMs for threat intelligence or threat modelling of AI data centers. Solo participants and teams of up to five can build a tool, benchmark, evaluation or analysis.",
+      "eligibility": "Engineers, researchers and practitioners at any career stage; no specific background or preformed team required. Online participation open; citizenship restrictions not stated.",
+      "reward": "$5,000 total cash prizes: $2,500 first, $1,250 second, $750 third, $250 fourth and $250 fifth.",
+      "value": 4,
+      "effort": 20,
+      "deadlineDate": "2026-12-06",
+      "deadlineAt": "2026-12-07T11:59:00Z",
+      "sourceDeadline": "Submissions close December 6, 2026 at 11:59 PM Anywhere on Earth.",
+      "confidence": "Exact time",
+      "opensOn": "",
+      "cycle": "December 2026",
+      "sourceState": "Application",
+      "sourceNote": "Apart Research official event page checked November 27, 2026; free signup is active on the same page. The $5,000 pool is cash, not platform credits.",
+      "checkedOn": "2026-11-27",
+      "suggestedTasks": [
+        "Sign up on the Apart event page",
+        "Choose the threat-intelligence or threat-modelling track",
+        "Build a testable project and submit by December 6"
+      ],
+      "stream": "trading"
+    },
+    {
+      "id": "cornell-aimi-surp-materials-2027",
+      "title": "Cornell AI-MI Summer Undergraduate Research Program 2027",
+      "organization": "Cornell University Artificial Intelligence Materials Institute",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "AI",
+        "Machine learning",
+        "Materials science",
+        "Research",
+        "Funded",
+        "Ithaca"
+      ],
+      "url": "https://academicjobsonline.org/ajo/jobs/33431",
+      "sourceUrl": "https://aimi.cornell.edu/now-recruiting-ai-mi-surp-materials-track-2027/",
+      "summary": "Summer research at Cornell combining AI, data science and materials discovery, June 1–August 6, 2027. Projects may include scientific language models, multimodal data and self-driving labs.",
+      "eligibility": "U.S. citizens or permanent residents enrolled as undergraduates through summer 2027; primarily science and engineering sophomores and juniors. Health insurance coverage required if accepted.",
+      "reward": "$6,000 stipend, dorm housing and reasonable travel to and from Ithaca; offers contingent on available funding.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-02-01",
+      "deadlineAt": "2027-02-02T04:59:00Z",
+      "sourceDeadline": "Applications completed after February 1, 2027 at 11:59 PM EST may not be considered.",
+      "confidence": "Exact time",
+      "opensOn": "2026-11-13",
+      "cycle": "Summer 2027",
+      "sourceState": "Application",
+      "sourceNote": "Cornell AI-MI official recruiting notice and linked Cornell AcademicJobsOnline application checked November 27, 2026. Stipend and housing confirmed; funding contingent on availability.",
+      "checkedOn": "2026-11-27",
+      "suggestedTasks": [
+        "Prepare personal statement and transcript",
+        "Request two references, including one professor",
+        "Add GitHub or website link and apply by February 1"
       ],
       "stream": "spreadsheet"
     }
