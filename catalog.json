@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "revision": 176,
-  "updatedAt": "2026-11-27T14:57:11.000Z",
+  "revision": 177,
+  "updatedAt": "2026-11-28T19:35:12.000Z",
   "streams": [
     {
       "id": "internships",
       "label": "Internships",
-      "checkedAt": "2026-11-23T14:58:02.000Z",
+      "checkedAt": "2026-11-28T19:35:12.000Z",
       "outcome": "success",
-      "summary": "Verified two open, rolling 2027 software internships for CS students graduating in 2028: PDT Partners and Hasbro/Wizards of the Coast."
+      "summary": "Added two live rolling paid 2027 internships: PDT Partners systems engineering and Charles River Associates cyber forensics."
     },
     {
       "id": "spreadsheet",
       "label": "Connected spreadsheet",
-      "checkedAt": "2026-11-27T14:57:11.000Z",
+      "checkedAt": "2026-11-28T19:35:12.000Z",
       "outcome": "success",
-      "summary": "Added Cornell's funded AI materials research program and verified UGA's 2027 stock-pitch application and deadline."
+      "summary": "Added Vanderbilt's $8,000 engineering summer research program, opening December 11."
     },
     {
       "id": "trading",
@@ -24446,6 +24446,122 @@
         "Prepare personal statement and transcript",
         "Request two references, including one professor",
         "Add GitHub or website link and apply by February 1"
+      ],
+      "stream": "spreadsheet"
+    },
+    {
+      "id": "pdt-systems-engineering-intern-2027",
+      "title": "Summer 2027 Systems Engineering Intern",
+      "organization": "PDT Partners",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Quant finance",
+        "Systems engineering",
+        "Cloud",
+        "Paid",
+        "New York"
+      ],
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+      "sourceUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+      "summary": "Ten-week New York infrastructure engineering internship at a quantitative investment manager, working on systems, network, DevOps and cloud tools used by trading teams.",
+      "eligibility": "Current bachelor's, master's or PhD students in a rigorous technical field such as CS or computer engineering, eligible for full-time roles starting in 2028. Students with U.S. CPT or OPT work authorization may apply.",
+      "reward": "$225,000 annualized salary rate stated by employer; total ten-week internship earnings are lower and bonus is not included.",
+      "value": 5,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications reviewed and technical assessments issued on a rolling basis; no fixed closing date stated.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live PDT Partners application page checked November 28, 2026. Employer explicitly states rolling review and $225,000 salary; interpreted as annualized rate, not ten-week total.",
+      "checkedOn": "2026-11-28",
+      "suggestedTasks": [
+        "Tailor resume to systems, networking and cloud projects",
+        "Prepare to discuss quantitative finance interest",
+        "Apply promptly through the live Greenhouse form"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "cra-cyber-forensics-consulting-intern-2027",
+      "title": "Cyber and Forensic Technology Consulting Intern — Summer 2027",
+      "organization": "Charles River Associates",
+      "category": "Internships",
+      "levels": [
+        "Undergraduate",
+        "Graduate"
+      ],
+      "tags": [
+        "Cybersecurity",
+        "Digital forensics",
+        "Consulting",
+        "Paid",
+        "Hybrid"
+      ],
+      "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811",
+      "sourceUrl": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811",
+      "summary": "Eight-to-ten-week hybrid consulting internship investigating cyber incidents, digital evidence and data security matters in Boston, Chicago, Dallas or Washington, DC.",
+      "eligibility": "Bachelor's or non-MBA master's candidate graduating December 2027 through summer 2028 in CS, cybersecurity, digital forensics or related field. Work authorization or sponsorship requirements not stated.",
+      "reward": "$30–$37.50 per hour; potential additional bonus.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "",
+      "deadlineAt": "",
+      "sourceDeadline": "Resume review continues on a rolling basis until positions are filled; no fixed closing date stated.",
+      "confidence": "Unknown",
+      "opensOn": "",
+      "cycle": "Summer 2027",
+      "sourceState": "Open listing",
+      "sourceNote": "Live Charles River Associates Greenhouse application checked November 28, 2026. Employer confirms rolling review and hourly pay; office presence averages three to four days weekly.",
+      "checkedOn": "2026-11-28",
+      "suggestedTasks": [
+        "Prepare resume, cover letter and unofficial transcript",
+        "Choose a preferred practice and city",
+        "Apply promptly before rolling positions fill"
+      ],
+      "stream": "internships"
+    },
+    {
+      "id": "vanderbilt-engineering-summer-research-2027",
+      "title": "Vanderbilt Engineering Summer Research 2027",
+      "organization": "Vanderbilt University School of Engineering",
+      "category": "Research programs",
+      "levels": [
+        "Undergraduate"
+      ],
+      "tags": [
+        "Research",
+        "AI",
+        "Robotics",
+        "Paid",
+        "Nashville"
+      ],
+      "url": "https://engineering.vanderbilt.edu/research/undergraduate-summer-research/",
+      "sourceUrl": "https://engineering.vanderbilt.edu/research/undergraduate-summer-research/",
+      "summary": "Ten-week full-time research placement with Vanderbilt engineering faculty in Nashville, June 1–August 6, 2027. Current project list includes computing, AI and robotics work; applications open December 11.",
+      "eligibility": "Current undergraduate at a four-year university, including students at other U.S. schools and international students; must remain enrolled through the program. No engineering major or prior research experience required; project requirements vary.",
+      "reward": "$8,000 total support for housing and living expenses; participants arrange and pay for their own housing.",
+      "value": 4,
+      "effort": 5,
+      "deadlineDate": "2027-01-24",
+      "deadlineAt": "",
+      "sourceDeadline": "Applications open December 11, 2026 and close January 24, 2027; cutoff time not stated. Recommendation letter due January 31.",
+      "confidence": "Date only",
+      "opensOn": "2026-12-11",
+      "cycle": "Summer 2027",
+      "sourceState": "Upcoming",
+      "sourceNote": "Vanderbilt School of Engineering official 2027 program and FAQ checked November 28, 2026. $8,000 support and application window confirmed; housing is not separately covered.",
+      "checkedOn": "2026-11-28",
+      "suggestedTasks": [
+        "Choose up to three computing-related research projects",
+        "Prepare transcript and one-page statement of purpose",
+        "Request one recommendation and apply after December 11"
       ],
       "stream": "spreadsheet"
     }
